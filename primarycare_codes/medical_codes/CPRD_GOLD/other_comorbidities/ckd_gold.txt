@@ -1,0 +1,234 @@
+medcode	desc	readcode	clinicalevents	immunisationevents	testevents	databaserelease
+23913	Nephrotic syndrome, minor glomerular abnormality	K014.00	81	0	0	February 2009
+22852	Nephrotic syndrome, focal and segmental glomerular lesions	K015.00	315	0	0	February 2009
+19316	Nephrotic syndrome, diffuse membranous glomerulonephritis	K016.00	193	0	0	February 2009
+50472	Nephrotic syn,difus endocapilary proliftv glomerulonephritis	K018.00	6	0	0	February 2009
+21989	Nephrotic syn,diffuse mesangiocapillary glomerulonephritis	K019.00	100	0	0	February 2009
+56987	Nephrotic syndrome, dense deposit disease	K01A.00	16	0	0	February 2009
+17365	Nephrotic syndrome, diffuse crescentic glomerulonephritis	K01B.00	68	0	0	February 2009
+50200	Rapid progressive nephritic syndrome, dense deposit disease	K0A1600	12	0	0	February 2009
+96184	Accid cut,puncture,perf,h'ge - kidney dialysis	TA02000	2	0	0	April 2009
+69427	Accid cut,puncture,perf,h'ge - perfusion NOS	TA02z00	2	0	0	February 2009
+28158	Kidney dialysis with complication, without blame	TB11.00	24	0	0	February 2009
+66714	Renal dialysis with complication, without blame	TB11.11	7	0	0	February 2009
+49028	h/o: kidney recipient	14S2.00	107	0	0	February 2009
+29013	chronic kidney disease stage 1	1Z10.00	29744	0	0	February 2009
+12586	chronic kidney disease stage 2	1Z11.00	123616	0	4	February 2009
+12566	chronic kidney disease stage 3	1Z12.00	656649	0	0	February 2009
+12479	chronic kidney disease stage 4	1Z13.00	73344	0	0	February 2009
+12585	chronic kidney disease stage 5	1Z14.00	15542	0	0	February 2009
+94965	chronic kidney disease stage 3a	1Z15.00	35745	0	1	February 2009
+95179	chronic kidney disease stage 3b	1Z16.00	13399	0	0	February 2009
+94789	chronic kidney disease stage 1 with proteinuria	1Z17.00	244	0	0	February 2009
+97980	ckd stage 1 with proteinuria	1Z17.11	14	0	0	November 2009
+95572	chronic kidney disease stage 1 without proteinuria	1Z18.00	368	0	0	February 2009
+111022	ckd stage 1 without proteinuria	1Z18.11	6	0	0	July 2016
+95146	chronic kidney disease stage 2 with proteinuria	1Z19.00	869	0	0	February 2009
+97979	ckd stage 2 with proteinuria	1Z19.11	29	0	0	November 2009
+95121	chronic kidney disease stage 2 without proteinuria	1Z1A.00	3380	0	0	February 2009
+97978	ckd stage 2 without proteinuria	1Z1A.11	70	0	0	November 2009
+94793	chronic kidney disease stage 3 with proteinuria	1Z1B.00	4384	0	0	February 2009
+95145	ckd stage 3 with proteinuria	1Z1B.11	152	0	0	February 2009
+95123	chronic kidney disease stage 3 without proteinuria	1Z1C.00	15861	0	0	February 2009
+95188	ckd stage 3 without proteinuria	1Z1C.11	336	0	0	February 2009
+95408	chronic kidney disease stage 3a with proteinuria	1Z1D.00	2915	0	0	February 2009
+95571	ckd stage 3a with proteinuria	1Z1D.11	63	0	0	February 2009
+95175	chronic kidney disease stage 3a without proteinuria	1Z1E.00	17437	0	0	February 2009
+95176	ckd stage 3a without proteinuria	1Z1E.11	290	0	0	February 2009
+95178	chronic kidney disease stage 3b with proteinuria	1Z1F.00	2207	0	0	February 2009
+95180	ckd stage 3b with proteinuria	1Z1F.11	63	0	0	February 2009
+95177	chronic kidney disease stage 3b without proteinuria	1Z1G.00	6324	0	0	February 2009
+100633	ckd stage 3b without proteinuria	1Z1G.11	85	0	0	September 2010
+95122	chronic kidney disease stage 4 with proteinuria	1Z1H.00	1945	0	0	February 2009
+99312	ckd stage 4 with proteinuria	1Z1H.11	161	0	0	May 2010
+95406	chronic kidney disease stage 4 without proteinuria	1Z1J.00	2140	0	0	February 2009
+97587	ckd stage 4 without proteinuria	1Z1J.11	105	0	0	September 2009
+95508	chronic kidney disease stage 5 with proteinuria	1Z1K.00	542	0	0	February 2009
+99160	ckd stage 5 with proteinuria	1Z1K.11	36	0	0	April 2010
+95405	chronic kidney disease stage 5 without proteinuria	1Z1L.00	212	0	0	February 2009
+97683	ckd stage 5 without proteinuria	1Z1L.11	38	0	0	September 2009
+110033	ckd with gfr category g1 & albuminuria category a1	1Z1M.00	66	0	0	August 2015
+110003	ckd with gfr category g1 & albuminuria category a2	1Z1N.00	132	0	0	August 2015
+110484	ckd with gfr category g1 & albuminuria category a3	1Z1P.00	37	0	0	January 2016
+110269	ckd with gfr category g2 & albuminuria category a1	1Z1Q.00	273	0	0	November 2015
+110108	ckd with gfr category g2 & albuminuria category a2	1Z1R.00	668	0	0	September 2015
+110251	ckd with gfr category g2 & albuminuria category a3	1Z1S.00	100	0	0	November 2015
+109804	ckd with gfr category g3a & albuminuria category a1	1Z1T.00	2348	0	0	June 2015
+109805	ckd with gfr category g3a & albuminuria category a2	1Z1V.00	849	0	0	June 2015
+109905	ckd with gfr category g3a & albuminuria category a3	1Z1W.00	204	0	0	July 2015
+109963	ckd with gfr category g3b & albuminuria category a1	1Z1X.00	800	0	0	July 2015
+109657	ckd with gfr category g3b & albuminuria category a2	1Z1Y.00	534	0	0	May 2015
+109990	ckd with gfr category g3b & albuminuria category a3	1Z1Z.00	196	0	0	August 2015
+109980	ckd with gfr category g4 & albuminuria category a1	1Z1a.00	175	0	0	August 2015
+109904	ckd with gfr category g4 & albuminuria category a2	1Z1b.00	176	0	0	July 2015
+110626	ckd with gfr category g4 & albuminuria category a3	1Z1c.00	141	0	0	March 2016
+110133	ckd with gfr category g5 & albuminuria category a1	1Z1d.00	21	0	0	September 2015
+109981	ckd with gfr category g5 & albuminuria category a2	1Z1e.00	18	0	0	August 2015
+110467	ckd with gfr category g5 & albuminuria category a3	1Z1f.00	41	0	0	January 2016
+109750	chronic kidney disease resolved	2126E00	1017	0	0	June 2015
+24151	arteriovenous shunt	7A60.00	542	0	0	February 2009
+63063	insertion of arteriovenous prosthesis	7A60000	13	0	0	February 2009
+3205	creation of arteriovenous fistula nec	7A60100	2883	0	0	February 2009
+28269	creation of radial-cephalic fistula	7A60111	610	0	0	February 2009
+25521	creation of brachial-cephalic fistula	7A60112	1080	0	0	February 2009
+63190	attention to arteriovenous shunt	7A60200	76	0	0	February 2009
+31478	removal of infected arteriovenous shunt	7A60300	33	0	0	February 2009
+96131	banding of arteriovenous fistula	7A60400	40	0	0	April 2009
+63305	thrombectomy of arteriovenous fistula	7A60500	68	0	0	February 2009
+60302	creation of graft fistula for dialysis	7A60600	794	0	0	February 2009
+65398	other specified arteriovenous shunt	7A60y00	11	0	0	February 2009
+58618	arteriovenous shunt nos	7A60z00	34	0	0	February 2009
+18779	repair of acquired arteriovenous fistula	7A61100	272	0	0	February 2009
+100235	ligation of acquired arteriovenous fistula	7A61111	5	0	0	July 2010
+9765	ligation of acquired arteriovenous fistula	7A61400	213	0	0	February 2009
+96347	ligation of arteriovenous dialysis fistula	7A61900	34	0	0	April 2009
+107719	ligation of arteriovenous dialysis graft	7A61A00	3	0	0	February 2014
+2997	transplantation of kidney	7B00.00	9243	0	3	February 2009
+55151	autotransplant of kidney	7B00000	29	0	0	February 2009
+11745	transplantation of kidney from live donor	7B00100	2484	0	0	February 2009
+66705	allotransplantation of kidney from live donor	7B00111	10	0	0	February 2009
+24361	transplantation of kidney from cadaver	7B00200	872	0	0	February 2009
+98364	allotransplantation of kidney from cadaver	7B00211	9	0	0	January 2010
+105328	cadaveric renal transplant	7B00212	266	0	0	December 2012
+89924	allotransplantation of kidney from cadaver, heart-beating	7B00300	10	0	0	February 2009
+96133	allotransplantation kidney from cadaver, heart non-beating	7B00400	11	0	0	April 2009
+109455	allotransplantation of kidney from cadaver nec	7B00500	5	0	0	April 2015
+105787	xenograft renal transplant	7B00600	7	0	0	February 2013
+70874	other specified transplantation of kidney	7B00y00	19	0	0	February 2009
+5504	transplantation of kidney nos	7B00z00	2336	0	0	February 2009
+51039	bilateral nephrectomy	7B01200	118	0	0	February 2009
+48121	transplant nephrectomy	7B01500	375	0	0	February 2009
+72004	excision of rejected transplanted kidney	7B01511	7	0	0	February 2009
+26862	exploration of renal transplant	7B06300	299	0	0	February 2009
+93366	interventions associated with transplantation of kidney	7B0F.00	15	0	0	February 2009
+90952	pre-transplantation of kidney work-up, recipient	7B0F100	7	0	0	February 2009
+103429	post-transplantation of kidney examination, recipient	7B0F300	3	0	0	December 2011
+104050	os interventions associated with transplantation of kidney	7B0Fy00	1	0	0	May 2012
+104049	interventions associated with transplantation of kidney nos	7B0Fz00	5	0	0	May 2012
+31549	compensation for renal failure	7L1A.00	331	0	0	February 2009
+11773	dialysis for renal failure	7L1A.11	4672	0	0	February 2009
+20073	renal dialysis	7L1A000	2355	0	0	February 2009
+101756	thomas intravascular shunt for dialysis	7L1A011	6	0	0	February 2011
+2994	peritoneal dialysis	7L1A100	4080	0	3	February 2009
+2996	haemodialysis nec	7L1A200	8766	0	4	February 2009
+71124	haemofiltration	7L1A300	141	0	0	February 2009
+88597	automated peritoneal dialysis	7L1A400	36	0	0	February 2009
+30756	continuous ambulatory peritoneal dialysis	7L1A500	225	0	0	February 2009
+64828	peritoneal dialysis nec	7L1A600	248	0	0	February 2009
+48022	other specified compensation for renal failure	7L1Ay00	7	0	1	February 2009
+64636	compensation for renal failure nos	7L1Az00	5	0	0	February 2009
+56760	placement ambulatory apparatus compensation renal failure	7L1B.00	34	0	0	February 2009
+36442	placement ambulatory dialysis apparatus - compens renal fail	7L1B.11	40	0	0	February 2009
+8037	insertion of ambulatory peritoneal dialysis catheter	7L1B000	1196	0	0	February 2009
+23773	removal of ambulatory peritoneal dialysis catheter	7L1B100	577	0	0	February 2009
+104586	flushing of peritoneal dialysis catheter	7L1B200	6	0	0	July 2012
+59194	placement ambulatory apparatus- compensate renal failure os	7L1By00	4	0	0	February 2009
+83513	placement other apparatus for compensation for renal failure	7L1C.00	28	0	0	February 2009
+30709	insertion of temporary peritoneal dialysis catheter	7L1C000	368	0	0	February 2009
+107901	placement other apparatus- compensate for renal failure os	7L1Cy00	5	0	0	April 2014
+65089	placement other apparatus- compensate for renal failure nos	7L1Cz00	5	0	0	February 2009
+102210	extracorporeal albumin haemodialysis	7L1f000	6	0	0	May 2011
+17253	renal transplant planned	8L50.00	917	0	0	February 2009
+16929	anaemia secondary to renal failure	D215.00	1614	0	0	February 2009
+25394	anaemia secondary to chronic renal failure	D215000	818	0	0	February 2009
+32423	hypertensive renal disease with renal failure	G222.00	109	0	0	February 2009
+28684	hypertensive heart and renal disease with renal failure	G233.00	56	0	0	February 2009
+57987	hyperten heart&renal dis+both(congestv)heart and renal fail	G234.00	10	0	0	February 2009
+105760	ruptured aneurysm of dialysis vascular access	G72C.00	0	0	0	February 2013
+107188	aneurysm of dialysis arteriovenous fistula	G72D.00	19	0	0	October 2013
+110095	aneurysm of superficialised artery of dialysis av fistula	G72D000	3	0	0	September 2015
+107220	aneurysm of needle site of dialysis arteriovenous fistula	G72D100	1	0	0	November 2013
+105742	aneurysm of anastomotic site of dialysis av fistula	G72D200	4	0	0	January 2013
+26860	goodpasture's syndrome	G752000	308	0	0	February 2009
+109840	goodpasture's disease	G752100	7	0	3	July 2015
+2995	acquired arteriovenous fistula	G760.00	1948	0	0	February 2009
+107746	stenosis of dialysis vascular access	Gy1..00	5	0	0	February 2014
+108699	stenosis of dialysis arteriovenous graft	Gy10.00	3	0	0	October 2014
+109809	thrombosis of dialysis vascular access	Gy2..00	14	0	0	June 2015
+106720	thrombosis of dialysis arteriovenous fistula	Gy21.00	31	0	0	August 2013
+108116	occlusion of dialysis vascular access	Gy3..00	7	0	0	June 2014
+109135	occlusion of dialysis arteriovenous graft	Gy30.00	6	0	0	January 2015
+107082	occlusion of dialysis arteriovenous fistula	Gy31.00	15	0	0	October 2013
+110051	infection of dialysis vascular access	Gy4..00	22	0	0	September 2015
+108213	infection of dialysis arteriovenous graft	Gy40.00	8	0	0	June 2014
+107260	infection of dialysis arteriovenous fistula	Gy41.00	17	0	0	November 2013
+108759	haemorrhage of dialysis vascular access	Gy5..00	4	0	0	October 2014
+106975	haemorrhage of dialysis arteriovenous fistula	Gy51.00	13	0	0	September 2013
+108423	rupture of dialysis arteriovenous graft	Gy60.00	1	0	0	July 2014
+2999	nephrotic syndrome	K01..00	20931	0	5	February 2009
+9840	nephrotic syndrome with proliferative glomerulonephritis	K010.00	40	0	0	February 2009
+1803	nephrotic syndrome with membranous glomerulonephritis	K011.00	671	0	0	February 2009
+99644	nephrotic syndrome+membranoproliferative glomerulonephritis	K012.00	4	0	0	June 2010
+29634	nephrotic syndrome with minimal change glomerulonephritis	K013.00	244	0	0	February 2009
+40349	lipoid nephrosis	K013.11	9	0	0	February 2009
+57926	steroid sensitive nephrotic syndrome	K013.12	124	0	0	February 2009
+21947	nephrotic syn difus mesangial prolifertiv glomerulonephritis	K017.00	171	0	0	February 2009
+63786	congenital nephrotic syndrome	K01w.00	37	0	0	February 2009
+72303	finnish nephrosis syndrome	K01w000	3	0	0	February 2009
+108591	drash syndrome	K01w100	16	0	0	September 2014
+112548	nephrotic syndrome with pseudohermaphroditism	K01w111	1	0	0	April 2018
+108922	wilms' tumour + nephrotic syndrome + pseudohermaphroditism	K01w112	2	0	0	December 2014
+110749	congenital nephrotic syndrome with focal glomerulosclerosis	K01w200	4	0	0	April 2016
+111370	congenital nephrotic syndrome nos	K01wz00	3	0	0	October 2016
+108816	nephrotic syndrome in diseases ec	K01x.00	2	0	0	November 2014
+47922	nephrotic syndrome in amyloidosis	K01x000	102	0	0	February 2009
+2471	nephrotic syndrome in diabetes mellitus	K01x100	402	0	0	February 2009
+99201	nephrotic syndrome in malaria	K01x200	1	0	0	April 2010
+58750	nephrotic syndrome in polyarteritis nodosa	K01x300	14	0	0	February 2009
+47672	nephrotic syndrome in systemic lupus erythematosus	K01x400	96	0	0	February 2009
+94373	nephrotic syndrome with other pathological kidney lesions	K01y.00	7	0	0	February 2009
+27427	nephrotic syndrome nos	K01z.00	516	0	0	February 2009
+65064	chronic rapidly progressive glomerulonephritis	K023.00	4	0	0	February 2009
+58164	rapidly progressive nephritis unspecified	K033.00	52	0	0	February 2009
+512	chronic renal failure	K05..00	79646	0	14	February 2009
+53852	end stage renal failure	K05..12	307	0	0	February 2009
+6712	end stage renal failure	K050.00	6042	0	1	February 2009
+105392	chronic kidney disease stage 1	K051.00	113	0	0	December 2012
+105383	chronic kidney disease stage 2	K052.00	855	0	0	December 2012
+104619	chronic kidney disease stage 3	K053.00	31709	0	0	July 2012
+104963	chronic kidney disease stage 4	K054.00	2587	0	0	September 2012
+105151	chronic kidney disease stage 5	K055.00	723	0	0	November 2012
+61814	acute nephrotic syndrm diffuse crescentic glomerulonephritis	K0A0700	28	0	0	February 2009
+71174	rapidly progressive nephritic syndrome	K0A1.00	3	0	0	February 2009
+97734	rapid progres nephritic syn focal+segmental glomerulr lesion	K0A1100	4	0	0	October 2009
+41285	rapid progres neph syn diffuse membranous glomerulonephritis	K0A1200	5	0	0	February 2009
+58060	rpd prog neph syn df mesangial prolifratv glomerulonephritis	K0A1300	1	0	0	February 2009
+109945	rapid progres neph syn df endocapilary prolifv glomnephritis	K0A1400	1	0	0	July 2015
+62320	rapid progres nephritic syn df crescentic glomerulonephritis	K0A1700	13	0	0	February 2009
+105859	rapidly progressive glomerulonephritis	K0A8.00	27	0	0	March 2013
+48057	renal tubulo-interstitial disordrs in transplant rejectn	K0B5.00	25	0	0	February 2009
+8330	end-stage renal disease	K0D..00	753	0	0	February 2009
+100205	acute-on-chronic renal failure	K0E..00	279	0	0	July 2010
+100693	[x]renal tubulo-interstitial disorders/transplant rejection	Kyu1C00	2	0	0	September 2010
+53940	[x]other chronic renal failure	Kyu2100	27	0	0	February 2009
+70712	det.ren.func.after ren.transpl	SP08011	9	0	0	February 2009
+11553	kidney transplant failure and rejection	SP08300	504	0	0	February 2009
+104905	acute-on-chronic rejection of renal transplant	SP08D00	5	0	0	September 2012
+104960	acute rejection of renal transplant - grade i	SP08E00	29	0	0	September 2012
+107000	acute rejection of renal transplant - grade ii	SP08F00	4	0	0	September 2013
+104630	acute rejection of renal transplant - grade iii	SP08G00	2	0	0	July 2012
+104201	acute rejection of renal transplant	SP08H00	39	0	0	June 2012
+106620	chronic rejection of renal transplant	SP08J00	14	0	0	August 2013
+105724	unexplained episode of renal transplant dysfunction	SP08N00	21	0	0	January 2013
+106301	stenosis of vein of transplanted kidney	SP08P00	2	0	0	June 2013
+105811	renal transplant rejection	SP08R00	67	0	0	February 2013
+107752	urological complication of renal transplant	SP08T00	6	0	0	March 2014
+108437	very mild acute rejection of renal transplant	SP08V00	8	0	0	August 2014
+106866	vascular complication of renal transplant	SP08W00	6	0	0	August 2013
+107900	disorders associated with peritoneal dialysis	SP0E.00	6	0	0	April 2014
+111103	thrombus in peritoneal dialysis catheter	SP0E100	7	0	0	July 2016
+108785	haemodialysis first use syndrome	SP0F.00	3	0	0	November 2014
+105436	anaphylactoid reaction due to haemodialysis	SP0G.00	5	0	0	December 2012
+109884	disorder associated with dialysis	SP0H.00	10	0	0	July 2015
+35921	failure of sterile precautions during perfusion	TA22.00	1	0	0	February 2009
+69266	failure of sterile precautions during kidney dialysis	TA22000	8	0	0	February 2009
+111637	mechanical failure of apparatus during kidney dialysis	TA42000	1	0	0	January 2017
+54990	kidney transplant with complication, without blame	TB00100	95	0	0	February 2009
+18774	renal transplant with complication, without blame	TB00111	301	0	0	February 2009
+54844	[x]failure sterile precautions dur kidney dialys/other perf	U612200	3	0	0	February 2009
+110072	washing back through haemodialysis lines	Z919200	2	0	0	September 2015
+5911	[v]kidney transplanted	ZV42000	3040	0	0	February 2009
+22252	[v]renal dialysis status	ZV45100	455	0	0	February 2009
+60743	[v]aftercare involving intermittent dialysis	ZV56.00	19	0	0	February 2009
+46145	[v]aftercare involving renal dialysis nos	ZV56011	18	0	0	February 2009
+69760	[x]other dialysis	ZVu3G00	55	0	0	February 2009

@@ -1,0 +1,312 @@
+medcodeid	originalreadcode	cleansedreadcode	term	snomedctconceptid	pud
+196816014	J102	J102.00	Ulcer of oesophagus	30811009	1
+201417012	J1021	J102100	Fungal ulcer of oesophagus	88700009	1
+302384014	J1022	J102200	Oesophageal ulcer due to aspirin	196607008	1
+302387019	J1025	J102500	Barrett's ulcer of oesophagus	196609006	1
+302393010	J102z	J102z00	Ulcer of oesophagus NOS	30811009	1
+498969017	J1020	J102000	Peptic ulcer of oesophagus	6129004	1
+498970016	J1016	J101600	Ulcerative oesophagitis	439955006	1
+267181000006111	J1023	J102300	Oesophageal ulcer due to chemicals	62465000	1
+267191000006114	J1024	J102400	Drug-induced ulcer of oesophagus	64595005	1
+2670061000006114	^ESCTOE267006		Oesophagogastric ulcer	10699001	1
+2996671000006118	^ESCTUL299667		Ulcer of esophagus	30811009	1
+2996681000006115	^ESCTOE299668		Oesophageal ulcer	30811009	1
+2996691000006117	^ESCTES299669		Esophageal ulcer	30811009	1
+2996701000006117	^ESCTOU299670		OU - Oesophageal ulcer	30811009	1
+3438321000006112	^ESCTBL343832		Bleeding oesophageal ulcer	57748001	1
+3515481000006113	^ESCTUL351548		Ulcer of oesophagus due to ingestion of chemical	62465000	1
+3515511000006117	^ESCTCO351551		Corrosive ulcer of oesophagus	62465000	1
+3515521000006113	^ESCTCH351552		Chemical ulcer of oesophagus	62465000	1
+3550591000006113	^ESCTUL355059		Ulcer of oesophagus due to ingestion of medicines	64595005	1
+4784301000006112	^ESCTBA478430		Barrett ulcer of esophagus	196609006	1
+5082861000006119	^ESCTEO508286		Eosinophilic ulcer of oesophagus	235608007	1
+5082901000006114	^ESCTBA508290		Bacterial ulcer of oesophagus	235610009	1
+5082921000006116	^ESCTVI508292		Viral ulcer of oesophagus	235611008	1
+5222591000006110	^ESCTGA522259		Gastro-oesophageal reflux disease with ulceration	245754007	1
+5913131000006118	^ESCTNO591313		Non-reflux ulcer of oesophagus	302915007	1
+5913151000006113	^ESCTNO591315		Non-reflux ulceration of oesophagus	302915007	1
+7222981000006119	^ESCTOE722298		Oesophageal bleeding due to ulcerative oesophagitis	439442003	1
+7230051000006110	^ESCTUL723005		Ulcerative esophagitis	439955006	1
+7763371000006114	^ESCTUL776337		Ulcer of oesophagus due to gastro-oesophageal reflux disese, with complications	717848003	1
+6875014	J1312	J131200	Chronic peptic ulcer with perforation	3483000	1
+131281018	J1302	J130200	Acute peptic ulcer with perforation	79118000	1
+206557013	J131	J131.00	Chronic peptic ulcer	128287004	1
+302546016	J130	J130.00	Acute peptic ulcer	196682000	1
+302547013	J1300	J130000	Acute peptic ulcer without mention of complication	196682000	1
+302553013	J1304	J130400	Acute peptic ulcer with obstruction	196687006	1
+302554019	J130y	J130y00	Acute peptic ulcer unspecified	196682000	1
+302555018	J130z	J130z00	Acute peptic ulcer NOS	196682000	1
+302556017	J1310	J131000	Chronic peptic ulcer without mention of complication	128287004	1
+302562010	J1314	J131400	Chronic peptic ulcer with obstruction	196694009	1
+302563017	J131y	J131y00	Chronic peptic ulcer unspecified	128287004	1
+302564011	J131z	J131z00	Chronic peptic ulcer NOS	128287004	1
+302565012	J13y	J13y.00	Unspecified peptic ulcer	13200003	1
+302566013	J13y0	J13y000	Unspecified peptic ulcer without mention of complication	13200003	1
+302568014	J13y1	J13y100	Unspecified peptic ulcer with haemorrhage	13200003	1
+302569018	J13y2	J13y200	Unspecified peptic ulcer with perforation	13200003	1
+302571018	J13y3	J13y300	Unspecified peptic ulcer with haemorrhage and perforation	13200003	1
+302572013	J13y4	J13y400	Peptic ulcer with obstruction	849611000000106	1
+302575010	J13yz	J13yz00	Unspecified peptic ulcer NOS	13200003	1
+302576011	J13z	J13z.00	Peptic ulcer NOS	13200003	1
+361430016	J1303	J130300	Acute peptic ulcer with haemorrhage and perforation	111353003	1
+396346019	J13	J13..00	Peptic ulcer	13200003	1
+397833011	14C1	14C1.00	H/O: peptic ulcer	266998003	1
+470365013	J1301	J130100	Acute peptic ulcer with haemorrhage	12274003	1
+495344012	J1311	J131100	Chronic peptic ulcer with haemorrhage	49232000	1
+498977018	J1313	J131300	Chronic peptic ulcer with haemorrhage AND perforation	61300005	1
+81501000006111	J13yy	J13yy00	Unspec peptic ulcer; unspec haemorrhage and/or perforation	13200003	1
+345501000006119	ZV127-1	ZV12711	[V]Personal history of peptic ulcer	266998003	1
+863201000006111	761J0-99	761J099	Perf. peptic ulcer closure	173842008	1
+885931000006111	J13-99	J13..99	Peptic ulcer NOS = PU	13200003	1
+906031000006113	HNG0086		[RFC] Peptic and duodenal ulcers	906031000006109	1
+2709501000006113	^ESCTPE270950		Peptic ulcer disease	13200003	1
+2709511000006111	^ESCTPE270951		Peptic ulceration	13200003	1
+2709521000006115	^ESCTPU270952		PUD - Peptic ulcer disease	13200003	1
+2709531000006117	^ESCTPU270953		PU - Peptic ulcer	13200003	1
+2919721000006119	^ESCTPE291972		Peptic ulcer with hemorrhage, with perforation AND with obstruction	26221006	1
+3542811000006116	^ESCTPE354281		Peptic ulcer with haemorrhage	64121000	1
+3542831000006110	^ESCTBL354283		Bleeding peptic ulcer	64121000	1
+3932701000006118	^ESCTPE393270		Peptic ulcer with perforation	88169003	1
+5083761000006119	^ESCTAC508376		Acute peptic ulcer of stomach	235647009	1
+5083781000006112	^ESCTCH508378		Chronic peptic ulcer of stomach	235649007	1
+5727561000006111	^ESCTPE572756		Perforated peptic ulcer closure	287811008	1
+6599131000006112	^ESCTPE659913		Peptic ulcer of stomach	398177004	1
+13955341000006114	^ESCT1395534		Exacerbation of peptic ulcer	865912001	1
+27286010	J14-4	J14..14	Marginal ulcer	16121001	1
+5742016	J1412	J141200	Chronic gastrojejunal ulcer with perforation	2807004	1
+33419017	J1102	J110200	Acute gastric ulcer with perforation	19850005	1
+40392014	J14-2	J14..12	Gastrocolic ulcer	24060004	1
+52347016	J1112	J111200	Chronic gastric ulcer with perforation	31301004	1
+110704012	J1402	J140200	Acute gastrojejunal ulcer with perforation	66636001	1
+158227015	J110	J110.00	Acute gastric ulcer	95529005	1
+158231014	J111	J111.00	Chronic gastric ulcer	95530000	1
+206558015	J141	J141.00	Chronic gastrojejunal ulcer	128288009	1
+269116019	76125	7612500	Resection of gastric ulcer by cautery	173731008	1
+269309011	761J	761J.00	Operations on gastric ulcer	173841001	1
+269310018	761J0	761J000	Closure of perforated gastric ulcer	173842008	1
+269314010	761Jy	761Jy00	Gastric ulcer operation	173841001	1
+269315011	761Jz	761Jz00	Operation on gastric ulcer NOS	173841001	1
+302463015	J1100	J110000	Acute gastric ulcer without mention of complication	95529005	1
+302470015	J1104	J110400	Acute gastric ulcer with obstruction	196632005	1
+302471016	J110y	J110y00	Acute gastric ulcer unspecified	95529005	1
+302472011	J110z	J110z00	Acute gastric ulcer NOS	95529005	1
+302473018	J1110	J111000	Chronic gastric ulcer without mention of complication	95530000	1
+302481017	J1114	J111400	Chronic gastric ulcer with obstruction	196639001	1
+302482012	J111y	J111y00	Chronic gastric ulcer unspecified	95530000	1
+302483019	J111z	J111z00	Chronic gastric ulcer NOS	95530000	1
+302485014	J11y	J11y.00	Unspecified gastric ulcer	397825006	1
+302486010	J11y0	J11y000	Unspecified gastric ulcer without mention of complication	397825006	1
+302487018	J11y1	J11y100	Gastric ulcer with haemorrhage	15902003	1
+302489015	J11y2	J11y200	Gastric ulcer with perforation	9829001	1
+302490012	J11y3	J11y300	Unspecified gastric ulcer with haemorrhage and perforation	62366003	1
+302492016	J11y4	J11y400	Gastric ulcer with obstruction	849591000000103	1
+302495019	J11yz	J11yz00	Unspecified gastric ulcer NOS	397825006	1
+302585011	J140	J140.00	Acute gastrojejunal ulcer	196707000	1
+302586012	J1400	J140000	Acute gastrojejunal ulcer without mention of complication	196707000	1
+302592018	J1404	J140400	Acute gastrojejunal ulcer with obstruction	196712004	1
+302593011	J140y	J140y00	Acute gastrojejunal ulcer unspecified	196707000	1
+302594017	J140z	J140z00	Acute gastrojejunal ulcer NOS	196707000	1
+302595016	J1410	J141000	Chronic gastrojejunal ulcer without mention of complication	128288009	1
+302601012	J1414	J141400	Chronic gastrojejunal ulcer with obstruction	196719008	1
+302602017	J141y	J141y00	Chronic gastrojejunal ulcer unspecified	128288009	1
+302603010	J141z	J141z00	Chronic gastrojejunal ulcer NOS	128288009	1
+302604016	J14y	J14y.00	Unspecified gastrojejunal ulcer	16121001	1
+302606019	J14y1	J14y100	Unspecified gastrojejunal ulcer with haemorrhage	16121001	1
+302608018	J14y2	J14y200	Unspecified gastrojejunal ulcer with perforation	16121001	1
+302611017	J14y4	J14y400	Gastrojejunal ulcer with obstruction	849621000000100	1
+302614013	J14yz	J14yz00	Unspecified gastrojejunal ulcer NOS	16121001	1
+302615014	J14z	J14z.00	Gastrojejunal ulcer NOS	16121001	1
+302675019	J17y8	J17y800	Healed gastric ulcer leaving a scar	196775009	1
+394147019	761J1	761J100	Closure of gastric ulcer NEC	173841001	1
+396345015	J11z	J11z.00	Gastric ulcer NOS	397825006	1
+411542014	14C1-2	14C1.12	H/O: gastric ulcer	275548000	1
+454252012	ZV12C	ZV12C00	[V] Personal history of gastric ulcer	275548000	1
+457315015	J11z-2	J11z.12	Multiple gastric ulcers	313425006	1
+459013012	761D6	761D600	Endoscopic injection haemostasis of gastric ulcer	314629004	1
+484836012	J1112-1	J111211	Perforated chronic gastric ulcer	31301004	1
+494304013	J1413	J141300	Chronic gastrojejunal ulcer with haemorrhage AND perforation	45640006	1
+495273013	J1103	J110300	Acute gastric ulcer with haemorrhage AND perforation	48974009	1
+497833010	J1111	J111100	Chronic gastric ulcer with haemorrhage	57246001	1
+499386010	J1411	J141100	Chronic gastrojejunal ulcer with haemorrhage	62838000	1
+499719010	J1401	J140100	Acute gastrojejunal ulcer with haemorrhage	63954007	1
+504674011	J1403	J140300	Acute gastrojejunal ulcer with haemorrhage AND perforation	81387001	1
+508664015	J1101	J110100	Acute gastric ulcer with haemorrhage	89748001	1
+1231704018	J1111-1	J111111	Bleeding chronic gastric ulcer	57246001	1
+1235493010	J1101-1	J110111	Bleeding acute gastric ulcer	89748001	1
+2649532016	J112	J112.00	Anti-platelet induced gastric ulcer	424301005	1
+76511000006111	J14y0	J14y000	Unspecified gastrojejunal ulcer without mention complication	16121001	1
+81311000006115	J11yy	J11yy00	Gastric ulcer with haemorrhage AND perforation	62366003	1
+221001000000111	J11	J11..00	Gastric ulcer	397825006	1
+221011000000113	J14	J14..00	Gastrojejunal ulcer	16121001	1
+317691000000117	J112z	J112z00	Anti-platelet induced gastric ulcer NOS	424301005	1
+502691000006110	76121-1	7612111	Balfour excision of gastric ulcer	287832000	1
+554311000006114	J1113	J111300	Chronic gastric ulcer with haemorrhage AND with perforation	76181002	1
+863211000006114	761J1-99	761J199	Gastric ulcer suture	687731000000104	1
+1562921000006116	J113	J113.00	Non-steroidal anti-inflammatory drug induced gastric ulcer	248891000000103	1
+2656521000006114	^ESCTGU265652		GU - Perforated gastric ulcer	9829001	1
+2656531000006112	^ESCTPE265653		Perforation of gastric ulcer	9829001	1
+2709491000006117	^ESCTGA270949		Gastroduodenal ulcer	13200003	1
+2752321000006114	^ESCTBL275232		Bleeding gastric ulcer	15902003	1
+2755641000006118	^ESCTGJ275564		GJU - Gastrojejunal ulcer	16121001	1
+2860501000006116	^ESCTPR286050		Prepyloric gastric ulcer	22620000	1
+3157741000006117	^ESCTGA315774		Gastrointestinal ulcer	40845000	1
+3797871000006116	^ESCTCO379787		Combined gastric AND duodenal ulcer	79806007	1
+3958891000006118	^ESCTAC395889		Acute gastric ulcer with bleeding	89748001	1
+5077461000006113	^ESCTOV507746		Oversewing perforated gastric ulcer	235232008	1
+5084471000006116	^ESCTHE508447		Healed gastric ulcer	235702004	1
+5118141000006119	^ESCTST511814		Stress-related gastrointestinal ulceration	238152004	1
+5965481000006112	^ESCTLA596548		Laparoscopic closure of perforated gastric ulcer	307190008	1
+5966141000006119	^ESCTSU596614		Suture of gastric ulcer	307259004	1
+6212581000006116	^ESCTGA621258		Gastrorrhaphy for perforated gastric ulcer	360372005	1
+6593391000006110	^ESCTGU659339		GU - Gastric ulcer	397825006	1
+6593401000006112	^ESCTGA659340		Gastric ulceration	397825006	1
+7637231000006114	^ESCTLA763723		Laparoscopic patch closure of gastric ulcer	708644006	1
+8032291000006113	^ESCTGA803229		Gastric ulcer due to Helicobacter pylori	103691000119106	1
+14058591000006110	^ESCT1405859		Acute gastric ulcer with haemorrhage and perforation	48974009	1
+14059721000006112	^ESCT1405972		Gastric ulcer with haemorrhage and perforation	62366003	1
+14061111000006110	^ESCT1406111		Acute gastrojejunal ulcer with haemorrhage and perforation	81387001	1
+27285014	J14-5	J14..15	Stomal ulcer	16121001	1
+410931019	761J1-1	761J111	Suture of ulcer of stomach NEC	307259004	1
+477650018	J14-1	J14..11	Anastomotic ulcer	16121001	1
+344611000006119	ZV127-2	ZV12712	[V]Personal history of duodenal ulcer	275547005	1
+863221000006118	761Jy-99	761Jy99	Stomach ulcer excision	543881000000102	1
+1566781000006115	ALLERGY22910NEMIS		Adverse reaction to Jobst Ulcercare Custom	1566781000006104	1
+1960051000006119	EMISNQHI55		Histology - ulceration present	1960051000006103	1
+4058081000006115	^ESCTAC405808		Acute ulcer of stomach	95529005	1
+5083771000006114	^ESCTAC508377		Acute drug-induced ulcer of stomach	235648004	1
+5574431000006111	^ESCTHI557443		History of ulcerative colitis	275549008	1
+5727701000006116	^ESCTST572770		Stomach ulcer excision	287832000	1
+5982901000006117	^ESCTBL598290		Bleeding stress ulcer of stomach	308882008	1
+6593381000006112	^ESCTST659338		Stomach ulcer	397825006	1
+6685481000006113	^ESCTPA668548		Parastomal ulceration	403701008	1
+6880351000006112	^ESCTST688035		Stress ulcer of stomach	415624002	1
+7339421000006110	^ESCTUL733942		Ulcer of anastomosis	447408004	1
+269308015	761J-1	761J.11	Stomach ulcer operations	173841001	1
+303358012	J57y8	J57y800	Primary ulcer of intestine	197252006	1
+303360014	J57yA	J57yA00	Ulceration of intestine	85942002	1
+864261000006114	773C6-99	773C699	Perf. intestine ulcer closed	559771000000108	1
+3082421000006119	^ESCTCH308242		Chronic ulcerating interstitial cystitis	36139001	1
+5084531000006115	^ESCTUL508453		Ulceration of small intestine	235710003	1
+6220001000006113	^ESCTID622000		Idiopathic small intestinal ulcers	361141006	1
+48343019	A992-2	A992.12	Pudendal ulcer	28867007	1
+13773141000006115	^ESCT1377314		Ulcer of duodenum	51868009	1
+7857371000006112	^ESCTDU785737		Duodenal ulcer caused by Helicobacter pylori	724528009	1
+7509121000006112	^ESCTPA750912		Patch repair of duodenal ulcer	698496004	1
+7637251000006119	^ESCTLA763725		Laparoscopic closure of duodenal ulcer using patch	708645007	1
+7637271000006112	^ESCTLA763727		Laparoscopic patch closure of duodenal ulcer	708645007	1
+7509111000006116	^ESCTPA750911		Patch repair of perforated duodenal ulcer	698496004	1
+6203791000006117	^ESCTCL620379		Closure of ulcer of duodenum	359574001	1
+5969361000006111	^ESCTUN596936		Under-running of bleeding duodenal ulcer	307511000	1
+5969351000006114	^ESCTOV596935		Oversewing of bleeding duodenal ulcer	307510004	1
+5966161000006115	^ESCTSU596616		Suture of ulcer of duodenum	307260009	1
+5727671000006117	^ESCTDU572767		Duodenal ulcer excision	287828006	1
+5084311000006115	^ESCTST508431		Stress ulcer of duodenum	235688009	1
+4784381000006115	^ESCTAD478438		ADU - Acute duodenal ulcer	196652006	1
+3946051000006115	^ESCTDU394605		DU - Perforated duodenal ulcer	88968005	1
+3946041000006117	^ESCTPE394604		Perforation of duodenal ulcer	88968005	1
+3340781000006115	^ESCTDU334078		DU - Duodenal ulcer	51868009	1
+3340761000006113	^ESCTDU334076		DUD - Duodenal ulcer disease	51868009	1
+3078031000006116	^ESCTOV307803		Oversewing of perforated duodenal ulcer	35892001	1
+2937141000006110	^ESCTBL293714		Bleeding duodenal ulcer	27281001	1
+3023351000006115	^ESCTAC302335		Acute duodenal ulcer without haemorrhage AND without perforation	32490005	1
+988081000006114	7627y-99	7627y99	Duodenal ulcer excision	557931000000102	1
+2704011000006118	^ESCTAC270401		Acute duodenal ulcer with hemorrhage	12847006	1
+1562941000006111	J126	J126.00	Duodenal ulcer caused by non-steroidal anti-inflammatory drug	722200003	1
+863271000006117	7627-99	7627.99	Duodenal ulcer excision	287828006	1
+863241000006113	76231-99	7623199	Duodenal ulcer suture	541501000000105	1
+632091000006116	J12	J12..00	Duodenal ulcer	51868009	1
+362951000000115	76272	7627200	Oversew of blood vessel of duodenal ulcer	226891000000104	1
+317711000000115	J125z	J125z00	Anti-platelet induced duodenal ulcer NOS	423643000	1
+118251000006114	76271	7627100	Suture of duodenal ulcer not elsewhere classified	307260009	1
+81301000006118	J12yy	J12yy00	Unspec duodenal ulcer; unspec haemorrhage and/or perforation	51868009	1
+2649534015	J125	J125.00	Anti-platelet induced duodenal ulcer	423643000	1
+1235462014	J1211-1	J121111	Bleeding chronic duodenal ulcer	89469000	1
+508524014	J1211	J121100	Chronic duodenal ulcer with haemorrhage	89469000	1
+507303017	J1203	J120300	Acute duodenal ulcer with haemorrhage AND perforation	86895006	1
+495535010	J1212-1	J121211	Perforated chronic duodenal ulcer	49916007	1
+486596015	J1213	J121300	Chronic duodenal ulcer with haemorrhage AND perforation	36975000	1
+474430017	J1201	J120100	Acute duodenal ulcer with haemorrhage	12847006	1
+450479017	76271-99	7627199	Duodenal ulcer suture	307260009	1
+459010010	761D5	761D500	Endoscopic injection haemostasis of duodenal ulcer	314627002	1
+411541019	14C1-1	14C1.11	H/O: duodenal ulcer	275547005	1
+302542019	J12z	J12z.00	Duodenal ulcer NOS	51868009	1
+302541014	J12yz	J12yz00	Unspecified duodenal ulcer NOS	51868009	1
+302538017	J12y4	J12y400	Duodenal ulcer with obstruction	849601000000109	1
+302537010	J12y3	J12y300	Unspecified duodenal ulcer with haemorrhage and perforation	51868009	1
+302535019	J12y2	J12y200	Duodenal ulcer with perforation	88968005	1
+302534015	J12y1	J12y100	Duodenal ulcer with haemorrhage	27281001	1
+302532016	J12y0	J12y000	Unspecified duodenal ulcer without mention of complication	51868009	1
+302531011	J12y	J12y.00	Unspecified duodenal ulcer	51868009	1
+302530012	J124	J124.00	Recurrent duodenal ulcer	196671008	1
+302527017	J121z	J121z00	Chronic duodenal ulcer NOS	128286008	1
+302514016	J1210	J121000	Chronic duodenal ulcer without mention of complication	128286008	1
+302513010	J120z	J120z00	Acute duodenal ulcer NOS	196652006	1
+302526014	J121y	J121y00	Chronic duodenal ulcer unspecified	128286008	1
+302525013	J1214	J121400	Chronic duodenal ulcer with obstruction	196666001	1
+302512017	J120y	J120y00	Acute duodenal ulcer unspecified	196652006	1
+302511012	J1204	J120400	Acute duodenal ulcer with obstruction	196658005	1
+302504013	J1200	J120000	Acute duodenal ulcer without mention of complication	196652006	1
+302502012	J120	J120.00	Acute duodenal ulcer	196652006	1
+269377012	7627z	7627z00	Operation on duodenal ulcer NOS	173887007	1
+269376015	7627y	7627y00	Duodenal ulcer operation	173887007	1
+269374017	76270	7627000	Closure of perforated duodenal ulcer	173889005	1
+269371013	7627	7627.00	Operations on duodenal ulcer	173887007	1
+206556016	J121	J121.00	Chronic duodenal ulcer	128286008	1
+101926016	J1202	J120200	Acute duodenal ulcer with perforation	61347001	1
+86362013	J122	J122.00	Duodenal ulcer disease	51868009	1
+83140013	J1212	J121200	Chronic duodenal ulcer with perforation	49916007	1
+91115011	J14-3	J14..13	Jejunal ulcer	54822007	1
+3389751000006112	^ESCTJE338975		Jejunal ulceration	54822007	1
+6220011000006111	^ESCTDI622001		Diffuse ulcerations of jejunum AND/OR ileum	361142004	1
+37964010	J11-1	J11..11	Prepyloric ulcer	22620000	1
+65759011	J11-2	J11..12	Pyloric ulcer	39204006	1
+3361571000006110	^ESCTZO336157		Zollinger-Ellison syndrome	53132006	1
+5969761000006112	^ESCTRE596976		Repair of perforated pyloric ulcer	307556007	1
+5969771000006117	^ESCTOM596977		Omental patch repair of perforated pyloric ulcer	307557003	1
+7981211000006116	^ESCTAN798121		Antral ulcer	4911000119101	1
+14492011000006113	^ESCT1449201		Acute ulcer of pyloric antrum	8.96007510001e+16	1
+14492021000006117	^ESCT1449202		Acute antral ulcer	8.96007510001e+16	1
+885851000006113		J120199	du - acute + haemorrhage		1
+885871000006115		J120399	du - acute + h'ge + perf.		1
+885861000006110		J120299	du - acute + perforation		1
+885881000006117		J120z99	du - acute nos		1
+990721000006111		J120.99	du - acute nos		1
+885891000006119		J121199	du - chronic + haemorrhage		1
+885911000006117		J121399	du - chronic + h'ge + perf.		1
+885901000006115		J121299	du - chronic + perforation		1
+885921000006113		J121z99	du - chronic nos		1
+990731000006114		J121.99	du - chronic nos		1
+353328012		J123.00	duodenal erosion		1
+353273019		J11z.11	gastric erosions		1
+885771000006112		J110199	gu - acute + haemorrhage		1
+885791000006113		J110399	gu - acute + h'ge + perf.		1
+885781000006110		J110299	gu - acute + perforation		1
+885801000006114		J110z99	gu - acute nos		1
+885811000006112		J111199	gu - chronic + haemorrhage		1
+885831000006118		J111399	gu - chronic + h'ge + perf.		1
+885821000006116		J111299	gu - chronic + perforation		1
+990711000006115		J111.99	gu - chronic nos		1
+885841000006111		J111z99	gu - chronic nos		1
+1562951000006113		J126z00	non steroidal anti inflammatory drug induced duoden ulc nos		1
+1562931000006118		J113z00	non steroidal anti inflammatory drug induced gastric ulc nos		1
+885941000006118		J130199	pu - acute + haemorrhage		1
+885961000006119		J130399	pu - acute + h'ge + perf.		1
+885951000006116		J130299	pu - acute + perforation		1
+885971000006114		J130z99	pu - acute nos		1
+885981000006112		J131199	pu - chronic + haemorrhage		1
+886001000006111		J131399	pu - chronic + h'ge + perf.		1
+885991000006110		J131299	pu - chronic + perforation		1
+886011000006114		J131z99	pu - chronic nos		1
+121891000006117		J13..11	stress ulcer nos		1
+81321000006111		J14y300	unspec gastrojejunal ulcer with haemorrhage and perforation		1
+81331000006114		J14yy00	unspec gastrojejunal ulcer; unspec haemorrhage/perforation		1
+853621000006111	EGTON229		Gastric erosion	853621000006107	1
+2796201000006119	^ESCTAC279620		Acute gastric mucosal erosion	18665000	1
+5083801000006111	^ESCTGA508380		Gastric erosion	235651006	1
+5083811000006114	^ESCTMU508381		Multiple gastric erosions	235652004	1
+5887961000006114	^ESCTGA588796		Gastro-oesophageal erosion	301007008	1
+5887981000006116	^ESCTGA588798		Gastroesophageal erosion	301007008	1
+5965921000006118	^ESCTBL596592		Bleeding gastric erosion	307233002	1
+4058141000006113	^ESCTMU405814		Multiple duodenal erosions	95531001	1
+14438991000006112	^ESCT1443899		Bleeding duodenal erosion	1148555003	1
+3133061000006110	^ESCTAC313306		Acute erosion of duodenum	39344002	1

@@ -1,0 +1,133 @@
+medcodeid	term	originalreadcode	readcode	snomedctconceptid	fh_stroke	fh_cad	fh_dm	fh_cmp	fh_htn	fh_pvd	fh_dyslipidaemia	fh_famil_hyperchol	fh_cvd	fh_hcm	fh_thrombosis	fh_tia	fh_af	fh_arrhythmia	fh_hf	fh_any_cvd	class
+1227607019	[V]Family history of cerebrovascular accident (CVA)	ZV171-1	ZV17111	275104002	1															1	stroke
+460375010	[V]Family history of diabetes mellitus	ZV198	ZV19800	160303001			1													1	dm
+1227610014	[V]Family history of diabetes mellitus (DM)	ZV180-1	ZV18011	160303001			1													1	dm
+460366013	[V]Family history of other cardiovascular disease	ZV174	ZV17400	266894000									1							1	cvd
+7177271000006110	Family history of atrial fibrillation	^ESCTFA717727		433276002													1	1		1	af
+7506481000006113	Family history of cardiac arrhythmia	^ESCTFA750648		698248002									1					1		1	arrhythmia
+14075121000006112	Family history of cardiac disorder	^ESCT1407512		275120007									1							1	cvd
+5495391000006118	Family history of cardiovascular disease	^ESCTFA549539		266894000									1							1	cvd
+1676941000006112	Family history of cardiovascular disease in first degree female relative less than 65 years of age	12CW	12CW.00	438825005									1							1	cvd
+1676931000006119	Family history of cardiovascular disease in first degree male relative less than 55 years of age	12CV	12CV.00	439724007									1							1	cvd
+406159015	Family history of cerebrovascular accident	12C4	12C4.00	275104002	1															1	stroke
+5495801000006118	Family history of congenital anomaly of cardiovascular system	^ESCTFA549580		266908007									1							1	cvd
+7114331000006115	Family history of coronary artery disease	^ESCTFA711433		430091005		1														1	cad
+8063261000006119	Family history of coronary heart disease	^ESCTFA806326		203261000000108		1														1	cad
+5569331000006114	Family history of CVA	^ESCTFA556933		275104002	1															1	stroke
+298761000000113	Family history of deep vein thrombosis	12CQ	12CQ.00	198301000000109						1										1	pvd
+987341000006117	Family history of deep vein thrombosis	EMISNQFA5		987341000006101						1										1	pvd
+13788911000006117	Family history of diabetes mellitus	^ESCT1378891		160303001			1													1	dm
+13831691000006117	Family history of diabetes mellitus in first degree relative	^ESCT1383169		416855002			1													1	dm
+2773644011	Family history of diabetes mellitus type 1	12520	1252000	430678008			1													1	dm
+2773645012	Family history of diabetes mellitus type 2	12521	1252100	430679000			1													1	dm
+1751441000006116	Family history of diabetes mellitus type II	12521-1	1252111	430679000			1													1	dm
+12107601000006114	family history of double heterozygous familial hypercholesterolaemia	^ESCT1210760		109271000119105								1								1	familial hypercholesterolaemia
+12107611000006112	Family history of double heterozygous familial hypercholesterolemia	^ESCT1210761		109271000119105								1								1	familial hypercholesterolaemia
+249817018	Family history of familial hypercholesterolaemia	1269	1269.00	443454007								1								1	familial hypercholesterolaemia
+12107631000006118	family history of familial hypercholesterolaemia co-occurrent and due to combined heterozygous low density lipoprotein receptor and low density lipoprotein receptor adaptor protein 1 mutations	^ESCT1210763		109271000119105								1								1	familial hypercholesterolaemia
+7112081000006113	Family history of heart failure	^ESCTFA711208		429959009									1						1	1	hf
+8058281000006111	Family history of HOCM (hypertrophic obstructive cardiomyopathy)	^ESCTFA805828		198381000000104				1						1						1	hcm
+8023241000006111	family history of hyperbetalipoproteinaemia	^ESCTFA802324		74131000119101							1									1	dyslipidaemia
+6901681000006111	family history of hypercholesterolaemia in first degree relative	^ESCTFA690168		417072001								1								1	familial hypercholesterolaemia
+7865461000006112	Family history of hyperlipidaemia	^ESCTFA786546		725117008							1									1	dyslipidaemia
+7865471000006117	Family history of hyperlipidemia	^ESCTFA786547		725117008							1									1	dyslipidaemia
+4530231000006110	Family history of hypertension	^ESCTFA453023		160357008					1											1	htn
+5578891000006118	Family history of hypertriglyceridaemia	^ESCTFA557889		275939003							1									1	dyslipidaemia
+404428013	Family history of ischaemic heart disease	ZV173	ZV17300	297242006		1														1	cad
+12761791000006110	Family history of ischemic heart disease	^ESCT1276179		297242006		1														1	cad
+339481000006111	Family history of ischemic heart disease	ZV173-1	ZV17311	297242006		1														1	cad
+1780271011	Family history of myocardial infarct in first degree female relative less than 65 years of age	12CN	12CN.00	401066000		1														1	mi
+339631000006113	Family history of myocardial infarction	ZV173-2	ZV17312	266897007		1														1	mi
+8193701000006115	Family history of myocardial infarction in first degree relative less than 60 years	^ESCTFA819370		515741000000106		1														1	mi
+8193681000006118	Family history of myocardial infarction in second degree relative less than 50 years	^ESCTFA819368		515711000000105		1														1	mi
+635401000000117	Family history of myocarditis	12CT	12CT.00	439154009				1												1	myocarditis
+7126941000006112	Family history of pulmonary embolism	^ESCTFA712694		430801003						1										1	pvd
+8020081000006117	Family history of spinocerebellar ataxia	^ESCTFA802008		63881000119101	1															1	cerebrovascular disease
+7111971000006119	Family history of stenosis of aortic valve	^ESCTFA711197		429952000									1							1	vhd
+460356017	Family history of stroke	ZV171	ZV17100	275104002	1															1	stroke
+621391000000116	Family history of subarachnoid haemorrhage	129C	129C.00	335271000000100							1									1	dyslipidaemia
+8036791000006116	Family history of sudden cardiac death	^ESCTFA803679		117361000119104		1							1							1	scd
+2764630013	Family history of thromboembolic disorder	12CX	12CX.00	430710003	1										1					1	thrombosis
+8193741000006118	Family history of total cholesterol greater than 7.5 millimoles per litre in first or second degree relative	^ESCTFA819374		515791000000101							1									1	dyslipidaemia
+249972015	Family history of transient ischaemic attack	12C7	12C7.00	160363004	1											1				1	tia
+5569661000006113	Family history: Angina	^ESCTFA556966		275121006		1														1	cad
+5578511000006114	Family history: Angina at greater than 60 years	^ESCTFA557851		275911004		1														1	cad
+5569641000006114	Family history: Cardiac disorder	^ESCTFA556964		275120007									1							1	cvd
+6516211000006115	Family history: Cardiomyopathy	^ESCTFA651621		390915000				1												1	cmp
+5495401000006116	Family history: Cardiovascular disease	^ESCTFA549540		266894000									1							1	cvd
+339351000006110	Family history: Diabetes mellitus	ZV180	ZV18000	160303001			1													1	dm
+6898471000006112	Family history: Diabetes mellitus in first degree relative	^ESCTFA689847		416855002			1													1	dm
+4529241000006111	Family history: Hypercholesterolaemia	^ESCTFA452924		160314003							1									1	dyslipidaemia
+6901651000006115	family history: hypercholesterolaemia in first degree relative	^ESCTFA690165		417072001								1								1	familial hypercholesterolaemia
+4529231000006118	Family history: Hypercholesterolemia	^ESCTFA452923		160314003							1									1	dyslipidaemia
+4530241000006117	Family history: Hypertension	^ESCTFA453024		160357008					1											1	htn
+5495451000006117	Family history: Ischaemic heart disease at less than 60 years	^ESCTFA549545		266895004		1														1	cad
+5495441000006119	Family history: Ischemic heart disease at less than 60 years	^ESCTFA549544		266895004		1														1	cad
+5495521000006113	Family history: Myocardial infarction	^ESCTFA549552		266897007		1														1	mi
+5569701000006117	Family history: Myocardial infarction at greater than 60	^ESCTFA556970		275123009		1														1	mi
+5569681000006115	Family history: Myocardial infarction at less than 60	^ESCTFA556968		275122004		1														1	mi
+4507431000006118	Family history: premature coronary heart disease	^ESCTFA450743		134439009		1														1	cad
+5998181000006110	Family history: Thrombosis	^ESCTFA599818		310247005											1					1	thrombosis
+460145014	FH angina female first degree age known	12CG	12CG.00	315626001		1														1	cad
+460146010	FH angina female first degree age unknown	12CH	12CH.00	315627005		1														1	cad
+460142012	FH angina male first degree age known	12CE	12CE.00	315623009		1														1	cad
+460144013	FH angina male first degree age unknown	12CF	12CF.00	315625002		1														1	cad
+460140016	FH myocardial infarction female first degree age known	12CC	12CC.00	315621006		1														1	mi
+460141017	FH myocardial infarction female first degree age unknown	12CD	12CD.00	315622004		1														1	mi
+460138014	FH myocardial infarction male first degree age known	12CA	12CA.00	315619001		1														1	mi
+460139018	FH myocardial infarction male first degree age unknown	12CB	12CB.00	315620007		1														1	mi
+411053013	FH: Angina	12C-4	12C..14	275121006		1														1	cad
+217431000000111	FH: Angina at greater than 60 years	12C3-3	12C3.13	275911004		1														1	cad
+217391000000115	FH: Angina at less than 60 years	12C2-3	12C2.13	275932007		1														1	cad
+1780270012	FH: Angina in 1st degree female relative <65 years	12CL	12CL.00	401065001		1														1	cad
+1780323013	FH: Angina in 1st degree male relative <55 years	12CM	12CM.00	401122004		1														1	cad
+1894961000006119	FH: Arterial disease	EMISNQFH12		1894961000006103						1										1	pvd
+411052015	FH: Cardiac disorder	12C-2	12C..12	275120007									1							1	cvd
+5569601000006112	FH: Cardiac disorder	^ESCTFH556960		275120007									1							1	cvd
+1484947014	FH: Cardiomyopathy	12CJ	12CJ.00	390915000				1												1	cmp
+1669601000006118	FH: Cardiovascular dis. in 1st degree female relative < 65 years	EMISNQFH7		1669601000006102									1							1	cvd
+397693011	FH: Cardiovascular disease	12C	12C..00	266894000									1							1	cvd
+1669611000006115	FH: Cardiovascular disease 1st degree male relative < 55 years	EMISNQFH8		1669611000006104									1							1	cvd
+249974019	FH: Congenital heart disease	12J3-1	12J3.11	160364005		1														1	cad
+673211000006110	FH: Congenital heart disease	12C8	12C8.00	160364005									1							1	cvd
+411056017	FH: Coronary thrombosis	12C5-1	12C5.11	275124003		1														1	cad
+2476084015	FH: CVA	12C4-1	12C4.11	275104002	1															1	stroke
+8058201000006119	FH: deep vein thrombosis	^ESCTFH805820		198301000000109						1										1	pvd
+250064017	FH: Diabetes in pregnancy	12G2	12G2.00	160402005			1													1	dm
+249794016	FH: Diabetes mellitus	1252	1252.00	160303001			1													1	dm
+958041000006113	FH: Diabetes mellitus brother	EMISNQFH4		958041000006109			1													1	dm
+958021000006118	FH: Diabetes mellitus child	EMISNQFH2		958021000006102			1													1	dm
+958051000006110	FH: Diabetes mellitus father	EMISNQFH5		958051000006106			1													1	dm
+2549389017	FH: Diabetes mellitus in first degree relative	1253	1253.00	416855002			1													1	dm
+958011000006114	FH: Diabetes mellitus in first degree relative	EMISNQFH1		958011000006105			1													1	dm
+958061000006112	FH: Diabetes mellitus mother	EMISNQFH6		958061000006108			1													1	dm
+958031000006115	FH: Diabetes mellitus sister	EMISNQFH3		958031000006104			1													1	dm
+1495319014	FH: Heart disorder	12C-3	12C..13	275120007									1							1	cvd
+452068010	FH: Hypercholesterolaemia	1262-1	1262.11	160314003							1									1	dyslipidaemia
+4529211000006112	fh: hypercholesterolaemia	^ESCTFH452921		160314003							1									1	dyslipidaemia
+2549621014	FH: Hypercholesterolaemia in first degree relative	126B	126B.00	417072001								1								1	familial hypercholesterolaemia
+11924831000006116	FH: Hypercholesterolemia	^ESCT1192483		160314003							1									1	dyslipidaemia
+249943016	FH: Hypertension	12C1	12C1.00	160357008					1											1	htn
+298941000000114	FH: Hypertrophic obstructive cardiomyopathy	12CR	12CR.00	198381000000104				1						1						1	hcm
+397694017	FH: Ischaemic heart dis. <60	12C2	12C2.00	266895004		1														1	cad
+437729010	FH: Ischaemic heart disease	12C5-2	12C5.12	297242006		1														1	cad
+217401000000117	FH: Ischaemic heart disease at greater than 60 years	12C3	12C3.00	266896003		1														1	cad
+5495411000006118	FH: Ischaemic heart disease at less than 60 years	^ESCTFH549541		266895004		1														1	cad
+5838031000006112	FH: Ischemic heart disease	^ESCTFH583803		297242006		1														1	cad
+5495471000006110	FH: Ischemic heart disease at greater than 60 years	^ESCTFH549547		266896003		1														1	cad
+5495431000006112	FH: Ischemic heart disease at less than 60 years	^ESCTFH549543		266895004		1														1	cad
+1780272016	FH: Myocardial infarct in 1st degree male relative <55 years	12CP	12CP.00	401067009		1														1	mi
+397701010	FH: Myocardial infarction	12C5	12C5.00	266897007		1														1	mi
+217371000000119	FH: Myocardial infarction < 60	12C2-1	12C2.11	275122004		1														1	mi
+217411000000115	FH: Myocardial infarction > 60	12C3-1	12C3.11	275123009		1														1	mi
+217421000000114	FH: Myocardial infarction at greater than 60	12C3-2	12C3.12	275123009		1														1	mi
+217381000000117	FH: Myocardial infarction at less than 60	12C2-2	12C2.12	275122004		1														1	mi
+1825131000006118	FH: Peripheral vascular disease	EMISNQFH9		1825131000006102						1										1	pvd
+2220771000000111	FH: peripheral vascular disease	12CY	12CY.00	858191000000103						1										1	pvd
+216245011	FH: premature coronary heart disease	12CI	12CI.00	134439009		1														1	cad
+397678012	FH: Raised blood lipids	1262	1262.00	266887003							1									1	dyslipidaemia
+411032016	FH: Stroke	12C4-2	12C4.12	275104002	1															1	stroke
+8107381000006118	FH: Subarachnoid haemorrhage	^ESCTFH810738		335271000000100	1															1	stroke
+453849018	FH: Thrombosis	12C9	12C9.00	310247005						1										1	pvd
+249970011	FH: TIA	12C7-1	12C7.11	160363004	1											1				1	tia
+8036791000006116	Family history of sudden cardiac death	^ESCTFA803679		117361000119104									1							1	scd

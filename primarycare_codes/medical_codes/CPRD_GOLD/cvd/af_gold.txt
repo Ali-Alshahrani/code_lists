@@ -1,0 +1,29 @@
+medcode	readterm	readcode
+1268	paroxysmal atrial fibrillation	G573200
+90187	atrial fibrillation monitoring first letter	9Os0.00
+86416	perc translum ablat conduct sys heart for atrial flutter nec	793M300
+96277	permanent atrial fibrillation	G573400
+6771	ecg: atrial flutter	3273.00
+35127	non-rheumatic atrial fibrillation	G573300
+18746	atrial fibrillation monitoring	662S.00
+107936	provision of written information about atrial fibrillation	8OAD.00
+28994	atrial fibrillation resolved	212R.00
+90191	atrial fibrillation monitoring telephone invite	9Os4.00
+96076	persistent atrial fibrillation	G573500
+1664	atrial fibrillation	G573000
+3757	ecg: atrial fibrillation	3272.00
+57832	atrial fibrillation monitoring administration	9Os..00
+45773	atrial fibrillation annual review	6A9..00
+2212	atrial fibrillation and flutter	G573.00
+23437	atrial fibrillation and flutter nos	G573z00
+90189	atrial fibrillation monitoring third letter	9Os2.00
+39114	excepted from atrial fibrillation qual indic: inform dissent	9hF1.00
+63350	exception reporting: atrial fibrillation quality indicators	9hF..00
+1757	atrial flutter	G573100
+9479	implant intravenous pacemaker for atrial fibrillation	7936A00
+84152	perc transluminal ablation of atrial wall for atrial flutter	793M100
+90190	atrial fibrillation monitoring verbal invite	9Os3.00
+90188	atrial fibrillation monitoring second letter	9Os1.00
+103506	referral to atrial fibrillation clinic	8HTy.00
+107472	paroxysmal atrial flutter	G573600
+105554	atrial fibrillation care pathway	8CMW200

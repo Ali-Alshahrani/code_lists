@@ -1,0 +1,61 @@
+medcode	readterm	readcode	hist_ami	hist_af	hist_stroke	hist_pvd	hist_hf	hist_vhd	hist_dm	hist_cvd_any	class
+19348	[V]Personal history of stroke	ZV12511			1					1	stroke
+105202	H/O amaurosis fugax	14AB000			1					1	cerebrovascular disease
+19562	[V] Personal history deep vein thrombosis	ZV12800				1				1	pvd
+17847	[V] Personal history DVT- deep vein thrombosis	ZV12811				1				1	pvd
+16976	[V] Personal history of pulmonary embolism	ZV12900				1				1	pvd
+7138	[V]Personal history of cerebrovascular accident (CVA)	ZV12512			1					1	stroke
+94777	[V]Personal history of gestational diabetes mellitus	ZV13F00							1	1	dm
+36101	[V]Personal history of heart or great vessel operation	ZV15100								1	cvd
+101251	[V]Personal history of transient ischaemic attack	ZV12D00			1					1	tia
+17464	Personal history of myocardial infarction	G32..12	1							1	mi
+105216	H/O acute coronary syndrome	14AW.00	1							1	mi
+16554	H/O sub-arachnoid haemorrhage	14AF.00			1					1	stroke
+22874	H/O ventricular fibrillation	14AD.00								1	arrhythmia
+7045	H/O: Admission in last year for diabetes foot problem	14F4.00				1				1	pvd
+30127	H/O: Admission in last year for hyperglycaemic disorder	1435.00							1	1	dm
+57062	H/O: Angina in last year	14AJ.00								1	cad
+6336	H/O: angina pectoris	14A5.00								1	cad
+16993	H/O: aortic aneurysm	14AE.00				1				1	pvd
+106762	H/O: arterial lower limb ulcer	14F7.00				1				1	pvd
+67941	H/O: artificial heart	14T7.00						1		1	vhd
+17334	H/O: artificial heart valve	14T3.00						1		1	vhd
+6345	H/O: atrial fibrillation	14AN.00		1						1	af
+41577	H/O: cerebrovascular disease	1477.00			1					1	cerebrovascular disease
+6305	H/O: CVA	14A7.11			1					1	stroke
+34135	H/O: CVA/stroke	14A7.00			1					1	stroke
+5614	H/O: Deep Vein Thrombosis	14A8100				1				1	pvd
+6813	H/O: diabetes mellitus	1434.00							1	1	dm
+21337	H/O: embolism	14A8.11				1				1	pvd
+32526	H/O: heart disease NOS	14AA.00								1	cvd
+6401	H/O: heart disorder	14A..11								1	cvd
+15058	H/O: heart failure	14A6.00					1			1	hf
+46912	H/O: Heart failure in last year	14AM.00					1			1	hf
+59394	H/O: heart recipient	14S3.00					1			1	hf
+47484	Heart transplant failure and rejection	SP08400					1			1	hf
+27679	Heart-lung transplant failure and rejection	SP08500					1			1	hf
+6631	H/O: heart valve recipient	14S4.00						1		1	vhd
+2666	H/O: hypertension	14A2.00								1	htn
+32049	H/O: lower limb amputation	14N4100				1				1	pvd
+35674	H/O: myocardial infarct <60	14A3.00	1							1	mi
+40399	H/O: myocardial infarct >60	14A4.00	1							1	mi
+50372	H/O: Myocardial infarction in last year	14AH.00	1							1	mi
+11798	H/O: myocardial problem	14A..12								1	cvd
+59534	H/O: Peripheral vascular disease procedure	14NB.00				1				1	pvd
+10280	H/O: pulmonary embolus	14AC.00				1				1	pvd
+16085	H/O: raised blood lipids	1442.00								1	dyslipidaemia
+5871	H/O: stroke	14A7.12			1					1	stroke
+66873	H/O: Stroke in last year	14AK.00			1					1	stroke
+11859	H/O: syncope	147A.00								1	arrhythmia
+47503	H/O: thrombo-embolism	14A8.00				1				1	pvd
+7753	H/O: thrombosis	14A8.12								1	thrombosis
+13567	H/O: TIA	14AB.00			1					1	tia
+45476	H/O: Treatment for ischaemic heart disease	14AL.00	1							1	cad
+93460	History of atrial flutter	14AR.00		1						1	af
+103494	History of chronic obstructive pulmonary disease	14B3.12				1				1	pvd
+100139	History of myocardial infarction	14AT.00	1							1	mi
+12375	History of supraventricular tachycardia	14AQ.00								1	arrhythmia
+30712	History of ventricular tachycardia	14AP.00								1	arrhythmia
+5827	H/O: varicose veins	14A9.00				1				1	pvd
+19230	H/O: venous leg ulcer	14F5.00				1				1	pvd
+17236	H/O: insulin therapy	14P3.00							1	1	dm

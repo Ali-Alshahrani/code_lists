@@ -1,0 +1,574 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	subtype	dvt	pe	art_pvd	ven_pvd	pvd
+100541000006114	Thrombophlebitis of breast	G80y9	G80y900	69954004	116179016	vte				1	1
+100611000006111	Superficial thrombophlebitis of long saphenous vein	G8003	G800300	195396009	300654016	vte				1	1
+100641000006110	Superficial thrombophlebitis of short saphenous vein	G8004	G800400	195397000	300655015	vte				1	1
+100681000006116	Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction	G366	G366.00	194868001	299824016	other					1
+105536013	Intermittent claudication	G73z0	G73z000	63491006	105536013	pad			1		1
+111949011	Aortic aneurysm	G71	G71..00	67362008	111949011	pad			1		1
+1142481000000115	Healed lower limb ulcer	2G4E	2G4E.00	844271000000100	2190351000000113	other					1
+115961000006114	Superficial thrombophlebitis in pregnancy and the puerperium - delivered with postnatal complication	L4122	L412200	267283002	398447015	vte				1	1
+115971000006119	Superficial thrombophlebitis in pregnancy and the puerperium with antenatal complication	L4123	L412300	200226001	307734011	vte				1	1
+115981000006116	Superficial thrombophlebitis in pregnancy and the puerperium with postnatal complication	L4124	L412400	200227005	307735012	vte				1	1
+116001000006117	Superficial thrombophlebitis in pregnancy and puerperium NOS	L412z	L412z00	200222004	307727014	vte				1	1
+116021000006110	Superficial thrombophlebitis in pregnancy and the puerperium - delivered	L4121	L412100	200224003	307729012	vte				1	1
+116031000006113	Superficial thrombophlebitis in pregnancy/puerperium unsp	L4120	L412000	200222004	307727014	vte				1	1
+116051000006118	Thrombophlebitis of superficial veins of lower extremity	G800	G800.00	40283005	63670011	vte				1	1
+12009341000006119	Percutaneous transluminal angioplasty of coronary artery using drug eluting balloon catheter	^ESCT1200934		763725002	3643524015	pad			1		1
+12122231000006112	Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis	^ESCT1212223		12236991000119103	3644932011	pad			1		1
+12125761000006117	Bilateral atherosclerosis of lower limbs with gangrene	^ESCT1212576		15649941000119102	3646086019	pad			1		1
+12125891000006119	Ischaemia of right upper limb	^ESCT1212589		15712641000119101	3647387014	pad			1		1
+12126051000006110	Stenosis of both subclavian arteries	^ESCT1212605		15967301000119102	3646888017	pad			1		1
+12126451000006117	Bilateral gangrene of finger	^ESCT1212645		16007191000119100	3646092013	pad			1		1
+12126541000006118	Bilateral gangrene of toe	^ESCT1212654		16010831000119108	3647368015	pad			1		1
+12126881000006110	Right lower limb vein thrombophlebitis	^ESCT1212688		16014471000119103	3646610019	vte				1	1
+12126891000006113	Thrombophlebitis of vein of right lower limb	^ESCT1212689		16014471000119103	3646608016	vte				1	1
+12127251000006115	Thrombophlebitis of left jugular vein	^ESCT1212725		16025551000119102	3647177017	vte				1	1
+12127261000006118	Thrombophlebitis of right jugular vein	^ESCT1212726		16025591000119107	3647180016	vte				1	1
+12127301000006110	Chronic venous thrombosis	^ESCT1212730		16026431000119101	3646280017	vte				1	1
+1221083011	Abdominal aortic aneurysm which has ruptured	G713	G713.00	14336007	1221083011	pad			1		1
+1230211012	Renal artery atherosclerosis	G701	G701.00	45281005	1230211012	pad			1		1
+124092018	Erythrocyanosis	G73y7	G73y700	74725000	124092018	pad			1		1
+124301000006115	Subfascial ligation of varicose veins	7A661-2	7A66112	302357009	443996017	vte				1	1
+124373014	Thoracic aortic aneurysm without mention of rupture	G712	G712.00	74883004	124373014	pad			1		1
+126311000006111	Pulmonary artery stenosis	P735	P735.00	95441000	158093019	pad			1		1
+12704411000006113	Peripheral circulatory disorder associated with diabetes mellitus	^ESCT1270441		421895002	2618203015	pad			1		1
+12705151000006116	Repair of suprarenal abdominal aortic aneurysm with insertion of endovascular stent	^ESCT1270515		378481000000107	745491000000119	pad			1		1
+12729241000006100	Peripheral vascular disease NOS			646351000000103	.	other					1
+132581000006113	Spasm of peripheral artery	G73z1	G73z100	195313002	300519017	pad			1		1
+13502851000006110	Repair of abdominal aortic aneurysm with insertion of stent	^ESCT1350285		771453009	3706261016	pad			1		1
+13633701000006112	Vascular malformation	^ESCT1363370		783806000	3760433011	other					1
+13917911000006111	Thrombophlebitis due to procedure	^ESCT1391791		789672007	3793054016	vte				1	1
+13919631000006118	Limb pain at rest due to atherosclerosis of artery of lower limb	^ESCT1391963		792844003	3800138019	pad			1		1
+13919641000006111	Intermittent claudication due to atherosclerosis of artery of limb	^ESCT1391964		792845002	3800141011	pad			1		1
+13919651000006113	Ulcer of heel due to atherosclerosis of artery of lower limb	^ESCT1391965		792846001	3800183018	pad			1		1
+13919691000006119	Ulcer of ankle due to atherosclerosis of artery of lower limb	^ESCT1391969		792850008	3800184012	pad			1		1
+13944841000006117	Peripheral arterial disease	^ESCT1394484		840580004	3970952014	pad			1		1
+13944851000006115	Peripheral arterial vascular disease	^ESCT1394485		840580004	3970777019	pad			1		1
+13944861000006118	Peripheral artery disease	^ESCT1394486		840580004	3970954010	pad			1		1
+13944871000006113	Peripheral artery	^ESCT1394487		840581000	3902752017	pad			1		1
+13949481000006113	Deep vein thrombosis of lower extremity due to intravenous drug use	^ESCT1394948		860699005	3943674014	vte	1			1	1
+14077171000006115	Superficial thrombophlebitis in puerperium	^ESCT1407717		308137006	3786762010	vte				1	1
+14083841000006119	Gangrene due to type 1 diabetes mellitus	^ESCT1408384		420825003	3800377014	pad			1		1
+14083961000006111	Gangrene due to type 2 diabetes mellitus	^ESCT1408396		421631007	3800383012	pad			1		1
+14084111000006114	Peripheral circulatory disorder due to type 2 diabetes mellitus	^ESCT1408411		422166005	3800475019	pad			1		1
+14136911000006116	Ascending aortic aneurysm and bicuspid aortic valve	^ESCT1413691		890220003	4009950015	pad			1		1
+14180191000006115	Bilateral intermittent claudication of lower limbs due to atherosclerosis of nonbiological bypass graft	^ESCT1418019		16013431000119104	4013252016	pad			1		1
+14194181000006111	Acute DVT (deep vein thrombosis) of left peroneal vein	^ESCT1419418		46557031000119105	3993606014	vte	1			1	1
+14194871000006117	Acute DVT (deep vein thrombosis) of right peroneal vein	^ESCT1419487		843433951000119102	3993605013	vte	1			1	1
+14448521000006115	Thrombophlebitis of bilateral lower limbs in pregnancy	^ESCT1444852		1149472000	4556019017	vte				1	1
+14448551000006112	Thrombophlebitis of bilateral lower limbs in puerperium	^ESCT1444855		1149473005	4556022015	vte				1	1
+14492891000006112	Chronic DVT (deep venous thrombosis) of left peroneal vein	^ESCT1449289		856856651000119109	4572348015	vte	1			1	1
+14496451000006117	Deep venous thrombosis in puerperium	^ESCT1449645		56272000	4565406018	vte	1			1	1
+14502351000006115	Varicose veins of vulva in pregnancy	^ESCT1450235		237286004	4541972013	vte				1	1
+14752451000006117	Ventricular thrombus following acute myocardial infarction	^ESCT1475245		1208867006	5013229011	pad			1		1
+14859481000006119	Endovascular repair of thoracic aortic aneurysm using endovascular stent graft	^ESCT1485948		429679003	5069584011	pad			1		1
+14859491000006116	Endovascular repair of suprarenal aortic aneurysm using endovascular stent graft	^ESCT1485949		429706004	5069412016	pad			1		1
+1545571000006111	Percutaneous transluminal angioplasty of blood vessel of liver	78083	7808300	425712000	2675431013	other					1
+1548161000006117	Repair of infrarenal abdominal aortic aneurysm with insertion of endovascular stent	7A1B0	7A1B000	441612006	2816827015	pad			1		1
+1548361000006119	Percutaneous endarterectomy	7A548	7A54800	415071007	2533528016	pad			1		1
+1548451000006111	Percutaneous transluminal placement of peripheral stent in artery	7A566	7A56600	237451000000109	384541000000118	pad			1		1
+1549601000006119	Percutaneous venous thrombectomy	7A6Q	7A6Q.00	276977004	413381016	vte				1	1
+1587751000006111	Endovascular insertion of stent graft for suprarenal aortic aneurysm	7A1C1	7A1C100	281281000000101	483821000000117	pad			1		1
+1587761000006113	Repair of thoracic aortic aneurysm with insertion of endovascular stent graft	7A1C2	7A1C200	429679003	2695281014	pad			1		1
+1699111000006110	Ischaemic foot	EMISNQIS4		1699111000006106	1699111000006110	pad			1		1
+1701691000006119	Endovascular insertion of stent for infrarenal abdominal aortic aneurysm	7A1B8	7A1B800	441612006	1650871000000115	pad			1		1
+1701701000006119	Endovascular insertion of stent for suprarenal aortic aneurysm	7A1B9	7A1B900	378481000000107	745431000000115	pad			1		1
+1701721000006112	Endovascular ins stent for aortic dissection in any position	7A1BB	7A1BB00	725371005	3441820016	pad			1		1
+1701731000006110	Endovas insert stent for aortic aneurysm of bifurcation NEC	7A1BC	7A1BC00	307701005	451048019	pad			1		1
+1715241000006112	Vascular claudication	G73z0-2	G73z012	63491006	105536013	pad			1		1
+1728191000006112	Infrarenal abdominal aortic aneurysm	EMISNQIN59		1728191000006108	1728191000006112	pad			1		1
+1823971000006118	Peripheral arterial disease confirmed	EMISNQPE38		1823971000006102	1823971000006118	pad			1		1
+1847121000006114	Peripheral arterial disease	G734	G734.00	399957001	1787050010	pad			1		1
+1859371000006115	Wells DVT score - previous documented DVT	EMISNQWE12		1859371000006104	1859371000006115	vte	1			1	1
+192131000006114	Raynaud's syndrome	G730	G730.00	195295006	300496013	pad			1		1
+2162149016	Deep venous thrombosis	G801-1	G801.11	128053003	194647015	vte	1			1	1
+218531000000113	Atherosclerosis of aorta	G700	G700.00	81817003	135728018	pad			1		1
+2238301000000119	Thrombosis of dialysis arteriovenous fistula	Gy21	Gy21.00	866001000000102	2238301000000119	vte				1	1
+223991000000116	Aortoiliac disease	G700-1	G700.11	233956002	350529018	pad			1		1
+231301000006116	Phlebitis and thrombophlebitis NOS	G80z	G80z.00	195394007	300649013	vte				1	1
+231561000006110	Phlebitis or thrombophlebitis of CNS venous sinus NOS	F05z	F05z.00	192753009	296931015	vte				1	1
+232781000006115	Percutaneous transluminal angioplasty suprarenal artery NEC	7A353	7A35300	233258006	349468013	pad			1		1
+235491000006115	Peripheral arterio-venous aneurysm	P766	P766.00	234141001	350799011	other					1
+235501000006111	Peripheral arteriovenous malformation	P766-1	P766.11	275519006	411511016	other					1
+235911000006116	Peripheral vascular disease	G73z	G73z.00	400047006	1779317016	other					1
+239401000006112	Percutaneous transluminal angioplasty inf mesenteric art NEC	7A352	7A35200	233258006	349468013	pad			1		1
+239441000006114	Percutaneous transluminal angioplasty of brachial artery	7A281	7A28100	175455002	271653012	pad			1		1
+239511000006111	Percutaneous transluminal angioplasty of subclavian artery	7A280	7A28000	175454003	271652019	pad			1		1
+239541000006110	Percutaneous transluminal angioplasty sup mesenteric art NEC	7A351	7A35100	233272002	349504014	pad			1		1
+24379014	Ruptured abdominal aortic aneurysm	G713-1	G713.11	14336007	24379014	pad			1		1
+2526271000006117	Thrombophlebitis of deep femoral vein	^ESCTTH252627		1748006	4024012	vte	1			1	1
+2534187010	Deep vein thrombosis of leg related to intravenous drug use	G801E	G801E00	413956008	2534187010	vte	1			1	1
+2536174018	Dissecting aortic aneurysm	G710	G710.00	308546005	2536174018	pad			1		1
+2538491000006119	Superficial thrombophlebitis	^ESCTSU253849		2477008	5234016	vte				1	1
+254104013	O/E - varicose veins	2482	2482.00	163052007	254104013	vte				1	1
+2566711000006111	Poor peripheral circulation	^ESCTPO256671		4249000	8166016	pad			1		1
+2608401000000118	Perianal venous thrombosis	G84A-1		449815008	2608401000000118	vte				1	1
+2675439010	Pulmonary thromboendarterectomy	7A0B0	7A0B000	426900002	2675439010	pad		1	1		1
+271447017	Emergency repair of aortic aneurysm	7A13-1	7A13.11	175297006	271447017	pad			1		1
+271507010	Endarterectomy of aorta and patch repair of aorta	7A190	7A19000	175346001	271507010	pad			1		1
+271508017	Endarterectomy of aorta	7A191	7A19100	49187005	81933015	pad			1		1
+271518010	Percutaneous transluminal angioplasty of aorta NEC	7A1A1	7A1A100	233263005	349482013	pad			1		1
+271607017	Endarterectomy of subclavian artery	7A265	7A26500	240923000	360856012	pad			1		1
+271608010	Endarterectomy of brachial artery	7A266	7A26600	233299000	349565013	pad			1		1
+271613014	Endarterectomy of axillary artery	7A26B	7A26B00	450512004	2916090010	pad			1		1
+271670016	Percutaneous transluminal angioplasty of axillary artery	7A28C	7A28C00	175464007	271670016	pad			1		1
+271688012	Endarterectomy of renal artery	7A303	7A30300	175477003	271688012	pad			1		1
+271738014	Endarterectomy of coeliac artery	7A33C	7A33C00	233302000	349569019	pad			1		1
+271740016	Endarterectomy of superior mesenteric artery	7A33E	7A33E00	233303005	349570018	pad			1		1
+271746010	Endarterectomy of visceral branch of abdominal aorta NEC	7A33L	7A33L00	392031002	1486017013	pad			1		1
+271795010	Percutaneous transluminal angioplasty of coeliac artery NEC	7A350	7A35000	233270005	349498018	pad			1		1
+271900018	Percutaneous transluminal angioplasty of iliac artery	7A440	7A44000	175612005	271900018	pad			1		1
+272013012	Femoral endarterectomy	7A492	7A49200	16589005	28064017	pad			1		1
+272014018	Endarterectomy of popliteal artery	7A493	7A49300	233310004	349583017	pad			1		1
+272052017	Percutaneous transluminal angioplasty of femoral artery	7A4B0	7A4B000	175715003	272052017	pad			1		1
+2762941000006113	Endarterectomy of femoral artery	^ESCTEN276294		16589005	2535821017	pad			1		1
+2765831000006118	Deep thrombophlebitis	^ESCTDE276583		16750002	28357013	vte	1			1	1
+280561000006111	Non-insulin-dependent diabetes mellitus with peripheral angiopathy	C109F	C109F00	314902007	459307013	pad			1		1
+2805751000006116	Repair of thoracic aortic aneurysm	^ESCTRE280575		19262003	32480018	pad			1		1
+281211000006117	Gangrene associated with type 2 diabetes mellitus	C1095	C109500	421631007	2967779019	pad			1		1
+2829111000006111	Peripheral venous insufficiency	^ESCTPE282911		20696009	34824018	vte				1	1
+2837981000006113	Thrombosis of lateral venous sinus	^ESCTTH283798		21258007	35718011	vte				1	1
+2888831000006111	Varicose veins of lower extremity with inflammation	^ESCTVA288883		24366001	40874013	vte				1	1
+2888841000006118	Varicose veins with inflammation of lower extremity	^ESCTVA288884		24366001	40875014	vte				1	1
+292523015	Diabetes mellitus NOS with peripheral circulatory disorder	C107z	C107z00	421895002	2618203015	pad			1		1
+292541011	Type 1 diabetes mellitus with gangrene	C10E6	C10E600	420825003	2618207019	pad			1		1
+292543014	Type I diabetes mellitus with gangrene	C10E6-1	C10E611	420825003	2618207019	pad			1		1
+292582011	Type II diabetes mellitus with gangrene	C10F5-1	C10F511	421631007	2618206011	pad			1		1
+292583018	Type 2 diabetes mellitus with gangrene	C10F5	C10F500	421631007	2618206011	pad			1		1
+2926851000006118	Chronic ulcer of lower limb	^ESCTCH292685		26649005	3035294018	other					1
+296940016	Thrombosis of central nervous system venous sinus NOS	F051z	F051z00	192759008	296937016	vte				1	1
+296947018	Thrombophlebitis of central nervous system venous sinuses	F053	F053.00	192769002	296947018	vte				1	1
+296948011	Thrombophlebitis of cavernous sinus	F0530	F053000	192770001	296948011	vte				1	1
+296949015	Thrombophlebitis of superior longitudinal venous sinus	F0531	F053100	192771002	296949015	vte				1	1
+296950015	Thrombophlebitis lateral venous sinus	F0532	F053200	192772009	296950015	vte				1	1
+296951016	Thrombophlebitis of central nervous system venous sinus NOS	F053z	F053z00	312586003	456333018	vte				1	1
+300433019	Extremity artery atheroma	G702	G702.00	195254008	300433019	pad			1		1
+300434013	Extremity artery atheroma NOS	G702z	G702z00	195254008	300433019	pad			1		1
+300437018	Thoracic aortic aneurysm which has ruptured	G711	G711.00	195258006	300437018	pad			1		1
+300438011	Ruptured thoracic aortic aneurysm	G711-1	G711.11	195258006	300438011	pad			1		1
+300441019	Abdominal aortic aneurysm	G714	G714.00	233985008	350580017	pad			1		1
+300442014	AAA - Abdominal aortic aneurysm without mention of rupture	G714-1	G714.11	233985008	350580017	pad			1		1
+300445011	Ruptured aortic aneurysm	G715	G715.00	73067008	121362018	pad			1		1
+300446012	Thoracoabdominal aortic aneurysm, ruptured	G7150	G715000	195265003	300446012	pad			1		1
+300447015	Aortic aneurysm without mention of rupture NOS	G716	G716.00	67362008	111949011	pad			1		1
+300448013	Thoracoabdominal aortic aneurysm	G7160	G716000	233984007	350579015	pad			1		1
+300449017	Leaking abdominal aortic aneurysm	G718	G718.00	195268001	300449017	pad			1		1
+300450017	Aortic aneurysm NOS	G71z	G71z.00	67362008	111949011	pad			1		1
+300496013	Raynaud's disease	G7300	G730000	195295006	300496013	pad			1		1
+300500010	Raynaud's syndrome NOS	G730z	G730z00	195295006	300496013	pad			1		1
+300503012	Thromboangiitis obliterans NOS	G731z	G731z00	52403007	87208017	pad			1		1
+300504018	Peripheral gangrene	G732	G732.00	195301007	300504018	pad			1		1
+300505017	Gangrene of toe	G7320	G732000	195302000	300505017	pad			1		1
+300506016	Gangrene of foot	G7321	G732100	195303005	300506016	pad			1		1
+300507013	Gangrene of finger	G7322	G732200	195304004	300507013	pad			1		1
+300508015	Gangrene of thumb	G7323	G732300	195305003	300508015	pad			1		1
+300509011	Gangrene of hand	G7324	G732400	195306002	300509011	pad			1		1
+300510018	Other specified peripheral vascular disease	G73y	G73y.00	400047006	1779317016	other					1
+300511019	Peripheral angiopathic disease EC NOS	G73y1	G73y100	400047006	1779317016	other					1
+300512014	Acroparaesthesia - unspecified	G73y6	G73y600	79256006	131501015	other					1
+300514010	Other specified peripheral vascular disease NOS	G73yz	G73yz00	400047006	1779317016	other					1
+300515011	Peripheral vascular disease NOS	G73zz	G73zz00	400047006	1779317016	other					1
+300550015	Peripheral arterial embolism and thrombosis NOS	G742z	G742z00	195318006	300534011	pad			1		1
+300556014	Embolism and thrombosis of the iliac artery unspecified	G74y3	G74y300	266262004	395794011	pad			1		1
+300649013	Phlebitis and thrombophlebitis	G80	G80..00	195394007	300649013	vte				1	1
+300659014	Thrombophlebitis of a superficial leg vein NOS	G8005	G800500	40283005	63670011	vte				1	1
+300660016	Superficial phlebitis and thrombophlebitis of the leg NOS	G800z	G800z00	40283005	63670011	vte				1	1
+300672010	Thrombophlebitis of the femoral vein	G8016	G801600	195410000	300672010	vte				1	1
+300673017	Thrombophlebitis of the popliteal vein	G8017	G801700	195411001	300673017	vte				1	1
+300674011	Thrombophlebitis of the anterior tibial vein	G8018	G801800	195412008	300674011	vte				1	1
+300675012	Thrombophlebitis of the dorsalis pedis vein	G8019	G801900	770111009	3698589012	vte				1	1
+300676013	Thrombophlebitis of the posterior tibial vein	G801A	G801A00	195414009	300676013	vte				1	1
+300677016	Thrombophlebitis of deep veins of lower extremity	G801B	G801B00	40198004	63532015	vte	1			1	1
+300681016	Deep vein phlebitis and thrombophlebitis of the leg NOS	G801z	G801z00	266267005	395801015	vte	1			1	1
+300682011	Phlebitis and thrombophlebitis of the leg NOS	G802	G802.00	266267005	395801015	vte				1	1
+300691010	Thrombophlebitis of the common iliac vein	G80y4	G80y400	195425000	300691010	vte				1	1
+300692015	Thrombophlebitis of the internal iliac vein	G80y5	G80y500	195426004	300692015	vte				1	1
+300695018	Thrombophlebitis of the external iliac vein	G80y6	G80y600	195427008	300695018	vte				1	1
+300696017	Thrombophlebitis of iliac vein	G80y7	G80y700	42861008	71531019	vte				1	1
+300697014	Phlebitis and thrombophlebitis of the iliac vein NOS	G80y8	G80y800	276494008	412645018	vte				1	1
+300698016	Other phlebitis and thrombophlebitis NOS	G80yz	G80yz00	195394007	300649013	vte				1	1
+300699012	Phlebitis and thrombophlebitis NOS	G80zz	G80zz00	195394007	300649013	vte				1	1
+300701012	Thrombophlebitis	G80z1	G80z100	64156001	106650018	vte				1	1
+300704016	Thromboembolism of vein	G82	G82..00	429098002	2692478010	vte				1	1
+300710016	Embolism and thrombosis of the vena cava	G822	G822.00	195437003	300710016	vte				1	1
+300721013	Varicose veins of the leg with ulcer	G830	G830.00	195445008	300721013	vte				1	1
+300723011	Varicose veins of the leg with ulcer and eczema	G832	G832.00	195447000	300723011	vte				1	1
+300724017	Varicose veins of the leg with rupture	G833	G833.00	195448005	300724017	vte				1	1
+300727012	Varicose veins of lower extremity	G834	G834.00	72866009	121026013	vte				1	1
+300730017	Varicose veins of the leg NOS	G83z	G83z.00	72866009	1788137014	vte				1	1
+300795013	Other specified varicose veins	G85y	G85y.00	128060009	194654014	vte				1	1
+300796014	Varicose veins	G85z	G85z.00	128060009	474288018	vte				1	1
+300848019	Chronic venous insufficiency	G8yy0	G8yy000	20696009	34827013	vte				1	1
+300959012	[X]Atherosclerosis of other arteries	Gyu70	Gyu7000	72092001	119795011	pad			1		1
+300960019	[X]Aortic aneurysm of unspecified site, ruptured	Gyu71	Gyu7100	67362008	111949011	pad			1		1
+300961015	[X]Aortic aneurysm of unspecified site, nonruptured	Gyu72	Gyu7200	67362008	111949011	pad			1		1
+300963017	[X]Other specified peripheral vascular diseases	Gyu74	Gyu7400	400047006	1779317016	other					1
+300970017	[X]Peripheral angiopathy in diseases classified elsewhere	Gyu7A	Gyu7A00	400047006	1779317016	other					1
+300982014	[X]Varicose veins of other specified sites	Gyu86	Gyu8600	128060009	194654014	vte				1	1
+302011	Diabetic peripheral angiopathy	G73y0	G73y000	127014009	302011	pad			1		1
+3064701000006111	Thrombectomy and repair of venous graft	^ESCTTH306470		35052002	58496016	vte				1	1
+307698018	Varicose veins of legs in pregnancy and the puerperium	L410	L410.00	200204002	307698018	vte				1	1
+307706016	Varicose veins of legs in pregnancy and puerperium NOS	L410z	L410z00	200204002	307698018	vte				1	1
+307727014	Superficial thrombophlebitis in pregnancy and the puerperium	L412	L412.00	200222004	307727014	vte				1	1
+3085751000006113	Chronic trophic ulcer of lower limb	^ESCTCH308575		36347008	60660010	other					1
+3123251000006118	Atherosclerosis	^ESCTAT312325		38716007	64424015	pad			1		1
+3140591000006115	Generalised atherosclerosis	^ESCTGE314059		39823006	492262011	pad			1		1
+317347010	[D]Gangrene of toe in diabetic	R0542	R054200	195302000	300505017	pad			1		1
+317348017	[D]Widespread diabetic foot gangrene	R0543	R054300	195303005	300506016	pad			1		1
+3185821000006116	Excision of subcutaneous vascular malformation of extremity	^ESCTEX318582		42534004	70956010	other					1
+3230441000006110	Atherosclerosis of renal artery	^ESCTAT323044		45281005	75487016	pad			1		1
+325065019	Thrombophlebitis as a complication of care	SP121	SP12100	213219006	325065019	vte				1	1
+325206014	Thrombophlebitis after infusion	SP322	SP32200	213310008	325206014	vte				1	1
+3422651000006111	Percutaneous transluminal angioplasty of renal artery	^ESCTPE342265		56801004	94463015	pad			1		1
+349678018	Aortic aneurysm repair	7A14-1	7A14.11	233370007	349678018	pad			1		1
+349689013	Y graft of abdominal aortic aneurysm - emergency	7A112-1	7A11211	233374003	2669093011	pad			1		1
+349693019	Tube graft of Abdominal aortic aneurysm	7A144-1	7A14411	233376001	349693019	pad			1		1
+349694013	Tube graft abdominal aortic aneurysm - emergency	7A134-1	7A13411	233377005	2669005014	pad			1		1
+350533013	Peripheral ischaemia	G73-3	G73..13	233958001	350533013	pad			1		1
+350535018	Peripheral ischaemic vascular disease	G73-1	G73..11	233958001	350535018	pad			1		1
+350540014	Upper limb ischaemia	ESCTUP1		233959009	350540014	pad			1		1
+350662018	Saphenous vein thrombophlebitis	G800-2	G800.12	234040003	350662018	vte				1	1
+350683012	Varicose veins of leg with long saphenous vein distribution	G8340	G834000	234055007	350683012	vte				1	1
+350684018	Varicose veins of leg with short saphenous vein distribution	G8341	G834100	234056008	350684018	vte				1	1
+350892013	Arteriovenous fistula thrombosis	SP07N	SP07N00	234205007	350892013	vte				1	1
+3520603010	Mural thrombus of right ventricle	^ESCT1172528		12367281000119109	3520603010	vte				1	1
+3526080018	Mural thrombus of right ventricle following acute myocardial infarction	^ESCT1167259		736978009	3526080018	vte				1	1
+3526082014	Stenosis of left subclavian artery	^ESCT1173373		18000001000004101	3526082014	pad			1		1
+3532661000006118	IC - Intermittent claudication	^ESCTIC353266		63491006	1232467011	pad			1		1
+355723016	Varicose veins - obstetric	L41-1	L41..11	237345008	355723016	vte				1	1
+355724010	Vulval obstetric varicose veins	L411-2	L411.12	237346009	355724010	vte				1	1
+355726012	Perineal obstetric varicose veins	L411-1	L411.11	237347000	355726012	vte				1	1
+357881000000111	Repair of thoracic aortic aneurysm with insertion of endovascular stent	7A1B2	7A1B200	378491000000109	745451000000110	pad			1		1
+357895013	Ischaemic leg ulcer	M271-2	M271.12	238793001	357895013	pad			1		1
+358041000000114	Percutaneous transluminal venous thrombolysis NEC	7A6S3	7A6S300	276985008	413389019	vte				1	1
+359071000000111	Percutaneous transluminal angioplasty of vein	7A6S0	7A6S000	276890005	413244017	vte				1	1
+359191000000114	Endovascular stenting of aortic dissection in any position	7A1B3	7A1B300	725371005	3441820016	pad			1		1
+359851000000113	Repair of suprarenal abdominal aortic aneurysm with insertion of endovascular stent	7A1B1	7A1B100	378481000000107	745431000000115	pad			1		1
+360031000000113	Thrombectomy of arteriovenous fistula	7A605	7A60500	427992007	2694416018	vte				1	1
+3627911000006115	Varicose veins of lower extremity with ulcer AND inflammation	^ESCTVA362791		69352009	115208011	vte				1	1
+3636857018	Lipodermatosclerosis of lower limb due to varicose veins of lower limb	^ESCT1169286		762536003	3636857018	vte				1	1
+3636859015	Atrophic blanche of lower limb due to varicose veins of lower limb	^ESCT1169288		762537007	3636859015	vte				1	1
+3654851000006117	Thrombectomy of venous graft	^ESCTTH365485		71007004	117941017	vte				1	1
+3685041000006115	Varicose veins of lower limb	^ESCTVA368504		72866009	2920616012	vte				1	1
+3717321000006114	Thoracic aortic aneurysm without rupture	^ESCTTH371732		74883004	124372016	pad			1		1
+3733811000006111	Abdominal aortic aneurysm without rupture	^ESCTAB373381		75878002	126029017	pad			1		1
+3745481000006115	Peripheral arterial bypass	^ESCTPE374548		76580007	127169013	pad			1		1
+375462013	Claudication distance	16I	16I..00	252094004	375462013	pad			1		1
+3767271000006119	Pulmonary venous thrombosis	^ESCTPU376727		77892009	129267013	vte		1		1	1
+3830431000006112	Atherosclerosis aorta	^ESCTAT383043		81817003	2923328010	pad			1		1
+394328011	Iliac endarterectomy and patch	7A420-2	7A42012	265517007	394328011	pad			1		1
+394329015	Endarterectomy of iliac artery	7A421	7A42100	307800001	451173017	pad			1		1
+394346017	Endarterectomy and patch repair of artery	7A520	7A52000	450696008	2916891010	pad			1		1
+394359013	Stripping of lower limb varicose veins	7A692	7A69200	9365003	16429014	vte				1	1
+395791015	Other peripheral vascular disease	G73	G73..00	400047006	1779317016	other					1
+395792010	Raynaud's phenomenon	G7301	G730100	266261006	395792010	pad			1		1
+395801015	Deep vein phlebitis and thrombophlebitis of the leg	G801	G801.00	266267005	395801015	vte	1			1	1
+395802010	Other phlebitis and thrombophlebitis	G80y	G80y.00	195394007	300649013	vte				1	1
+395803017	Venous thrombosis	G82z1	G82z100	111293003	178522012	vte				1	1
+3962581000006110	Thrombosis of cavernous venous sinus	^ESCTTH396258		89980009	149150017	vte				1	1
+3964661000006114	Subcortical atherosclerotic dementia	^ESCTSU396466		90099008	1235536019	pad			1		1
+399941017	Non-pressure ulcer lower limb	M271	M271.00	267816005	399941017	other					1
+4055161000006116	Ulcer of lower limb	^ESCTUL405516		95344007	512079013	other					1
+4056731000006118	Venous intermittent claudication	^ESCTVE405673		95443002	158095014	vte				1	1
+4056741000006111	Venous claudication	^ESCTVE405674		95443002	158096010	vte				1	1
+4056841000006116	Thrombophlebitis of superficial veins of upper extremities	^ESCTTH405684		95451004	158105018	vte				1	1
+4056851000006119	Superficial thrombophlebitis of arm	^ESCTSU405685		95451004	512136013	vte				1	1
+410960011	Y graft abdominal Aortic aneurysm	7A113-1	7A11311	275037003	410960011	pad			1		1
+410964019	Endarterectomy and patch repair of common iliac artery	7A420-1	7A42011	275041004	410964019	pad			1		1
+410965018	Endarterectomy of common iliac artery	7A421-1	7A42111	233304004	349571019	pad			1		1
+410987010	Endarterectomy and repair	7A520-1	7A52011	275064002	410987010	pad			1		1
+411512011	Claudication	G73z0-1	G73z011	63491006	3559347018	pad			1		1
+411635018	Varicose veins of the leg with eczema	G831	G831.00	275700003	411635018	vte				1	1
+412645018	Phlebitis and/or thrombophlebitis of iliac vein	G80y-1	G80y.11	276494008	412645018	vte				1	1
+41903014	Acrocyanosis	G73y2	G73y200	25003006	41903014	other					1
+419640012	Thrombosis of inferior vena cava	G8220	G822000	281595001	419640012	vte				1	1
+420621000006111	[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites	Gyu80	Gyu8000	195394007	300649013	vte	1			1	1
+429878012	Acquired renal artery stenosis	G703	G703.00	289923007	429878012	pad			1		1
+4392201000006111	Diabetic peripheral vascular disease	^ESCTDI439220		127014009	205224017	pad			1		1
+4392221000006118	Peripheral angiopathy due to diabetes mellitus	^ESCTPE439222		127014009	3313388015	pad			1		1
+4403261000006113	DVT - Deep vein thrombosis	^ESCTDV440326		128053003	2162148012	vte	1			1	1
+4403291000006117	Deep venous thrombosis of pelvic vein	^ESCTDE440329		128055005	194649017	vte	1			1	1
+4427851000006112	Atherosclerotic occlusive disease	^ESCTAT442785		129573006	208364016	pad			1		1
+4427861000006114	Atherosclerotic ischaemic disease	^ESCTAT442786		129573006	208362017	pad			1		1
+4427871000006119	Atherosclerotic ischemic disease	^ESCTAT442787		129573006	208363010	pad			1		1
+443199013	Ischaemic foot	G733	G733.00	301755001	443199013	pad			1		1
+443820016	Renal artery stenosis	P7690	P769000	302233006	443820016	pad			1		1
+444906018	Atherosclerotic renal artery stenosis	G7010	G701000	302910002	444906018	pad			1		1
+444907010	ARAS - Atherosclerotic renal artery stenosis	G7010-1	G701011	302910002	444907010	pad			1		1
+451447016	Varicose veins of legs in pregnancy	L4105	L410500	308133005	451447016	vte				1	1
+451448014	Varicose veins of legs in the puerperium	L4106	L410600	308134004	451448014	vte				1	1
+451451019	Thrombophlebitis of legs in pregnancy	L4125-1	L412511	308136002	451451019	vte				1	1
+451452014	Superficial thrombophlebitis in pregnancy	L4125	L412500	308136002	451452014	vte				1	1
+451453016	Superficial thrombophlebitis in the puerperium	L4126	L412600	308137006	451453016	vte				1	1
+452963015	Right ventricular thrombosis	G5yy8	G5yy800	309518001	452963015	vte				1	1
+454901000006118	Acroparaesthesia - Schultze's type	G73y4	G73y400	57105000	1216757012	other					1
+456363010	Percutaneous transluminal angioplasty of vascular graft	7A6H4	7A6H400	312611005	456363010	pad			1		1
+458502011	Ruptured suprarenal aortic aneurysm	G7130	G713000	314184006	458502011	pad			1		1
+458503018	Juxtarenal aortic aneurysm	G7140	G714000	314185007	458503018	pad			1		1
+458504012	Inflammatory abdominal aortic aneurysm	G7141	G714100	314186008	458504012	pad			1		1
+458505013	Iliac artery occlusion	G76z0	G76z000	314187004	458505013	pad			1		1
+459306016	Type II diabetes mellitus with peripheral angiopathy	C10FF-1	C10FF11	314902007	459306016	pad			1		1
+459308015	Type 2 diabetes mellitus with peripheral angiopathy	C10FF	C10FF00	314902007	459308015	pad			1		1
+4666401000006117	Repair of aortic aneurysm using bifurcation graft	^ESCTRE466640		175282008	271419016	pad			1		1
+4666411000006119	AAA - Repair of abdominal aortic aneurysm using bifurcation graft	^ESCTAA466641		175282008	271420010	pad			1		1
+470121011	Syphilitic aortic aneurysm	A930	A930.00	12232008	470121011	pad			1		1
+4778681000006112	Raynaud disease	^ESCTRA477868		195295006	2839806017	pad			1		1
+4778691000006110	Raynauds disease	^ESCTRA477869		195295006	2920873014	pad			1		1
+4778771000006116	Peripheral artery spasm	^ESCTPE477877		195313002	300519017	pad			1		1
+4785671000006113	Deep venous thrombosis of the superior mesenteric vein	^ESCTDE478567		197001004	302982017	vte	1			1	1
+488221000000111	Abdominal aortic aneurysm stenting	7A1B6	7A1B600	307701005	451048019	pad			1		1
+488301000006118	Aortic aneurysm - syphilitic	G717	G717.00	12232008	470121011	pad			1		1
+496971000006110	Atheroscleritic retinopathy	F4211-2	F421112	95691008	158518015	pad			1		1
+496981000006113	Atherosclerosis	G70	G70..00	72092001	119795011	pad			1		1
+496991000006111	Atherosclerotic cardiovascular disease	G342	G342.00	72092001	119795011	pad			1		1
+497011000006117	Atherosclerotic retinopathy	F4211	F421100	95691008	158518015	pad			1		1
+497564017	DVT - deep venous thrombosis, postnatal	L414-1	L414.11	56272000	497564017	vte	1			1	1
+499570016	SVCO - Superior vena cava obstruction	G8y22-1	G8y2211	63363004	499570016	vte				1	1
+5005001000006115	Septic thrombophlebitis of straight sinus	^ESCTSE500500		230222003	345028013	vte				1	1
+501531000006116	Babcock subcutaneous enucleation of varicose veins	7A693-1	7A69311	265545001	394360015	vte				1	1
+5040281000006119	Percutaneous endarterectomy of coronary artery	^ESCTPE504028		232726007	348663015	pad			1		1
+5048891000006117	Endarterectomy of external iliac artery	^ESCTEN504889		233306002	349575011	pad			1		1
+5048901000006118	EIA - Endarterectomy of the external iliac artery	^ESCTEI504890		233306002	349576012	pad			1		1
+5048911000006115	Endarterectomy of common femoral artery	^ESCTEN504891		233307006	349578013	pad			1		1
+5048921000006111	CFA - Endarterectomy of the common femoral artery	^ESCTCF504892		233307006	349577015	pad			1		1
+5048931000006114	Endarterectomy of superficial femoral artery	^ESCTEN504893		233308001	349579017	pad			1		1
+5048951000006119	Endarterectomy of profunda femoris	^ESCTEN504895		233309009	349582010	pad			1		1
+5049881000006112	Repair of aortic aneurysm using straight graft	^ESCTRE504988		233376001	349691017	pad			1		1
+5049891000006110	AAA - Repair of abdominal aortic aneurysm using straight graft	^ESCTAA504989		233376001	349692012	pad			1		1
+5051011000006112	Multiple avulsions of varicose veins	^ESCTMU505101		233459001	349811016	vte				1	1
+5057591000006116	Pulmonary thromboembolism	^ESCTPU505759		233935004	350497014	vte		1		1	1
+5057601000006112	PTE - Pulmonary thromboembolism	^ESCTPT505760		233935004	350498016	vte		1		1	1
+5057611000006110	PE - Pulmonary thromboembolism	^ESCTPE505761		233935004	350499012	vte		1		1	1
+5057911000006116	Abdominal aortic atherosclerosis	^ESCTAB505791		233955003	350527016	pad			1		1
+5057921000006112	Atherosclerosis of abdominal aorta	^ESCTAT505792		233955003	350528014	pad			1		1
+5057931000006110	Aortoiliac atherosclerosis	^ESCTAO505793		233956002	350530011	pad			1		1
+5057981000006111	Peripheral ischemic vascular disease	^ESCTPE505798		233958001	350534019	pad			1		1
+5058001000006116	Peripheral ischemia	^ESCTPE505800		233958001	350536017	pad			1		1
+5058051000006117	Critical upper limb ischaemia	^ESCTCR505805		233960004	350541013	pad			1		1
+5058061000006115	Critical upper limb ischemia	^ESCTCR505806		233960004	350542018	pad			1		1
+5058071000006110	Lower limb ischaemia	^ESCTLO505807		233961000	350544017	pad			1		1
+5058081000006113	Lower limb ischemia	^ESCTLO505808		233961000	350543011	pad			1		1
+5058111000006119	Critical lower limb ischaemia	^ESCTCR505811		233962007	350547012	pad			1		1
+5058121000006110	Critical lower limb ischemia	^ESCTCR505812		233962007	350548019	pad			1		1
+5058171000006111	Common iliac artery stenosis	^ESCTCO505817		233967001	350554018	pad			1		1
+5058191000006112	External iliac artery stenosis	^ESCTEX505819		233968006	350557013	pad			1		1
+5058441000006113	AAA - Abdominal aortic aneurysm	^ESCTAA505844		233985008	350581018	pad			1		1
+5058631000006117	Aortic root dissection	^ESCTAO505863		233996000	350602016	pad			1		1
+5058671000006119	Type B aortic dissection	^ESCTTY505867		233997009	350606018	pad			1		1
+5059201000006116	Superficial thrombophlebitis of cephalic vein	^ESCTSU505920		234036007	350658012	vte				1	1
+5059211000006118	Superficial thrombophlebitis of basilic vein	^ESCTSU505921		234037003	350659016	vte				1	1
+5059361000006113	Recurrent idiopathic thrombophlebitis	^ESCTRE505936		234048005	350675018	vte				1	1
+5059391000006117	Venous insufficiency of leg	^ESCTVE505939		234050002	350678016	vte				1	1
+5059401000006115	Venous insufficiency of lower extemity	^ESCTVE505940		234050002	3473535011	vte				1	1
+5059411000006117	Venous insufficiency of lower limb	^ESCTVE505941		234050002	3473536012	vte				1	1
+5059421000006113	Primary venous insufficiency of leg	^ESCTPR505942		234051003	350679012	vte				1	1
+5059431000006111	Secondary venous insufficiency of leg	^ESCTSE505943		234052005	350680010	vte				1	1
+5059471000006114	Calf perforator varicose veins	^ESCTCA505947		234057004	350685017	vte				1	1
+5137151000006112	Excision of vascular malformation of upper limb	^ESCTEX513715		239611000	359041012	other					1
+52299017	Thrombophlebitis migrans	G821	G821.00	31268005	52299017	vte				1	1
+5294691000006114	Peripheral pulmonary artery disease	^ESCTPE529469		251042004	374177017	pad			1		1
+5294721000006116	Peripheral pulmonary artery A/V aneurysm	^ESCTPE529472		251045002	374180016	pad			1		1
+5294731000006118	Multiple peripheral pulmonary artery stenoses	^ESCTMU529473		251046001	374181017	pad			1		1
+5332391000006114	Peripheral pulmonary artery stenosis	^ESCTPE533239		253631001	377662015	pad			1		1
+5332401000006111	PPS - Peripheral pulmonary stenosis	^ESCTPP533240		253631001	377661010	pad			1		1
+5492261000006112	Raynaud phenomenon	^ESCTRA549226		266261006	2837803016	pad			1		1
+5492341000006118	Simple varicose veins	^ESCTSI549234		266329009	396064016	vte				1	1
+5492351000006116	Ruptured varicose veins	^ESCTRU549235		266330004	396065015	vte				1	1
+5492361000006119	Bleeding varicose veins	^ESCTBL549236		266330004	465561000000112	vte				1	1
+5560171000006116	Aortic thromboembolism	^ESCTAO556017		274101000	409861010	pad			1		1
+5592701000006112	Percutaneous endarterectomy of common femoral artery	^ESCTPE559270		276933006	413302014	pad			1		1
+5592751000006111	Percutaneous endarterectomy of superficial femoral artery	^ESCTPE559275		276937007	413309017	pad			1		1
+5595921000006112	Atherosclerotic aneurysm	^ESCTAT559592		277198009	413643015	pad			1		1
+5653431000006118	Thrombosis of superior vena cava	^ESCTTH565343		281596000	419641011	vte				1	1
+56991000006114	Varicose veins of perineum and vulva in pregnancy and the puerperium	L411	L411.00	267282007	398446012	vte				1	1
+5843611000006117	Varicose veins of lower extremity without ulcer AND without inflammation	^ESCTVA584361		297713002	438270010	vte				1	1
+586241000006116	Non-pyogenic venous sinus thrombosis	G676	G676.00	195229008	300392014	vte				1	1
+5886771000006119	Subclavian artery stenosis	^ESCTSU588677		300921000	442120011	pad			1		1
+5900221000006119	Type A aortic dissection	^ESCTTY590022		301899003	443405016	pad			1		1
+5912511000006114	Septic thrombophlebitis of sagittal sinus	^ESCTSE591251		302880005	444867013	vte				1	1
+5935511000006114	Varicose veins of lower extremity with ulcer	^ESCTVA593551		304930004	447342011	vte				1	1
+5935521000006118	Varicose veins with ulcer of lower extremity	^ESCTVA593552		304930004	447343018	vte				1	1
+5989831000006113	Right ventricular thrombus	^ESCTRI598983		309518001	452962013	vte				1	1
+6017301000006114	Iliac artery stenosis	^ESCTIL601730		312496009	456227013	pad			1		1
+6018501000006115	Venous thrombosis, phlebitis and thrombophlebitis	^ESCTVE601850		312585004	456332011	vte				1	1
+6021811000006117	Common femoral artery stenosis	^ESCTCO602181		312829002	456617013	pad			1		1
+6029061000006110	Varicose veins of leg in long saphenous vein distribution with eczema	^ESCTVA602906		313346003	457237012	vte				1	1
+6057441000006110	Repair of thoracoabdominal aortic aneurysm	^ESCTRE605744		315362007	459876014	pad			1		1
+616351000006115	Diabetes mellitus with gangrene	C107-1	C107.11	422275004	2616612015	pad			1		1
+616441000006113	Peripheral vascular disorder due to diabetes mellitus	C107	C107.00	421895002	3688501014	pad			1		1
+616561000006113	Diabetes mellitus, adult with gangrene	C1072	C107200	421631007	2618206011	pad			1		1
+616581000006115	Diabetes mellitus, adult, + peripheral circulatory disorder	C1071	C107100	422166005	2618204014	pad			1		1
+616591000006117	Diabetes mellitus, juvenile +peripheral circulatory disorder	C1070	C107000	421365002	2618205010	pad			1		1
+616831000006118	Diabetes with gangrene	C107-2	C107.12	422275004	2616612015	pad			1		1
+61977017	Erythromelalgia	G73y8	G73y800	37151006	61977017	pad			1		1
+6219871000006110	Isolated primary Raynaud's phenomenon			361131008	.	pad			1		1
+6219891000006111	Isolated primary Raynaud phenomenon	^ESCTIS621989		361131008	2838264019	pad			1		1
+632731000006118	Antenatal DVT	L413-1	L413.11	49956009	495551019	vte	1			1	1
+6348271000006116	Thromboembolism	^ESCTTH634827		371039008	1228915016	vte					1
+6376851000006113	Aneurysm of aortic root	^ESCTAN637685		373134008	1211648014	pad			1		1
+641501000006112	Endarterectomy & patch rep visceral branch abdomin aorta NEC	7A33K	7A33K00	275064002	410987010	pad			1		1
+641511000006110	Endarterectomy & patch repair inferior mesenteric artery NEC	7A33A	7A33A00	275064002	410987010	pad			1		1
+641521000006119	Endarterectomy & patch repair superior mesenteric artery NEC	7A339	7A33900	233303005	349570018	pad			1		1
+641541000006114	Endarterectomy of axillary artery and patch repair of axillary artery	7A268	7A26800	175423002	271610012	pad			1		1
+641551000006111	Endarterectomy of brachial artery and patch repair of brachial artery	7A269	7A26900	175424008	271611011	pad			1		1
+641571000006118	Endarterectomy and patch repair of coeliac artery NEC	7A338	7A33800	233302000	349568010	pad			1		1
+641681000006116	Endarterectomy of femoral artery and patch repair of femoral artery	7A490	7A49000	175689005	272011014	pad			1		1
+641691000006118	Endarterectomy of iliac artery and patch repair of iliac artery	7A420	7A42000	265517007	394327018	pad			1		1
+641701000006118	Endarterectomy of popliteal artery and patch repair of popliteal artery	7A491	7A49100	175690001	272012019	pad			1		1
+641711000006115	Endarterectomy of subclavian artery and patch repair of subclavian artery	7A264	7A26400	175419005	271606014	pad			1		1
+641721000006111	Endarterectomy and patch repair of suprarenal artery NEC	7A33B	7A33B00	275064002	410987010	pad			1		1
+641751000006119	Endarterectomy	7A521	7A52100	392031002	1486017013	pad			1		1
+65531000006119	Varicose veins of legs in pregnancy/puerperium unspecified	L4100	L410000	200204002	307698018	vte				1	1
+65551000006114	Varicose veins of perineum/vulva in pregnancy/puerperium NOS	L411z	L411z00	267282007	398446012	vte				1	1
+65611000006114	VV - Varicose veins of leg	G83	G83..00	72866009	1788137014	vte				1	1
+6632221000006112	Peripheral arterial occlusive disease	^ESCTPE663222		399957001	1779239017	pad			1		1
+6632231000006110	PAOD - Peripheral arterial occlusive disease	^ESCTPA663223		399957001	1787049010	pad			1		1
+6632251000006115	Peripheral angiopathy	^ESCTPE663225		399957001	1787051014	pad			1		1
+6632271000006113	Peripheral artery occlusive disease	^ESCTPE663227		399957001	2923309015	pad			1		1
+6633851000006110	PVD-peripheral vascular disease	^ESCTPV663385		400047006	2162392019	other					1
+6668581000006117	Lymphoedema of limbs due to immobility, chronic dependency and/or venous insufficiency	^ESCTLY666858		402670007	1773658011	vte				1	1
+6670981000006118	Diabetic wet gangrene of the foot	^ESCTDI667098		402864004	1781954013	pad			1		1
+6694741000006111	Deep venous thrombosis of lower extremity	^ESCTDE669474		404223003	2156120013	vte	1			1	1
+6694751000006113	DVT - Deep vein thrombosis of lower limb	^ESCTDV669475		404223003	2162419014	vte	1			1	1
+6694761000006110	Deep venous thrombosis of leg	^ESCTDE669476		404223003	2162420015	vte	1			1	1
+6694771000006115	Deep venous thrombosis of lower limb	^ESCTDE669477		404223003	2162421016	vte	1			1	1
+6713381000006112	Endarterectomy and angioplasty of common femoral artery	^ESCTEN671338		405392007	2157203013	pad			1		1
+6714201000006113	Endarterectomy and angioplasty of lower limb artery	^ESCTEN671420		405456009	2157259015	pad			1		1
+6715281000006115	Mesenteric artery stenosis	^ESCTME671528		405545007	2157344011	pad			1		1
+6715411000006111	Stenosis of lower limb artery	^ESCTST671541		405556007	2157354010	pad			1		1
+6715501000006114	Hepatic artery stenosis	^ESCTHE671550		405564001	2157361014	pad			1		1
+6715871000006117	Upper limb artery stenosis	^ESCTUP671587		405588004	2157381010	pad			1		1
+674961000006118	Peripheral circulatory disorder associated with type 2 diabetes mellitus	C1074	C107400	422166005	2623039019	pad			1		1
+7043991000006116	Bilateral renal artery stenosis	^ESCTBI704399		425414000	2674102014	pad			1		1
+7044461000006117	Stenosis of brachiocephalic artery	^ESCTST704446		425448004	2675301015	pad			1		1
+7049311000006112	Enlarging abdominal aortic aneurysm	^ESCTEN704931		425771001	2675292018	pad			1		1
+7078561000006114	Deep venous thrombosis of profunda femoris vein	^ESCTDE707856		427775006	2691835010	vte	1			1	1
+7078581000006116	Deep venous thrombosis of deep femoral vein	^ESCTDE707858		427775006	2695171017	vte	1			1	1
+7078601000006114	Deep venous thrombosis of the popliteal vein	^ESCTDE707860		427776007	2691844011	vte	1			1	1
+7098321000006117	Venous thromboembolic disease	^ESCTVE709832		429098002	2695294011	vte				1	1
+7099281000006116	Repair of infrarenal abdominal aortic aneurysm with insertion of endovascular stent graft	^ESCTRE709928		429167002	2694496019	pad			1		1
+7103191000006117	Superficial venous thrombosis of leg	^ESCTSU710319		429434005	2692641015	vte				1	1
+7107501000006111	Repair of suprarenal aortic aneurysm with insertion of endovascular stent graft	^ESCTRE710750		429706004	2692632013	pad			1		1
+7140691000006113	Percutaneous transluminal angioplasty of profunda femoris artery using fluoroscopic guidance	^ESCTPE714069		431560003	2768809013	pad			1		1
+7143161000006116	Percutaneous transluminal angioplasty of common femoral artery using fluoroscopic guidance	^ESCTPE714316		431660006	2767393013	pad			1		1
+7171111000006119	Percutaneous transluminal angioplasty of dialysis fistula using fluoroscopic guidance	^ESCTPE717111		432952005	2767848010	other					1
+7213971000006115	Deep venous thrombosis of tibial vein	^ESCTDE721397		438785004	2792923012	vte	1			1	1
+7227101000006112	Septic thrombophlebitis	^ESCTSE722710		439731006	2794539013	vte				1	1
+7235821000006118	Ulcer of limb due to chronic venous insufficiency	^ESCTUL723582		440346008	2792157015	vte				1	1
+7251991000006114	Atherosclerosis of artery	^ESCTAT725199		441574008	2816823016	pad			1		1
+7252001000006111	Atherosclerosis artery	^ESCTAT725200		441574008	2923310013	pad			1		1
+7273741000006119	Deep venous thrombosis of peroneal vein	^ESCTDE727374		443210003	2839752017	vte	1			1	1
+7294891000006112	Endovascular repair of abdominal aortic aneurysm	^ESCTEN729489		444588006	2870601012	pad			1		1
+7353411000006118	Endovascular fenestration of aortic dissection	^ESCTEN735341		448342009	2899774013	pad			1		1
+7356071000006114	Stenosis of left pulmonary artery	^ESCTST735607		448510002	2900113012	pad			1		1
+7371841000006119	Single stenosis of left pulmonary artery	^ESCTSI737184		449551006	2901693016	pad			1		1
+7376051000006118	Atherosclerotic plaque disruption with thrombosis of artery	^ESCTAT737605		449873008	2913103011	pad			1		1
+7376881000006118	Thrombophlebitis of superficial veins of lower leg	^ESCTTH737688		449926001	2912714014	vte				1	1
+742481000006118	Ischaemic leg	G73-2	G73..12	233961000	350546015	pad			1		1
+745471000000118	Endovascular insertion of stent for thoracic aortic aneurysm	7A1BA	7A1BA00	378491000000109	745471000000118	pad			1		1
+748061000006117	Left ventricular thrombus	G5yy7	G5yy700	309519009	452964014	pad				1	1
+7489931000006117	Open repair of thoracoabdominal aortic aneurysm	^ESCTOP748993		608873006	2958848013	pad			1		1
+7493991000006117	Percutaneous transluminal angioplasty of lower limb	^ESCTPE749399		609167004	2958686018	other					1
+7515621000006117	Elective repair of infrarenal abdominal aortic aneurysm	^ESCTEL751562		698995008	2982043015	pad			1		1
+7515631000006119	Elective repair of suprarenal abdominal aortic aneurysm	^ESCTEL751563		698996009	2982026018	pad			1		1
+7517361000006113	Endovascular repair of thoracic aortic aneurysm using fluoroscopic guidance	^ESCTEN751736		699115002	2982942011	pad			1		1
+7517371000006118	Fluoroscopy guided endovascular repair of thoracic aortic aneurysm	^ESCTFL751737		699115002	2337731000000118	pad			1		1
+7521441000006119	Repair of type A aortic dissection	^ESCTRE752144		699385002	3442108011	pad			1		1
+7573251000006118	Haemosiderosis of lower limb due to venous insufficiency	^ESCTHA757325		703280000	3008092013	vte				1	1
+7574031000006118	Aortic valve regurgitation due to aortic dissection	^ESCTAO757403		703325005	3008355015	pad			1		1
+7617181000006110	Chronic pulmonary thromboembolism	^ESCTCH761718		707412000	3029984016	vte		1		1	1
+7617191000006113	Chronic pulmonary thromboembolism without pulmonary hypertension	^ESCTCH761719		707413005	3030022015	vte		1		1	1
+7640701000006112	Percutaneous transluminal angioplasty of lower limb artery	^ESCTPE764070		708872002	3037257011	pad			1		1
+7692601000006111	Aneurysm of aortic arch	^ESCTAN769260		712578006	3083120013	pad			1		1
+7710041000006114	Transplant renal artery stenosis	^ESCTTR771004		713825007	3297818010	pad			1		1
+771351000006111	Insulin dependent diabetes mellitus with gangrene	C1086	C108600	422275004	2616612015	pad			1		1
+772141000006118	Insulin dependent diab mell with peripheral angiopathy	C108G	C108G00	421895002	2618203015	pad			1		1
+787101000006114	IDDM with peripheral circulatory disorder	C1073	C107300	421895002	2618203015	pad			1		1
+7873641000006116	Fluoroscopy guided percutaneous transluminal angioplasty of arterial graft	^ESCTFL787364		725823001	3445584011	pad			1		1
+7879191000006116	Stenosis of artery	^ESCTST787919		726490008	3449889016	pad			1		1
+8009281000006110	Limb ischaemia	^ESCTLI800928		21631000119105	2923092011	pad			1		1
+8009291000006113	Limb ischemia	^ESCTLI800929		21631000119105	2923094012	pad			1		1
+8013831000006111	Dissection of aortic arch	^ESCTDI801383		27631000146108	3463508015	pad			1		1
+8015271000006112	Peripheral vascular disease associated with another disorder	^ESCTPE801527		34881000119105	2983756012	other					1
+8032061000006113	Gangrene due to peripheral vascular disease	^ESCTGA803206		102631000119103	2983776018	pad			1		1
+8034061000006118	Mural thrombus of left ventricle	^ESCTMU803406		108421000119102	3322976019	pad				1	1
+8041431000006116	Chronic deep venous thrombosis of calf	^ESCTCH804143		132131000119102	2972255011	vte	1			1	1
+8041451000006111	Chronic deep venous thrombosis of popliteal vein	^ESCTCH804145		132151000119108	2971722015	vte	1			1	1
+8041531000006117	Acute deep venous thrombosis of calf	^ESCTAC804153		132241000119103	2972812015	vte	1			1	1
+8041571000006119	Acute deep venous thrombosis	^ESCTAC804157		132281000119108	2968256017	vte	1			1	1
+8041581000006116	Acute deep venous thrombosis of femoral vein	^ESCTAC804158		132291000119106	2971883017	vte	1			1	1
+8041601000006114	Acute deep venous thrombosis of ileofemoral vein	^ESCTAC804160		132301000119107	2972079018	vte	1			1	1
+8042501000006117	Acute deep venous thrombosis of axillary vein	^ESCTAC804250		134961000119104	2971478018	vte	1			1	1
+8042511000006119	Acute deep venous thrombosis of internal jugular vein	^ESCTAC804251		135001000119100	2971631010	vte	1			1	1
+8047981000006115	Stasis dermatitis and venous ulcer of lower extremity due to chronic peripheral venous hypertension	^ESCTST804798		153871000119102	3040909011	vte				1	1
+8048031000006119	Peripheral arterial insufficiency	^ESCTPE804803		153911000119104	2921334012	pad			1		1
+8271361000006113	Leaking thoracic aortic aneurysm	^ESCTLE827136		824031000000109	2144631000000112	pad			1		1
+8278561000006114	Ischaemic lower limb pain at rest	^ESCTIS827856		836711000000108	2172511000000111	pad			1		1
+8304041000006111	Arterial lower limb ulcer	^ESCTAR830404		872381000000101	2253451000000118	pad			1		1
+8361011000006114	Unprovoked DVT (deep vein thrombosis)	^ESCTUN836101		978421000000101	2518391000000114	vte	1			1	1
+8361031000006115	Provoked DVT (deep vein thrombosis)	^ESCTPR836103		978441000000108	2518461000000111	vte	1			1	1
+84331000006112	Type 1 diabetes mellitus with gangrene	C1086-2	C108612	420825003	2618207019	pad			1		1
+84511000006112	Type 2 diabetes mellitus with gangrene	C1095-2	C109512	421631007	2618206011	pad			1		1
+84591000006119	Type 2 diabetes mellitus with peripheral angiopathy	C109F-2	C109F12	314902007	459308015	pad			1		1
+84701000006115	Type I diabetes mellitus with gangrene	C1086-1	C108611	420825003	2618207019	pad			1		1
+84781000006112	Type I diabetes mellitus with peripheral angiopathy	C108G-1	C108G11	31211000119101	3315042015	pad			1		1
+84881000006119	Type II diabetes mellitus with gangrene	C1095-1	C109511	421631007	2618206011	pad			1		1
+84961000006116	Type II diabetes mellitus with peripheral angiopathy	C109F-1	C109F11	314902007	459306016	pad			1		1
+866181000006115	Other endarterectomy	7A52-99	7A52.99	597571000000100	866181000006115	pad			1		1
+866211000006116	Other endarterectomy NOS	7A521-98	7A52198	392031002	866211000006116	pad			1		1
+866221000006112	Thromboendarterectomy	7A521-99	7A52199	392031002	866221000006112	pad			1		1
+87208017	Thromboangiitis obliterans	G731	G731.00	52403007	87208017	pad			1		1
+87210015	Buerger's disease	G7310	G731000	52403007	87210015	other					1
+884571000006119	Atherosclerosis of extremities	G702-99	G702.99	195254008	884571000006119	pad			1		1
+884581000006116	Atherosclerosis NOS	G70z-99	G70z.99	660711000000109	884581000006116	pad			1		1
+884591000006118	Thoracic aortic aneurysm	G712-99	G712.99	74883004	884591000006118	pad			1		1
+884601000006114	Abdominal aortic aneurysm	G714-99	G714.99	530151000000109	884601000006114	pad			1		1
+884611000006112	Peripheral vasc. disease NOS	G73z-99	G73z.99	646351000000103	884611000006112	other					1
+884621000006116	Peripheral vasc. disease NOS	G73zz-99	G73zz99	646351000000103	884621000006116	other					1
+884661000006110	Peripheral arterial embolism	G742z-99	G742z99	583731000000103	884661000006110	pad			1		1
+884711000006116	Superficial thrombophlebitis	G80-99	G80..99	2477008	884711000006116	vte				1	1
+884721000006112	Superfic.venous thrombosis leg	G800-99	G800.99	213310008	884721000006112	vte				1	1
+884731000006110	Deep venous thrombosis - leg	G801-99	G801.99	266267005	884731000006110	vte	1			1	1
+884751000006115	Venous thrombosis NOS	G82z1-99	G82z199	690131000000103	884751000006115	vte				1	1
+884761000006118	Varicose veins of legs	G83-99	G83..99	72866009	884761000006118	vte				1	1
+884801000006110	Ruptured varicose veins	G833-99	G833.99	195448005	884801000006110	vte				1	1
+884811000006113	Simple varicose veins	G834-99	G834.99	528681000000106	884811000006113	vte				1	1
+884821000006117	Varicose veins NOS	G83z-99	G83z.99	660731000000101	884821000006117	vte				1	1
+884921000006114	Varicose veins NOS	G85z-99	G85z.99	637451000000106	884921000006114	vte				1	1
+888661000006119	Varicose veins,legs - obst.	L410-99	L410.99	200204002	888661000006119	vte				1	1
+888671000006114	Vulval/perineal varicose veins	L411-99	L411.99	267282007	888671000006114	vte				1	1
+888681000006112	Antepartum DVT	L413-99	L413.99	49956009	888681000006112	vte	1			1	1
+888691000006110	Postpartum DVT	L414-99	L414.99	56272000	888691000006110	vte	1			1	1
+89332015	Atherosclerotic heart disease	G3-2	G3...12	443502000	2842265012	pad			1		1
+905481000006114	[RFC] Varicose veins	HNG0022		905481000006105	905481000006114	vte				1	1
+905491000006112	[RFC] Venous thrombosis	HNG0023		905491000006108	905491000006112	vte				1	1
+905501000006116	[RFC] Arterial stenosis	HNG0024		905501000006100	905501000006116	pad			1		1
+905531000006112	[RFC] Raynaud's syndrome	HNG0027		905531000006108	905531000006112	pad			1		1
+905551000006117	[RFC] Atherosclerosis of lower limbs	HNG0029		905551000006101	905551000006117	pad			1		1
+906771000006113	[RFC] Peripheral vascular disease	HNG0172		906771000006109	906771000006113	other					1
+913621000006112	Insulin dependent diabetes mellitus with gangrene	C10E6-2	C10E612	422275004	2616612015	pad			1		1
+913921000006119	Insulin dependent diab mell with peripheral angiopathy	C10EG-2	C10EG12	421895002	2618203015	pad			1		1
+913931000006116	Type 1 diabetes mellitus with peripheral angiopathy	C10EG	C10EG00	31211000119101	3315042015	pad			1		1
+913941000006114	Peripheral angiopathy due to type 1 diabetes mellitus	C10EG-1	C10EG11	31211000119101	3315042015	pad			1		1
+9314051000006114	Ischaemic ulcer of lower leg due to atherosclerotic disease	^ESCTIS931405		10666031000119100	3038274014	pad			1		1
+932471000006114	Other endarterectomy	7A521-96	7A52196	392031002	932471000006114	pad			1		1
+9478131000006113	Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis	^ESCTIN947813		12236951000119108	3323412011	pad			1		1
+9478151000006118	Intermittent claudication of left lower limb co-occurrent and due to atherosclerosis	^ESCTIN947815		12237071000119100	3323414012	pad			1		1
+9478171000006111	Pain at rest of left lower limb co-occurrent and due to atherosclerosis	^ESCTPA947817		12237111000119107	3323420013	pad			1		1
+9478181000006114	Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis	^ESCTIN947818		12237191000119103	3323418010	pad			1		1
+9837051000006111	Gangrene of right lower limb due to atherosclerosis	^ESCTGA983705		15649901000119104	3322932014	pad			1		1
+9868571000006116	Mural thrombus of left ventricle following acute myocardial infarction	^ESCTMU986857		15960981000119105	3322978018	pad			1		1
+9873401000006111	Thrombophlebitis of vein of right upper limb	^ESCTTH987340		16006031000119103	3447406010	vte				1	1
+9873411000006114	Thrombophlebitis of vein of left upper limb	^ESCTTH987341		16006071000119100	3326480018	vte				1	1
+9873431000006115	Thrombophlebitis of superficial vein of right upper limb			16006151000119108	.	vte				1	1
+9873441000006113	Thrombophlebitis of superficial vein of left upper limb	^ESCTTH987344		16006191000119103	3326478012	vte				1	1
+9873991000006110	Gangrene of toe of left foot	^ESCTGA987399		16010791000119102	3322934010	pad			1		1
+9874011000006115	Gangrene of toe of right foot	^ESCTGA987401		16010871000119106	3322936012	pad			1		1
+9874101000006119	Gangrene of right foot	^ESCTGA987410		16011231000119102	3322930018	pad			1		1
+9874111000006116	Gangrene of left foot	^ESCTGA987411		16011271000119104	3322926016	pad			1		1
+9874241000006114	Thrombophlebitis of left saphenous vein	^ESCTTH987424		16011751000119102	3322856014	vte				1	1
+9874251000006111	Thrombophlebitis of right saphenous vein	^ESCTTH987425		16011791000119107	3326487015	vte				1	1
+9874551000006113	Thrombophlebitis of superficial vein of left lower limb	^ESCTTH987455		16014551000119108	3326489017	vte				1	1
+989221000006110	Deep venous thrombosis - leg	G801D-99	G801D99	404223003	989221000006110	vte	1			1	1
+989271000006111	Superficial thrombophlebitis	L4120-99	L412099	605781000000105	989271000006111	vte				1	1
+991661000006118	Varicose veins NOS	G83-97	G83..97	72866009	991661000006118	vte				1	1

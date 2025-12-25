@@ -1,0 +1,128 @@
+medcode	readcode	desc	copd
+794	H32..00	Emphysema	1
+1001	H3...00	Chronic obstructive pulmonary disease	1
+2680	23E5.00	O/E - fibrosis of lung present	1
+3243	H31..00	Chronic bronchitis	1
+6051	H563100	Diffuse pulmonary fibrosis	1
+7791	H55..00	Postinflammatory pulmonary fibrosis	1
+7994	23E5.11	O/E - fibrosis of lung	1
+9520	66YB.00	Chronic obstructive pulmonary disease monitoring	1
+9876	H38..00	Severe chronic obstructive pulmonary disease	1
+10403	14OJ.00	At risk of chronic obstructive pulmonary disease	1
+10802	H37..00	Moderate chronic obstructive pulmonary disease	1
+10863	H36..00	Mild chronic obstructive pulmonary disease	1
+10980	H322.00	Centrilobular emphysema	1
+11019	8H2R.00	Admit COPD emergency	1
+11150	H311.00	Mucopurulent chronic bronchitis	1
+11287	66YM.00	Chronic obstructive pulmonary disease annual review	1
+14798	H312100	Emphysematous bronchitis	1
+15157	H31z.00	Chronic bronchitis NOS	1
+15782	G41z.00	Chronic pulmonary heart disease NOS	1
+16410	H32yz00	Other emphysema NOS	1
+16741	A114.00	Tuberculous fibrosis of lung	1
+18476	66YL.11	COPD follow-up	1
+18501	66YI.00	COPD self-management plan given	1
+18621	66YL.00	Chronic obstructive pulmonary disease follow-up	1
+18792	9Oi..00	Chronic obstructive pulmonary disease monitoring admin	1
+18914	C370200	Cystic fibrosis with pulmonary manifestations	1
+19003	66Ye.00	Emergency COPD admission since last appointment	1
+19106	66Yd.00	COPD accident and emergency attendance since last visit	1
+19428	1I70.00	Chronic obstructive pulmonary disease excluded by spirometry	1
+19434	1J71.00	Suspected chronic obstructive pulmonary disease	1
+19721	8CE6.00	Chronic obstructive pulmonary disease leaflet given	1
+20113	SK07.00	Subcutaneous emphysema	1
+22536	H4y1000	Chronic pulmonary fibrosis following radiation	1
+22905	H581.00	Interstitial emphysema	1
+23492	H320z00	Chronic bullous emphysema NOS	1
+24248	H313.00	Mixed simple and mucopurulent chronic bronchitis	1
+25603	H310.00	Simple chronic bronchitis	1
+26018	66YS.00	Chronic obstructive pulmonary disease monitoring by nurse	1
+26082	H541000	Chronic pulmonary oedema	1
+26306	H320.00	Chronic bullous emphysema	1
+27819	H312.00	Obstructive chronic bronchitis	1
+28743	66Yf.00	Number of COPD exacerbations in past year	1
+28755	9Oi0.00	Chronic obstructive pulmonary disease monitoring 1st letter	1
+33450	H32z.00	Emphysema NOS	1
+34202	9Oi1.00	Chronic obstructive pulmonary disease monitoring 2nd letter	1
+34215	9Oi2.00	Chronic obstructive pulmonary disease monitoring 3rd letter	1
+37247	H3z..11	Chronic obstructive pulmonary disease NOS	1
+37371	66YD.00	Chronic obstructive pulmonary disease monitoring due	1
+37959	H311100	Fetid chronic bronchitis	1
+38074	9Oi4.00	Chronic obstructive pulmonary disease monitor phone invite	1
+40159	H311000	Purulent chronic bronchitis	1
+40788	H32y.00	Other emphysema	1
+42258	9Oi3.00	Chronic obstructive pulmonary disease monitoring verb invite	1
+42624	66YL.12	COAD follow-up	1
+44525	H312z00	Obstructive chronic bronchitis NOS	1
+45089	H31y100	Chronic tracheobronchitis	1
+45770	66Yg.00	Chronic obstructive pulmonary disease disturbs sleep	1
+45771	66Yh.00	Chronic obstructive pulmonary disease does not disturb sleep	1
+45777	8CR1.00	Chronic obstructive pulmonary disease clini management plan	1
+45998	66YT.00	Chronic obstructive pulmonary disease monitoring by doctor	1
+46036	66Yi.00	Multiple COPD emergency hospital admissions	1
+46248	J650200	Acute emphysematous cholecystitis	1
+46294	G41..00	Chronic pulmonary heart disease	1
+46578	H321.00	Panlobular emphysema	1
+46795	Q317100	Prematurity with interstitial pulmonary fibrosis	1
+47782	H464200	Chronic pulmonary fibrosis due to chemical fumes	1
+50374	H4y1z00	Chronic pulmonary radiation disease NOS	1
+54113	G41y.00	Other chronic pulmonary heart disease	1
+54551	AB40700	Chronic pulmonary histoplasmosis capsulati	1
+54893	H582.00	Compensatory emphysema	1
+56860	H320000	Segmental bullous emphysema	1
+59263	H32y111	Acute interstitial emphysema	1
+60188	H320200	Giant bullous emphysema	1
+61118	H310z00	Simple chronic bronchitis NOS	1
+61513	H311z00	Mucopurulent chronic bronchitis NOS	1
+63479	H32y200	MacLeod's unilateral emphysema	1
+64721	H464000	Chronic emphysema due to chemical fumes	1
+65060	Hyu5000	[X]Other interstitial pulmonary diseases with fibrosis	1
+65733	Hyu3100	[X]Other specified chronic obstructive pulmonary disease	1
+66043	H31y.00	Other chronic bronchitis	1
+66058	Hyu3000	[X]Other emphysema	1
+67040	H3y..11	Other specified chronic obstructive pulmonary disease	1
+68066	H31yz00	Other chronic bronchitis NOS	1
+68662	H320100	Zonal bullous emphysema	1
+69914	H4y1.00	Chronic pulmonary radiation disease	1
+70787	H32y100	Atrophic (senile) emphysema	1
+71046	G41yz00	Other chronic pulmonary heart disease NOS	1
+92955	H32y000	Acute vesicular emphysema	1
+93568	H39..00	Very severe chronic obstructive pulmonary disease	1
+94575	H433.00	Graphite fibrosis of lung	1
+94894	H431.00	Bauxite fibrosis of lung	1
+97800	9kf..00	COPD - enhanced services administration	1
+98283	9kf2.00	COPD structured smoking assessment declined - enh serv admin	1
+98284	9kf1.00	Refer COPD structured smoking assessment - enhanc serv admin	1
+99536	H320300	Bullous emphysema with collapse	1
+99948	9kf0.00	COPD patient unsuitable for pulmonary rehab - enh serv admin	1
+100237	38Dg.00	Chronic obstructive pulmonary disease assessment test	1
+100877	38Dd.00	Clinical chronic obstructive pulmonary disease questionnaire	1
+101042	8BMW.00	Issue of chronic obstructive pulmonary disease rescue pack	1
+102685	66YB000	Chronic obstructive pulmonary disease 3 monthly review	1
+103007	66YB100	Chronic obstructive pulmonary disease 6 monthly review	1
+103400	9kf1.11	Referred for COPD structured smoking assessment	1
+103472	H563200	Pulmonary fibrosis	1
+103494	14B3.12	History of chronic obstructive pulmonary disease	1
+103558	8CeD.00	Preferred place of care for next exacerbation of COPD	1
+103753	H563.13	Idiopathic pulmonary fibrosis	1
+103758	8Hkw.00	Referral to COPD community nursing team	1
+103760	9kf2.11	COPD structured smoking assessment declined	1
+103864	9kf0.11	COPD patient unsuitable for pulmonary rehabilitation	1
+104117	661M300	COPD self-management plan agreed	1
+104169	661N300	COPD self-management plan review	1
+104265	9e03.00	GP OOH service notified of COPD care plan	1
+104481	8CMV.00	Has chronic obstructive pulmonary disease care plan	1
+104710	9NgP.11	On COPD (chr obstruc pulmonary disease) supportv cre pathway	1
+104985	9NgP.00	On chronic obstructive pulmonary disease supprtv cre pathway	1
+105457	8CMW500	Chronic obstructive pulmonary disease care pathway	1
+106637	9Nk7000	Seen in chronic obstructive pulmonary disease clinic	1
+106945	8IEZ.00	Chronic obstructive pulmonary disease rescue pack declined	1
+109683	2126F00	Chronic obstructive pulmonary disease resolved	1
+109774	66YB200	Telehealth chronic obstructive pulmonary disease monitoring	1
+109958	H3B..00	Asthma-chronic obstructive pulmonary disease overlap syndrom	1
+110092	K101400	Emphysematous pyelonephritis	1
+114534	66Yz200	Shared care chronic obstructive pulmonary disease monitoring	1
+115042	K101500	Emphysematous pyelitis	1
+115436	9Oi5.00	Chronic obstructive pulmonary disease monitoring SMS invite	1
+115642	9Oi5100	Chronic obstructive pulmonary disease monitor SMS 1st invite	1
+115755	9Oi5200	Chronic obstructive pulmonary disease monitor SMS 2nd invite	1

@@ -1,0 +1,1426 @@
+medcodeid	desc	snomedctconceptid	coding_system	cancertype	blood_cancertype	ca_of_interest	recurrent_ca	secondary_ca	history_ca	aurum_stage_grade
+8457381000006110	Recurrent primary malignant neoplasm of left female breast 	1081551000119106	Aurum	breast		1	1			
+8457401000006110	Recurrent primary malignant neoplasm of right female breast 	16260631000119100	Aurum	breast		1	1			
+9900601000006117	Secondary malignant neoplasm of lymph node from neoplasm of female breast 	16260631000119101	Aurum	breast		1		1		
+289029012	Malignant melanoma of breast	188050009	Aurum	breast		1				
+289137018	Malignant neoplasm of nipple and areola of female breast	188147009	Aurum	breast		1				
+289141019	Malignant neoplasm of central part of female breast	188151006	Aurum	breast		1				
+289142014	Malignant neoplasm of upper-inner quadrant of female breast	188152004	Aurum	breast		1				
+289143016	Malignant neoplasm of lower-inner quadrant of female breast	188153009	Aurum	breast		1				
+289144010	Malignant neoplasm of upper-outer quadrant of female breast	188154003	Aurum	breast		1				
+289145011	Malignant neoplasm of lower-outer quadrant of female breast	188155002	Aurum	breast		1				
+289146012	Malignant neoplasm of axillary tail of female breast	188156001	Aurum	breast		1				
+289147015	Malignant neoplasm, overlapping lesion of breast	188157005	Aurum	breast		1				
+289149017	Malignant neoplasm of ectopic site of female breast	188159008	Aurum	breast		1				
+289153015	Malignant neoplasm of nipple and areola of male breast	188163001	Aurum	breast		1				
+289158012	Malignant neoplasm of ectopic site of male breast	188168005	Aurum	breast		1				
+5351501000006117	Malignant tumor of breast	254837009	Aurum	breast		1				
+5351541000006115	Carcinoma of breast 	254838004	Aurum	breast		1				
+5351561000006116	Scirrhous carcinoma of breast 	254839007	Aurum	breast		1				
+5351571000006111	Inflammatory carcinoma of breast 	254840009	Aurum	breast		1				
+5351601000006116	Familial cancer of breast 	254843006	Aurum	breast		1				
+5351621000006114	Malignant phyllodes tumor of breast 	254844000	Aurum	breast		1				
+380094018	Carcinoma of bone, connective tissue, skin and breast	255068000	Aurum	breast		1				
+729331000006116	Malignant neoplasm of bone, connective tissue, skin and breast	271467005	Aurum	breast		1				
+5608031000006112	Sarcoma of breast 	278050001	Aurum	breast		1				
+5608061000006115	Intraductal carcinoma of breast 	278053004	Aurum	breast		1				
+5608081000006113	Lobular carcinoma of breast 	278054005	Aurum	breast		1				
+5703981000006113	Metastasis to breast of unknown primary 	285634003	Aurum	breast		1				
+5720861000006112	Carcinoma of breast - upper, inner quadrant 	286893002	Aurum	breast		1				
+5720871000006117	Carcinoma of breast - lower, inner quadrant 	286894008	Aurum	breast		1				
+5720881000006119	Carcinoma of breast - upper, outer quadrant 	286895009	Aurum	breast		1				
+5720891000006116	Carcinoma breast - lower, outer quadrant 	286896005	Aurum	breast		1				
+5720901000006117	Carcinoma of breast - axillary tail 	286897001	Aurum	breast		1				
+6051931000006117	Local recurrence of malignant tumor of breast 	314955001	Aurum	breast		1	1			
+6052741000006116	Metastasis from malignant tumor of breast 	315004001	Aurum	breast		1				
+1210642019	Malignant neoplasm of female breast 	372064008	Aurum	breast		1				
+6364001000006119	Malignant neoplasm of axillary tail of breast 	372094002	Aurum	breast		1				
+155364013	Malignant neoplasm of male breast 	372095001	Aurum	breast		1				
+6364041000006117	Carcinoma of male breast 	372096000	Aurum	breast		1				
+6364661000006112	Primary malignant neoplasm of breast 	372137005	Aurum	breast		1				
+6376181000006114	Malignant neoplasm of breast lower inner quadrant 	373080008	Aurum	breast		1				
+6376201000006110	Malignant neoplasm of breast upper inner quadrant 	373082000	Aurum	breast		1				
+6376211000006113	Malignant neoplasm of breast upper outer quadrant 	373083005	Aurum	breast		1				
+7136971000006118	Human epidermal growth factor 2 negative carcinoma of breast 	431396003	Aurum	breast		1				
+7287391000006111	Invasive carcinoma with ductal and lobular features (Mixed type carcinoma)	444057000	Aurum	breast		1				
+7362291000006114	Infiltrating duct carcinoma of female breast 	448952004	Aurum	breast		1				
+8017201000006114	Primary invasive malignant neoplasm of female breast 	45221000119105	Aurum	breast		1				
+7610921000006113	Triple negative malignant neoplasm of breast 	706970001	Aurum	breast		1				
+7706551000006117	Invasive carcinoma of breast 	713609000	Aurum	breast		1				
+7832841000006112	Primary invasive pleomorphic lobular carcinoma of breast 	722524005	Aurum	breast		1				
+155089014	Malignant neoplasm of areola of female breast	93680004	Aurum	breast		1				
+155090017	Malignant neoplasm of areola of male breast	93681000	Aurum	breast		1				
+4025281000006117	Primary malignant neoplasm of central portion of female breast 	93745008	Aurum	breast		1				
+4025821000006115	Primary malignant neoplasm of female breast 	93796005	Aurum	breast		1				
+880341000006113	Ca breast - maleCa breast - male	93884005	Aurum	breast		1				
+155417012	Malignant neoplasm of nipple of female breast	93924008	Aurum	breast		1				
+155418019	Malignant neoplasm of nipple of male breast	93925009	Aurum	breast		1				
+4032901000006112	Secondary malignant neoplasm of female breast	94297009	Aurum	breast		1		1		
+8029981000006114	Breast cancer detected by national screening programme 	94361000000105	Aurum	breast		1				
+156699010	Secondary malignant neoplasm of skin of breast	94544002	Aurum	breast		1		1		
+4030181000006117	Secondary malignant neoplasm of axillary tail of female breast	94182000	Aurum	breast		1		1		
+1231363012	[M]Paget's disease and intraductal carcinoma of breast	54666007	Aurum	breast		1				
+314671000006116	Paget's disease and infiltrating duct carcinoma of breast	82591005	Aurum	breast		1				
+3387071000006114	Paget's disease and intraductal carcinoma of breast	54666007	Aurum	breast		1				
+4756261000006118	Non-invasive carcinoma of breast	189336000	Aurum	breast		1				
+5351551000006118	CA - Carcinoma of breast	254838004	Aurum	breast		1				
+5608071000006110	Infiltrating lobular carcinoma of breast	278054005	Aurum	breast		1				
+6765091000006112	Infiltrating duct carcinoma of breast	408643008	Aurum	breast		1				
+6765101000006118	Invasive duct carcinoma of breast	408643008	Aurum	breast		1				
+6765111000006115	Infiltrating ductal carcinoma of breast	408643008	Aurum	breast		1				
+6765121000006111	Invasive ductal carcinoma of breast	408643008	Aurum	breast		1				
+6989101000006112	Infiltrating ductal carcinoma of breast, stage 1	422399001	Aurum	breast		1				1
+6990601000006110	Infiltrating ductal carcinoma of breast, stage 2	422479008	Aurum	breast		1				1
+7001961000006115	Infiltrating ductal carcinoma of breast, stage 3	423114009	Aurum	breast		1				1
+7077551000006111	HER2-positive carcinoma of breast	427685000	Aurum	breast		1				
+7136981000006115	Human epidermal growth factor 2 (HER2) negative carcinoma of breast	431396003	Aurum	breast		1				
+7295111000006113	Mixed ductal and lobular carcinoma of breast	444604002	Aurum	breast		1				
+7296771000006112	Mucinous carcinoma of breast	444712000	Aurum	breast		1				
+7578171000006114	Invasive micropapillary carcinoma of breast	703578005	Aurum	breast		1				
+12005541000006114	Metaplastic carcinoma of breast	763479005	Aurum	breast		1				
+13955951000006110	Adenocarcinoma of breast	865954003	Aurum	breast		1				
+7819741000006119	Primary angiosarcoma of breast	721576006	Aurum	breast		1				
+289151018	Malignant neoplasm of female breast NOS	372064008	Aurum	breast		1				
+14869751000006110	Metastatic malignant neoplasm to lymph node from primary malignant neoplasm of female breast	16260631000119101	Aurum	breast		1				
+6363981000006113	Primary malignant neoplasm of axillary tail of breast	372092003	Aurum	breast		1				
+6363991000006111	Secondary malignant neoplasm of axillary tail of breast	372093008	Aurum	breast		1		1		
+289159016	Malignant neoplasm of male breast NOS	372095001	Aurum	breast		1				
+4026641000006116	Primary malignant neoplasm of male breast	93884005	Aurum	breast		1				
+4035521000006115	Secondary malignant neoplasm of male breast	94401004	Aurum	breast		1		1		
+808151000006111	Personal history of primary malignant neoplasm of breast	415076002	Aurum	breast		1			1	
+6376281000006118	Primary malignant neoplasm of breast lower inner quadrant	373090000	Aurum	breast		1				
+13995451000006110	Primary malignant neoplasm of breast with axillary lymph node invasion	1082901000112103	Aurum	breast		1				
+4024671000006119	Primary malignant neoplasm of areola of female breast	93680004	Aurum	breast		1				
+4027021000006119	Primary malignant neoplasm of nipple of female breast	93924008	Aurum	breast		1				
+4036511000006118	Secondary malignant neoplasm of nipple of female breast	94443006	Aurum	breast		1		1		
+5352541000006110	Carcinoma of prostate	254900004	Aurum	prostate		1				
+5608211000006113	Endometrioid carcinoma of prostate	278060005	Aurum	prostate		1				
+722361000006115	Malignant tumor of prostate 	399068003	Aurum	prostate		1				
+6623661000006114	Adenocarcinoma of prostate 	399490008	Aurum	prostate		1				
+7074671000006114	Hormone refractory prostate cancer 	427492003	Aurum	prostate		1				
+7696241000006114	Primary malignant neoplasm of prostate metastatic to bone	712849003	Aurum	prostate		1				
+7827301000006119	Hormone sensitive prostate cancer 	722103009	Aurum	prostate		1				
+4027551000006117	Primary malignant neoplasm of prostate 	93974005	Aurum	prostate		1				
+156607018	Secondary malignant neoplasm of prostate	94503003	Aurum	prostate		1		1		
+1227569012	[V]Personal history of malignant neoplasm of prostate	428262008	Aurum	prostate		1			1	
+4038061000006114	Metastatic malignant neoplasm to prostate	94503003	Aurum	prostate		1				
+6052171000006111	Local recurrence of malignant tumour of prostate	314969001	Aurum	prostate		1	1			
+6052181000006114	Local recurrence of malignant tumor of prostate	314969001	Aurum	prostate		1	1			
+6052511000006110	Metastasis from malignant tumour of prostate	314994000	Aurum	prostate		1				
+6052521000006119	Metastasis from malignant tumor of prostate	314994000	Aurum	prostate		1				
+6325011000006113	Malignant tumour involving bladder by direct extension from prostate	369472002	Aurum	prostate		1				
+6325291000006111	Malignant tumour involving prostate by separate metastasis from bladder	369486003	Aurum	prostate		1				
+6325351000006111	Malignant tumour involving seminal vesicle by direct extension from prostate	369490001	Aurum	prostate		1				
+6327431000006117	Malignant tumour involving an organ by direct extension from prostate	369598006	Aurum	prostate		1				
+6327591000006119	Malignant tumour involving an organ by separate metastasis from prostate	369606006	Aurum	prostate		1				
+6616721000006113	Malignant tumor of prostate	399068003	Aurum	prostate		1				
+7085791000006110	History of malignant neoplasm of prostate	428262008	Aurum	prostate		1			1	
+7731731000006117	Familial malignant neoplasm of prostate	715412008	Aurum	prostate		1				
+8468321000006116	Recurrent malignant neoplasm of prostate	1098981000119101	Aurum	prostate		1	1			
+153295017	Carcinoma in situ of prostate	92691004	Aurum	prostate		1				
+5352551000006112	CA - Carcinoma of prostate	254900004	Aurum	prostate		1				
+5352561000006114	Prostate carcinoma	254900004	Aurum	prostate		1				
+6565521000006119	Small cell carcinoma of prostate	396198006	Aurum	prostate		1				
+6625251000006110	Squamous cell carcinoma of prostate	399590005	Aurum	prostate		1				
+7696231000006116	Carcinoma of prostate with bony metastases	712849003	Aurum	prostate		1				
+13927471000006115	Acinar cell cystadenocarcinoma of prostate	822970008	Aurum	prostate		1				
+13927961000006117	Infiltrating duct carcinoma of prostate	823017009	Aurum	prostate		1				
+15001121000006111	Metastatic carcinoma to prostate	1237422007	Aurum	prostate		1				
+906971000006110	[RFC] Cancer of the prostate	906971000006106	Aurum	prostate		1				
+1717461000000112	H/O: prostate cancer	428262008	Aurum	prostate		1			1	
+4008071000006111	Cancer in situ of prostate	92691004	Aurum	prostate		1				
+5352571000006119	Prostate cancer	254900004	Aurum	prostate		1				
+6052531000006116	Cancer of the prostate with metastasis	314994000	Aurum	prostate		1				
+6052541000006114	Metastatic prostate cancer	314994000	Aurum	prostate		1				
+6616751000006116	CA - Cancer of prostate	399068003	Aurum	prostate		1				
+6616761000006119	Cancer of prostate	399068003	Aurum	prostate		1				
+7074681000006112	Castration-resistant prostate cancer	427492003	Aurum	prostate		1				
+7074691000006110	Castrate-resistant prostate cancer	427492003	Aurum	prostate		1				
+7696221000006119	Prostate cancer metastatic to bone	712849003	Aurum	prostate		1				
+7731721000006115	Familial prostate cancer	715412008	Aurum	prostate		1				
+7827321000006112	Castration-sensitive prostate cancer	722103009	Aurum	prostate		1				
+8454101000006110	Primary adenocarcinoma of lower lobe of left lung 	1078881000119102	Aurum	lung		1				
+8454131000006119	Primary adenocarcinoma of upper lobe of left lung 	1078901000119100	Aurum	lung		1				
+8454181000006118	Primary adenocarcinoma of lower lobe of right lung	1078931000119107	Aurum	lung		1				
+8454241000006115	Primary adenocarcinoma of upper lobe of right lung 	1078961000119104	Aurum	lung		1				
+292105018	Malignant neoplasm of bronchus or lung 	1090881000000100	Aurum	lung		1				
+723301000006110	Malignant neoplasm of overlapping lesion of bronchus and lung	109371002	Aurum	lung		1				
+8468301000006114	History of cancer metastatic to lung	1098961000119105	Aurum	lung		1			1	
+9478691000006118	Squamous cell carcinoma of left lung 	12240951000119107	Aurum	lung		1				
+9478701000006118	Squamous cell carcinoma of right lung 	12240991000119102	Aurum	lung		1				
+3525998014	Adenocarcinoma of left lung	15956341000119105	Aurum	lung		1				
+9868091000006114	Adenocarcinoma of right lung	15956381000119100	Aurum	lung		1				
+288820017	Malignant neoplasm of upper lobe of lung	187862007	Aurum	lung		1				
+288822013	Malignant neoplasm of middle lobe, bronchus or lung	187864008	Aurum	lung		1				
+288824014	Malignant neoplasm of middle lobe of lung	187866005	Aurum	lung		1				
+288826011	Malignant neoplasm of lower lobe, bronchus or lung	187868006	Aurum	lung		1				
+288828012	Malignant neoplasm of lower lobe of lung	187870002	Aurum	lung		1				
+14073371000006114	Lymphomatoid granulomatosis of the lung 	239297008	Aurum	lung		1				
+1773151000006112	Adenocarcinoma of lung 	254626006	Aurum	lung		1				
+5347121000006111	Carcinoid tumor of lung	254627002	Aurum	lung		1				
+1772971000006112	Carcinoid tumour of lung	254627002	Aurum	lung		1				
+5347131000006114	Carcinoma of lung parenchyma 	254628007	Aurum	lung		1				
+1773161000006114	Large cell carcinoma of lung 	254629004	Aurum	lung		1				
+5347151000006119	Giant cell carcinoma of lung 	254631008	Aurum	lung		1				
+5347161000006117	Small cell carcinoma of lung 	254632001	Aurum	lung		1				
+5347191000006113	Oat cell carcinoma of lung 	254633006	Aurum	lung		1				
+1773141000006110	Squamous cell carcinoma of lung 	254634000	Aurum	lung		1				
+5347231000006115	Epithelioid haemangioendothelioma of lung	254635004	Aurum	lung		1				
+1773131000006117	Non-small cell lung cancer 	254637007	Aurum	lung		1				
+403688010	Malignant neoplasm of upper lobe, bronchus or lung	269464000	Aurum	lung		1				
+5703481000006115	Metastasis to lung of unknown primary 	285604008	Aurum	lung		1				
+6051911000006111	Local recurrence of malignant tumor of lung 	314954002	Aurum	lung		1	1			
+6052781000006110	Metastasis from malignant tumor of lung 	315006004	Aurum	lung		1				
+11925881000006119	Malignant tumor of lung	363358000	Aurum	lung		1				
+6364281000006116	Carcinoma of lower lobe, bronchus or lung 	372111007	Aurum	lung		1				
+6364651000006110	Carcinoma of upper lobe, bronchus or lung 	372136001	Aurum	lung		1				
+7362951000006113	Carcinoma of lung	448993007	Aurum	lung		1				
+8021341000006115	Primary small cell malignant neoplasm of lung, TNM stage 2 	67821000119109	Aurum	lung		1				
+8211451000006113	Extensive stage primary small cell carcinoma of lung	683991000119103	Aurum	lung		1				
+7617691000006119	Primary mucinous adenocarcinoma of lung 	707452003	Aurum	lung		1				
+7617771000006113	Primary undifferentiated carcinoma of lung 	707456000	Aurum	lung		1				
+7688051000006117	Primary clear cell adenocarcinoma of lung 	711414003	Aurum	lung		1				
+7832881000006118	Primary malignant neuroendocrine neoplasm of lung 	722528008	Aurum	lung		1				
+7842361000006118	Squamous non-small cell lung cancer 	723301009	Aurum	lung		1				
+7851001000006114	Malignant neoplasm of lower lobe of left lung 	724059003	Aurum	lung		1				
+7851011000006112	Malignant neoplasm of right upper lobe of lung 	724060008	Aurum	lung		1				
+155287019	Malignant neoplasm of hilus of lung	93827000	Aurum	lung		1				
+4034801000006111	Secondary malignant neoplasm of left upper lobe of lung 	94376006	Aurum	lung		1		1		
+156319016	Secondary malignant neoplasm of lung	94391008	Aurum	lung		1		1		
+288821018	Malignant neoplasm of upper lobe, bronchus or lung NOS	269464000	Aurum	lung		1				
+288825010	Malignant neoplasm of middle lobe, bronchus or lung NOS	187864008	Aurum	lung		1				
+288832018	Malignant neoplasm of other sites of bronchus or lung	363358000	Aurum	lung		1				
+403689019	Malignant tumour of lung	363358000	Aurum	lung		1				
+1227560011	[V]Personal history of malignant neoplasm of lung	415082004	Aurum	lung		1			1	
+344781000006115	[V]Personal history of malignant neoplasm of trachea, bronchus or lung	412341000000106	Aurum	lung		1			1	
+808221000006112	History of malignant neoplasm of lung	415082004	Aurum	lung		1			1	
+1773111000006111	Primary malignant neoplasm of lung	93880001	Aurum	lung		1				
+4026111000006112	Primary malignant neoplasm of hilus of lung	93827000	Aurum	lung		1				
+4026421000006113	Primary malignant neoplasm of lower lobe of left lung	93864006	Aurum	lung		1				
+4026441000006118	Primary malignant neoplasm of left upper lobe of lung	93865007	Aurum	lung		1				
+4027751000006114	Primary malignant neoplasm of right lower lobe of lung	93991009	Aurum	lung		1				
+4027761000006111	Primary malignant neoplasm of right middle lobe of lung	93992002	Aurum	lung		1				
+4027771000006116	Primary malignant neoplasm of upper lobe of right lung	93993007	Aurum	lung		1				
+4033691000006118	Secondary malignant neoplasm of hilus of lung	94329002	Aurum	lung		1		1		
+4034781000006112	Secondary malignant neoplasm of left lower lobe of lung	94375005	Aurum	lung		1		1		
+4034811000006114	Metastatic malignant neoplasm to left upper lobe of lung	94376006	Aurum	lung		1				
+4035171000006112	Metastatic malignant neoplasm to lung	94391008	Aurum	lung		1				
+4035181000006110	Secondary malignant tumour of lung	94391008	Aurum	lung		1		1		
+4035191000006113	Secondary malignant tumor of lung	94391008	Aurum	lung		1		1		
+4038541000006115	Secondary malignant neoplasm of right lower lobe of lung	94522007	Aurum	lung		1		1		
+4038551000006118	Metastatic malignant neoplasm to right lower lobe of lung	94522007	Aurum	lung		1				
+4038581000006114	Secondary malignant neoplasm of right upper lobe of lung	94524008	Aurum	lung		1		1		
+4748061000006112	Malignant neoplasm of right middle lobe of lung	187866005	Aurum	lung		1				
+5347081000006114	Malignant tumour of lung parenchyma	254625005	Aurum	lung		1				
+6051901000006113	Local recurrence of malignant tumour of lung	314954002	Aurum	lung		1	1			
+6052771000006112	Metastasis from malignant tumour of lung	315006004	Aurum	lung		1				
+6364271000006119	Primary malignant neoplasm of lower lobe, bronchus or lung	372110008	Aurum	lung		1				
+7850981000006110	Malignant neoplasm of lower lobe of right lung	724056005	Aurum	lung		1				
+7850991000006113	Malignant neoplasm of upper lobe of left lung	724058006	Aurum	lung		1				
+8021331000006113	Primary small cell malignant neoplasm of lung, TNM stage 1	67811000119102	Aurum	lung		1				1
+8021351000006118	Primary small cell malignant neoplasm of lung, TNM stage 3	67831000119107	Aurum	lung		1				1
+8021361000006116	Primary small cell malignant neoplasm of lung, TNM stage 4	67841000119103	Aurum	lung		1				1
+8113461000006113	Secondary malignant neoplasm of right lung	353561000119103	Aurum	lung		1		1		
+8113541000006110	Secondary malignant neoplasm of left lung	353741000119106	Aurum	lung		1		1		
+14140751000006119	Primary malignant neoplasm of left lung	890528009	Aurum	lung		1				
+14140761000006117	Primary malignant neoplasm of right lung	890529001	Aurum	lung		1				
+14140771000006112	Bilateral primary malignant neoplasm of lungs	890534002	Aurum	lung		1				
+14140791000006113	Primary malignant neoplasm of bilateral lungs	890534002	Aurum	lung		1				
+14182251000006119	History of primary malignant neoplasm of left lung	16848061000119103	Aurum	lung		1			1	
+14182261000006117	History of primary malignant neoplasm of right lung	16848101000119100	Aurum	lung		1			1	
+14570101000006113	Malignant neoplasm of middle lobe of right lung	1179762006	Aurum	lung		1				
+14831311000006118	Malignant carcinoid tumour of left lung	145298771000119104	Aurum	lung		1				
+14831861000006112	Malignant carcinoid tumour of right lung	793197981000119106	Aurum	lung		1				
+733371000006119	Lung cancer	93880001	Aurum	lung		1				
+907111000006118	[RFC] Lung cancer	907111000006102	Aurum	lung		1				
+1773121000006115	Small cell lung cancer	254632001	Aurum	lung		1				
+4035211000006114	Secondary cancer of lung	94391008	Aurum	lung		1		1		
+4035221000006118	Cancer metastatic to lung	94391008	Aurum	lung		1				
+5347171000006112	SCLC - Small cell lung cancer	254632001	Aurum	lung		1				
+5347301000006115	NSCLC - Non-small cell lung cancer	254637007	Aurum	lung		1				
+6243261000006112	CA - Lung cancer	363358000	Aurum	lung		1				
+7066961000006112	Epidermal growth factor receptor positive non-small cell lung cancer	426964009	Aurum	lung		1				
+7066991000006116	EGFR positive non-small cell lung cancer	426964009	Aurum	lung		1				
+7572591000006117	Non-small cell lung cancer without mutation in epidermal growth factor receptor	703230006	Aurum	lung		1				
+7842371000006113	Squamous NSCLC (non-small cell lung cancer)	723301009	Aurum	lung		1				
+8113471000006118	Cancer metastatic to right lung	353561000119103	Aurum	lung		1				
+8113551000006112	Cancer metastatic to left lung	353741000119106	Aurum	lung		1				
+13931311000006111	ROS1 negative NSCLC - reactive oxygen species 1 negative non-small cell lung cancer	830060005	Aurum	lung		1				
+13932231000006118	Anaplastic lymphoma kinase fusion oncogene positive non-small cell lung cancer	830151004	Aurum	lung		1				
+15043051000006114	Primary epidermal growth factor receptor positive non-small cell lung cancer	1259776007	Aurum	lung		1				
+15082121000006118	Lung cancer	363358000	Aurum	lung		1				
+290788018	Carcinoma in situ of bronchus and lung	189262006	Aurum	lung		1				
+290791018	Carcinoma in situ of upper lobe bronchus and lung	189265008	Aurum	lung		1				
+290792013	Carcinoma in situ of middle lobe bronchus and lung	189266009	Aurum	lung		1				
+290793015	Carcinoma in situ of lower lobe bronchus and lung	189267000	Aurum	lung		1				
+290794014	Carcinoma in situ of bronchus or lung NOS	189262006	Aurum	lung		1				
+7881241000006113	Malignant carcinoid tumour of bronchus	726653000	Aurum	lung		1				
+4007321000006112	Carcinoma in situ of left lower lobe of lung	92639004	Aurum	lung		1				
+4007331000006110	Carcinoma in situ of left upper lobe of lung	92640002	Aurum	lung		1				
+4007451000006110	Carcinoma in situ of lung	92649001	Aurum	lung		1				
+4008221000006118	Carcinoma in situ of right upper lobe of lung	92703004	Aurum	lung		1				
+288829016	Malignant neoplasm of lower lobe, bronchus or lung NOS	187868006	Aurum	lung		1				
+5347221000006118	SCC - Squamous cell carcinoma of lung	254634000	Aurum	lung		1				
+7020421000006116	Non-small cell carcinoma of lung, TNM stage 1	424132000	Aurum	lung		1				1
+7037531000006118	Non-small cell carcinoma of lung, TNM stage 2	425048006	Aurum	lung		1				1
+6999311000006114	Non-small cell carcinoma of lung, TNM stage 3	422968005	Aurum	lung		1				1
+7002061000006114	Non-small cell carcinoma of lung, TNM stage 4	423121009	Aurum	lung		1				1
+7005031000006110	Squamous cell carcinoma of lung, TNM stage 1	423295000	Aurum	lung		1				1
+7008011000006113	Squamous cell carcinoma of lung, TNM stage 2	423468007	Aurum	lung		1				1
+7040841000006111	Squamous cell carcinoma of lung, TNM stage 3	425230006	Aurum	lung		1				1
+7043361000006113	Squamous cell carcinoma of lung, TNM stage 4	425376008	Aurum	lung		1				1
+7010481000006111	Large cell carcinoma of lung, TNM stage 4	423600008	Aurum	lung		1				1
+7026721000006112	Adenocarcinoma of lung, stage III	424454009	Aurum	lung		1				1
+7036651000006111	Adenocarcinoma of lung, stage IV	424993006	Aurum	lung		1				1
+7617001000006117	Primary mixed subtype adenocarcinoma of lung	707404008	Aurum	lung		1				
+7617021000006110	Primary adenosquamous carcinoma of lung	707405009	Aurum	lung		1				
+7617031000006113	Adenosquamous carcinoma of lung	707405009	Aurum	lung		1				
+7617081000006114	Primary small cell non-keratinising squamous cell carcinoma of lung	707408006	Aurum	lung		1				
+7617101000006118	Small cell non-keratinizing squamous cell carcinoma of lung	707408006	Aurum	lung		1				
+7617121000006111	Primary acinar cell carcinoma of lung	707409003	Aurum	lung		1				
+7617141000006116	Primary solid carcinoma of lung	707410008	Aurum	lung		1				
+7617681000006117	Primary adenocarcinoma of lung	707451005	Aurum	lung		1				
+7617711000006116	Primary clear cell squamous cell carcinoma of lung	707453008	Aurum	lung		1				
+7617721000006112	Clear cell squamous cell carcinoma of lung	707453008	Aurum	lung		1				
+7617731000006110	Primary basaloid squamous cell carcinoma of lung	707454002	Aurum	lung		1				
+7617751000006115	Primary papillary squamous cell carcinoma of lung	707455001	Aurum	lung		1				
+7617791000006114	Primary spindle cell carcinoma of lung	707457009	Aurum	lung		1				
+7617811000006113	Primary pleomorphic carcinoma of lung	707458004	Aurum	lung		1				
+7617821000006117	Pleomorphic carcinoma of lung	707458004	Aurum	lung		1				
+7617841000006112	Sarcomatoid carcinoma of lung	707460002	Aurum	lung		1				
+7617881000006118	Primary myoepithelial carcinoma of lung	707464006	Aurum	lung		1				
+7617901000006116	Primary mucoepidermoid carcinoma of lung	707465007	Aurum	lung		1				
+7617921000006114	Primary adenoid cystic carcinoma of lung	707466008	Aurum	lung		1				
+7617991000006111	Primary non-mucinous bronchiolo-alveolar carcinoma of lung	707469001	Aurum	lung		1				
+7618011000006115	Primary mucinous bronchiolo-alveolar carcinoma of lung	707470000	Aurum	lung		1				
+7969741000006112	Metastasis to lung from adenocarcinoma	1661000119106	Aurum	lung		1				
+9868051000006115	Secondary adenocarcinoma of bilateral lungs	15956181000119102	Aurum	lung		1		1		
+9868061000006118	Metastatic adenocarcinoma to bilateral lungs	15956181000119102	Aurum	lung		1				
+13927461000006110	Acinar cell cystadenocarcinoma of lung	822969007	Aurum	lung		1				
+14172051000006115	Secondary squamous cell carcinoma of lung	105041000119109	Aurum	lung		1		1		
+14172061000006118	Squamous cell carcinoma metastatic to lung	105041000119109	Aurum	lung		1				
+14182271000006112	History of primary non-small cell carcinoma of right lung	16848141000119103	Aurum	lung		1			1	
+14194631000006119	History of primary small cell carcinoma of lung	619792361000119102	Aurum	lung		1			1	
+14477101000006116	Primary adenocarcinoma of middle lobe of right lung	1078951000119101	Aurum	lung		1				
+14478471000006117	Primary small cell carcinoma of upper lobe of left lung	1081861000119105	Aurum	lung		1				
+14478481000006119	Primary small cell carcinoma of lower lobe of right lung	1081891000119103	Aurum	lung		1				
+14478511000006110	Primary small cell carcinoma of upper lobe of right lung	1081921000119108	Aurum	lung		1				
+14478571000006118	Primary squamous cell carcinoma of lower lobe of left lung	1082111000119109	Aurum	lung		1				
+14478601000006113	Primary squamous cell carcinoma of upper lobe of left lung	1082141000119108	Aurum	lung		1				
+14478661000006114	Primary squamous cell carcinoma of lower lobe of right lung	1082231000119109	Aurum	lung		1				
+14478701000006118	Primary squamous cell carcinoma of upper lobe of right lung	1082271000119107	Aurum	lung		1				
+14487531000006114	Primary small cell carcinoma of right lung	15955901000119104	Aurum	lung		1				
+14487541000006116	Primary small cell carcinoma of left lung	15955941000119102	Aurum	lung		1				
+14487551000006119	Secondary adenocarcinoma of right lung	15956221000119105	Aurum	lung		1		1		
+14487561000006117	Secondary adenocarcinoma of left lung	15956261000119100	Aurum	lung		1		1		
+14487581000006110	Secondary small cell carcinoma of left lung	15956701000119109	Aurum	lung		1		1		
+14487591000006113	Bilateral secondary small cell carcinoma of lungs	15956741000119106	Aurum	lung		1		1		
+14487621000006110	Bilateral secondary squamous cell carcinoma of lungs	15957141000119109	Aurum	lung		1		1		
+14488871000006114	Primary non-small cell carcinoma of lower lobe of left lung	16527441000119105	Aurum	lung		1				
+14488891000006110	Primary non-small cell carcinoma of upper lobe of left lung	16527521000119100	Aurum	lung		1				
+14488901000006114	Primary non-small cell carcinoma of lower lobe of right lung	16527561000119105	Aurum	lung		1				
+14488911000006112	Primary non-small cell carcinoma of right lung	16527601000119105	Aurum	lung		1				
+14488921000006116	Primary non-small cell carcinoma of left lung	16527641000119107	Aurum	lung		1				
+14488931000006118	Primary non-small cell carcinoma of upper lobe of right lung	16527721000119108	Aurum	lung		1				
+15003331000006112	Metastatic carcinoma to lower lobe of lung	1237516000	Aurum	lung		1				
+15026451000006111	Non-small cell adenocarcinoma of lung	1255725002	Aurum	lung		1				
+15082451000006118	Carcinoma of lower lobe of lung	372111007	Aurum	lung		1				
+4037851000006117	Cancer metastatic to pleura	94493005	Aurum	lung		1				
+288670017	Malignant neoplasm, overlapping lesion of colon	187757001	Aurum	colorectal		1				
+459527013	Hereditary nonpolyposis colon cancer	315058005	Aurum	colorectal		1				
+403682011	Malignant tumour of colon	363406005	Aurum	colorectal		1				
+721421000006112	Malignant tumour of transverse colon	363408006	Aurum	colorectal		1				
+12762201000006115	Malignant tumor of descending colon	363409003	Aurum	colorectal		1				
+721991000006115	Malignant tumour of sigmoid colon	363410008	Aurum	colorectal		1				
+727321000006111	Malignant tumour of ascending colon	363412000	Aurum	colorectal		1				
+155967013	Secondary malignant neoplasm of colon	94260004	Aurum	colorectal		1		1		
+14805041000006113	Malignant carcinoid tumour of sigmoid colon	123691000119104	Aurum	colorectal		1				
+7881261000006112	Malignant carcinoid tumour of colon	726654006	Aurum	colorectal		1				
+5324371000006119	Carcinoid tumour of appendix	253002004	Aurum	colorectal		1				
+288671018	Malignant neoplasm of other specified sites of colon	363406005	Aurum	colorectal		1				
+288748012	Malignant neoplasm of mesocolon	187809000	Aurum	colorectal		1				
+511501015	Neoplasm of uncertain behaviour of colon	94801006	Aurum	colorectal		1				
+573501000006117	Colon neoplasm screening	275978004	Aurum	colorectal		1				
+721821000006114	Malignant neoplasm of splenic flexure of colon	363413005	Aurum	colorectal		1				
+726331000006111	Malignant neoplasm of colon	363406005	Aurum	colorectal		1				
+4024721000006111	Primary malignant neoplasm of ascending colon	93683002	Aurum	colorectal		1				
+4025461000006111	Primary malignant neoplasm of colon	93761005	Aurum	colorectal		1				
+4025591000006116	Primary malignant neoplasm of descending colon	93771007	Aurum	colorectal		1				
+4026101000006114	Primary malignant neoplasm of hepatic flexure of colon	93826009	Aurum	colorectal		1				
+4027941000006110	Primary malignant neoplasm of sigmoid colon	94006002	Aurum	colorectal		1				
+4028771000006115	Primary malignant neoplasm of splenic flexure of colon	94072004	Aurum	colorectal		1				
+4029101000006118	Primary malignant neoplasm of transverse colon	94105000	Aurum	colorectal		1				
+4030121000006116	Secondary malignant neoplasm of ascending colon	94179005	Aurum	colorectal		1		1		
+4030131000006118	Metastatic malignant neoplasm to ascending colon	94179005	Aurum	colorectal		1				
+4032021000006118	Metastatic malignant neoplasm to colon	94260004	Aurum	colorectal		1				
+4032251000006118	Secondary malignant neoplasm of descending colon	94271003	Aurum	colorectal		1		1		
+4033671000006119	Secondary malignant neoplasm of hepatic flexure of colon	94328005	Aurum	colorectal		1		1		
+4038901000006114	Secondary malignant neoplasm of sigmoid colon	94538001	Aurum	colorectal		1		1		
+4038911000006112	Metastatic malignant neoplasm to sigmoid colon	94538001	Aurum	colorectal		1				
+4040451000006117	Secondary malignant neoplasm of splenic flexure of colon	94604000	Aurum	colorectal		1		1		
+4041511000006110	Secondary malignant neoplasm of transverse colon	94643001	Aurum	colorectal		1		1		
+4049721000006110	Neoplasm of uncertain behaviour of sigmoid colon	95046000	Aurum	colorectal		1				
+4388801000006112	Neoplasm of colon	126838000	Aurum	colorectal		1				
+4388871000006118	Neoplasm of ascending colon	126840005	Aurum	colorectal		1				
+4388901000006118	Neoplasm of hepatic flexure of colon	126841009	Aurum	colorectal		1				
+4388931000006114	Neoplasm of transverse colon	126842002	Aurum	colorectal		1				
+4388961000006117	Neoplasm of splenic flexure of colon	126843007	Aurum	colorectal		1				
+4388991000006113	Neoplasm of descending colon	126844001	Aurum	colorectal		1				
+4389021000006115	Neoplasm of sigmoid colon	126845000	Aurum	colorectal		1				
+7107371000006112	History of malignant neoplasm of colon	429699009	Aurum	colorectal		1			1	
+7821421000006113	Primary malignant neuroendocrine neoplasm of colon	721698005	Aurum	colorectal		1				
+13603371000006113	Secondary malignant neoplasm of colon and/or rectum	781076008	Aurum	colorectal		1		1		
+13606871000006113	Malignant neoplasm of colon and/or rectum	781382000	Aurum	colorectal		1				
+14488961000006110	Primary malignant gastrointestinal stromal neoplasm of colon	16636051000119105	Aurum	colorectal		1				
+14765531000006113	Metastasis from malignant neoplasm of colon and/or rectum	1217692004	Aurum	colorectal		1				
+725951000006112	Malignant tumour of descending colon	363409003	Aurum	colorectal		1				
+6052091000006111	Local recurrence of malignant tumour of colon	314965007	Aurum	colorectal		1	1			
+6052611000006111	Metastasis from malignant tumour of colon	314998002	Aurum	colorectal		1				
+6052621000006115	Metastasis from malignant tumor of colon	314998002	Aurum	colorectal		1				
+6244991000006113	Malignant tumor of colon	363406005	Aurum	colorectal		1				
+6245081000006110	Malignant tumor of transverse colon	363408006	Aurum	colorectal		1				
+6245111000006116	Malignant tumour of descending colon	363409003	Aurum	colorectal		1				
+6245151000006115	Malignant tumor of sigmoid colon	363410008	Aurum	colorectal		1				
+6245201000006112	Malignant tumor of ascending colon	363412000	Aurum	colorectal		1				
+573611000006118	Colonic cancer	363406005	Aurum	colorectal		1				
+1728161000006116	Hereditary nonpolyposis colon cancer	1728161000006100	Aurum	colorectal		1				
+6053471000006110	HNPCC - hereditary nonpolyposis colon cancer	315058005	Aurum	colorectal		1				
+6245001000006118	CA - Cancer of colon	363406005	Aurum	colorectal		1				
+6245011000006115	Cancer of colon	363406005	Aurum	colorectal		1				
+6245061000006117	Hepatic flexure colon cancer	363407001	Aurum	colorectal		1				
+6245101000006119	Transverse colon cancer	363408006	Aurum	colorectal		1				
+6245131000006110	Descending colon cancer	363409003	Aurum	colorectal		1				
+6245161000006118	Sigmoid colon cancer	363410008	Aurum	colorectal		1				
+6245211000006110	Ascending colon cancer	363412000	Aurum	colorectal		1				
+6245251000006111	Splenic flexure colon cancer	363413005	Aurum	colorectal		1				
+6245281000006115	Rectosigmoid colon cancer	363414004	Aurum	colorectal		1				
+6988591000006115	Colon cancer, stage 3	422375001	Aurum	colorectal		1				1
+6992241000006113	Colon cancer, stage 2	422581008	Aurum	colorectal		1				1
+8014351000006112	Colon cancer screening declined	31001000119109	Aurum	colorectal		1				
+14756931000006117	HER2-expressing (human epidermal growth factor 2-expressing) colorectal malignant neoplasm	1217010007	Aurum	colorectal		1				
+4388821000006119	Tumour of colon	126838000	Aurum	colorectal		1				
+4388891000006117	Tumour of ascending colon	126840005	Aurum	colorectal		1				
+4388941000006116	Tumour of transverse colon	126842002	Aurum	colorectal		1				
+4389001000006113	Tumour of descending colon	126844001	Aurum	colorectal		1				
+4389031000006117	Tumour of sigmoid colon	126845000	Aurum	colorectal		1				
+7788831000006110	Radiologic finding of tumour invasion penetrating colonic serosa	719602003	Aurum	colorectal		1				
+4388811000006110	Tumor of colon	126838000	Aurum	colorectal		1				
+4388881000006115	Tumor of ascending colon	126840005	Aurum	colorectal		1				
+4388951000006119	Tumor of transverse colon	126842002	Aurum	colorectal		1				
+4389041000006110	Tumor of sigmoid colon	126845000	Aurum	colorectal		1				
+6248021000006116	CA - Cancer of large bowel	363510005	Aurum	colorectal		1				
+841331000006115	Cancer of bowel	363508008	Aurum	colorectal		1				
+907331000006114	[RFC] Bowel cancer	907331000006105	Aurum	colorectal		1				
+6247931000006115	CA - Cancer of bowel	363508008	Aurum	colorectal		1				
+291402014	[M]Adenomatous or adenocarcinomatous polyps of the colon NOS	68496003	Aurum	colorectal		1				
+403752014	[M]Adenomatous and adenocarcinomatous polyps of colon	442921000000108	Aurum	colorectal		1				
+5898351000006111	Adenocarcinoma of sigmoid colon	301756000	Aurum	colorectal		1				
+7299711000006110	Tubular adenoma of colon	444898006	Aurum	colorectal		1				
+7821391000006117	Primary adenocarcinoma of ascending colon and right flexure	721695008	Aurum	colorectal		1				
+7821401000006115	Primary adenocarcinoma of transverse colon	721696009	Aurum	colorectal		1				
+7821431000006111	Primary adenocarcinoma of descending colon and splenic flexure	721699002	Aurum	colorectal		1				
+7970001000006114	Primary adenocarcinoma of colon	1701000119104	Aurum	colorectal		1				
+8211141000006118	Primary adenocarcinoma of ascending colon	681601000119101	Aurum	colorectal		1				
+11906061000006115	[M]Adenomatous and adenocarcinomatous polyps of colon	442921000000108	Aurum	colorectal		1				
+13687251000006115	Primary adenocarcinoma of descending colon	681651000119102	Aurum	colorectal		1				
+153102018	Carcinoma in situ of ascending colon	92542002	Aurum	colorectal		1				
+153133016	Carcinoma in situ of colon	92568009	Aurum	colorectal		1				
+153141016	Carcinoma in situ of descending colon	92575005	Aurum	colorectal		1				
+153187010	Carcinoma in situ of hepatic flexure of colon	92608001	Aurum	colorectal		1				
+153313014	Carcinoma in situ of sigmoid colon	92708008	Aurum	colorectal		1				
+153388012	Carcinoma in situ of transverse colon	92773000	Aurum	colorectal		1				
+290749015	Carcinoma in situ of splenic flexure of colon	189229003	Aurum	colorectal		1				
+290750015	Carcinoma in situ of colon NOS	92568009	Aurum	colorectal		1				
+5703621000006116	Metastasis to colon of unknown primary	285611007	Aurum	colorectal		1				
+12204961000006112	Metastatic colorectal cancer	94365007	Aurum	colorectal		1				
+5512021000006115	Carcinoma of colon	269533000	Aurum	colorectal		1				
+5699751000006114	Carcinoma of sigmoid colon	285312008	Aurum	colorectal		1				
+6012931000006119	Carcinoma of ascending colon	312111009	Aurum	colorectal		1				
+6012941000006112	Carcinoma of transverse colon	312112002	Aurum	colorectal		1				
+6012951000006114	Carcinoma of descending colon	312113007	Aurum	colorectal		1				
+7821411000006117	Primary neuroendocrine carcinoma of colon	721697000	Aurum	colorectal		1				
+12050581000006119	Squamous cell carcinoma of colon	766981007	Aurum	colorectal		1				
+6248031000006118	Colorectal cancer	363510005	Aurum	colorectal		1				
+8223921000006116	Colorectal cancer	722731000000100	Aurum	colorectal		1				
+13606881000006111	Colorectal cancer	781382000	Aurum	colorectal		1				
+8052691000006114	Primary adenocarcinoma of rectosigmoid junction	184881000119106	Aurum	colorectal		1				
+288675010	Malignant neoplasm of rectum, rectosigmoid junction and anus	187760008	Aurum	colorectal		1				
+288751017	Malignant neoplasm of mesorectum	187811009	Aurum	colorectal		1				
+379088010	Carcinoma of rectum	254582000	Aurum	colorectal		1				
+5346521000006117	Malignant tumour of anorectal junction	254586002	Aurum	colorectal		1				
+5512031000006117	Carcinoma of the rectosigmoid junction	269544008	Aurum	colorectal		1				
+5591081000006110	Malignant melanoma of rectum	276822007	Aurum	colorectal		1				
+5703641000006111	Metastasis to rectum of unknown primary	285612000	Aurum	colorectal		1				
+6052111000006119	Local recurrence of malignant tumour of rectum	314966008	Aurum	colorectal		1	1			
+6052601000006113	Metastasis from malignant tumor of rectum	314997007	Aurum	colorectal		1				
+12762151000006112	Malignant tumor of rectum	363351006	Aurum	colorectal		1				
+722441000006110	Malignant tumour of rectosigmoid junction	363414004	Aurum	colorectal		1				
+7039961000006110	Adenocarcinoma of rectosigmoid junction	425178004	Aurum	colorectal		1				
+7278231000006113	Malignant neoplasm of anorectum	443488001	Aurum	colorectal		1				
+7362971000006115	Carcinoma of upper rectum	448994001	Aurum	colorectal		1				
+12050541000006113	Squamous cell carcinoma of rectum	766979005	Aurum	colorectal		1				
+4027631000006111	Primary malignant neoplasm of rectosigmoid junction	93980002	Aurum	colorectal		1				
+4027671000006114	Primary malignant neoplasm of rectum	93984006	Aurum	colorectal		1				
+156627017	Secondary malignant neoplasm of rectum	94513006	Aurum	colorectal		1		1		
+7706081000006115	Malignant carcinoid tumour of rectum	713573006	Aurum	colorectal		1				
+7702231000006113	Carcinoid tumor of rectum	713306000	Aurum	colorectal		1				
+4038231000006110	Cancer metastatic to rectosigmoid junction	94509004	Aurum	colorectal		1				
+4038321000006117	Cancer metastatic to rectum	94513006	Aurum	colorectal		1				
+3526497018	Microsatellite instability-high colorectal cancer	737058005	Aurum	colorectal		1				
+907001000006115	[RFC] Cancer of the rectum	907001000006104	Aurum	colorectal		1				
+5512041000006110	Cancer of the rectosigmoid junction	269544008	Aurum	colorectal		1				
+5512051000006112	Rectosigmoid junction cancer	269544008	Aurum	colorectal		1				
+6243001000006117	Rectal cancer	363351006	Aurum	colorectal		1				
+6243011000006119	CA - Cancer of rectum	363351006	Aurum	colorectal		1				
+7278241000006115	Anorectal cancer	443488001	Aurum	colorectal		1				
+155488014	Malignant tumour of rectum	363351006	Aurum	colorectal		1				
+1227554011	[V]Personal history of malignant neoplasm of rectum	415080007	Aurum	colorectal		1			1	
+720501000006110	Malignant neoplasm rectum,rectosigmoid junction and anus NOS	187760008	Aurum	colorectal		1				
+4037191000006118	Secondary malignant neoplasm of pararectal lymph nodes	94466007	Aurum	colorectal		1		1		
+4038211000006116	Secondary malignant neoplasm of rectosigmoid junction	94509004	Aurum	colorectal		1		1		
+4038311000006113	Metastatic malignant neoplasm to rectum	94513006	Aurum	colorectal		1				
+4170611000006111	Overlapping malignant neoplasm of rectum, anus and anal canal	109839004	Aurum	colorectal		1				
+6052591000006117	Metastasis from malignant tumour of rectum	314997007	Aurum	colorectal		1				
+6242981000006116	Malignant tumour of rectum	363351006	Aurum	colorectal		1				
+6324621000006110	Malignant tumour involving rectum by direct extension from uterine cervix	369452007	Aurum	colorectal		1				
+6324741000006114	Malignant tumour involving rectum by separate metastasis from prostate	369458006	Aurum	colorectal		1				
+7821441000006118	Primary malignant neuroendocrine neoplasm of rectum	721700001	Aurum	colorectal		1				
+8030471000006110	Malignant neoplasm of rectosigmoid junction metastatic to brain	96981000119102	Aurum	colorectal		1				
+14505681000006110	Presence of direct invasion by malignant neoplasm	370052007	Aurum	colorectal		1				
+3039111000006119	Excision of malignant tumour of rectum by transanal approach	33507007	Aurum	colorectal		1				
+4389121000006119	Tumour of rectum	126847008	Aurum	colorectal		1				
+4389141000006114	Tumour of rectosigmoid junction	126848003	Aurum	colorectal		1				
+6048001000006117	Transanal submucosal excision of rectal tumour	314610005	Aurum	colorectal		1				
+4389111000006110	Tumor of rectum	126847008	Aurum	colorectal		1				
+4389151000006111	Tumor of rectosigmoid junction	126848003	Aurum	colorectal		1				
+6048011000006119	Transanal submucosal excision of rectal tumor	314610005	Aurum	colorectal		1				
+511792018	Neoplasm of uncertain behaviour of rectum	95024008	Aurum	colorectal		1				
+4385051000006114	Neoplasm of rectovaginal septum	126648001	Aurum	colorectal		1				
+4389101000006112	Neoplasm of rectum	126847008	Aurum	colorectal		1				
+4389131000006116	Neoplasm of rectosigmoid junction	126848003	Aurum	colorectal		1				
+288685011	Malignant tumour of anus	363490009	Aurum	colorectal		1				
+1227555012	[V]Personal history of malignant neoplasm of anus	415080007	Aurum	colorectal		1			1	
+4024621000006115	Primary malignant neoplasm of anus	93676009	Aurum	colorectal		1				
+5355801000006118	Malignant tumour of anus and anal canal	255083005	Aurum	colorectal		1				
+5591061000006117	Malignant melanoma of anus	276821000	Aurum	colorectal		1				
+7344901000006113	Malignant melanoma of skin of anus	447712006	Aurum	colorectal		1				
+14464491000006115	Malignant mesenchymal neoplasm of anus	1156811000	Aurum	colorectal		1				
+154231019	Malignant melanoma of perianal skin	93209006	Aurum	colorectal		1				
+155076015	Malignant tumour of anal canal	363352004	Aurum	colorectal		1				
+155458017	Malignant neoplasm of perianal skin	93956001	Aurum	colorectal		1				
+4024571000006118	Primary malignant neoplasm of anal canal	93669004	Aurum	colorectal		1				
+6243031000006113	Malignant tumor of anal canal	363352004	Aurum	colorectal		1				
+4027361000006110	Primary malignant neoplasm of perianal skin	93956001	Aurum	colorectal		1				
+7833101000006111	Primary malignant melanoma of anal canal	722543005	Aurum	colorectal		1				
+6243041000006115	Cancer of anal canal	363352004	Aurum	colorectal		1				
+4389201000006119	Tumour of anal canal	126850006	Aurum	colorectal		1				
+4389211000006116	Tumor of anal canal	126850006	Aurum	colorectal		1				
+153299011	Carcinoma in situ of rectosigmoid junction	92695008	Aurum	colorectal		1				
+153300015	Carcinoma in situ of rectum	92696009	Aurum	colorectal		1				
+290751016	Carcinoma in situ of rectum and rectosigmoid junction	189231007	Aurum	colorectal		1				
+290752011	Carcinoma in situ of rectum or rectosigmoid junction NOS	126837005	Aurum	colorectal		1				
+379089019	Rectal carcinoma	254582000	Aurum	colorectal		1				
+933251000006113	Adenocarcinoma of rectum	93984006	Aurum	colorectal		1				
+5346461000006110	Adenocarcinoma of rectum	254582000	Aurum	colorectal		1				
+7347071000006110	Anorectal adenocarcinoma	447886005	Aurum	colorectal		1				
+7347081000006113	Adenocarcinoma of anorectum	447886005	Aurum	colorectal		1				
+7821451000006116	Primary neuroendocrine carcinoma of rectum	721701002	Aurum	colorectal		1				
+12050551000006110	Rectal squamous cell carcinoma	766979005	Aurum	colorectal		1				
+153089011	Carcinoma in situ of anal canal	92531006	Aurum	colorectal		1				
+153282010	Carcinoma in situ of perianal skin	92680006	Aurum	colorectal		1				
+290809016	Carcinoma in situ of skin of external auricular canal	189280002	Aurum	colorectal		1				
+380137014	Anal carcinoma	363352004	Aurum	colorectal		1				
+510074013	Carcinoma in situ of pyloric canal	92693001	Aurum	colorectal		1				
+537011000006119	Carcinoma in situ of skin of ear and external auricular canal	255144005	Aurum	colorectal		1				
+537021000006110	Carcinoma in situ skin of ear/external auricular canal NOS	92724009	Aurum	colorectal		1				
+5355821000006111	Squamous cell carcinoma of anal margin	255084004	Aurum	colorectal		1				
+5355841000006116	SCC - Squamous cell carcinoma of anal margin	255084004	Aurum	colorectal		1				
+5355851000006119	Anal squamous cell carcinoma	255084004	Aurum	colorectal		1				
+5355861000006117	Anal carcinoma	255084004	Aurum	colorectal		1				
+5699721000006117	Carcinoma of anal canal	285310000	Aurum	colorectal		1				
+7008751000006112	Squamous cell carcinoma of external auditory canal	423506005	Aurum	colorectal		1				
+7821621000006111	Primary cloacogenic carcinoma of anal canal	721709000	Aurum	colorectal		1				
+7833091000006117	Primary squamous cell carcinoma of anal canal	722542000	Aurum	colorectal		1				
+12022241000006111	Adenocarcinoma of anal canal	764845008	Aurum	colorectal		1				
+290753018	Carcinoma in situ of anus	92537005	Aurum	colorectal		1				
+7010621000006110	Adenocarcinoma of anus	423607006	Aurum	colorectal		1				
+7352991000006110	Carcinoma of anus	448315008	Aurum	colorectal		1				
+7842091000006111	Primary squamous cell carcinoma of anus	723265000	Aurum	colorectal		1				
+13964921000006112	Neuroendocrine carcinoma of anus	870355006	Aurum	colorectal		1				
+14489261000006114	Primary squamous cell carcinoma of skin of anus	16899941000119102	Aurum	colorectal		1				
+2731341000000117	Angioimmunoblastic T-cell lymphoma with dysproteinaemia	1090241000000107	Aurum	haematological	lymphoma	1				
+1815221000006115	Follicular lymphoma, cutaneous follicle centre	1091861000000100	Aurum	haematological	lymphoma	1				
+82041000006113	B-cell non-Hodgkin's lymphoma	1091921000000100	Aurum	haematological	lymphoma	1				
+292191019	Diffuse non-Hodgkin's lymphoma	109962001	Aurum	haematological	lymphoma	1				
+621071000006112	Diffuse non-Hodgkin's lymphoma, lymphoblastic (clinical)	109965004	Aurum	haematological	lymphoma	1				
+4172311000006115	Diffuse non-Hodgkin's lymphoma, immunoblastic (clinical)	109966003	Aurum	haematological	lymphoma	1				
+4172441000006112	Diffuse non-Hodgkin's lymphoma, large cell (clinical)	109969005	Aurum	haematological	lymphoma	1				
+344657018	T-zone lymphoma	109975001	Aurum	haematological	lymphoma	1				
+344670010	Lymphoepithelioid lymphoma	109976000	Aurum	haematological	lymphoma	1				
+4172691000006117	Peripheral T-cell lymphoma (clinical)	109977009	Aurum	haematological	lymphoma	1				
+11902611000006112	T-cell lymphoma (clinical)	109978004	Aurum	haematological	lymphoma	1				
+11903061000006113	B-cell lymphoma (clinical)	109979007	Aurum	haematological	lymphoma	1				
+344806015	True histiocytic lymphoma	109988003	Aurum	haematological	lymphoma	1				
+4309331000006118	Lymphoma (clinical)	118600007	Aurum	haematological	lymphoma	1				
+406154013	Non-Hodgkin's lymphoma (clinical)	118601006	Aurum	haematological	lymphoma	1				
+1815421000006116	Primary cutaneous CD30+ large T-cell lymphoma	128875000	Aurum	haematological	lymphoma	1				
+289603013	Burkitt's lymphoma of lymph nodes of head, face and neck	188510001	Aurum	haematological	lymphoma	1				
+289604019	Burkitt's lymphoma of intrathoracic lymph nodes	188511002	Aurum	haematological	lymphoma	1				
+289605018	Burkitt's lymphoma of intra-abdominal lymph nodes	188512009	Aurum	haematological	lymphoma	1				
+289606017	Burkitt's lymphoma of lymph nodes of axilla and upper limb	188513004	Aurum	haematological	lymphoma	1				
+527801000006112	Burkitt's lymphoma of lymph nodes of inguinal region and lower limb	188514005	Aurum	haematological	lymphoma	1				
+289608016	Burkitt's lymphoma of intrapelvic lymph nodes	188515006	Aurum	haematological	lymphoma	1				
+289610019	Burkitt's lymphoma of spleen	188516007	Aurum	haematological	lymphoma	1				
+289611015	Burkitt's lymphoma of lymph nodes of multiple sites	188517003	Aurum	haematological	lymphoma	1				
+289718018	Nodular lymphoma of lymph nodes of head, face and neck	188609000	Aurum	haematological	lymphoma	1				
+289721016	Nodular lymphoma of lymph nodes of axilla and upper limb	188612002	Aurum	haematological	lymphoma	1				
+673681000006118	Nodular lymphoma of lymph nodes of inguinal region and lower limb	188613007	Aurum	haematological	lymphoma	1				
+763431000006118	Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma	188672005	Aurum	haematological	lymphoma	1				
+4752991000006118	Diffuse malignant lymphoma - small non-cleaved cell	188674006	Aurum	haematological	lymphoma	1				
+4753031000006113	Malignant lymphoma - small cleaved cell	188675007	Aurum	haematological	lymphoma	1				
+4753071000006111	Malignant lymphoma - mixed small and large cell	188676008	Aurum	haematological	lymphoma	1				
+289812013	Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)	188679001	Aurum	haematological	lymphoma	1				
+5031591000006112	Lymphoma of retina	232075002	Aurum	haematological	lymphoma	1				
+5095271000006118	Lymphoma of kidney	236513009	Aurum	haematological	lymphoma	1				
+673611000006113	Nodular lymphoma	269476000	Aurum	haematological	lymphoma	1				
+5567551000006115	Malignant lymphoma - lymphocytic, intermediate differentiation	274905008	Aurum	haematological	lymphoma	1				
+5590911000006112	Gastric lymphoma	276811008	Aurum	haematological	lymphoma	1				
+5590961000006110	Lymphoma of intestine	276815004	Aurum	haematological	lymphoma	1				
+5591251000006111	Primary cerebral lymphoma	276836002	Aurum	haematological	lymphoma	1				
+5601001000006114	Splenic lymphoma with villous lymphocytes	277551008	Aurum	haematological	lymphoma	1				
+39671000006114	Cutaneous/peripheral T-cell lymphoma	277613000	Aurum	haematological	lymphoma	1				
+1815461000006110	Low grade B-cell lymphoma	277615007	Aurum	haematological	lymphoma	1				1
+5602231000006116	Diffuse low grade B-cell lymphoma	277616008	Aurum	haematological	lymphoma	1				1
+5602241000006114	High grade B-cell lymphoma	277617004	Aurum	haematological	lymphoma	1				1
+5602251000006111	Follicular low grade B-cell lymphoma	277618009	Aurum	haematological	lymphoma	1				1
+414252013	Mucosa-associated lymphoma	277622004	Aurum	haematological	lymphoma	1				
+5602341000006119	Monocytoid B-cell lymphoma	277623009	Aurum	haematological	lymphoma	1				
+414257019	Follicular non-Hodgkin's small cleaved cell lymphoma	277625002	Aurum	haematological	lymphoma	1				
+5602391000006111	Diffuse high grade B-cell lymphoma	277626001	Aurum	haematological	lymphoma	1				1
+5602401000006113	Nodular high grade B-cell lymphoma	277627005	Aurum	haematological	lymphoma	1				1
+5602511000006112	Large cell anaplastic lymphoma	277637000	Aurum	haematological	lymphoma	1				
+414278016	Follicular non-Hodgkin's large cell lymphoma	277641001	Aurum	haematological	lymphoma	1				
+5602611000006113	Low grade T-cell lymphoma	277642008	Aurum	haematological	lymphoma	1				1
+5602621000006117	High grade T-cell lymphoma	277643003	Aurum	haematological	lymphoma	1				1
+5602711000006117	Peripheral T-cell lymphoma - pleomorphic small cell	277651000	Aurum	haematological	lymphoma	1				
+5602731000006111	Peripheral T-cell lymphoma - pleomorphic medium and large cell	277653002	Aurum	haematological	lymphoma	1				
+414298014	Enteropathy-associated T-cell lymphoma	277654008	Aurum	haematological	lymphoma	1				
+5602911000006119	Malignant lymphoma of testis	277664004	Aurum	haematological	lymphoma	1				
+5608041000006119	Malignant lymphoma of thyroid gland	278051002	Aurum	haematological	lymphoma	1				
+5608051000006117	Malignant lymphoma of breast	278052009	Aurum	haematological	lymphoma	1				
+5911951000006111	Malignant lymphoma - small lymphocytic	302841002	Aurum	haematological	lymphoma	1				
+5912011000006117	Diffuse malignant lymphoma - centroblastic	302842009	Aurum	haematological	lymphoma	1				
+5912081000006112	Nodular malignant lymphoma, lymphocytic - well differentiated	302845006	Aurum	haematological	lymphoma	1				
+291894014	[M]Malignant lymphoma, convoluted cell type NOS	115244002	Aurum	haematological	lymphoma	1				
+5914251000006115	Malignant lymphoma, follicular centre cell	303055001	Aurum	haematological	lymphoma	1				
+5914291000006114	Malignant lymphoma, follicular centre cell, non-cleaved	303057009	Aurum	haematological	lymphoma	1				
+5970661000006117	Malignant lymphoma - lymphoplasmacytic	307623001	Aurum	haematological	lymphoma	1				
+311631000006116	[M]Malignant lymphoma, mixed lymphocytic-histiocytic, nodular	55020008	Aurum	haematological	lymphoma	1				
+291943018	[M]Malignant lymphoma, centroblastic-centrocytic, follicular	115244002	Aurum	haematological	lymphoma	1				
+311581000006119	[M]Malignant lymphoma, lymphocytic, poorly differentiated, nodular	115244002	Aurum	haematological	lymphoma	1				
+5971001000006115	Malignant lymphoma, centroblastic type, follicular	307647008	Aurum	haematological	lymphoma	1				
+451429010	Follicular non-Hodgkin's lymphoma	308121000	Aurum	haematological	lymphoma	1				
+51959012	Lymphomatoid papulosis	31047003	Aurum	haematological	lymphoma	1				
+6632971000006115	Primary cutaneous lymphoma	400001003	Aurum	haematological	lymphoma	1				
+6635071000006113	Primary cutaneous T-cell lymphoma	400122007	Aurum	haematological	lymphoma	1				
+1815391000006112	Subcutaneous panniculitic T-cell lymphoma	404133000	Aurum	haematological	lymphoma	1				
+6693541000006115	Lymphoplasmacytic B-cell lymphoma, nodal/systemic with skin involvement	404149003	Aurum	haematological	lymphoma	1				
+11930221000006112	Angioimmunoblastic T-cell lymphoma	413537009	Aurum	haematological	lymphoma	1				
+6853331000006118	Extranodal natural killer/T-cell lymphoma, nasal type	414166008	Aurum	haematological	lymphoma	1				
+6960371000006112	Primary intraocular non-Hodgkin malignant lymphoma	420788006	Aurum	haematological	lymphoma	1				
+7069571000006119	Malignant lymphoma in remission	427141003	Aurum	haematological	lymphoma	1				
+7097081000006117	History of malignant lymphoma	429014004	Aurum	haematological	lymphoma	1			1	
+123978016	Mantle cell lymphoma	443487006	Aurum	haematological	lymphoma	1				
+7299901000006110	Primary mediastinal (thymic) large B-cell lymphoma	444910004	Aurum	haematological	lymphoma	1				
+1815131000006111	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue	445269007	Aurum	haematological	lymphoma	1				
+2872841013	Hepatosplenic T-cell lymphoma	445406001	Aurum	haematological	lymphoma	1				
+7351521000006114	Anaplastic lymphoma kinase negative anaplastic large cell lymphoma	448212009	Aurum	haematological	lymphoma	1				
+2901912012	Diffuse follicle centre lymphoma	449220000	Aurum	haematological	lymphoma	1				
+3517129013	Paediatric follicular lymphoma	736322001	Aurum	haematological	lymphoma	1				
+2168491000000113	Anaplastic lymphoma kinase positive anaplastic large cell lymphoma	738770003	Aurum	haematological	lymphoma	1				
+3635398013	Classical Hodgkin lymphoma	762690000	Aurum	haematological	lymphoma	1				
+12005511000006110	Primary lymphoma of conjunctiva	763477007	Aurum	haematological	lymphoma	1				
+12008581000006113	Splenic marginal zone B-cell lymphoma	763666008	Aurum	haematological	lymphoma	1				
+1815161000006119	Follicular lymphoma grade 1	847481000000109	Aurum	haematological	lymphoma	1				1
+1815171000006114	Follicular lymphoma grade 2	847631000000107	Aurum	haematological	lymphoma	1				1
+1815181000006112	Follicular lymphoma grade 3	847651000000100	Aurum	haematological	lymphoma	1				1
+2124491000000113	Follicular lymphoma grade 3a	847691000000108	Aurum	haematological	lymphoma	1				1
+2124511000000117	Follicular lymphoma grade 3b	847701000000108	Aurum	haematological	lymphoma	1				1
+198006010	Diffuse large B-cell lymphoma	847741000000106	Aurum	haematological	lymphoma	1				
+289842011	Malignant lymphoma of intra-abdominal lymph nodes	93191005	Aurum	haematological	lymphoma	1				
+289845013	Malignant lymphoma of intrapelvic lymph nodes	93192003	Aurum	haematological	lymphoma	1				
+289832014	Malignant lymphoma of intrathoracic lymph nodes	93193008	Aurum	haematological	lymphoma	1				
+728781000006110	Malignant lymphoma of lymph nodes of axilla AND/OR upper limb	93194002	Aurum	haematological	lymphoma	1				
+289831019	Malignant lymphoma of lymph nodes of head, face AND/OR neck	93195001	Aurum	haematological	lymphoma	1				
+728771000006112	Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb	93196000	Aurum	haematological	lymphoma	1				
+289847017	Malignant lymphoma of lymph nodes of multiple sites	93197009	Aurum	haematological	lymphoma	1				
+289846014	Malignant lymphoma of spleen	93198004	Aurum	haematological	lymphoma	1				
+157686016	Nodular lymphoma of intra-abdominal lymph nodes	95186006	Aurum	haematological	lymphoma	1				
+157688015	Nodular lymphoma of intrathoracic lymph nodes	95188007	Aurum	haematological	lymphoma	1				
+157692010	Nodular lymphoma of lymph nodes of multiple sites	95192000	Aurum	haematological	lymphoma	1				
+157693017	Nodular lymphoma of spleen	95193005	Aurum	haematological	lymphoma	1				
+2849381000006116	Lymphoma	21964009	Aurum	haematological	lymphoma	1				
+4309351000006113	Lymphoma	118600007	Aurum	haematological	lymphoma	1				
+50949017	Lymphoma stage I	30440004	Aurum	haematological	lymphoma	1				1
+110346017	Lymphoma stage IV	66445009	Aurum	haematological	lymphoma	1				1
+126918018	Lymphoma stage II	76422004	Aurum	haematological	lymphoma	1				1
+207325017	T-cell lymphoma	109978004	Aurum	haematological	lymphoma	1				
+215912012	[M]Malignant lymphoma, small cleaved cell, diffuse	115244002	Aurum	haematological	lymphoma	1				
+215913019	Hodgkin lymphoma, lymphocyte depletion	112687003	Aurum	haematological	lymphoma	1				
+215914013	Hodgkin lymphoma, nodular sclerosis	52248008	Aurum	haematological	lymphoma	1				
+287029018	Burkitt lymphoma co-occurrent with human immunodeficiency virus infection	713897006	Aurum	haematological	lymphoma	1				
+288182013	[X]HIV disease resulting in other non-Hodgkin's lymphoma	442537007	Aurum	haematological	lymphoma	1				
+289602015	Burkitt's lymphoma of unspecified site	118617000	Aurum	haematological	lymphoma	1				
+289612010	Burkitt's lymphoma NOS	118617000	Aurum	haematological	lymphoma	1				
+289717011	Nodular lymphoma of unspecified site	269476000	Aurum	haematological	lymphoma	1				
+289726014	Nodular lymphoma NOS	269476000	Aurum	haematological	lymphoma	1				
+289799010	Diffuse non-Hodgkin's small cell (diffuse) lymphoma	188674006	Aurum	haematological	lymphoma	1				
+289801013	Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma	188675007	Aurum	haematological	lymphoma	1				
+289813015	Other types of follicular non-Hodgkin's lymphoma	308121000	Aurum	haematological	lymphoma	1				
+289820010	Malignant lymphoma (clinical)	118600007	Aurum	haematological	lymphoma	1				
+289829011	Malignant lymphoma NOS	118600007	Aurum	haematological	lymphoma	1				
+289830018	Malignant lymphoma NOS of unspecified site	118600007	Aurum	haematological	lymphoma	1				
+291887011	[M]Lymphomas, NOS or diffuse	414628006	Aurum	haematological	lymphoma	1				
+291891018	[M]Malignant lymphoma, diffuse NOS	115244002	Aurum	haematological	lymphoma	1				
+291892013	[M]Malignant lymphoma, undifferentiated cell type NOS	115244002	Aurum	haematological	lymphoma	1				
+291900014	[M]Malignant lymphoma, centroblastic-centrocytic, diffuse	115244002	Aurum	haematological	lymphoma	1				
+291902018	[M]Malignant lymphoma, follicular centre cell NOS	115244002	Aurum	haematological	lymphoma	1				
+291903011	[M]Malignant lymphoma, lymphocytic, well differentiated NOS	115244002	Aurum	haematological	lymphoma	1				
+291905016	[M]Malignant lymphoma, centrocytic	115244002	Aurum	haematological	lymphoma	1				
+291907012	[M]Malignant lymphoma, follicular centre cell, cleaved NOS	115244002	Aurum	haematological	lymphoma	1				
+291910017	[M]Malignant lymphoma, centroblastic type NOS	115244002	Aurum	haematological	lymphoma	1				
+291913015	[M]Malignant lymphomatous polyposis	74654000	Aurum	haematological	lymphoma	1				
+291914014	[M]Malignant lymphoma, large cell, cleaved, diffuse	115244002	Aurum	haematological	lymphoma	1				
+291932014	Hodgkin lymphoma, lymphocyte-rich	128799007	Aurum	haematological	lymphoma	1				
+291933016	Hodgkin lymphoma, nodular sclerosis, grade 1	45572000	Aurum	haematological	lymphoma	1				1
+291953017	[M]Lymphoma, nodular or follicular NOS	414628006	Aurum	haematological	lymphoma	1				
+291963013	Non-Hodgkin lymphoma (category)	128929007	Aurum	haematological	lymphoma	1				
+292083014	[M]Monocytoid B-cell lymphoma	128803008	Aurum	haematological	lymphoma	1				
+292170010	[X]Other types of follicular non-Hodgkin's lymphoma	308121000	Aurum	haematological	lymphoma	1				
+292173012	[X]Other types of diffuse non-Hodgkin's lymphoma	109962001	Aurum	haematological	lymphoma	1				
+292174018	[X]Other specified types of non-Hodgkin's lymphoma	118601006	Aurum	haematological	lymphoma	1				
+292193016	[X]Unspecified B-cell non-Hodgkin's lymphoma	1091921000000103	Aurum	haematological	lymphoma	1				
+403759017	[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS	115244002	Aurum	haematological	lymphoma	1				
+403761014	[M]Malignant lymphoma, nodular NOS	115244002	Aurum	haematological	lymphoma	1				
+444799014	Diffuse non-Hodgkin's centroblastic lymphoma	302842009	Aurum	haematological	lymphoma	1				
+1219545019	Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma	109966003	Aurum	haematological	lymphoma	1				
+1220814017	[M]AngiocentricT-cell lymphoma	128805001	Aurum	haematological	lymphoma	1				
+1220820016	[M]True histiocytic lymphoma	128813000	Aurum	haematological	lymphoma	1				
+1222219012	[M]Lymphocytic lymphoma NOS	115244002	Aurum	haematological	lymphoma	1				
+1222221019	[M]Lymphoblastic lymphoma NOS	115244002	Aurum	haematological	lymphoma	1				
+1222289015	[M]Malignant lymphoma, lymphoplasmacytoid type	19340000	Aurum	haematological	lymphoma	1				
+1225763012	[M] Cutaneous lymphoma	28054005	Aurum	haematological	lymphoma	1				
+1229648010	[M]Malignant lymphoma, centroblastic type, follicular	40411000	Aurum	haematological	lymphoma	1				
+1230392016	[M]Malignant lymphoma, large cell, diffuse NOS	46732000	Aurum	haematological	lymphoma	1				
+1230828016	[M]Malignant lymphoma, mixed small and large cell, diffuse	50102004	Aurum	haematological	lymphoma	1				
+1232576019	[M]Malignant lymphoma, small lymphocytic NOS	64575004	Aurum	haematological	lymphoma	1				
+1234197011	[M]Malignant lymphoma, immunoblastic type	450958009	Aurum	haematological	lymphoma	1				
+2534467019	Extranodal NK/T-cell lymphoma, nasal type	414166008	Aurum	haematological	lymphoma	1				
+2659756011	Peripheral T-cell lymphoma	109977009	Aurum	haematological	lymphoma	1				
+2663190016	Burkitt's lymphoma	118617000	Aurum	haematological	lymphoma	1				
+2663377018	Hodgkin lymphoma, lymphocyte-rich	118607005	Aurum	haematological	lymphoma	1				
+2839871014	Non-Hodgkin lymphoma	118601006	Aurum	haematological	lymphoma	1				
+2870724014	Lymphocyte-rich classical Hodgkin lymphoma	118607005	Aurum	haematological	lymphoma	1				
+2870725010	Mediastinal (thymic) large B-cell lymphoma	444910004	Aurum	haematological	lymphoma	1				
+2872133010	Subcutaneous panniculitis-like T-cell lymphoma	404133000	Aurum	haematological	lymphoma	1				
+3635400012	Classical Hodgkin lymphoma	762691001	Aurum	haematological	lymphoma	1				
+304151000006118	Monocytoid B-cell lymphoma	128803008	Aurum	haematological	lymphoma	1				
+304721000006111	Adenolymphoma	20776008	Aurum	haematological	lymphoma	1				
+309181000006110	[M]Giant follicular lymphoma	115244002	Aurum	haematological	lymphoma	1				
+311431000006119	[M]Lymphoma NOS	21964009	Aurum	haematological	lymphoma	1				
+311461000006111	Malignant lymphoma, follicular AND/OR nodular	115245001	Aurum	haematological	lymphoma	1				
+311561000006112	[M]Malignant lymphoma, follicular centre cell, cleaved, follicular	115244002	Aurum	haematological	lymphoma	1				
+311571000006117	[M]Malignant lymphoma, lymphocytic, intermediate differentiation, nodular	115244002	Aurum	haematological	lymphoma	1				
+311601000006112	[M]Malignant lymphoma, follicular centre cell, non-cleaved NOS	115244002	Aurum	haematological	lymphoma	1				
+311611000006110	[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS	115244002	Aurum	haematological	lymphoma	1				
+311621000006119	[M]Malignant lymphoma, lymphocytic, well differentiated, nodular	115244002	Aurum	haematological	lymphoma	1				
+311641000006114	[M]Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	74654000	Aurum	haematological	lymphoma	1				
+311671000006118	Malignant lymphoma	21964009	Aurum	haematological	lymphoma	1				
+311801000006113	[M]Malignant lymphoma, large cell, noncleaved, diffuse	115244002	Aurum	haematological	lymphoma	1				
+311811000006111	[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS	115244002	Aurum	haematological	lymphoma	1				
+311871000006119	[M]Malignant lymphoma, non-Hodgkin's type	1929004	Aurum	haematological	lymphoma	1				
+311881000006116	[M]Malignant lymphoma, small cell, noncleaved, diffuse	115244002	Aurum	haematological	lymphoma	1				
+311911000006116	[M]Malignant lymphoma, stem cell type	189962004	Aurum	haematological	lymphoma	1				
+314061000006117	[M]Non-Hodgkin's lymphoma	1929004	Aurum	haematological	lymphoma	1				
+400011000006119	[X]Non-Hodgkin's lymphoma NOS	118601006	Aurum	haematological	lymphoma	1				
+404441000006117	[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas	277613000	Aurum	haematological	lymphoma	1				
+587201000006115	Non-Hodgkin's lymphoma	118601006	Aurum	haematological	lymphoma	1				
+621041000006116	Diffuse non-Hodgkin's mixed small and large cell (diffuse) lymphoma	188676008	Aurum	haematological	lymphoma	1				
+621091000006113	Diffuse non-Hodgkin's lymphoma, unspecified	109962001	Aurum	haematological	lymphoma	1				
+728721000006111	Malignant lymphoma	118600007	Aurum	haematological	lymphoma	1				
+763421000006116	Follicular lymphoma NOS	308121000	Aurum	haematological	lymphoma	1				
+825721000006115	Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection	442537007	Aurum	haematological	lymphoma	1				
+826681000006115	Hodgkin lymphoma, nodular lymphocyte predominance (clinical)	118605002	Aurum	haematological	lymphoma	1				
+845051000006111	Staging classification for lymphoma	106252000	Aurum	haematological	lymphoma	1				
+853831000006113	Non hodgkin lymphoma	853831000006109	Aurum	haematological	lymphoma	1				
+1668101000000112	Diffuse non-Hodgkin's large cell lymphoma	109969005	Aurum	haematological	lymphoma	1				
+1814951000006115	HIV disease resulting in other types of non-Hodgkin lymphoma	442537007	Aurum	haematological	lymphoma	1				
+1815001000006119	[X]HIV disease resulting in other non-Hodgkin lymphoma	442537007	Aurum	haematological	lymphoma	1				
+1815031000006110	Hodgkin lymphoma	118599009	Aurum	haematological	lymphoma	1				
+1815051000006115	Nodular sclerosis classical Hodgkin lymphoma	118608000	Aurum	haematological	lymphoma	1				
+1815061000006118	Mixed cellularity classical Hodgkin lymphoma	118609008	Aurum	haematological	lymphoma	1				
+1815071000006113	Lymphocyte depleted classical Hodgkin lymphoma	118610003	Aurum	haematological	lymphoma	1				
+1815091000006114	Other classical Hodgkin lymphoma	118599009	Aurum	haematological	lymphoma	1				
+1815151000006116	Follicular lymphoma	308121000	Aurum	haematological	lymphoma	1				
+1815231000006117	Other types of follicular lymphoma	308121000	Aurum	haematological	lymphoma	1				
+1815301000006117	Cutaneous/peripheral T-cell lymphoma	277613000	Aurum	haematological	lymphoma	1				
+1815321000006110	Anaplastic large cell lymphoma, ALK negative	448212009	Aurum	haematological	lymphoma	1				
+1815331000006113	Cutaneous T-cell lymphoma	400122007	Aurum	haematological	lymphoma	1				
+1815371000006111	Enteropathy-type (intestinal) T-cell lymphoma	277654008	Aurum	haematological	lymphoma	1				
+1815431000006118	Other mature T/NK-cell lymphoma	277613000	Aurum	haematological	lymphoma	1				
+1815451000006113	Nonfollicular lymphoma	109962001	Aurum	haematological	lymphoma	1				
+1815491000006119	Other non-follicular lymphoma	118601006	Aurum	haematological	lymphoma	1				
+2168331000000117	HIV disease resulting in Burkitt lymphoma	713897006	Aurum	haematological	lymphoma	1				
+2168431000000112	Hodgkin lymphoma, nodular lymphocyte predominance (clinical)	118605002	Aurum	haematological	lymphoma	1				
+2168691000000110	Lymphoblastic (diffuse) lymphoma	109965004	Aurum	haematological	lymphoma	1				
+2168861000000117	Non-follicular lymphoma	118601006	Aurum	haematological	lymphoma	1				
+2266791000000118	No FH of non-Hodgkin lymphoma	878461000000100	Aurum	haematological	lymphoma	1				
+2511731000006112	Angioimmunoblastic T-cell lymphoma	835009	Aurum	haematological	lymphoma	1				
+2529491000006110	Malignant lymphoma, non-Hodgkin	1929004	Aurum	haematological	lymphoma	1				
+2529511000006116	Non-Hodgkin's lymphoma	1929004	Aurum	haematological	lymphoma	1				
+2549571000006110	Peripheral T-cell lymphoma	3172003	Aurum	haematological	lymphoma	1				
+2549621000006113	T-cell lymphoma	3172003	Aurum	haematological	lymphoma	1				
+2707081000006115	Orbital lymphoma	13048006	Aurum	haematological	lymphoma	1				
+2730231000006116	Hodgkin lymphoma	14537002	Aurum	haematological	lymphoma	1				
+2734791000000113	Cutaneous follicle centre lymphoma	1091861000000100	Aurum	haematological	lymphoma	1				
+2734841000000110	B-cell Hodgkin's lymphoma	1091891000000106	Aurum	haematological	lymphoma	1				
+2806901000006114	Malignant lymphoma, lymphoplasmacytic	19340000	Aurum	haematological	lymphoma	1				
+2813671000006117	Pseudolymphoma	19750001	Aurum	haematological	lymphoma	1				
+2830401000006111	Papillary cystadenoma lymphomatosum	20776008	Aurum	haematological	lymphoma	1				
+2950311000006114	Cutaneous T-cell lymphoma	28054005	Aurum	haematological	lymphoma	1				
+3129111000006110	Hodgkin lymphoma, nodular sclerosis, cellular phase	39086001	Aurum	haematological	lymphoma	1				
+3150381000006111	Follicular lymphoma, grade 3	40411000	Aurum	haematological	lymphoma	1				1
+3169161000006115	Hodgkin lymphoma, mixed cellularity	41529000	Aurum	haematological	lymphoma	1				
+3208271000006111	Hodgkin lymphoma, nodular sclerosis, grade 2	43985008	Aurum	haematological	lymphoma	1				1
+3254991000006117	Malignant lymphoma, large B-cell, diffuse	46732000	Aurum	haematological	lymphoma	1				
+3255181000006119	Diffuse large B-cell lymphoma	46732000	Aurum	haematological	lymphoma	1				
+3327941000006113	B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma	51092000	Aurum	haematological	lymphoma	1				
+3327951000006110	B-cell chronic lymphocytic leukaemia/small lymphocytic lymphoma	51092000	Aurum	haematological	lymphoma	1				
+3347001000006113	Classical Hodgkin lymphoma, nodular sclerosis	52248008	Aurum	haematological	lymphoma	1				
+3363281000006114	Anaplastic large cell lymphoma	53237008	Aurum	haematological	lymphoma	1				
+3393051000006113	Follicular lymphoma, grade 2	55020008	Aurum	haematological	lymphoma	1				1
+3395251000006115	Follicular lymphoma	55150002	Aurum	haematological	lymphoma	1				
+3550221000006113	Malignant lymphoma, small lymphocytic	64575004	Aurum	haematological	lymphoma	1				
+3648221000006118	Hodgkin lymphoma, nodular lymphocyte predominance	70600005	Aurum	haematological	lymphoma	1				
+3713291000006112	Mantle cell lymphoma	74654000	Aurum	haematological	lymphoma	1				
+3758721000006116	Burkitt lymphoma	77381001	Aurum	haematological	lymphoma	1				
+4016391000006114	Malignant lymphoma of extranodal AND/OR solid organ site	93199007	Aurum	haematological	lymphoma	1				
+4052681000006110	Nodular lymphoma of extranodal AND/OR solid organ site	95194004	Aurum	haematological	lymphoma	1				
+4172251000006113	Lymphoblastic lymphoma	109965004	Aurum	haematological	lymphoma	1				
+4172261000006110	Malignant lymphoma - lymphoblastic	109965004	Aurum	haematological	lymphoma	1				
+4172461000006111	Diffuse malignant lymphoma - large cell	109969005	Aurum	haematological	lymphoma	1				
+4172471000006116	Malignant lymphoma - large cell cleaved and non-cleaved	109969005	Aurum	haematological	lymphoma	1				
+4172481000006118	Diffuse non-Hodgkin's lymphoma, large cell	109969005	Aurum	haematological	lymphoma	1				
+4172491000006115	Diffuse non-Hodgkin lymphoma, large cell	109969005	Aurum	haematological	lymphoma	1				
+4172501000006111	Lymphoma, diffuse large B cell, non Hodgkins	109969005	Aurum	haematological	lymphoma	1				
+4172561000006112	Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell (clinical)	109971005	Aurum	haematological	lymphoma	1				
+4172591000006116	Follicular lymphoma grade 2	109971005	Aurum	haematological	lymphoma	1				1
+4172601000006112	Follicular non-Hodgkin's lymphoma, large cell (clinical)	109972003	Aurum	haematological	lymphoma	1				
+4172741000006115	B-cell lymphoma	109979007	Aurum	haematological	lymphoma	1				
+4255921000006118	Malignant lymphoma - category	115244002	Aurum	haematological	lymphoma	1				
+4309281000006110	Malignant Hodgkin's lymphoma	118599009	Aurum	haematological	lymphoma	1				
+4309311000006112	Lymphoma, Hodgkins	118599009	Aurum	haematological	lymphoma	1				
+4309371000006115	Malignant lymphoma, non-Hodgkin's type	118601006	Aurum	haematological	lymphoma	1				
+4309391000006119	NHL - Non-Hodgkin's lymphoma	118601006	Aurum	haematological	lymphoma	1				
+4309411000006119	Non-Hodgkin lymphoma	118601006	Aurum	haematological	lymphoma	1				
+4309481000006114	Hodgkin lymphoma, nodular lymphocyte predominance	118605002	Aurum	haematological	lymphoma	1				
+4309981000006116	Burkitt's lymphoma (clinical)	118617000	Aurum	haematological	lymphoma	1				
+4310011000006116	Burkitt's type malignant lymphoma - undifferentiated	118617000	Aurum	haematological	lymphoma	1				
+4395121000006117	Malignant lymphoma of lymph nodes	127220001	Aurum	haematological	lymphoma	1				
+4415581000006115	Mediastinal large B-cell lymphoma	128801005	Aurum	haematological	lymphoma	1				
+4415611000006111	Splenic marginal zone lymphoma	128802003	Aurum	haematological	lymphoma	1				
+4415631000006117	Marginal zone B-cell lymphoma	128803008	Aurum	haematological	lymphoma	1				
+4415651000006112	Nodal marginal zone lymphoma	128803008	Aurum	haematological	lymphoma	1				
+4415681000006116	Marginal zone lymphoma	128803008	Aurum	haematological	lymphoma	1				
+4415691000006118	MALT lymphoma	128803008	Aurum	haematological	lymphoma	1				
+4415761000006117	NK/T-cell lymphoma, nasal and nasal-type	128805001	Aurum	haematological	lymphoma	1				
+4418791000006115	Cutaneous pseudolymphoma	128862000	Aurum	haematological	lymphoma	1				
+4420171000006114	Hodgkin lymphoma (category)	128930002	Aurum	haematological	lymphoma	1				
+4757371000006118	Malignant lymphoma, stem cell type	189962004	Aurum	haematological	lymphoma	1				
+5141671000006119	Lymphomatoid granulomatosis	239940004	Aurum	haematological	lymphoma	1				
+5393581000006115	Lymphomatous nodal involvement	258283002	Aurum	haematological	lymphoma	1				
+5567561000006118	Mantle zone lymphoma	274905008	Aurum	haematological	lymphoma	1				
+5602351000006117	Follicular malignant lymphoma - mixed cell type	277624003	Aurum	haematological	lymphoma	1				
+5602371000006110	Follicular malignant lymphoma - small cleaved cell	277625002	Aurum	haematological	lymphoma	1				
+5602571000006115	Follicular malignant lymphoma - large cell	277641001	Aurum	haematological	lymphoma	1				
+5911971000006118	Lymphocytic lymphoma	302841002	Aurum	haematological	lymphoma	1				
+5912001000006115	Small lymphocytic lymphoma	302841002	Aurum	haematological	lymphoma	1				
+5971031000006111	Primary central nervous system lymphoma	307649006	Aurum	haematological	lymphoma	1				
+5971051000006116	Primary CNS lymphoma	307649006	Aurum	haematological	lymphoma	1				
+5975501000006113	Follicular non-Hodgkin lymphoma	308121000	Aurum	haematological	lymphoma	1				
+6051551000006117	B-cell lymphoma morphology	314922006	Aurum	haematological	lymphoma	1				
+6051601000006115	High grade T-cell lymphoma morphology	314927000	Aurum	haematological	lymphoma	1				1
+6330971000006113	Low grade (lymphoma)	369766003	Aurum	haematological	lymphoma	1				1
+6330981000006111	Low grade (lymphoma grade)	369766003	Aurum	haematological	lymphoma	1				1
+6330991000006114	Low grade lymphoma	369766003	Aurum	haematological	lymphoma	1				1
+6331011000006113	High grade (lymphoma grade)	369767007	Aurum	haematological	lymphoma	1				1
+6331021000006117	High grade lymphoma	369767007	Aurum	haematological	lymphoma	1				1
+6585691000006116	Cutaneous T-cell lymphoma, large cell, CD30-positive	397352006	Aurum	haematological	lymphoma	1				
+6585711000006118	Lymphomatoid papulosis	397353001	Aurum	haematological	lymphoma	1				
+6635091000006114	CTCL - Cutaneous T-cell lymphoma	400122007	Aurum	haematological	lymphoma	1				
+6671201000006113	Primary cutaneous large T-cell lymphoma	402880009	Aurum	haematological	lymphoma	1				
+6671211000006111	Primary cutaneous B-cell lymphoma	402881008	Aurum	haematological	lymphoma	1				
+6692641000006112	Lymphomatoid papulosis type A (CD-30 positive type)	404103007	Aurum	haematological	lymphoma	1				
+6692681000006118	Lymphomatoid papulosis type C (anaplastic large-cell lymphoma-like)	404105000	Aurum	haematological	lymphoma	1				
+6692731000006111	Patch/plaque stage cutaneous T-cell lymphoma	404107008	Aurum	haematological	lymphoma	1				
+6692811000006114	Lymphomatoid papulosis-associated mycosis fungoides	404111002	Aurum	haematological	lymphoma	1				
+6693141000006114	CD-30 positive pleomorphic large T-cell cutaneous lymphoma	404126000	Aurum	haematological	lymphoma	1				
+6693151000006111	CD-30 positive T-immunoblastic cutaneous lymphoma	404127009	Aurum	haematological	lymphoma	1				
+6693161000006113	CD-30 negative cutaneous T-cell lymphoma	404128004	Aurum	haematological	lymphoma	1				
+6693171000006118	CD-30 negative anaplastic large T-cell cutaneous lymphoma	404129007	Aurum	haematological	lymphoma	1				
+6693231000006110	Anaplastic large T-cell systemic malignant lymphoma	404134006	Aurum	haematological	lymphoma	1				
+6693321000006117	Small lymphocytic B-cell lymphoma involving skin	404138009	Aurum	haematological	lymphoma	1				
+6693351000006114	Primary cutaneous marginal zone B-cell lymphoma	404140004	Aurum	haematological	lymphoma	1				
+6693411000006115	Primary cutaneous follicular centre B-cell lymphoma	404143002	Aurum	haematological	lymphoma	1				
+6693471000006112	Primary cutaneous diffuse large cell B-cell lymphoma	404144008	Aurum	haematological	lymphoma	1				
+6693501000006117	Follicular centre B-cell lymphoma (nodal/systemic with skin involvement)	404147001	Aurum	haematological	lymphoma	1				
+6693531000006113	Diffuse large B-cell lymphoma (nodal/systemic with skin involvement)	404148006	Aurum	haematological	lymphoma	1				
+6693561000006116	Mantle cell B-cell lymphoma (nodal/systemic with skin involvement)	404150003	Aurum	haematological	lymphoma	1				
+6853311000006112	Angiocentric T-cell lymphoma	414166008	Aurum	haematological	lymphoma	1				
+6864501000006112	Mucosa-associated lymphoid tissue (MALT) lymphoma of orbit	414780005	Aurum	haematological	lymphoma	1				
+6940861000006118	Primary cutaneous follicle centre cell lymphoma	419662008	Aurum	haematological	lymphoma	1				
+6940871000006113	Primary cutaneous follicle center cell lymphoma	419662008	Aurum	haematological	lymphoma	1				
+6955611000006112	Malignant lymphoma of the eye region	420519005	Aurum	haematological	lymphoma	1				
+6968461000006113	Precursor T-cell lymphoblastic lymphoma	421246008	Aurum	haematological	lymphoma	1				
+6990431000006117	Adenolymphoma	422470007	Aurum	haematological	lymphoma	1				
+6997041000006117	Lymphoma of retroperitoneal space	422853008	Aurum	haematological	lymphoma	1				
+7053651000006116	Hodgkin's lymphoma in remission	426071002	Aurum	haematological	lymphoma	1				
+7069581000006116	Lymphoma in remission	427141003	Aurum	haematological	lymphoma	1				
+7079691000006114	History of B-cell lymphoma	427846005	Aurum	haematological	lymphoma	1			1	
+7082631000006111	History of non-Hodgkins lymphoma	428046009	Aurum	haematological	lymphoma	1			1	
+7295021000006118	Mucosa-associated lymphoid tissue (MALT) lymphoma of stomach	444597005	Aurum	haematological	lymphoma	1				
+7305431000006117	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (MALT-lymphoma)	445269007	Aurum	haematological	lymphoma	1				
+7315981000006111	Lymphomatous infiltration	445925008	Aurum	haematological	lymphoma	1				
+7334771000006117	Marginal zone lymphoma	447100004	Aurum	haematological	lymphoma	1				
+7348441000006114	Non-Hodgkin's lymphoma of extranodal site	447989004	Aurum	haematological	lymphoma	1				
+7351491000006112	Adenolymphoma of parotid gland	448211002	Aurum	haematological	lymphoma	1				
+7351661000006119	Non-Hodgkin's lymphoma of bone	448220006	Aurum	haematological	lymphoma	1				
+7351861000006118	Follicular non-Hodgkin's lymphoma of nose	448231003	Aurum	haematological	lymphoma	1				
+7352201000006110	Non-Hodgkin's lymphoma of central nervous system	448254007	Aurum	haematological	lymphoma	1				
+7352211000006113	Non-Hodgkin lymphoma of central nervous system	448254007	Aurum	haematological	lymphoma	1				
+7353041000006113	Follicular non-Hodgkin's lymphoma of soft tissue	448317000	Aurum	haematological	lymphoma	1				
+7353601000006119	Non-Hodgkin's lymphoma of intestine	448354009	Aurum	haematological	lymphoma	1				
+7353891000006113	Non-Hodgkin's lymphoma of lung	448372003	Aurum	haematological	lymphoma	1				
+7354171000006119	Non-Hodgkin's lymphoma of testis	448387008	Aurum	haematological	lymphoma	1				
+7354181000006116	Non-Hodgkin lymphoma of testis	448387008	Aurum	haematological	lymphoma	1				
+7355181000006117	Non-Hodgkin's lymphoma of skin	448447004	Aurum	haematological	lymphoma	1				
+7356671000006118	Lymphoma of pelvis	448553002	Aurum	haematological	lymphoma	1				
+7356691000006117	Lymphoma of body of stomach	448555009	Aurum	haematological	lymphoma	1				
+7358331000006113	Follicular non-Hodgkin's lymphoma of bone	448666006	Aurum	haematological	lymphoma	1				
+7358451000006113	Follicular non-Hodgkin's lymphoma of lung	448672006	Aurum	haematological	lymphoma	1				
+7359061000006114	Non-Hodgkin's lymphoma of stomach	448709005	Aurum	haematological	lymphoma	1				
+7361211000006114	Follicular non-Hodgkin's lymphoma of skin	448865007	Aurum	haematological	lymphoma	1				
+7364001000006115	Follicular non-Hodgkin's lymphoma of tonsil	449058008	Aurum	haematological	lymphoma	1				
+7364271000006115	Gastrointestinal lymphoma	449072004	Aurum	haematological	lymphoma	1				
+7364311000006115	Lymphoma of small bowel	449074003	Aurum	haematological	lymphoma	1				
+7365841000006114	Diffuse non-Hodgkin's lymphoma of tonsil	449173006	Aurum	haematological	lymphoma	1				
+7365931000006114	Diffuse non-Hodgkin's lymphoma of bone	449177007	Aurum	haematological	lymphoma	1				
+7366611000006119	Diffuse non-Hodgkin's lymphoma of skin	449217008	Aurum	haematological	lymphoma	1				
+7366631000006113	Lymphoma of sigmoid colon	449218003	Aurum	haematological	lymphoma	1				
+7367811000006115	Non-Hodgkin's lymphoma of tonsil	449292003	Aurum	haematological	lymphoma	1				
+7369661000006114	Follicular non-Hodgkin's lymphoma of intestine	449419008	Aurum	haematological	lymphoma	1				
+7385871000006116	T-cell rich/histiocyte-rich large B-cell lymphoma	450959001	Aurum	haematological	lymphoma	1				
+7482301000006118	History of Hodgkin lymphoma	473068004	Aurum	haematological	lymphoma	1			1	
+7566531000006112	Follicular non-Hodgkin's lymphoma diffuse follicle centre sub-type grade 1	702786004	Aurum	haematological	lymphoma	1				1
+7569011000006116	Follicular non-Hodgkin's lymphoma diffuse follicle centre cell sub-type grade 2	702977001	Aurum	haematological	lymphoma	1				1
+7579001000006113	Anaplastic large cell lymphoma, T/Null cell, primary systemic type	703626001	Aurum	haematological	lymphoma	1				
+7740101000006115	ALK-positive large B-cell lymphoma	715950008	Aurum	haematological	lymphoma	1				
+7752061000006119	Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly	716788007	Aurum	haematological	lymphoma	1				
+7752071000006114	Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly	716789004	Aurum	haematological	lymphoma	1				
+7769051000006116	Primary pulmonary lymphoma	718200007	Aurum	haematological	lymphoma	1				
+7819511000006113	Follicular lymphoma of small intestine	721555001	Aurum	haematological	lymphoma	1				
+7838571000006117	B-cell lymphoma unclassifiable with features intermediate between Burkitt lymphoma and diffuse large B-cell lymphoma	722953004	Aurum	haematological	lymphoma	1				
+7858981000006112	T-cell hystiocyte rich large B-cell lymphoma	724645006	Aurum	haematological	lymphoma	1				
+7859011000006113	Plasmablastic lymphoma	724648008	Aurum	haematological	lymphoma	1				
+7881991000006111	Nodal marginal zone B-cell lymphoma	726721002	Aurum	haematological	lymphoma	1				
+7959721000006110	Primary cutaneous gamma-delta-positive T-cell lymphoma	733627006	Aurum	haematological	lymphoma	1				
+7963731000006117	Diffuse large B-cell lymphoma of central nervous system	734066005	Aurum	haematological	lymphoma	1				
+7963881000006114	Diffuse large B-cell lymphoma associated with chronic inflammation	734076008	Aurum	haematological	lymphoma	1				
+7963891000006112	DLBCL (diffuse large B-cell lymphoma) associated with chronic inflammation	734076008	Aurum	haematological	lymphoma	1				
+7964521000006110	B-cell lymphoma with features intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma	734142002	Aurum	haematological	lymphoma	1				
+7995811000006116	B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and Hodgkin lymphoma	12351000132102	Aurum	haematological	lymphoma	1				
+8042011000006111	Lymphoma of colon	133751000119102	Aurum	haematological	lymphoma	1				
+12026931000006114	Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma	765136002	Aurum	haematological	lymphoma	1				
+12049801000006116	Primary bone lymphoma	766935007	Aurum	haematological	lymphoma	1				
+12617151000006116	PMBCL (primary mediastinal B cell lymphoma) tumour and germline WGS (whole genome sequencing)	63221000000105	Aurum	haematological	lymphoma	1				
+13529241000006112	Primary cutaneous anaplastic large cell lymphoma	773995001	Aurum	haematological	lymphoma	1				
+13630511000006114	Breast implantÃ¢ÂÂassociated anaplastic large-cell lymphoma	783541009	Aurum	haematological	lymphoma	1				
+13666221000006112	Diffuse large B-cell lymphoma activated B-cell subtype	787565006	Aurum	haematological	lymphoma	1				
+13666571000006111	Diffuse large B-cell lymphoma germinal centre B-cell subtype	787594004	Aurum	haematological	lymphoma	1				
+13674381000006115	Marginal zone lymphoma of spleen	116691000119101	Aurum	haematological	lymphoma	1				
+13674391000006117	Marginal zone lymphoma of lymph nodes of multiple sites	116841000119105	Aurum	haematological	lymphoma	1				
+13674401000006115	Mantle cell lymphoma of lymph nodes of multiple sites	116871000119103	Aurum	haematological	lymphoma	1				
+13674411000006117	Peripheral T-cell lymphoma of lymph nodes of multiple sites	117211000119105	Aurum	haematological	lymphoma	1				
+13685761000006117	B-cell lymphoma of intra-abdominal lymph nodes	350951000119101	Aurum	haematological	lymphoma	1				
+13685801000006114	B-cell lymphoma of lymph nodes of multiple sites	351211000119104	Aurum	haematological	lymphoma	1				
+13685961000006119	Small lymphocytic B-cell lymphoma of lymph nodes of multiple sites	352251000119109	Aurum	haematological	lymphoma	1				
+13685981000006112	Small lymphocytic B-cell lymphoma of intra-abdominal lymph nodes	352411000119109	Aurum	haematological	lymphoma	1				
+13686181000006118	Follicular non-Hodgkin's lymphoma of lymph nodes of multiple sites	354851000119101	Aurum	haematological	lymphoma	1				
+13853161000006115	T-cell histiocyte rich large B-cell lymphoma	724645006	Aurum	haematological	lymphoma	1				
+13915571000006117	History of primary cutaneous lymphoma	789395008	Aurum	haematological	lymphoma	1			1	
+13918131000006119	Malignant lymphomatoid granulomatosis	789689004	Aurum	haematological	lymphoma	1				
+13931271000006111	Relapsing classical Hodgkin lymphoma	830057003	Aurum	haematological	lymphoma	1				
+13936961000006117	Lymphomatous infiltrate of kidney	836486002	Aurum	haematological	lymphoma	1				
+13942781000006113	Diffuse large B-cell lymphoma of small intestine	840423002	Aurum	haematological	lymphoma	1				
+13942791000006111	Diffuse large B-cell lymphoma of stomach	840424008	Aurum	haematological	lymphoma	1				
+13958161000006119	Large B-cell lymphoma arising in HHV8-associated multicentric Castleman disease	866098005	Aurum	haematological	lymphoma	1				
+14172191000006110	Non-Hodgkin's lymphoma in remission	143291000119104	Aurum	haematological	lymphoma	1				
+14442381000006114	Follicular lymphoma grade 3b	1148845007	Aurum	haematological	lymphoma	1				1
+14442461000006110	Follicular lymphoma grade 3a	1148851002	Aurum	haematological	lymphoma	1				1
+14442471000006115	Follicular lymphoma grade IIIa	1148851002	Aurum	haematological	lymphoma	1				1
+14449711000006112	Primary non-Hodgkin malignant lymphoma of vitreoretinal tract	1153347002	Aurum	haematological	lymphoma	1				
+14449731000006118	Primary effusion lymphoma due to human immune deficiency virus infection	1153348007	Aurum	haematological	lymphoma	1				
+14450141000006116	Lymphoma of lacrimal gland	1153382001	Aurum	haematological	lymphoma	1				
+14760811000006111	Precursor cell lymphoblastic lymphoma	1217301006	Aurum	haematological	lymphoma	1				
+94699019	Lymphoma stage III	56944001	Aurum	haematological	lymphoma	1				1
+289580016	Lymphosarcoma and reticulosarcoma	188487008	Aurum	haematological	lymphoma	1				
+289591011	Lymphosarcoma	188498009	Aurum	haematological	lymphoma	1				
+289592016	Lymphosarcoma of unspecified site	188498009	Aurum	haematological	lymphoma	1				
+289593014	Lymphosarcoma of lymph nodes of head, face and neck	188500005	Aurum	haematological	lymphoma	1				
+289594015	Lymphosarcoma of intrathoracic lymph nodes	188501009	Aurum	haematological	lymphoma	1				
+289595019	Lymphosarcoma of intra-abdominal lymph nodes	188502002	Aurum	haematological	lymphoma	1				
+289596018	Lymphosarcoma of lymph nodes of axilla and upper limb	188503007	Aurum	haematological	lymphoma	1				
+289598017	Lymphosarcoma of intrapelvic lymph nodes	188505000	Aurum	haematological	lymphoma	1				
+289599013	Lymphosarcoma of spleen	188506004	Aurum	haematological	lymphoma	1				
+289600011	Lymphosarcoma of lymph nodes of multiple sites	188507008	Aurum	haematological	lymphoma	1				
+289601010	Lymphosarcoma NOS	188498009	Aurum	haematological	lymphoma	1				
+289613017	Other specified reticulosarcoma or lymphosarcoma	188487008	Aurum	haematological	lymphoma	1				
+289614011	Reticulosarcoma or lymphosarcoma NOS	188487008	Aurum	haematological	lymphoma	1				
+291909010	[M]Prolymphocytic lymphosarcoma	115244002	Aurum	haematological	lymphoma	1				
+1222220018	[M]Lymphocytic lymphosarcoma NOS	115244002	Aurum	haematological	lymphoma	1				
+1227576019	[V]Personal history of lymphosarcoma	266987004	Aurum	haematological	lymphoma	1			1	
+308801000006118	[M]Follicular lymphosarcoma NOS	115244002	Aurum	haematological	lymphoma	1				
+311351000006119	[M]Lymphoblastic lymphosarcoma NOS	115244002	Aurum	haematological	lymphoma	1				
+731691000006110	Lymphosarcoma of lymph nodes of inguinal region and lower limb	188504001	Aurum	haematological	lymphoma	1				
+4753051000006118	Lymphoblastic lymphosarcoma	188675007	Aurum	haematological	lymphoma	1				
+314041000006116	[M]Nodular lymphosarcoma NOS	115244002	Aurum	haematological	lymphoma	1				
+311521000006118	[M]Lymphosarcoma NOS	115244002	Aurum	haematological	lymphoma	1				
+289713010	Other malignant neoplasm of lymphoid and histiocytic tissue	277606000	Aurum	haematological	lymphoma	1				
+289849019	Malignant neoplasms of lymphoid and histiocytic tissue NOS	118600007	Aurum	haematological	lymphoma	1				
+3532636014	Myeloid and/or lymphoid neoplasm associated with platelet derived growth factor receptor alpha rearrangement	738527001	Aurum	haematological	lymphoma	1				
+81401000006110	Unspec malig neop lymphoid/histiocytic intra-abdominal nodes	118600007	Aurum	haematological	lymphoma	1				
+81411000006113	Unspec malig neop lymphoid/histiocytic lymph node axilla/arm	118600007	Aurum	haematological	lymphoma	1				
+81421000006117	Unspec malig neop lymphoid/histiocytic lymph node head/neck	118600007	Aurum	haematological	lymphoma	1				
+81431000006119	Unspec malig neop lymphoid/histiocytic nodes inguinal/leg	118600007	Aurum	haematological	lymphoma	1				
+81441000006112	Unspec malig neop lymphoid/histiocytic of intrapelvic nodes	118600007	Aurum	haematological	lymphoma	1				
+81461000006111	Unspec malig neop lymphoid/histiocytic of multiple sites	118600007	Aurum	haematological	lymphoma	1				
+81471000006116	Unspec malig neop lymphoid/histiocytic of spleen	118600007	Aurum	haematological	lymphoma	1				
+81481000006118	Unspec malig neop lymphoid/histiocytic of unspecified site	118600007	Aurum	haematological	lymphoma	1				
+311441000006112	Lymphoid neoplasm	414628006	Aurum	haematological	lymphoma	1				
+312671000006113	[M]Miscellaneous myeloproliferative and lymphoproliferative disorders	415181008	Aurum	haematological	lymphoma	1				
+312681000006111	[M]Miscellaneous myeloproliferative or lymphoproliferative disorders NOS	415181008	Aurum	haematological	lymphoma	1				
+396621000006114	[X]Malignant neoplasms of lymphoid, haematopoietic and related tissue	269475001	Aurum	haematological	lymphoma	1				
+405081000006118	[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue	269475001	Aurum	haematological	lymphoma	1				
+4418821000006112	Cutaneous lymphoid hyperplasia	128862000	Aurum	haematological	lymphoma	1				
+13908031000006118	Primary cutaneous CD4 positive small/medium T-cell lymphoproliferative disorder	788674000	Aurum	haematological	lymphoma	1				
+14145561000006117	Primary cutaneous CD30 antigen positive T-cell lymphoproliferative disorder	896745008	Aurum	haematological	lymphoma	1				
+14784491000006114	Myeloid and/or lymphoid neoplasm with PCM1-JAK2	1229988003	Aurum	haematological	lymphoma	1				
+403710016	Lymphoid and histiocytic malignancy NOS	269475001	Aurum	haematological	lymphoma	1				
+403760010	[M]Lymphogranuloma, malignant	128929007	Aurum	haematological	lymphoma	1				
+396101000006112	Malignant tumour of lymphoid haemopoietic and related tissue	269475001	Aurum	haematological	lymphoma	1				
+344820010	Multiple myeloma	109989006	Aurum	haematological	mlutiple_myeloma	1				
+5601571000006112	Non-secretory myeloma	277580004	Aurum	haematological	mlutiple_myeloma	1				
+5701111000006119	IgA myeloma	285420006	Aurum	haematological	mlutiple_myeloma	1				
+5701141000006115	Immunoglobulin G myeloma	285421005	Aurum	haematological	mlutiple_myeloma	1				
+5701161000006116	Immunoglobulin D myeloma	285422003	Aurum	haematological	mlutiple_myeloma	1				
+457317011	Lambda light chain myeloma	313427003	Aurum	haematological	mlutiple_myeloma	1				
+3019771000006115	Myeloma kidney	32278006	Aurum	haematological	mlutiple_myeloma	1				
+6843711000006111	Smouldering myeloma	413587002	Aurum	haematological	mlutiple_myeloma	1				
+6860401000006118	Kappa light chain myeloma	414553000	Aurum	haematological	mlutiple_myeloma	1				
+6870291000006119	Plasma cell myeloma/plasmacytoma	415110002	Aurum	haematological	mlutiple_myeloma	1				
+7057421000006116	Solitary osseous myeloma	426336007	Aurum	haematological	mlutiple_myeloma	1				
+7236901000006114	Asymptomatic multiple myeloma	440422002	Aurum	haematological	mlutiple_myeloma	1				
+7248451000006116	Indolent multiple myeloma	441313008	Aurum	haematological	mlutiple_myeloma	1				
+312137011	Osteoporosis in multiple myelomatosis	739301006	Aurum	haematological	mlutiple_myeloma	1				
+3408471000006111	Myeloma	55921005	Aurum	haematological	mlutiple_myeloma	1				
+4172951000006115	Myeloma	109989006	Aurum	haematological	mlutiple_myeloma	1				
+260879014	Bone marrow: myeloma cells	167934009	Aurum	haematological	mlutiple_myeloma	1				
+289874016	Immunoproliferative neoplasm or myeloma NOS	275524009	Aurum	haematological	mlutiple_myeloma	1				
+344819016	Myelomatosis	109989006	Aurum	haematological	mlutiple_myeloma	1				
+1231541019	[M]Plasma cell myeloma	55921005	Aurum	haematological	mlutiple_myeloma	1				
+139571000006117	Solitary myeloma	415112005	Aurum	haematological	mlutiple_myeloma	1				
+313001000006116	[M]Monostotic myeloma	10639003	Aurum	haematological	mlutiple_myeloma	1				
+313271000006116	[M]Multiple myeloma	109989006	Aurum	haematological	mlutiple_myeloma	1				
+313381000006111	[M]Myeloma NOS	55921005	Aurum	haematological	mlutiple_myeloma	1				
+313391000006114	[M]Myelomatosis	55921005	Aurum	haematological	mlutiple_myeloma	1				
+315461000006113	[M]Plasmacytic myeloma	55921005	Aurum	haematological	mlutiple_myeloma	1				
+316711000006113	[M]Solitary myeloma	10639003	Aurum	haematological	mlutiple_myeloma	1				
+683191000006119	Myeloma - solitary	415112005	Aurum	haematological	mlutiple_myeloma	1				
+695561000006118	Multiple myeloma and immunoproliferative neoplasms	109989006	Aurum	haematological	mlutiple_myeloma	1				
+880801000006116	Multiple myeloma etc.	109989006	Aurum	haematological	mlutiple_myeloma	1				
+907281000006117	[RFC] Multiple myeloma	907281000006101	Aurum	haematological	mlutiple_myeloma	1				
+3019781000006117	Myeloma cast nephropathy	32278006	Aurum	haematological	mlutiple_myeloma	1				
+3043491000006119	Myelomalacia	33772003	Aurum	haematological	mlutiple_myeloma	1				
+3408441000006115	Multiple myeloma	55921005	Aurum	haematological	mlutiple_myeloma	1				
+3408461000006116	Plasma cell myeloma	55921005	Aurum	haematological	mlutiple_myeloma	1				
+3408501000006116	Multiple myeloma, no International Classification of Diseases for Oncology subtype	55921005	Aurum	haematological	mlutiple_myeloma	1				
+4042751000006114	Multiple myeloma in remission	94704006	Aurum	haematological	mlutiple_myeloma	1				
+4172921000006112	Plasmacytic myeloma	109989006	Aurum	haematological	mlutiple_myeloma	1				
+5601561000006117	Light chain myeloma	277579002	Aurum	haematological	mlutiple_myeloma	1				
+5648201000006119	Myeloma screening	281153002	Aurum	haematological	mlutiple_myeloma	1				
+5701131000006113	IgG myeloma	285421005	Aurum	haematological	mlutiple_myeloma	1				
+5701151000006118	IgD myeloma	285422003	Aurum	haematological	mlutiple_myeloma	1				
+6623111000006119	Plasma cell myeloma/plasmacytoma	399456004	Aurum	haematological	mlutiple_myeloma	1				
+6843731000006117	Smouldering multiple myeloma	413587002	Aurum	haematological	mlutiple_myeloma	1				
+7047571000006119	Osteosclerotic myeloma	425657001	Aurum	haematological	mlutiple_myeloma	1				
+7057441000006111	Monostotic myeloma	426336007	Aurum	haematological	mlutiple_myeloma	1				
+7236911000006112	Asymptomatic myeloma	440422002	Aurum	haematological	mlutiple_myeloma	1				
+8037771000006119	History of multiple myeloma	120481000119109	Aurum	haematological	mlutiple_myeloma	1			1	
+458201000006115	M4 - Acute myelomonocytic leukaemia	110005000	Aurum	haematological	Leukaemia	1				
+716871000006112	Mast cell leukaemia	110002002	Aurum	haematological	Leukaemia	1				
+459741000006115	Acute myelomonocytic leukaemia	110005000	Aurum	haematological	Leukaemia	1				
+202801000006110	Prolymphocytic leukaemia	110006004	Aurum	haematological	Leukaemia	1				
+1815601000006111	Adult T-cell leukaemia/lymphoma	110007008	Aurum	haematological	Leukaemia	1				
+745011000006112	Leukaemic reticuloendotheliosis	118613001	Aurum	haematological	Leukaemia	1				
+251577010	H/O: leukaemia	161436008	Aurum	haematological	Leukaemia	1			1	
+747141000006116	Leukaemic reticuloendotheliosis of lymph nodes of head, face and neck	188645002	Aurum	haematological	Leukaemia	1				
+289875015	Lymphatic leukaemia	188725004	Aurum	haematological	Leukaemia	1				
+4753241000006113	Subacute lymphoid leukemia	188726003	Aurum	haematological	Leukaemia	1				
+289884015	Aleukaemic lymphoid leukaemia	188728002	Aurum	haematological	Leukaemia	1				
+289885019	Adult T-cell leukaemia	188729005	Aurum	haematological	Leukaemia	1				
+289892012	Myeloid leukaemia	188732008	Aurum	haematological	Leukaemia	1				
+289895014	Chronic eosinophilic leukaemia	188733003	Aurum	haematological	Leukaemia	1				
+4753361000006110	Chronic neutrophilic leukemia	188734009	Aurum	haematological	Leukaemia	1				
+289901012	Subacute myeloid leukaemia	188736006	Aurum	haematological	Leukaemia	1				
+289908018	Aleukaemic myeloid leukaemia	188741003	Aurum	haematological	Leukaemia	1				
+289921013	Histiocytic leukaemia	188744006	Aurum	haematological	Leukaemia	1				
+289923011	Chronic monocytic leukaemia	188745007	Aurum	haematological	Leukaemia	1				
+289924017	Subacute monocytic leukaemia	188746008	Aurum	haematological	Leukaemia	1				
+289948014	Thrombocytic leukaemia	188754005	Aurum	haematological	Leukaemia	1				
+289974015	Myelomonocytic leukaemia	188768003	Aurum	haematological	Leukaemia	1				
+289980011	Subacute myelomonocytic leukaemia	188770007	Aurum	haematological	Leukaemia	1				
+307221000006111	[M]Compound leukaemias	190030009	Aurum	haematological	Leukaemia	1				
+5599791000006114	B-CLL - B-cell chronic lymphocytic leukemia	277473004	Aurum	haematological	Leukaemia	1				
+5599831000006119	B-cell chronic lymphocytic leukaemia variant	277474005	Aurum	haematological	Leukaemia	1				
+5600851000006111	T-cell chronic lymphocytic leukaemia	277545003	Aurum	haematological	Leukaemia	1				
+5600941000006116	Chronic lymphocytic prolymphocytic leukaemia syndrome	277549009	Aurum	haematological	Leukaemia	1				
+414151014	T-cell prolymphocytic leukaemia	277567002	Aurum	haematological	Leukaemia	1				
+5601211000006117	Hairy cell leukaemia variant	277568007	Aurum	haematological	Leukaemia	1				
+5601231000006111	Large granular lymphocytic leukaemia	277569004	Aurum	haematological	Leukaemia	1				
+5601291000006110	B-cell acute lymphoblastic leukemia	277571004	Aurum	haematological	Leukaemia	1				
+5601361000006112	Pre B-cell acute lymphoblastic leukaemia	277572006	Aurum	haematological	Leukaemia	1				
+5601401000006119	Common acute lymphoblastic leukaemia	277573001	Aurum	haematological	Leukaemia	1				
+5601441000006117	Null cell acute lymphoblastic leukaemia	277574007	Aurum	haematological	Leukaemia	1				
+5601461000006118	T-cell acute lymphoblastic leukaemia	277575008	Aurum	haematological	Leukaemia	1				
+5601721000006119	Atypical chronic myeloid leukemia	277589003	Aurum	haematological	Leukaemia	1				
+414220013	Acute monoblastic leukaemia	277601005	Aurum	haematological	Leukaemia	1				
+5601951000006114	Acute megakaryoblastic leukaemia	277602003	Aurum	haematological	Leukaemia	1				
+414248013	B-cell prolymphocytic leukaemia	277619001	Aurum	haematological	Leukaemia	1				
+5613441000006119	Acute biphenotypic leukaemia	278453007	Aurum	haematological	Leukaemia	1				
+289968015	Subacute leukaemia	302855005	Aurum	haematological	Leukaemia	1				
+5970551000006115	Neutrophilic leukaemia	307617006	Aurum	haematological	Leukaemia	1				
+6204531000006112	Acute myeloid leukaemia, minimal differentiation, FAB M0	359631009	Aurum	haematological	Leukaemia	1				
+2534415018	Acute monocytic leukaemia	413441006	Aurum	haematological	Leukaemia	1				
+6847821000006117	Chronic myeloid leukaemia in lymphoid blast crisis	413842007	Aurum	haematological	Leukaemia	1				
+6847851000006114	Chronic myeloid leukemia in myeloid blast crisis	413843002	Aurum	haematological	Leukaemia	1				
+6847911000006118	Chronic phase chronic myeloid leukemia	413847001	Aurum	haematological	Leukaemia	1				
+2871720012	Juvenile myelomonocytic leukaemia	445227008	Aurum	haematological	Leukaemia	1				
+7308311000006114	Acute myeloid leukaemia with myelodysplasia-related changes	445448008	Aurum	haematological	Leukaemia	1				
+1815631000006115	Philadelphia chromosome positive chronic myelogenous leukaemia	449108003	Aurum	haematological	Leukaemia	1				
+474604011	Philadelphia chromosome negative chronic myelogenous leukaemia	449386007	Aurum	haematological	Leukaemia	1				
+7527551000006112	T-cell large granular lymphocytic leukaemia	699818003	Aurum	haematological	Leukaemia	1				
+2124991000000117	Acute myeloid leukaemia with 11q23 abnormality	815361000000107	Aurum	haematological	Leukaemia	1				
+2233381000000115	Clinical stage A chronic lymphocytic leukaemia	863741000000108	Aurum	haematological	Leukaemia	1				1
+2233421000000112	Clinical stage B chronic lymphocytic leukaemia	863761000000109	Aurum	haematological	Leukaemia	1				1
+2233461000000116	Clinical stage C chronic lymphocytic leukaemia	863781000000100	Aurum	haematological	Leukaemia	1				1
+289964018	Acute leukaemia	91855006	Aurum	haematological	Leukaemia	1				
+3992621000006112	Acute lymphoid leukemia	91857003	Aurum	haematological	Leukaemia	1				
+3992721000006116	Acute myeloid leukemia	91861009	Aurum	haematological	Leukaemia	1				
+289967013	Chronic leukaemia	92812005	Aurum	haematological	Leukaemia	1				
+201652012	Chronic lymphoid leukaemia	92814006	Aurum	haematological	Leukaemia	1				
+201656010	Chronic myeloid leukaemia	92818009	Aurum	haematological	Leukaemia	1				
+289972016	Leukaemia	93143009	Aurum	haematological	Leukaemia	1				
+510218013	Leukaemic reticuloendotheliosis of intrathoracic lymph nodes	93146001	Aurum	haematological	Leukaemia	1				
+292018012	Erythroleukaemia	93451002	Aurum	haematological	Leukaemia	1				
+201743012	Plasma cell leukaemia	95210003	Aurum	haematological	Leukaemia	1				
+201612010	Acute myeloid leukaemia	91861009	Aurum	haematological	Leukaemia	1				
+289876019	Lymphoid leukaemia	188725004	Aurum	haematological	Leukaemia	1				
+289880012	Subacute lymphoid leukaemia	188726003	Aurum	haematological	Leukaemia	1				
+289881011	Other lymphoid leukaemia	188725004	Aurum	haematological	Leukaemia	1				
+289888017	Other lymphoid leukaemia NOS	188725004	Aurum	haematological	Leukaemia	1				
+289889013	Lymphoid leukaemia NOS	188725004	Aurum	haematological	Leukaemia	1				
+289898011	Chronic neutrophilic leukaemia	188734009	Aurum	haematological	Leukaemia	1				
+289900013	Chronic myeloid leukaemia NOS	92818009	Aurum	haematological	Leukaemia	1				
+289907011	Other myeloid leukaemia	188732008	Aurum	haematological	Leukaemia	1				
+289911017	Other myeloid leukaemia NOS	188732008	Aurum	haematological	Leukaemia	1				
+289912012	Myeloid leukaemia NOS	188732008	Aurum	haematological	Leukaemia	1				
+289917018	Monocytic leukaemia	188744006	Aurum	haematological	Leukaemia	1				
+289919015	Monoblastic leukaemia	188744006	Aurum	haematological	Leukaemia	1				
+289926015	Other monocytic leukaemia	188744006	Aurum	haematological	Leukaemia	1				
+289928019	Aleukaemic monocytic leukaemia	188748009	Aurum	haematological	Leukaemia	1				
+289930017	Other monocytic leukaemia NOS	188744006	Aurum	haematological	Leukaemia	1				
+289933015	Monocytic leukaemia NOS	188744006	Aurum	haematological	Leukaemia	1				
+289934014	Other specified leukaemia	93143009	Aurum	haematological	Leukaemia	1				
+289949018	Megakaryocytic leukaemia	188754005	Aurum	haematological	Leukaemia	1				
+289955011	Other and unspecified leukaemia	93143009	Aurum	haematological	Leukaemia	1				
+289959017	Other and unspecified leukaemia NOS	93143009	Aurum	haematological	Leukaemia	1				
+289960010	Other specified leukaemia NOS	93143009	Aurum	haematological	Leukaemia	1				
+289963012	Leukaemia of unspecified cell type	93143009	Aurum	haematological	Leukaemia	1				
+289971011	Other leukaemia of unspecified cell type	93143009	Aurum	haematological	Leukaemia	1				
+291984015	[M]Leukaemias unspecified	128931003	Aurum	haematological	Leukaemia	1				
+291985019	[M]Leukaemia NOS	128931003	Aurum	haematological	Leukaemia	1				
+291988017	[M]Subacute leukaemia NOS	128931003	Aurum	haematological	Leukaemia	1				
+291992012	[M]Aleukaemic leukaemia NOS	128931003	Aurum	haematological	Leukaemia	1				
+291995014	[M]Leukaemia unspecified, NOS	128931003	Aurum	haematological	Leukaemia	1				
+291997018	[M]Mixed leukaemia	128931003	Aurum	haematological	Leukaemia	1				
+292001013	[M]Compound leukaemia	128931003	Aurum	haematological	Leukaemia	1				
+292002018	[M]Compound leukaemia NOS	128931003	Aurum	haematological	Leukaemia	1				
+292005016	[M]Lymphoid leukaemias	128935007	Aurum	haematological	Leukaemia	1				
+292006015	Acute lymphoblastic leukaemia - category	413440007	Aurum	haematological	Leukaemia	1				
+292009010	[M]Subacute lymphoid leukaemia	128935007	Aurum	haematological	Leukaemia	1				
+292010017	[M]Aleukaemic lymphoid leukaemia	128931003	Aurum	haematological	Leukaemia	1				
+292014014	[M]Plasma cell leukaemias	128922003	Aurum	haematological	Leukaemia	1				
+292017019	Plasma cell leukaemia	128922003	Aurum	haematological	Leukaemia	1				
+292024018	[M]Erythroleukaemia NOS	14317002	Aurum	haematological	Leukaemia	1				
+292028015	[M]Lymphosarcoma cell leukaemia	128931003	Aurum	haematological	Leukaemia	1				
+292031019	[M]Lymphosarcoma cell leukaemia NOS	128931003	Aurum	haematological	Leukaemia	1				
+292032014	[M]Myeloid leukaemias	128934006	Aurum	haematological	Leukaemia	1				
+292035011	[M]Subacute myeloid leukaemia	128934006	Aurum	haematological	Leukaemia	1				
+292036012	[M]Aleukaemic myeloid leukaemia	128931003	Aurum	haematological	Leukaemia	1				
+292039017	[M]Neutrophilic leukaemia	128931003	Aurum	haematological	Leukaemia	1				
+292041016	[M]Other myeloid leukaemia NOS	128934006	Aurum	haematological	Leukaemia	1				
+292042011	[M]Basophilic leukaemias	69077002	Aurum	haematological	Leukaemia	1				
+292045013	[M]Basophilic leukaemia NOS	69077002	Aurum	haematological	Leukaemia	1				
+292046014	[M]Eosinophilic leukaemias	190055003	Aurum	haematological	Leukaemia	1				
+292050019	Eosinophilic leukaemia	190055003	Aurum	haematological	Leukaemia	1				
+292053017	[M]Monocytic leukaemias	128931003	Aurum	haematological	Leukaemia	1				
+292062015	Monocytic leukaemia	37810007	Aurum	haematological	Leukaemia	1				
+292065018	[M]Miscellaneous leukaemias	128931003	Aurum	haematological	Leukaemia	1				
+292073010	[M]Acute megakaryoblastic leukaemia	52220008	Aurum	haematological	Leukaemia	1				
+292077011	[M]Miscellaneous leukaemia NOS	128931003	Aurum	haematological	Leukaemia	1				
+292177013	[X]Other lymphoid leukaemia	188725004	Aurum	haematological	Leukaemia	1				
+292178015	[X]Other myeloid leukaemia	188732008	Aurum	haematological	Leukaemia	1				
+292181013	[X]Other monocytic leukaemia	188744006	Aurum	haematological	Leukaemia	1				
+292182018	[X]Other specified leukaemias	93143009	Aurum	haematological	Leukaemia	1				
+292185016	[X]Other leukaemia of unspecified cell type	93143009	Aurum	haematological	Leukaemia	1				
+294272012	Infantile pseudoleukaemia	191273000	Aurum	haematological	Leukaemia	1				
+414008012	B-cell chronic lymphocytic leukaemia	277473004	Aurum	haematological	Leukaemia	1				
+414160018	B-cell acute lymphoblastic leukaemia	277571004	Aurum	haematological	Leukaemia	1				
+460266010	[V]Personal history of leukaemia	161436008	Aurum	haematological	Leukaemia	1			1	
+474077018	Chronic myelomonocytic leukaemia	127225006	Aurum	haematological	Leukaemia	1				
+509741017	Acute lymphoid leukaemia	91857003	Aurum	haematological	Leukaemia	1				
+1216014013	[M]Plasma cell leukaemia	128922003	Aurum	haematological	Leukaemia	1				
+1216015014	[M]Prolymphocytic leukaemia	128923008	Aurum	haematological	Leukaemia	1				
+1216016010	[M]Mast cell leukaemia	128924002	Aurum	haematological	Leukaemia	1				
+1216029010	Erythroleukaemia	93451002	Aurum	haematological	Leukaemia	1				
+1216160012	[M]Acute leukaemia NOS	24072005	Aurum	haematological	Leukaemia	1				
+1216284012	[M]Acute promyelocytic leukaemia	28950004	Aurum	haematological	Leukaemia	1				
+1216346016	[M]Acute myelomonocytic leukaemia	30962008	Aurum	haematological	Leukaemia	1				
+1216360019	[V]Personal history of lymphoid leukaemia	161436008	Aurum	haematological	Leukaemia	1			1	
+1216361015	[V]Personal history of myeloid leukaemia	161436008	Aurum	haematological	Leukaemia	1			1	
+1216362010	[V]Personal history of monocytic leukaemia	161436008	Aurum	haematological	Leukaemia	1			1	
+1216396015	[M]Lymphoid leukaemia NOS	32280000	Aurum	haematological	Leukaemia	1				
+1216572014	[M]Myeloid leukaemia NOS	37810007	Aurum	haematological	Leukaemia	1				
+1216729017	[M]Hairy cell leukaemia	54087003	Aurum	haematological	Leukaemia	1				
+1216809013	[M]Chronic myeloid leukaemia	63364005	Aurum	haematological	Leukaemia	1				
+1216868019	[M]Basophilic leukaemia	69077002	Aurum	haematological	Leukaemia	1				
+1216940017	[M]Adult T-cell leukaemia/lymphoma	77430005	Aurum	haematological	Leukaemia	1				
+2872264019	Acute myeloid leukaemia with multilineage dysplasia	445448008	Aurum	haematological	Leukaemia	1				
+2872860018	Mature B-cell leukaemia Burkitt-type	277571004	Aurum	haematological	Leukaemia	1				
+304331000006110	Acute myeloid leukaemia, M6 type	14317002	Aurum	haematological	Leukaemia	1				
+304381000006111	Acute monocytic leukaemia	22331004	Aurum	haematological	Leukaemia	1				
+304401000006111	Acute myeloid leukaemia	17788007	Aurum	haematological	Leukaemia	1				
+305141000006119	[M]Aleukaemic monocytic leukaemia	87163000	Aurum	haematological	Leukaemia	1				
+306001000006110	[M]Blast cell leukaemia	24072005	Aurum	haematological	Leukaemia	1				
+306011000006113	[M]Blastic leukaemia	24072005	Aurum	haematological	Leukaemia	1				
+306171000006115	[M]Burkitt's cell leukaemia	22197008	Aurum	haematological	Leukaemia	1				
+306921000006118	Chronic leukaemia (category)	128933000	Aurum	haematological	Leukaemia	1				
+306931000006115	Chronic lymphoid leukaemia	51092000	Aurum	haematological	Leukaemia	1				
+306951000006110	[M]Chronic monocytic leukaemia	87163000	Aurum	haematological	Leukaemia	1				
+306971000006117	Chronic myelomonocytic leukaemia	128831004	Aurum	haematological	Leukaemia	1				
+308041000006113	[M]Eosinophilic leukaemia	190055003	Aurum	haematological	Leukaemia	1				
+309521000006115	[M]Granulocytic leukaemia NOS	37810007	Aurum	haematological	Leukaemia	1				
+309941000006119	[M]Histiocytic leukaemia	87163000	Aurum	haematological	Leukaemia	1				
+310991000006116	[M]Leukaemia NOS	128931003	Aurum	haematological	Leukaemia	1				
+311021000006113	Leukaemia morphology	87163000	Aurum	haematological	Leukaemia	1				
+311041000006118	Hairy cell leukaemia	54087003	Aurum	haematological	Leukaemia	1				
+311311000006115	[M]Lymphatic leukaemia	32280000	Aurum	haematological	Leukaemia	1				
+311511000006114	[M]Lymphosarcoma cell leukaemias	128931003	Aurum	haematological	Leukaemia	1				
+312211000006119	Acute megakaryoblastic leukaemia	52220008	Aurum	haematological	Leukaemia	1				
+312961000006113	[M]Monocytic leukaemia NOS	87163000	Aurum	haematological	Leukaemia	1				
+314521000006116	Lymphoid leukaemia	32280000	Aurum	haematological	Leukaemia	1				
+316171000006117	[M]Schilling-type monocytic leukaemia	87163000	Aurum	haematological	Leukaemia	1				
+317011000006112	[M]Stem cell leukaemia	24072005	Aurum	haematological	Leukaemia	1				
+317101000006113	[M]Subacute monocytic leukaemia	87163000	Aurum	haematological	Leukaemia	1				
+317571000006112	[M]Thrombocytic leukaemia	52220008	Aurum	haematological	Leukaemia	1				
+456641000006119	Acute erythraemia and erythroleukaemia	93451002	Aurum	haematological	Leukaemia	1				
+554641000006115	Chronic granulocytic leukaemia	92818009	Aurum	haematological	Leukaemia	1				
+555131000006118	Chronic lymphoid leukaemia, disease	92814006	Aurum	haematological	Leukaemia	1				
+731621000006113	Lymphosarcoma cell leukaemia	188725004	Aurum	haematological	Leukaemia	1				
+880821000006114	Lymphoid leukaemia - acute	91857003	Aurum	haematological	Leukaemia	1				
+880831000006112	Lymphoid leukaemia - chronic	92814006	Aurum	haematological	Leukaemia	1				
+880841000006119	Lymphoid leukaemia - subacute	188726003	Aurum	haematological	Leukaemia	1				
+880851000006117	Myeloid leukaemia - acute	91861009	Aurum	haematological	Leukaemia	1				
+880861000006115	Myeloid leukaemia - chronic	92818009	Aurum	haematological	Leukaemia	1				
+880871000006110	Myeloid leukaemia - subacute	188736006	Aurum	haematological	Leukaemia	1				
+880881000006113	Monocytic leukaemia - acute	413441006	Aurum	haematological	Leukaemia	1				
+880891000006111	Monocytic leukaemia - chronic	188745007	Aurum	haematological	Leukaemia	1				
+880901000006110	Monocytic leukaemia - subacute	188746008	Aurum	haematological	Leukaemia	1				
+880911000006113	Leukaemia - specif.cell type	634651000000103	Aurum	haematological	Leukaemia	1				
+880921000006117	Leukaemia - specif. cell NOS	662401000000102	Aurum	haematological	Leukaemia	1				
+880931000006119	Leukaemia - unspecified cell	662411000000100	Aurum	haematological	Leukaemia	1				
+880941000006112	Leukaemia - unspec. cell acute	662421000000106	Aurum	haematological	Leukaemia	1				
+880951000006114	Leukaemia -unspec.cell chronic	662431000000108	Aurum	haematological	Leukaemia	1				
+880961000006111	Leukaemia-unspec.cell subacute	662441000000104	Aurum	haematological	Leukaemia	1				
+880971000006116	Leukaemia - unspec. cell NOS	536101000000106	Aurum	haematological	Leukaemia	1				
+907271000006115	[RFC] Leukaemia	907271000006104	Aurum	haematological	Leukaemia	1				
+988791000006114	Leukaemia - specif. cell NOS	634651000000103	Aurum	haematological	Leukaemia	1				
+1591211000006111	Hairy cell leukaemia	118613001	Aurum	haematological	Leukaemia	1				
+1815651000006110	AML - Acute myeloblastic leukaemia	91861009	Aurum	haematological	Leukaemia	1				
+1870401000006113	Juvenile myelomonocytic leukaemia	128832006	Aurum	haematological	Leukaemia	1				
+2168671000000111	Prolymphocytic leukaemia of B-cell type	277619001	Aurum	haematological	Leukaemia	1				
+2168681000000113	Chronic lymphocytic leukaemia of B-cell type	277473004	Aurum	haematological	Leukaemia	1				
+2726791000006110	Erythroleukaemia	14317002	Aurum	haematological	Leukaemia	1				
+2782281000006111	Acute myeloblastic leukaemia	17788007	Aurum	haematological	Leukaemia	1				
+2782301000006110	Acute myeloid leukaemia, no ICD-O subtype	17788007	Aurum	haematological	Leukaemia	1				
+2853511000006117	Burkitt cell leukaemia	22197008	Aurum	haematological	Leukaemia	1				
+2853591000006110	Burkitt's cell leukaemia	22197008	Aurum	haematological	Leukaemia	1				
+2884021000006111	Acute leukaemia	24072005	Aurum	haematological	Leukaemia	1				
+2884071000006112	Undifferentiated leukaemia	24072005	Aurum	haematological	Leukaemia	1				
+2965511000006118	Acute promyelocytic leukaemia	28950004	Aurum	haematological	Leukaemia	1				
+2999011000006111	Acute myelomonocytic leukaemia	30962008	Aurum	haematological	Leukaemia	1				
+3020041000006112	Lymphocytic leukaemia	32280000	Aurum	haematological	Leukaemia	1				
+3108791000006116	Myeloid leukaemia	37810007	Aurum	haematological	Leukaemia	1				
+3109051000006115	Myelomonocytic leukaemia	37810007	Aurum	haematological	Leukaemia	1				
+3327891000006112	Chronic lymphocytic leukaemia	51092000	Aurum	haematological	Leukaemia	1				
+3327961000006112	Chronic lymphatic leukaemia	51092000	Aurum	haematological	Leukaemia	1				
+3327971000006117	Chronic lymphocytic leukaemia, B-cell type	51092000	Aurum	haematological	Leukaemia	1				
+3530471000006114	Chronic myeloid leukaemia	63364005	Aurum	haematological	Leukaemia	1				
+3759531000006117	Adult T-cell leukaemia/lymphoma	77430005	Aurum	haematological	Leukaemia	1				
+3917101000006112	Leukaemia	87163000	Aurum	haematological	Leukaemia	1				
+3992531000006111	Acute leukaemia in remission	91854005	Aurum	haematological	Leukaemia	1				
+3992591000006110	Acute lymphoid leukaemia in remission	91856007	Aurum	haematological	Leukaemia	1				
+3992631000006110	ALL - Acute lymphoblastic leukaemia	91857003	Aurum	haematological	Leukaemia	1				
+3992691000006114	Acute myeloid leukaemia in remission	91860005	Aurum	haematological	Leukaemia	1				
+3992711000006112	Acute myeloid leukaemia, disease	91861009	Aurum	haematological	Leukaemia	1				
+3992761000006110	AML - Acute myeloid leukaemia	91861009	Aurum	haematological	Leukaemia	1				
+4009611000006116	Chronic leukaemia in remission	92811003	Aurum	haematological	Leukaemia	1				
+4009671000006113	Chronic lymphoid leukaemia in remission	92813000	Aurum	haematological	Leukaemia	1				
+4009731000006118	CLL - Chronic lymphocytic leukaemia	92814006	Aurum	haematological	Leukaemia	1				
+4009751000006113	Chronic myeloid leukaemia in remission	92817004	Aurum	haematological	Leukaemia	1				
+4009791000006119	CML - Chronic myeloid leukaemia	92818009	Aurum	haematological	Leukaemia	1				
+4009801000006118	CGL - Chronic granulocytic leukaemia	92818009	Aurum	haematological	Leukaemia	1				
+4015541000006118	Leukaemia in remission	93142004	Aurum	haematological	Leukaemia	1				
+4016131000006113	Lymphoid leukaemia in remission	93169003	Aurum	haematological	Leukaemia	1				
+4020881000006112	M6 - Acute erythroleukaemia	93451002	Aurum	haematological	Leukaemia	1				
+4052981000006119	Plasma cell leukaemia in remission	95209008	Aurum	haematological	Leukaemia	1				
+4173521000006112	Acute promyelocytic leukaemia, FAB M3	110004001	Aurum	haematological	Leukaemia	1				
+4173571000006113	M3 - Acute promyelocytic leukaemia	110004001	Aurum	haematological	Leukaemia	1				
+4173581000006111	APML - Acute promyelocytic leukaemia	110004001	Aurum	haematological	Leukaemia	1				
+4173671000006112	AMML - Acute myelomonocytic leukaemia	110005000	Aurum	haematological	Leukaemia	1				
+4173721000006115	PLL - Prolymphocytic leukaemia	110006004	Aurum	haematological	Leukaemia	1				
+4309731000006119	Hairy cell leukaemia (clinical)	118613001	Aurum	haematological	Leukaemia	1				
+4309781000006118	HCL - Hairy cell leukaemia	118613001	Aurum	haematological	Leukaemia	1				
+4416441000006119	Precursor cell lymphoblastic leukaemia	128822004	Aurum	haematological	Leukaemia	1				
+4416591000006110	Lymphoblastic leukaemia	128822004	Aurum	haematological	Leukaemia	1				
+4416681000006111	Acute lymphocytic leukaemia	128822004	Aurum	haematological	Leukaemia	1				
+4416691000006114	Acute lymphoblastic leukaemia	128822004	Aurum	haematological	Leukaemia	1				
+4417351000006114	Chronic myelomonocytic leukaemia, Type I	128831004	Aurum	haematological	Leukaemia	1				
+4420051000006115	Prolymphocytic leukaemia	128923008	Aurum	haematological	Leukaemia	1				
+4420081000006111	Mast cell leukaemia	128924002	Aurum	haematological	Leukaemia	1				
+4420191000006110	Leukaemia (category)	128931003	Aurum	haematological	Leukaemia	1				
+4420351000006118	Lymphoid leukaemia (category)	128935007	Aurum	haematological	Leukaemia	1				
+4753321000006113	Granulocytic leukaemia	188732008	Aurum	haematological	Leukaemia	1				
+5599801000006110	B-CLL - B-cell chronic lymphocytic leukaemia	277473004	Aurum	haematological	Leukaemia	1				
+5601311000006114	Burkitt's leukaemia	277571004	Aurum	haematological	Leukaemia	1				
+5601511000006115	Acute T-cell lymphoblastic leukaemia	277575008	Aurum	haematological	Leukaemia	1				
+5601711000006110	Atypical chronic myeloid leukaemia	277589003	Aurum	haematological	Leukaemia	1				
+6347711000006119	Acute lymphoblastic leukaemia, transitional pre-B-cell	371012000	Aurum	haematological	Leukaemia	1				
+6693111000006110	Leukaemic infiltration of skin (T-cell lymphoblastic leukaemia)	404124002	Aurum	haematological	Leukaemia	1				
+6840351000006115	Accelerated phase chronic myeloid leukaemia	413389003	Aurum	haematological	Leukaemia	1				
+6841331000006117	Acute monocytic/monoblastic leukaemia	413442004	Aurum	haematological	Leukaemia	1				
+6841351000006112	Acute myeloid leukaemia	413443009	Aurum	haematological	Leukaemia	1				
+6847711000006116	Chronic eosinophilic leukaemia	413836008	Aurum	haematological	Leukaemia	1				
+6847841000006112	Chronic myeloid leukaemia in myeloid blast crisis	413843002	Aurum	haematological	Leukaemia	1				
+6847901000006116	Chronic phase chronic myeloid leukaemia	413847001	Aurum	haematological	Leukaemia	1				
+6873251000006116	Relapsing chronic myeloid leukaemia	415287001	Aurum	haematological	Leukaemia	1				
+7048071000006112	Philadelphia chromosome-positive acute lymphoblastic leukaemia	425688002	Aurum	haematological	Leukaemia	1				
+7050641000006112	Acute promyelocytic leukaemia, FAB M3, in remission	425869007	Aurum	haematological	Leukaemia	1				
+7076931000006113	T-cell acute lymphoblastic leukaemia in remission	427642009	Aurum	haematological	Leukaemia	1				
+7118591000006115	Smouldering chronic lymphocytic leukaemia	430338009	Aurum	haematological	Leukaemia	1				
+7482021000006113	History of lymphoid leukaemia	473058009	Aurum	haematological	Leukaemia	1			1	
+7716791000006117	Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukaemia	714251006	Aurum	haematological	Leukaemia	1				
+7815351000006116	Therapy related acute myeloid leukaemia and myelodysplastic syndrome	721306009	Aurum	haematological	Leukaemia	1				
+7815381000006112	Acute leukaemia of ambiguous lineage	721308005	Aurum	haematological	Leukaemia	1				
+7815401000006112	Aggressive natural killer-cell leukaemia	721310007	Aurum	haematological	Leukaemia	1				
+7822651000006110	Adult T-cell leukaemia/lymphoma of skin	721762007	Aurum	haematological	Leukaemia	1				
+7849031000006117	B lymphoblastic leukaemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1	723889003	Aurum	haematological	Leukaemia	1				
+7868981000006116	Chronic lymphocytic leukaemia genetic mutation variant	725437002	Aurum	haematological	Leukaemia	1				
+7995641000006118	Acute lymphoid leukaemia relapse	12301000132103	Aurum	haematological	Leukaemia	1				
+8020031000006118	History of chronic lymphocytic leukaemia	63581000119104	Aurum	haematological	Leukaemia	1			1	
+8024121000006111	History of acute myeloid leukaemia	79081000119100	Aurum	haematological	Leukaemia	1			1	
+8047741000006111	History of myeloid leukaemia	152861000119104	Aurum	haematological	Leukaemia	1			1	
+12002441000006118	Acute myeloid leukaemia with NPM1 somatic mutation	763309005	Aurum	haematological	Leukaemia	1				
+12702811000006117	Hairy cell leukaemia	54087003	Aurum	haematological	Leukaemia	1				
+13628411000006112	Non-chronic lymphocytic leukaemia monoclonal B-cell lymphocytosis	783211008	Aurum	haematological	Leukaemia	1				
+13660051000006110	Monoclonal B-cell lymphocytosis chronic lymphocytic leukaemia-type	786855003	Aurum	haematological	Leukaemia	1				
+13909801000006113	B-cell prolymphocytic leukaemia in remission	788874003	Aurum	haematological	Leukaemia	1				
+13937971000006110	B lymphoblastic leukaemia lymphoma with t(5;14)(q31;q32); IL3-IGH	838340006	Aurum	haematological	Leukaemia	1				
+13937991000006111	B lymphoblastic leukaemia lymphoma with t(12;21) (p13;q22); TEL/AML1 (ETV6-RUNX1)	838342003	Aurum	haematological	Leukaemia	1				
+13938031000006114	B lymphoblastic leukaemia lymphoma with hyperdiploidy	838346000	Aurum	haematological	Leukaemia	1				
+13938181000006111	Acute myeloid leukaemia with inv(16)(p13.1q22) or t(16;16)(p13.1;q22) CBFB-MYH11	838355002	Aurum	haematological	Leukaemia	1				
+13979711000006111	Relapsing acute myeloid leukaemia	12281000132104	Aurum	haematological	Leukaemia	1				
+13979751000006112	Acute myeloid leukaemia relapse	12281000132104	Aurum	haematological	Leukaemia	1				
+13979761000006114	Refractory acute myeloid leukaemia	12291000132102	Aurum	haematological	Leukaemia	1				
+14068041000006118	History of leukaemia	161436008	Aurum	haematological	Leukaemia	1			1	
+14075341000006119	Precursor B-cell acute lymphoblastic leukaemia	277572006	Aurum	haematological	Leukaemia	1				
+14084821000006112	Precursor B-cell acute lymphoblastic leukaemia in remission	425941003	Aurum	haematological	Leukaemia	1				
+14450071000006111	Mixed phenotype acute leukaemia with t(9;22) (q34;q11.2); BCR-ABL1	1153377008	Aurum	haematological	Leukaemia	1				
+14492591000006114	History of acute lymphoid leukaemia	676112841000119101	Aurum	haematological	Leukaemia	1			1	
+313621000006115	[M]Naegeli-type monocytic leukaemia	63364005	Aurum	haematological	Leukaemia	1				
+476225016	Erythroleukemia, FAB M6	93451002	Aurum	haematological	Leukaemia	1				
+2168661000000116	Prolymphocytic leukemia of T-cell type	277567002	Aurum	haematological	Leukaemia	1				
+2782201000006119	Acute myelogenous leukemia	17788007	Aurum	haematological	Leukaemia	1				
+2782211000006116	Acute myeloblastic leukemia	17788007	Aurum	haematological	Leukaemia	1				
+2884031000006114	Acute leukemia	24072005	Aurum	haematological	Leukaemia	1				
+2965521000006114	Acute promyelocytic leukemia	28950004	Aurum	haematological	Leukaemia	1				
+3019871000006112	Lymphocytic leukemia	32280000	Aurum	haematological	Leukaemia	1				
+3108801000006115	Myeloid leukemia	37810007	Aurum	haematological	Leukaemia	1				
+3108831000006111	Myelomonocytic leukemia	37810007	Aurum	haematological	Leukaemia	1				
+3327901000006111	Chronic lymphocytic leukemia	51092000	Aurum	haematological	Leukaemia	1				
+3327911000006114	Chronic lymphoid leukemia	51092000	Aurum	haematological	Leukaemia	1				
+3327921000006118	Chronic lymphatic leukemia	51092000	Aurum	haematological	Leukaemia	1				
+3377341000006113	Hairy cell leukemia	54087003	Aurum	haematological	Leukaemia	1				
+3530481000006112	Chronic myeloid leukemia	63364005	Aurum	haematological	Leukaemia	1				
+3530501000006119	Chronic myelogenous leukemia	63364005	Aurum	haematological	Leukaemia	1				
+3530511000006116	Chronic myelocytic leukemia	63364005	Aurum	haematological	Leukaemia	1				
+3992541000006118	Acute leukemia in remission	91854005	Aurum	haematological	Leukaemia	1				
+3992741000006111	AML - Acute myeloid leukemia	91861009	Aurum	haematological	Leukaemia	1				
+4009741000006111	CLL - Chronic lymphocytic leukemia	92814006	Aurum	haematological	Leukaemia	1				
+4009781000006117	Chronic myeloid leukemia	92818009	Aurum	haematological	Leukaemia	1				
+4009821000006111	CML - Chronic myeloid leukemia	92818009	Aurum	haematological	Leukaemia	1				
+4015571000006114	Leukemia	93143009	Aurum	haematological	Leukaemia	1				
+4173611000006115	APML - Acute promyelocytic leukemia	110004001	Aurum	haematological	Leukaemia	1				
+4173681000006110	M4 - Acute myelomonocytic leukemia	110005000	Aurum	haematological	Leukaemia	1				
+4309801000006119	HCL - Hairy cell leukemia	118613001	Aurum	haematological	Leukaemia	1				
+4309821000006112	Hairy cell leukemia	118613001	Aurum	haematological	Leukaemia	1				
+4416411000006118	Prolymphocytic leukemia, T-cell type	128821006	Aurum	haematological	Leukaemia	1				
+4416471000006110	Lymphoblastic leukemia	128822004	Aurum	haematological	Leukaemia	1				
+4416511000006117	Acute lymphocytic leukemia	128822004	Aurum	haematological	Leukaemia	1				
+4416551000006116	Acute lymphoblastic leukemia	128822004	Aurum	haematological	Leukaemia	1				
+4417331000006119	Chronic myelomonocytic leukemia	128831004	Aurum	haematological	Leukaemia	1				
+4420201000006113	Leukemia (category)	128931003	Aurum	haematological	Leukaemia	1				
+4753211000006114	Lymphoid leukemia	188725004	Aurum	haematological	Leukaemia	1				
+5599811000006113	B-cell chronic lymphocytic leukemia	277473004	Aurum	haematological	Leukaemia	1				
+5601261000006119	LGLL - Large granular lymphocytic leukemia	277569004	Aurum	haematological	Leukaemia	1				
+6585631000006115	T-lymphoblastic lymphoma/leukemia	397348006	Aurum	haematological	Leukaemia	1				
+6841361000006114	Acute myeloid leukemia	413443009	Aurum	haematological	Leukaemia	1				
+6962281000006116	Precursor T cell lymphoblastic leukemia/lymphoblastic lymphoma	420890002	Aurum	haematological	Leukaemia	1				
+7048121000006112	Philadelphia chromosome-positive acute lymphoblastic leukemia	425688002	Aurum	haematological	Leukaemia	1				
+7561021000006113	Core binding factor acute myeloid leukemia	702446006	Aurum	haematological	Leukaemia	1				
+7995651000006116	Acute lymphoid leukemia relapse	12301000132103	Aurum	haematological	Leukaemia	1				
+11908671000006118	Plasma cell leukemia	128922003	Aurum	haematological	Leukaemia	1				
+289756017	LRE - Leukaemic reticuloendotheliosis	118613001	Aurum	haematological	Leukaemia	1				
+289769018	Leukaemic reticuloendotheliosis of spleen	93151007	Aurum	haematological	Leukaemia	1				
+289773015	Leukaemic reticuloendotheliosis NOS	118613001	Aurum	haematological	Leukaemia	1				
+510217015	Leukaemic reticuloendotheliosis of intrapelvic lymph nodes	93145002	Aurum	haematological	Leukaemia	1				
+311051000006116	[M]Leukaemic reticuloendotheliosis	54087003	Aurum	haematological	Leukaemia	1				
+744991000006119	Leukaemic reticuloendotheliosis of lymph nodes of multiple sites	93150008	Aurum	haematological	Leukaemia	1				
+745001000006114	Leukaemic reticuloendotheliosis	118613001	Aurum	haematological	Leukaemia	1				
+746301000006117	Leukaemic reticuloendotheliosis of intra-abdominal lymph nodes	93144003	Aurum	haematological	Leukaemia	1				
+746311000006119	Leukaemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb	188649008	Aurum	haematological	Leukaemia	1				
+747131000006114	Leukaemic reticuloendotheliosis of lymph nodes of axilla and upper limb	188648000	Aurum	haematological	Leukaemia	1				
+6693661000006115	Leukaemic infiltration of skin	404156009	Aurum	haematological	Leukaemia	1				
+7328231000006118	Leukaemic infiltration	446688004	Aurum	haematological	Leukaemia	1				
+14080771000006111	T-cell leukaemic infiltration of skin	402879006	Aurum	haematological	Leukaemia	1				
+1216381019	[V] Follow-up examination after chemotherapy for leukaemia	183651009	Aurum	haematological	Leukaemia	1				

@@ -1,0 +1,139 @@
+medcode	readcode	desc	ctd
+476	M160.00	Psoriatic arthropathy	1
+1408	N20..00	Polymyalgia rheumatica	1
+1670	N065z11	Polyarthritis	1
+2360	N002.00	Sicca (Sjogren's) syndrome	1
+3670	N001.00	Scleroderma	1
+3944	N044.00	Chronic post-rheumatic arthropathy	1
+4186	N043.00	Juvenile rheumatoid arthritis - Still's disease	1
+4578	N04y100	Sero negative arthritis	1
+4810	G754.00	Wegener's granulomatosis	1
+6639	14G1.00	H/O: rheumatoid arthritis	1
+6916	N040P00	Seronegative rheumatoid arthritis	1
+7522	M154z00	Lupus erythematosus NOS	1
+7871	N000.00	Systemic lupus erythematosus	1
+8350	N040T00	Flare of rheumatoid arthritis	1
+9707	N047.00	Seropositive errosive rheumatoid arthritis	1
+9954	H570.00	Rheumatoid lung	1
+10919	N04y111	Sero negative polyarthritis	1
+11920	N000400	Systemic lupus erythematosus with pericarditis	1
+12500	M160z00	Psoriatic arthropathy NOS	1
+12575	N045300	Juvenile arthritis in Crohn's disease	1
+13248	12I3.00	FH: Scleroderma	1
+15511	N004.00	Polymyositis	1
+17675	N001100	CREST syndrome	1
+18074	Nyu0000	[X]Other streptococcal arthritis and polyarthritis	1
+21358	N040200	Rheumatoid arthritis of shoulder	1
+22814	J08zB00	Orofacial granulomatosis	1
+23552	N041.00	Felty's syndrome	1
+23833	N04yz00	Other specified inflammatory polyarthropathy NOS	1
+24641	M210.00	Circumscribed scleroderma	1
+24747	N04z.00	Inflammatory polyarthropathy NOS	1
+25020	N065.00	Unspecified polyarthropathy or polyarthritis	1
+25463	M210400	Linear scleroderma	1
+27557	N043z00	Juvenile rheumatoid arthritis NOS	1
+28316	N003X00	Dermatopolymyositis, unspecified	1
+28456	N045200	Juvenile arthritis in psoriasis	1
+28853	N04y012	Fibrosing alveolitis associated with rheumatoid arthritis	1
+29472	N200.00	Giant cell arteritis with polymyalgia rheumatica	1
+29519	N000300	Systemic lupus erythematosus with organ or sys involv	1
+31054	N040S00	Rheumatoid arthritis - multiple joint	1
+31181	N045100	Juvenile seronegative polyarthritis	1
+31209	F396400	Myopathy due to rheumatoid arthritis	1
+31564	H57y400	Lung disease with systemic lupus erythematosus	1
+31724	N04y000	Rheumatoid lung	1
+32001	N04y200	Adult-onset Still's disease	1
+32149	M160100	Distal interphalangeal psoriatic arthropathy	1
+32649	N003000	Juvenile dermatomyositis	1
+33253	N010800	Staphylococcal arthritis and polyarthritis	1
+33449	M154000	Lupus erythematosus chronicus	1
+35936	N065z00	Unspecified polyarthropathy or polyarthritis NOS	1
+36276	N043300	Monarticular juvenile rheumatoid arthritis	1
+36597	N04y.00	Other specified inflammatory polyarthropathy	1
+36942	N000200	Drug-induced systemic lupus erythematosus	1
+40797	M154200	Lupus erythematosus migrans	1
+41941	N040900	Rheumatoid arthritis of PIP joint of finger	1
+42299	N040800	Rheumatoid arthritis of MCP joint	1
+42719	N000z00	Systemic lupus erythematosus NOS	1
+42940	H57y100	Lung disease with polymyositis	1
+44141	N001000	Progressive systemic sclerosis	1
+44203	N040100	Other rheumatoid arthritis of spine	1
+44743	N040000	Rheumatoid arthritis of cervical spine	1
+44984	M154500	Lupus erythematosus tumidus	1
+45726	ZRq9.00	Systemic lupus erythematosus disease activity index	1
+46148	M154400	Lupus erythematosus profundus	1
+46436	N042100	Rheumatoid lung disease	1
+46622	N045600	Pauciarticular onset juvenile chronic arthritis	1
+47672	K01x400	Nephrotic syndrome in systemic lupus erythematosus	1
+47831	N043100	Acute polyarticular juvenile rheumatoid arthritis	1
+48832	N040700	Rheumatoid arthritis of wrist	1
+49067	N040B00	Rheumatoid arthritis of hip	1
+50863	N040D00	Rheumatoid arthritis of knee	1
+51238	N040K00	Rheumatoid arthritis of 1st MTP joint	1
+51239	N040F00	Rheumatoid arthritis of ankle	1
+53862	Nyu4400	[X]Other dermatomyositis	1
+53871	N065800	Unspecified polyarthropathy of other specified site	1
+55601	F396600	Myopathy due to scleroderma	1
+56838	N04y011	Caplan's syndrome	1
+57217	43aA.00	Pm-1 - Polymyositis-scleroderma antibody level	1
+58543	N044.12	Nodular fibrositis of chronic rheumatic disease	1
+58706	Nyu4300	[X]Other forms of systemic lupus erythematosus	1
+59738	N040500	Rheumatoid arthritis of elbow	1
+62401	F371200	Polyneuropathy in rheumatoid arthritis	1
+63198	N040A00	Rheumatoid arthritis of DIP joint of finger	1
+63365	N040600	Rheumatoid arthritis of distal radio-ulnar joint	1
+63955	M154600	Lupus erythematosus unguium mutilans	1
+65391	M154300	Lupus erythematosus nodularis	1
+66696	N010900	Pneumococcal arthritis and polyarthritis	1
+68277	N001.11	Acrosclerosis	1
+70221	Nyu1200	[X]Other specified rheumatoid arthritis	1
+70658	N040H00	Rheumatoid arthritis of talonavicular joint	1
+71083	N045400	Juvenile arthritis in ulcerative colitis	1
+71763	Nyu4500	[X]Other forms of systemic sclerosis	1
+71784	N040J00	Rheumatoid arthritis of other tarsal joint	1
+72288	M210z00	Circumscribed scleroderma NOS	1
+73485	M210000	Unspecified circumscribed scleroderma	1
+73619	N040G00	Rheumatoid arthritis of subtalar joint	1
+91559	N003100	Dermatopolymyositis in neoplastic disease	1
+93927	N231400	Polymyositis ossificans	1
+94854	Nyu1500	[X]Other juvenile arthritis	1
+94996	H572.00	Lung disease with systemic sclerosis	1
+95437	Nyu4E00	[X]Dermatopolymyositis, unspecified	1
+96160	Nyu0100	[X]Arthritis+polyarthritis due/other specfd bacterial agents	1
+96456	N060.11	Endemic polyarthritis	1
+96880	M160.11	Psoriatic arthritis	1
+99414	N040L00	Rheumatoid arthritis of lesser MTP joint	1
+100692	Myu7800	[X]Other local lupus erythematosus	1
+100776	N040C00	Rheumatoid arthritis of sacro-iliac joint	1
+100914	N040400	Rheumatoid arthritis of acromioclavicular joint	1
+105976	K0H..00	Acute scleroderma renal crisis	1
+106440	Nyu1000	[X]Rheumatoid arthritis+involvement/other organs or systems	1
+107112	N040M00	Rheumatoid arthritis of IP joint of toe	1
+107382	K0J0.00	Renal involvement in scleroderma	1
+107791	N040E00	Rheumatoid arthritis of tibio-fibular joint	1
+107963	N040300	Rheumatoid arthritis of sternoclavicular joint	1
+109112	G754.11	Granulomatosis with polyangiitis	1
+110174	N001200	Systemic sclerosis induced by drugs and chemicals	1
+114008	Nyu1600	[X]Juvenile arthritis in other diseases CE	1
+1470	G76B.00	Vasculitis	1
+72898	Myu7G00	[X]Vasculitis limited to skin, unspecified	1
+30548	N040N00	Rheumatoid vasculitis	1
+59118	F421E00	Retinal vasculitis NOS	1
+20455	C332100	Cryoglobulinaemic vasculitis	1
+10356	M2y0X00	Vasculitis limited to skin, unspecified	1
+5287	M152.11	Nodular vasculitis	1
+43772	M2y0200	Livedoid vasculitis	1
+21602	G758.00	Churg-Strauss vasculitis	1
+61088	Myu7A00	[X]Other vasculitis limited to the skin	1
+103784	42jG000	lupus insensitive activated partial thromboplastin time	1
+44095	F371000	polyneuropathy in disseminated lupus erythematosus	1
+108072	F396100	myopathy due to disseminated lupus erythematosus	1
+22205	K01x411	lupus nephritis	1
+4125	M154.00	lupus erythematosus	1
+25390	M154700	subacute cutaneous lupus erythematosus	1
+20007	N000000	disseminated lupus erythematosus	1
+57675	N000100	libman-sacks disease	1
+99435	N000500	neonatal lupus erythematosus	1
+101433	N000600	cerebral lupus	1
+51798	ZRq8.00	systemic lupus activity measure	1
+106086	ZRq8.11	slam - systemic lupus activity measure	1

@@ -1,0 +1,121 @@
+medcodeid	desc	originalreadcode	snomedctconceptid	hist_ami	hist_af	hist_stroke	hist_pvd	hist_hf	hist_vhd	hist_dm	hist_cvd_any	class
+11911691000006114	[v]personal history of cerebrovascular accident (cva)	^ESCT1191169	428011000000100			1					1	cva
+1227364015	History of coronary artery bypass grafting	ZV45K-1	399261000	1							1	cad
+1227369013	[V] Personal history DVT (deep vein thrombosis)	ZV128-1	161508001				1				1	pvd
+1227591017	[v]personal history of stroke	ZV125-1	275526006			1					1	stroke
+1227592012	[V]Personal history of cerebrovascular accident (CVA)	ZV125-2	266995000			1					1	stroke
+13718601000006110	History of embolic cerebrovascular accident	^ESCT1371860	1.68968510001e+16			1					1	stroke
+13718611000006113	History of embolic stroke	^ESCT1371861	1.68968510001e+16			1					1	stroke
+13718621000006117	History of cerebrovascular accident due to ischaemia	^ESCT1371862	1.68968910001e+16			1					1	stroke
+13718641000006112	History of ischaemic stroke	^ESCT1371864	1.68968910001e+16			1					1	stroke
+14068071000006114	History of transient ischaemic attack	^ESCT1406807	161511000			1					1	tia
+14194821000006118	History of myocardial infarction due to demand ischaemia	^ESCT1419482	7.76219771000e+17	1							1	mi
+14194831000006115	History of type 2 myocardial infarction	^ESCT1419483	7.76219771000e+17	1							1	mi
+14308971000006110	History of secondary hypercholesterolaemia	^ESCT1430897	1363961000000109								1	dyslipidaemia
+14308991000006111	History of secondary hyperlipidaemia	^ESCT1430899	1363981000000100								1	dyslipidaemia
+1539331000006118	H/O: coronary heart disease	EMISNOQFH3	1539331000006102								1	cad
+1667741000000110	[v]personal history of transient ischaemic attack	ZV12D	751371000000107			1					1	tia
+1738171000006114	History of myocardial infarction	14AT	399211009			1					1	tia
+1859511000006118	Wells PE score - history of DVT or PE	EMISNQWE26	1859511000006102				1				1	pvd
+1957911000006111	H/O: hypoglycaemic event in diabetes	EMISNQHO137	1957911000006107							1	1	dm
+2163221012	History of syncope	1B66	674191000119109								1	cvd
+2173281000000112	H/O acute coronary syndrome	14AW	837091000000100	1							1	mi
+217601000000119	H/O: thromboembolism		266996004				1				1	pvd
+2232441000000113	H/O: arterial lower limb ulcer		863401000000101				1				1	pvd
+230021000006115	Personal history of myocardial infarction	G32-2	399211009	1							1	mi
+2476091017	h/o: stroke	14A7-2	275526006			1					1	stroke
+251591016	H/O: diabetes mellitus	1434	161445009							1	1	dm
+251674014	H/O: hypertension	14A2	161501007								1	htn
+251679016	H/O: angina pectoris	14A5	161504004								1	cad
+251680018	H/O: heart failure	14A6	161505003					1			1	hf
+251689017	H/O: Deep Vein Thrombosis	14A81	161508001				1				1	pvd
+251690014	H/O: varicose veins		161509009				1				1	pvd
+251691013	H/O: heart disease NOS	14AA	275544003								1	cvd
+251692018	h/o: tia	14AB	161511000			1					1	tia
+251699010	H/O: aortic aneurysm		161514008				1				1	pvd
+251924010	H/O: heart recipient	14S3	161666008					1			1	hf
+251925011	H/O: heart valve recipient	14S4	161667004						1		1	vhd
+251936016	H/O: artificial heart valve	14T3	161677002						1		1	vhd
+2692063011	History of atrial flutter	14AR	428076002		1						1	af
+303101000000110	History of ventricular tachycardia	14AP	200061000000108								1	arrhythmia
+303131000000116	History of supraventricular tachycardia	14AQ	200071000000101								1	arrhythmia
+3510551014	History of hemorrhagic stroke with residual deficit	^ESCT1170616	141811000119106			1					1	stroke
+397829016	H/O: cardiovascular disease	14A	266995000								1	cvd
+411518010	h/o: cva	14A7-1	275526006			1					1	cva
+411538011	H/O: heart disorder	14A-1	275544003								1	cvd
+411874010	H/O: myocardial problem	14A-2	275905002								1	cvd
+418920011	History of diabetes mellitus in child of subject	13L4-1	444094009							1	1	dm
+451368019	h/o: cerebrovascular disease	1477	308064009			1					1	cerebrovascular disease
+451369010	H/O: Myocardial infarction in last year	14AH	308065005	1							1	mi
+451370011	H/O: Angina in last year	14AJ	308066006								1	cad
+451371010	h/o: stroke in last year	14AK	308067002			1					1	tia
+451372015	H/O: Treatment for ischaemic heart disease	14AL	308068007	1							1	cad
+451376017	H/O: Peripheral vascular disease procedure		308071004				1				1	pvd
+451478017	H/O: Deep vein thrombosis	ZV128	161508001				1				1	pvd
+451479013	[V] Personal history of pulmonary embolism	ZV129	161512007				1				1	pvd
+453099015	H/O: Heart failure in last year	14AM	309634009					1			1	hf
+453100011	H/O: Admission in last year for diabetes foot problem	14F4	309635005				1				1	pvd
+4539561000006114	History of diabetes mellitus	^ESCTHI453956	161445009							1	1	dm
+4540441000006117	History of hypertension	^ESCTHI454044	161501007								1	htn
+4540501000006118	History of angina pectoris	^ESCTHI454050	161504004								1	cad
+4540521000006111	History of heart failure	^ESCTHI454052	161505003					1			1	hf
+4540551000006119	History of deep vein thrombosis	^ESCTHI454055	161508001				1				1	pvd
+4540571000006112	History of varicose veins		161509009				1				1	pvd
+4540591000006113	History of transient ischemic attack	^ESCTHI454059	161511000			1					1	tia
+4540611000006119	History of pulmonary embolus	^ESCTHI454061	161512007				1				1	pvd
+4540691000006112	History of subarachnoid haemorrhage	^ESCTHI454069	161515009			1					1	stroke
+456154015	H/O: atrial fibrillation	14AN	312442005		1						1	af
+460331011	History of major cardiovascular surgery	ZV151	15081000119105								1	cvd
+460687010	History of placement of stent for coronary artery disease	ZV458	428375006	1							1	cad
+461520010	History of heart valve repair with prosthesis	ZVu6e	285701000119108						1		1	vhd
+5496991000006110	History of cardiovascular disease	^ESCTHI549699	266995000								1	cvd
+5974461000006114	history of cerebrovascular disease	^ESCTHI597446	308064009			1					1	cerebrovascular disease
+5974561000006110	History of treatment for ischaemic heart disease	^ESCTHI597456	308068007	1							1	cad
+6016401000006115	History of atrial fibrillation	^ESCTHI601640	312442005		1						1	af
+622051000000118	History of gestational diabetes mellitus	ZV13F	472971004							1	1	dm
+6619191000006115	Past history of myocardial infarction	^ESCTPA661919	399211009	1							1	mi
+6718021000006116	History of percutaneous coronary intervention	^ESCTHI671802	405741001	1							1	cad
+6858001000006115	History of hypercholesterolemia	^ESCTHI685800	414416008								1	dyslipidaemia
+7081241000006112	History of cardiac radiofrequency ablation	^ESCTHI708124	427951003								1	arrhythmia
+7086511000006119	History of percutaneous transluminal coronary angioplasty	^ESCTHI708651	428308007	1							1	cad
+7095381000006112	History of thromboembolism of vein	^ESCTHI709538	428904003				1				1	pvd
+7096971000006119	History of cardiac arrest	^ESCTHI709697	429007001								1	cvd
+7097551000006119	History of sustained ventricular tachycardia	^ESCTHI709755	429046004								1	arrhythmia
+7099831000006116	History of abdominal aortic aneurysm repair		429205001				1				1	pvd
+7101091000006119	History of combination internal cardiac defibrillator and pacemaker	^ESCTHI710109	429286003								1	arrhythmia
+7114161000006114	History of thrombophlebitis		430080003				1				1	pvd
+7140321000006119	History of peripheral arterial occlusive disease	^ESCTHI714032	431545001				1				1	pvd
+7480661000006114	H/O diabetes mellitus type 2	^ESCTHO748066	472969004							1	1	dm
+7480691000006118	H/O diabetes mellitus type 1	^ESCTHO748069	472970003							1	1	dm
+7480721000006111	H/O gestational diabetes mellitus	^ESCTHO748072	472971004							1	1	dm
+7482951000006115	History of peripheral vascular disease	^ESCTHI748295	473109007				1				1	pvd
+7510331000006117	History of non-ST segment elevation myocardial infarction	^ESCTHI751033	698593009	1							1	mi
+7660081000006114	History of gestational hypertension	^ESCTHI766008	709881001								1	htn
+8030281000006114	History of mechanical mitral valve replacement	^ESCTHI803028	96271000119109						1		1	vhd
+8032161000006112	Coronary arteriosclerosis in patient with history of previous myocardial infarction	^ESCTCO803216	103011000119106	1							1	mi
+8039031000006111	History of mechanical aortic valve replacement	^ESCTHI803903	125411000119107						1		1	vhd
+8041051000006118	History of placement of stent in coronary artery bypass graft	^ESCTHI804105	130541000119100	1							1	cad
+8041251000006110	History of cardiac arrhythmia	^ESCTHI804125	131471000119104								1	arrhythmia
+8043961000006116	History of endovascular stent graft for repair of abdominal aortic aneurysm		139941000119104				1				1	pvd
+8044121000006114	history of transient ischaemic attack due to embolism	^ESCTHI804412	140221000119109			1					1	tia
+8044851000006112	History of recurrent deep vein thrombosis	^ESCTHI804485	141911000119100				1				1	pvd
+8087551000006113	History of acute ST segment elevation myocardial infarction	^ESCTHI808755	285721000119104	1							1	mi
+8087571000006115	History of pericarditis	^ESCTHI808757	285741000119105								1	pericarditis
+809111000006117	H/O cardiac surgery	14N6	161625008								1	cvd
+809421000006116	History of cerebrovascular accident	14A7	275526006			1					1	stroke
+810811000006116	H/O: myocardial infarct at less than 60	14A3	161502000	1							1	mi
+810821000006112	H/O: myocardial infarct at greater than 60	14A4	161503005	1							1	mi
+8153341000006113	[v]personal history of stroke	^ESCTVP815334	428011000000100			1					1	stroke
+8211041000006117	History of myocarditis	^ESCTHI821104	681211000119101								1	myocarditis
+8211961000006117	History of cerebellar stroke	^ESCTHI821196	690051000119100			1					1	stroke
+8231151000006110	personal history of transient ischaemic attack	^ESCTPE823115	751371000000107			1					1	tia
+8240511000006110	H/O: secondary diabetes mellitus	^ESCTHO824051	771571000000102							1	1	dm
+8241691000006114	H/O: diabetic nephropathy	^ESCTHO824169	774521000000103							1	1	dm
+8244671000006110	H/O diabetic ketoacidosis	^ESCTHO824467	783231000000106							1	1	dm
+8279141000006112	H/O intermittent claudication		837591000000108				1				1	pvd
+9326661000006117	History of pulmonary embolism on long-term anticoagulation therapy	^ESCTHI932666	1.07615110001e+16				1				1	pvd
+9898031000006113	History of idiopathic intracranial hypertension	^ESCTHI989803	1.62350710001e+16								1	htn
+4542241000006119	history of insulin therapy									1	1	dm
+251892015	H/O: insulin therapy	14P3	161649006							1	1	dm
+1738171000006114	History of myocardial infarction		399211009	1							1	mi
+3024781000006112	Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms		32574007	1							1	mi

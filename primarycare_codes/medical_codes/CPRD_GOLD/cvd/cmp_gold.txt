@@ -1,0 +1,39 @@
+medcode	readterm	readcode	cmp_type
+3204	Cardiomyopathy	G55..00	other
+98634	[X]Cardiomyopathy in metabolic diseases CE	Gyu5R00	other
+44272	Cardiomyopathy in Duchenne muscular dystrophy	F391B00	other
+9402	Secondary dilated cardiomyopathy	G55y.11	dcm
+7535	Primary dilated cardiomyopathy	G554400	dcm
+4915	Alcoholic cardiomyopathy	G555.00	other
+97780	Arrhythmogenic right ventricular cardiomyopathy	G559.00	arvd
+64837	Dystrophic cardiomyopathy	G558200	other
+104529	Tachycardia-induced cardiomyopathy	G55A.11	other
+64673	Nutritional and metabolic cardiomyopathy NOS	G557z00	other
+55850	Cardiomyopathy in disease EC	G558.00	other
+68685	Obscure African cardiomyopathy	G552.00	other
+57306	Other primary cardiomyopathies	G554.00	other
+22993	Cardiomyopathy NOS	G55z.00	other
+92266	[X]Other restrictive cardiomyopathy	Gyu5N00	rcm
+114348	Cardiomyopathy in Chagas's disease	G556.00	other
+105651	Amyloid cardiomyopathy	G558400	other
+40834	Other primary cardiomyopathy NOS	G554z00	other
+41488	Constrictive cardiomyopathy	G554100	other
+58938	Cardiomyopathy due to drugs and other external agents	G55y000	other
+97617	[X]Other cardiomyopathies	Gyu5P00	other
+100966	Nutritional and metabolic cardiomyopathies	G557.00	other
+8010	Hypertrophic obstructive cardiomyopathy	G551.00	hcm
+5141	Congestive cardiomyopathy	G554000	other
+40095	Cardiomyopathy in the puerperium	L186500	other
+42043	Secondary cardiomyopathy NOS	G55y.00	other
+3499	Hypertrophic non-obstructive cardiomyopathy	G554300	hcm
+102955	Tachycardiomyopathy	G55A.00	other
+68766	Congestive obstructive cardiomyopathy	G554011	hcm
+101015	Takotsubo cardiomyopathy	G554500	other
+7320	Ischaemic cardiomyopathy	G343.00	ischemic
+70648	[X]Other hypertrophic cardiomyopathy	Gyu5M00	hcm
+116185	Mucopolysaccharidosis cardiomyopathy	G557400	other
+104658	Stress cardiomyopathy	G554511	other
+98020	Cardiomyopathy in diseases EC, NOS	G558z00	other
+27683	Cardiomyopathy in myotonic dystrophy	G558100	other
+21852	Familial cardiomyopathy	G554200	other
+70855	Cardiomyopathy in Friedreich's ataxia	G558000	other

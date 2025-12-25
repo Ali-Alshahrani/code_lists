@@ -1,0 +1,114 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	observations
+253576010	O/E - obese	22A5-1	22A5.11	162690006	30000
+2160062010	Body mass index 40+ - severely obese	22K7	22K7.00	408512008	200000
+280881000006115	O/E - obese	222A	222A.00	162690006	100000
+857321000006113	Moderately obese	EGTONMO1		857321000006109	20000
+857911000006118	Very obese	EGTONVE2		857911000006102	20000
+1900331000006113	Obese class III (body mass index equal to or greater than 40.0)	22KE	22KE.00	914741000000103	10000
+2350241000000116	Obese class I (body mass index 30.0 - 34.9)	22KC	22KC.00	914721000000105	20000
+2350261000000115	Obese class II (body mass index 35.0 - 39.9)	22KD	22KD.00	914731000000107	10000
+2865221000006115	Impaired glucose tolerance in obese	^ESCTIM286522		22910008	20
+3020131000006118	Impaired glucose tolerance in nonobese	^ESCTIM302013		32284009	8
+4550451000006118	On examination - obese	^ESCTON455045		162690006	1
+5273061000006119	Obese abdomen	^ESCTOB527306		249533007	20
+5526441000006112	Obese build	^ESCTOB552644		271590003	400
+6763391000006114	Body mass index 40+ - morbidly obese	^ESCTBO676339		408512008	20
+6763401000006111	BMI (body mass index) 40+ - severely obese	^ESCTBM676340		408512008	1
+6866991000006116	Obese	^ESCTOB686699		414915002	4000
+12113161000006113	Obese class I	^ESCT1211316		443371000124107	300
+12113181000006115	Obese class II	^ESCT1211318		443381000124105	300
+13926671000006119	Obese class III	^ESCT1392667		819948005	600
+13926691000006118	Obese class III (body mass index equal to or greater than 40.0)	^ESCT1392669		819948005	1
+74689019	Maternal obesity syndrome	L161-2	L161.12	44772007	10
+249811017	FH: Obesity	1266	1266.00	160311006	9000
+251604013	H/O: obesity	1444	1444.00	161453001	20000
+253848011	Body mass index 30+ - obesity	22K5	22K5.00	162864005	2000000
+264752011	Initial obesity assessment	66C1	66C1.00	170794003	90000
+264753018	Follow-up obesity assessment	66C2	66C2.00	170795002	200000
+264756014	Has seen dietician - obesity	66C4	66C4.00	170797005	10000
+264757017	Treatment of obesity changed	66C5	66C5.00	170798000	300
+264758010	Treatment of obesity started	66C6	66C6.00	170799008	10000
+264759019	Treatment of obesity stopped	66C7	66C7.00	170800007	2000
+264768017	Reason for obesity therapy - occupational	66CE	66CE.00	170807005	200
+264769013	Obesity monitoring NOS	66CZ	66CZ.00	268522006	20000
+285741017	Attends obesity monitoring	9OK1	9OK1.00	185741002	200000
+285742012	Obesity monitoring refused	9OK2	9OK2.00	763085007	4000
+285743019	Obesity monitoring default	9OK3	9OK3.00	185743004	1000
+285749015	Obesity monitoring deleted	9OK9	9OK9.00	185749000	100
+285750015	Obesity monitoring check done	9OKA	9OKA.00	185750000	30000
+293631011	Obesity and other hyperalimentation	C38	C38..00	302872003	2000
+293634015	Drug-induced obesity	C3801	C380100	190965006	200
+293635019	Extreme obesity with alveolar hypoventilation	C3802	C380200	190966007	4000
+293802014	[X]Obesity and other hyperalimentation	Cyu7	Cyu7.00	414916001	50
+293803016	[X]Other obesity	Cyu70	Cyu7000	414916001	500
+356966014	Generalised obesity	C3805	C380500	238134004	5000
+356968010	Morbid obesity	C3803	C380300	238136002	200000
+370698013	Central obesity	C3804	C380400	248311001	40000
+401534016	Obesity monitoring	66C	66C..00	268522006	600000
+434770018	Lifelong obesity	C3807	C380700	294493008	600
+436946011	Adult-onset obesity	C3806	C380600	296526005	2000
+451432013	Simple obesity	C38z0	C38z000	415530009	10000
+461278017	[V]Screening for obesity	ZV778	ZV77800	268551005	900
+1227771010	[V]Dietary counselling in obesity	ZV653-9	ZV65319	424753004	3000
+2535065012	Obesity	C380	C380.00	414916001	2000000
+2537960015	Obesity due to excess calories	C3800	C380000	415530009	7000
+2871984013	Childhood obesity	C3808	C380800	444862003	3000
+16131000000113	Obesity monitoring admin.NOS	9OKZ	9OKZ.00	713951000000106	2000
+21621000000119	Obesity monitoring administration	9OK	9OK..00	713951000000106	10000
+26111000000114	Obesity clinic administration	9OK-1	9OK..11	713971000000102	40000
+220811000000110	Maternal obesity syndrome	L161	L161.00	44772007	5000
+270281000006113	Obesity monitoring telephone invite	9OK8	9OK8.00	185748008	3000
+270301000006112	Obesity monitoring first letter	9OK4	9OK4.00	185744005	30000
+270311000006110	Obesity monitoring second letter	9OK5	9OK5.00	185745006	5000
+270321000006119	Obesity monitoring third letter	9OK6	9OK6.00	185746007	700
+270381000006115	Obesity monitoring verbal invite	9OK7	9OK7.00	185747003	4000
+270391000006117	Obesity screening	6878	6878.00	268551005	40000
+298511000000116	Obesity resolved	212Q	212Q.00	198181000000102	4000
+737721000006113	Localised obesity	C381	C381.00	270486005	2000
+881831000006116	Hyperalimentation incl.obesity	C38-99	C38..99	640791000000105	300
+907161000006115	[RFC] Obesity	HNG0212		907161000006104	30
+1572931000006113	Refuses obesity monitoring	EMISNQRE67		1572931000006109	100
+1667951000000110	Excepted from obesity quality indicators: patient unsuitable	9hN0	9hN0.00	753751000000103	1000
+1667961000000113	Excepted from obesity quality indicators: informed dissent	9hN1	9hN1.00	753771000000107	300
+1709911000006117	Adverse reaction to Calcium Dobesilate	ALLERGY37100NEMIS		1709911000006101	1
+1753271000006112	Risk to health associated with overweight and obesity, at no increased risk	66CL	66CL.00	755881000000104	10
+1753281000006110	Risk to health associated with overweight and obesity, at increased risk	66CM	66CM.00	755901000000101	300
+1753291000006113	Risk to health associated with overweight and obesity, at high risk	66CN	66CN.00	755921000000105	70
+1753301000006114	Risk to health associated with overweight and obesity, at very high risk	66CP	66CP.00	755941000000103	200
+1753311000006112	Intervention for risk to health associated with overweight and obesity, general advice on healthy weight and lifestyle	66CQ	66CQ.00	756001000000107	300000
+1753321000006116	Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity	66CR	66CR.00	756021000000103	8000
+1753331000006118	Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs	66CS	66CS.00	756041000000105	400
+1753341000006111	Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs, consider surgery	66CT	66CT.00	756061000000106	300
+1754921000006118	Exception reporting - obesity quality indicators	9hN	9hN..00	753691000000104	100
+1803041000000114	Obesity hypoventilation syndrome	C38y0-1	C38y011	190966007	4000
+1901161000006114	National Obesity Observatory Standard Evaluation Framework for weight management interventions - participant satisfaction with intervention	38Qb	38Qb.00	910301000000106	100
+2303211000000117	Referral to multidisciplinary obesity clinic	8T11	8T11.00	894961000000105	3000
+2310101000000115	Obesity multidisciplinary case review	66CX	66CX.00	898011000000103	30
+2350501000000116	Anti-obesity drug therapy commenced	8CV7	8CV7.00	914801000000107	30
+2350541000000118	Anti-obesity drug therapy discontinued	8CT5	8CT5.00	914821000000103	9
+2423851000000119	Telehealth obesity monitoring	66Ce	66Ce.00	715279006	20
+3847001000006111	Hypothalamic obesity	^ESCTHY384700		82793005	2
+4529151000006117	Family history: Obesity	^ESCTFA452915		160311006	2
+4553741000006118	BMI 30+ - obesity	^ESCTBM455374		162864005	600
+4636861000006111	Has seen dietitian - obesity	^ESCTHA463686		170797005	200
+5117871000006118	Gynaecoid obesity	^ESCTGY511787		238133005	2
+5192431000006115	Obesity monitoring status	^ESCTOB519243		243862009	20
+5255791000006110	Centripetal obesity	^ESCTCE525579		248311001	10
+5255821000006118	Truncal obesity	^ESCTTR525582		248311001	30
+5686501000006114	Obesity diet education	^ESCTOB568650		284352003	600
+5979481000006117	Obesity monitoring call	^ESCTOB597948		308504001	1
+5999801000006118	Obesity monitoring invitation	^ESCTOB599980		310428009	7000
+7299071000006115	Childhood obesity BMI 95-100 percentile	^ESCTCH729907		444862003	1
+7573871000006112	Lymphoedema associated with obesity	^ESCTLY757387		703316004	2
+7758811000006114	Obesity due to melanocortin 4 receptor deficiency	^ESCTOB775881		717269008	2
+8024931000006112	Severe obesity	^ESCTSE802493		83911000119104	40
+8231711000006113	Excepted from obesity quality indicators - patient unsuitable	^ESCTEX823171		753751000000103	90
+8231731000006119	Excepted from obesity quality indicators - informed dissent	^ESCTEX823173		753771000000107	200
+8270211000006112	Anti-obesity drug therapy	^ESCTAN827021		822741000000107	30
+8435671000006113	Dietetic Intervention for Adult Obesity TOM (Therapy Outcome Measure) activity score	^ESCTDI843567		1063021000000103	1
+8435931000006116	Dietetic Intervention for Paediatric Obesity TOM (Therapy Outcome Measure) wellbeing score	^ESCTDI843593		1063261000000100	1
+12008191000006116	Obesity care	^ESCT1200819		763643007	2
+13911231000006116	Obesity in adolescence	^ESCT1391123		788996008	20
+14518971000006110	Focal segmental glomerulosclerosis due to obesity	^ESCT1451897		1269761000000101	50
+14679381000006117	Obesity monitoring declined	^ESCT1467938		763085007	9
+14753781000006110	PHIP-related behavioural problems, intellectual disability, obesity, dysmorphic features syndrome	^ESCT1475378		1208987006	1

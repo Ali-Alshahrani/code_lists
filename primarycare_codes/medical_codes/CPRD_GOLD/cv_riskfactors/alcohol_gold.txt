@@ -1,0 +1,195 @@
+medcode	readterm	alch_status	depen_level
+10161	O/E - alcoholic breath	Current drinker	high
+101718	Drinks in morning to get rid of hangover	Current drinker	unknown
+102247	Extended interven for excessive alcohol consumption declined	Current drinker	high
+102448	Higher risk drinking	Current drinker	unknown
+102564	Advised to abstain from alcohol consumption	Current drinker	unknown
+102665	Increasing risk drinking	Current drinker	unknown
+103230	Lower risk drinking	Current drinker	unknown
+103459	Referral to community alcohol team declined	Current drinker	high
+104109	Drinks only	Current drinker	unknown
+104611	Alcohol-induced acute pancreatitis	Current drinker	high
+10691	Alcoholic fatty liver	Current drinker	high
+108644	In-house alcohol detoxification	Current drinker	high
+109105	Refer to MH services deferred until alcohol misuse resolved	Current drinker	high
+109108	Alcohol dependence resolved	Ex-drinker	
+109241	Alcohol Use Disorders Identification Test declined	Current drinker	high
+109668	Specialist alcohol treatment service signposted	Current drinker	high
+109800	Hospital attendance related to personal alcohol consumption	Current drinker	high
+110382	Withdrawn from alcohol detoxification programme	Current drinker	unknown
+110494	Alcohol harm reduction programme	Current drinker	high
+110624	Alcohol relapse prevention	Current drinker	high
+110671	Controlled drinking regime	Current drinker	moderate
+110911	Accidental poisoning by denatured alcohol	Current drinker	high
+11106	Korsakov's alcoholic psychosis with peripheral neuritis	Current drinker	high
+11140	Advice on alcohol consumption	Current drinker	high
+111683	Removal of alcohol	Current drinker	unknown
+11491	Health ed. - alcohol	Current drinker	unknown
+11670	[X]Korsakov's psychosis, alcohol induced	Current drinker	high
+11740	Alcohol misuse - enhanced services administration	Current drinker	high
+12353	[X]Mental & behav dis due to use alcohol: psychotic disorder	Current drinker	high
+12554	Referral to community drug and alcohol team	Current drinker	high
+12949	Teetotaller	Non-drinker	
+12968	Drinks beer and spirits	Current drinker	unknown
+12969	Drinks wine	Current drinker	unknown
+12970	Non drinker alcohol	Non-drinker	
+12971	Spirit drinker	Current drinker	unknown
+12972	Light drinker - 1-2u/day	Current drinker	low
+12974	Nondependent alcohol abuse, episodic	Current drinker	high
+12975	Trivial drinker - <1u/day	Current drinker	low
+12976	Suspect alcohol abuse - denied	Current drinker	high
+12977	Very heavy drinker - >9u/day	Current drinker	high
+12979	Current non drinker	Non-drinker	
+12980	Light drinker	Current drinker	low
+12982	Alcohol intake above recommended sensible limits	Current drinker	high
+12983	Ex-very heavy drinker-(>9u/d)	Ex-drinker	
+12984	Very heavy drinker	Current drinker	high
+12985	Moderate drinker	Current drinker	moderate
+1399	Alcohol problem drinking	Current drinker	high
+1476	Delirium tremens	Current drinker	high
+1618	Heavy drinker - 7-9u/day	Current drinker	high
+16225	Alcohol withdrawal delirium	Current drinker	high
+16237	Alcoholic psychoses	Current drinker	high
+16587	[V]Problems related to lifestyle alcohol use	Current drinker	high
+17259	[X]Delirium tremens, alcohol induced	Current drinker	high
+17330	Alcoholic hepatic failure	Current drinker	high
+17607	[X]Alcoholic psychosis NOS	Current drinker	high
+18156	Alcoholics anonymous	Current drinker	high
+18636	Wernicke-Korsakov syndrome	Current drinker	high
+18711	Lifestyle advice regarding alcohol	Current drinker	high
+19217	Alcohol causing toxic effect	Current drinker	high
+19401	Binge drinker	Current drinker	high
+19493	Ex-heavy drinker - (7-9u/day)	Ex-drinker	
+19494	Hazardous alcohol use	Current drinker	high
+19495	Ex-moderate drinker - (3-6u/d)	Ex-drinker	
+20407	Drunkenness - pathological	Current drinker	high
+20514	[X]Mental and behav dis due to use alcohol: withdrawal state	Current drinker	high
+20762	Alcohol amnestic syndrome	Current drinker	high
+2081	Alcoholism	Current drinker	high
+2082	Alcohol withdrawal syndrome	Current drinker	high
+2083	Alcohol detoxification	Current drinker	high
+2084	Alcohol dependence syndrome	Current drinker	high
+21624	Episodic acute alcoholic intoxication in alcoholism	Current drinker	high
+21650	Admitted to alcohol detoxification centre	Current drinker	high
+21713	Alcoholic fibrosis and sclerosis of liver	Current drinker	high
+21879	[X]Mental and behav dis due to use of alcohol: harmful use	Current drinker	high
+22277	DTs - delirium tremens	Current drinker	high
+22707	Drinking problem scale	Current drinker	high
+22933	Ex-trivial drinker (<1u/day)	Ex-drinker	
+23610	Nondependent alcohol abuse, continuous	Current drinker	high
+23945	Fetal alcohol syndrome	Current drinker	high
+23978	[X]Evid of alcohol involv determind by level of intoxication	Current drinker	unknown
+24064	Continuous chronic alcoholism	Current drinker	high
+24485	Chronic alcoholism in remission	Ex-drinker	
+24735	O/E - breath - alcohol smell	Current drinker	high
+24984	Alcohol-induced chronic pancreatitis	Current drinker	high
+25110	Alcohol withdrawal hallucinosis	Current drinker	high
+26106	Episodic chronic alcoholism	Current drinker	high
+26323	[X]Alcoholic dementia NOS	Current drinker	high
+26471	Ex-light drinker - (1-2u/day)	Ex-drinker	
+26472	Alcohol intake within recommended sensible limits	Current drinker	low
+2689	Beer drinker	Current drinker	unknown
+27342	Alcoholic dementia NOS	Current drinker	high
+27518	Hangover (alcohol)	Current drinker	unknown
+27670	Maternal care for (suspected) damage to fetus from alcohol	Current drinker	high
+28150	Nondependent alcohol abuse NOS	Current drinker	high
+28780	[X]Alcohol addiction	Current drinker	high
+2925	Alcoholic polyneuropathy	Current drinker	high
+29691	Aversion therapy - alcoholism	Current drinker	high
+30162	[X]Alcoholic paranoia	Current drinker	high
+30404	Alcoholic paranoia	Current drinker	high
+30460	Alcoholism counselling	Current drinker	high
+30604	Alcohol-induced epilepsy	Current drinker	high
+30695	Harmful alcohol use	Current drinker	high
+31443	Chronic alcoholism	Current drinker	high
+31569	Nondependent alcohol abuse in remission	Current drinker	high
+31742	Alcoholic myopathy	Current drinker	high
+3216	Acute alcoholic hepatitis	Current drinker	high
+322	Moderate drinker - 3-6u/day	Current drinker	moderate
+32927	[X]Alcohol withdrawal-induced seizure	Current drinker	high
+33635	Chronic alcoholism NOS	Current drinker	high
+33670	Other alcoholic psychosis	Current drinker	high
+33839	Cerebellar ataxia due to alcoholism	Current drinker	high
+35330	Alcohol consumption counselling	Current drinker	high
+36296	Acute alcoholic intoxication in alcoholism NOS	Current drinker	high
+36748	Alcoholic encephalopathy	Current drinker	high
+37264	Alcohol leaflet given	Current drinker	high
+37691	[X]Chronic alcoholic brain syndrome	Current drinker	high
+3782	Intoxication - alcohol	Current drinker	unknown
+37946	Chronic alcoholic brain syndrome	Current drinker	high
+38061	Alcohol induced hallucinations	Current drinker	high
+385	Drinks rarely	Current drinker	low
+39327	[X]Mental and behav dis due to use alcohol: dependence syndr	Current drinker	high
+39799	[X]Mental and behav dis due to use alcohol: amnesic syndrome	Current drinker	high
+40530	Acute alcoholic intoxication, unspecified, in alcoholism	Current drinker	high
+41920	Alcohol amnestic syndrome NOS	Current drinker	high
+41983	Alcohol detoxification	Current drinker	high
+42843	Other non-alcoholic chronic liver disease	Current drinker	high
+43193	Unspecified chronic alcoholism	Current drinker	high
+44299	[X]Mental & behav dis due to use alcohol: acute intoxication	Current drinker	high
+4447	Non-drinker alcohol	Non-drinker	
+44783	Pain in lymph nodes after alcohol consumption	Current drinker	unknown
+4500	Korsakov's alcoholic psychosis	Current drinker	high
+4506	Alcoholic gastritis	Current drinker	high
+45169	[X]Men & behav dis due to use alcohol: oth men & behav dis	Current drinker	high
+46677	Alcohol withdrawal regime	Current drinker	high
+46848	DPS - Drinking problem scale	Current drinker	high
+47123	Alcohol counselling by other agencies	Current drinker	high
+4743	Alcoholic cirrhosis of liver	Current drinker	high
+47555	Cerebral degeneration due to alcoholism	Current drinker	high
+4915	Alcoholic cardiomyopathy	Current drinker	high
+54209	Advice to change alcohol intake	Current drinker	high
+54505	Other alcoholic dementia	Current drinker	high
+5611	[X]Mental and behavioural disorders due to use of alcohol	Current drinker	high
+56410	Delivery of rehabilitation for alcohol addiction	Current drinker	high
+56947	Continuous acute alcoholic intoxication in alcoholism	Current drinker	high
+5740	Acute alcoholic intoxication in alcoholism	Current drinker	high
+5758	[X]Chronic alcoholism	Current drinker	high
+57714	Alcohol dependence with acute alcoholic intoxication	Current drinker	high
+57939	Pathological alcohol intoxication	Current drinker	high
+59574	Acute alcoholic intoxication in remission, in alcoholism	Current drinker	high
+61383	Planned reduction of alcohol consumption	Current drinker	high
+6169	Alcohol dependence syndrome NOS	Current drinker	high
+63529	Alcohol misuse - enhanced service completed	Current drinker	high
+64389	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	Current drinker	high
+64409	Self-monitoring of alcohol intake	Current drinker	high
+6467	[X]Alcoholic hallucinosis	Current drinker	high
+65754	Alcohol-induced pseudo-Cushing's syndrome	Current drinker	high
+65932	[X]Alcoholic jealousy	Current drinker	high
+66019	Suspect fetal damage from maternal alcohol	Current drinker	high
+66699	Fetus and newborn affected by maternal use of alcohol	Current drinker	high
+669	Nondependent alcohol abuse, unspecified	Current drinker	high
+67651	Alcoholic psychosis NOS	Current drinker	high
+68111	Other alcoholic psychosis NOS	Current drinker	high
+7123	[V]Personal history of alcoholism	Current drinker	high
+749	Drinks occasionally	Current drinker	low
+7545	[V] Alcohol use	Current drinker	unknown
+7602	Chronic alcoholic hepatitis	Current drinker	high
+7692	Patient advised about alcohol	Current drinker	high
+7746	Nondependent alcohol abuse	Current drinker	unknown
+7885	Alcoholic liver damage unspecified	Current drinker	high
+7943	Alcoholic hepatitis	Current drinker	high
+8030	[V]Alcohol abuse counselling and surveillance	Current drinker	high
+8363	Oesophageal varices in alcoholic cirrhosis of the liver	Current drinker	high
+8388	[V]Alcohol rehabilitation	Current drinker	high
+84218	Disqualified from driving due to excess alcohol	Current drinker	high
+8999	Heavy drinker	Current drinker	high
+9169	[D]Alcohol blood level excessive	Current drinker	high
+94553	Referral to specialist alcohol treatment service	Current drinker	high
+94670	Alcohol misuse	Current drinker	high
+9489	Under care of community alcohol team	Current drinker	high
+9508	[X]Acute alcoholic drunkenness	Current drinker	high
+95181	Alcohol reduction programme	Current drinker	high
+956	Social drinker	Current drinker	low
+95650	Advice to change drink intake	Current drinker	high
+96053	Brief intervention for excessive alcohol consumptn completed	Current drinker	high
+96054	Extended intervention for excessive alcohol consumptn complt	Current drinker	high
+967	Stopped drinking alcohol	Ex-drinker	
+96993	Referral to alcohol brief intervention service	Current drinker	high
+97163	Advice to change alcoholic drink intake	Current drinker	high
+97261	Brief intervention for excessive alcohol consumptn declined	Current drinker	high
+97309	Advised to contact primary care alcohol worker	Current drinker	high
+97680	Declined referral to specialist alcohol treatment service	Current drinker	high
+97916	Fetal alcohol syndrome	Current drinker	high
+9849	Referral to community alcohol team	Current drinker	high
+99877	Feels should cut down drinking	Current drinker	high

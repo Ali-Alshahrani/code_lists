@@ -1,0 +1,138 @@
+medcode	desc	originalreadcode	readcode	snomedctconceptid
+216555011	lipid lowering therapy indicated	8BG2	8BG2.00	135797000
+216565017	lipid lowering therapy not indicated	8I69	8I69.00	135807000
+216580011	lipid lowering therapy contraindicated	8I2C	8I2C.00	135822005
+216584019	lipid lowering therapy declined	8I3J	8I3J.00	135826008
+284058012	referral to lipid clinic	8HT1	8HT1.00	183852004
+293259016	hyperbetalipoproteinaemia	C3201	C320100	190773008
+356800016	familial combined hyperlipidaemia	C3220	C322000	238040008
+356867016	polygenic hypercholesterolaemia	C3206	C320600	238077000
+398852019	pure hypercholesterolaemia	C320	C320.00	267432004
+454400014	cholesterol reduction programme - invited	8BAG0	8BAG000	310879007
+458370015	hyperlipidaemia screening test	44q8	44q8.00	1015881000000105
+533341000000119	attends lipid disorder monitoring	9Oc0	9Oc0.00	300971000000106
+918351000006118	patient advised re low cholesterol diet	PC0653		918351000006102
+974661000006112	atherogenic lipoprotein phenotype	EMISNQAT1		974661000006108
+1591671000006117	attends lipid disorder monitoring	EMISNQAT5		1591671000006101
+1591711000006118	lipid disorder monitoring 2nd letter	EMISNQLI21		1591711000006102
+1591741000006119	lipid disorder monitoring telephone invitation	EMISNQLI24		1591741000006103
+1675631000000110	lipid disorder treatment changed	66X2	66X2.00	759211000000108
+1877381000006114	hyperlipidaemia clinical management plan no longer in place	EMISNQHY18		1877381000006105
+2135731000000117	discussion about lipid lowering therapy	8CP6	8CP6.00	819911000000108
+293821018	[x]other hyperlipidaemia	Cyu8D	Cyu8D00	55822004
+794171000006113	fredrickson type iib lipidaemia	C322-1	C322.11	238040008
+6612021000006112	familial hyperbetalipoproteinaemia and hyperprebetalipoproteinaemia	^ESCTFA661202		398796005
+11998201000006111	cholesterol reduction programme refused	^ESCT1199820		182981008
+12452811000006116	patient advised about low cholesterol diet	^ESCT1245281		183062005
+5116281000006118	fchl - familial combined hyperlipidaemia	^ESCTFC511628		238040008
+6596651000006117	essential familial hypercholesterolaemia	^ESCTES659665		398036000
+8218311000006112	lipid disorder monitoring 3rd letter	^ESCTLI821831		716731000000109
+6004021000006112	cholesterol reduction programme - attended	^ESCTCH600402		310880005
+5116941000006118	sporadic hypercholesterolaemia	^ESCTSP511694		238077000
+7966561000006111	mixed hyperlipidaemia due to type 2 diabetes mellitus	^ESCTMI796656		701000119103
+11998141000006116	cholesterol reduction programme	^ESCT1199814		151259001
+7097921000006117	dietary advice for hyperlipidaemia	^ESCTDI709792		429072008
+5117261000006114	primary mixed hyperlipidaemia	^ESCTPR511726		238088006
+6687861000006113	familial hypercholesterolaemia due to heterozygous ldl receptor mutation	^ESCTFA668786		403829002
+7969211000006115	mixed hyperlipidaemia due to type 1 diabetes mellitus	^ESCTMI796921		1571000119104
+6687971000006112	hypercholesterolaemia due to apolipoprotein b gene defect	^ESCTHY668797		403831006
+8099731000006116	lipid disorder monitoring status	^ESCTLI809973		308061000000101
+5117071000006113	secondary hypercholesterolaemia	^ESCTSE511707		238082007
+6004041000006117	cholesterol reduction programme - declined	^ESCTCH600404		310881009
+6687931000006114	familial hypercholesterolaemia due to homozygous low density lipoprotein receptor mutation	^ESCTFA668793		403830007
+6857991000006113	history of hypercholesterolaemia	^ESCTHI685799		414416008
+6687961000006117	familial combined hypercholesterolaemia	^ESCTFA668796		403831006
+7979451000006112	hyperlipidaemia screening test not done	^ESCTHY797945		4511000175106
+4428121000006110	mixed hypercholesterolaemia and hypertriglyceridaemia	^ESCTMI442812		129591001
+5575121000006117	endogenous hypertriglyceridaemia	^ESCTEN557512		275598004
+7287421000006115	hypercholesterolaemia well controlled	^ESCTHY728742		444059002
+8192861000006119	possible heterozygous familial hypercholesterolaemia	^ESCTPO819286		513831000000107
+6687941000006116	familial hypercholesterolaemia due to genetic defect of apolipoprotein b	^ESCTFA668794		403831006
+5575131000006119	familial fat-induced hypertriglyceridaemia	^ESCTFA557513		275598004
+5116901000006115	primary hypercholesterolaemia	^ESCTPR511690		238076009
+6665891000006111	sporadic primary hypertriglyceridaemia	^ESCTSP666589		402473001
+840781000006113	lipid disorder monitoring administration	9Oc	9Oc..00	315598000
+454402018	cholesterol reduction programme - attended	8BAG1	8BAG100	310880005
+8215641000006110	lipid disorder monitoring administration	^ESCTLI821564		713841000000104
+8333541000006111	familial hypercholesterolaemia comprehensive genetic test	^ESCTFA833354		925221000000106
+5117221000006115	secondary hypertriglyceridaemia	^ESCTSE511722		238087001
+7510431000006112	suspected heterozygous familial hypercholesterolaemia	^ESCTSU751043		698600006
+12619211000006117	referral for lipid lowering therapy	^ESCT1261921		1105081000000108
+12680511000006110	lipid lowering therapy	^ESCT1268051		134350008
+293267012	other specified pure hypercholesterolaemia	C320y	C320y00	13644009
+6611951000006110	familial hypercholesterolaemia with hyperlipaemia	^ESCTFA661195		398796005
+4719821000006111	low cholesterol diet education	^ESCTLO471982		183062005
+794181000006111	fredrickson type iii lipidaemia	C322-2	C322.12	398796005
+1675011000000111	lipid disorder treatment started	66X0	66X0.00	759151000000101
+1591731000006112	lipid disorder monitoring verbal invitation	EMISNQLI23		1591731000006108
+1591761000006115	lipid disorder monitoring check done	EMISNQLI26		1591761000006104
+285157012	seen in cholesterol clinic	9N0J	9N0J.00	185178007
+460116012	lipid disorder monitoring	66X	66X..00	315598000
+5116991000006110	familial homozygous hypercholesterolaemia	^ESCTFA511699		238078005
+240871000006110	low cholesterol diet education	8CA47	8CA4700	183062005
+454405016	cholesterol reduction programme - declined	8BAG2	8BAG200	182981008
+7097891000006111	dietary advice for lipid disorder	^ESCTDI709789		429071001
+12052561000006111	familial hypercholesterolaemia co-occurrent and due to combined heterozygous low density lipoprotein receptor and low density lipoprotein receptor adaptor protein 1 mutations	^ESCT1205256		767133009
+5116961000006119	familial hypercholesterolaemia - homozygous	^ESCTFA511696		238078005
+293270011	pure hypercholesterolaemia nos	C320z	C320z00	267432004
+1659061000000112	possible familial hypercholesterolaemia	1W1	1W1..00	473145005
+1675891000000112	lipid disorder initial assessment	66X3	66X3.00	473212003
+1591701000006116	lipid disorder monitoring 1st letter	EMISNQLI20		1591701000006100
+1591751000006117	lipid disorder monitoring deleted	EMISNQLI25		1591751000006101
+534501000000112	lipid disorder monitoring telephone invitation	9Oc6	9Oc6.00	716741000000100
+557071000000117	lipid disorder monitoring second letter	9Oc3	9Oc3.00	716751000000102
+356886012	fredrickson type iv lipidaemia	C321-1	C321.11	238085009
+285156015	seen in lipid clinic	9N0I	9N0I.00	185177002
+454394012	cholesterol reduction programme	8BAG	8BAG.00	310876000
+6687891000006117	familial hypercholesterolaemia due to heterozygous low density lipoprotein receptor mutation	^ESCTFA668789		403829002
+6687901000006118	familial hypercholesterolaemia due to homozygous ldl receptor mutation	^ESCTFA668790		403830007
+8333521000006116	familial hypercholesterolaemia targeted genetic test	^ESCTFA833352		925211000000100
+5117091000006114	primary hypertriglyceridaemia	^ESCTPR511709		238083002
+8304191000006118	dutch lipid clinic network diagnostic criteria for familial hypercholesterolaemia score	^ESCTDU830419		872541000000104
+2469357012	hyperlipidaemia clinical management plan	8CR3	8CR3.00	736285004
+666301000006115	familial hypercholesterolaemia	C320-1	C320.11	398036000
+1675461000000115	lipid disorder treatment stopped	66X1	66X1.00	759191000000109
+534301000000115	lipid disorder monitoring verbal invitation	9Oc5	9Oc5.00	716461000000106
+557061000000112	lipid disorder monitoring first letter	9Oc2	9Oc2.00	716001000000100
+2642990018	dyslipidaemia	C328	C328.00	370992007
+1773186016	familial hypercholesterolaemia	C3200	C320000	398036000
+2159169011	patient on maximal tolerated lipid lowering therapy	8BL1	8BL1.00	407568002
+444854010	hypertriglyceridaemia	C3210	C321000	302870006
+250451013	low cholesterol diet	13B3	13B3.00	160672004
+259229012	serum cholesterol raised	44P3	44P3.00	166830008
+12052551000006114	double heterozygous familial hypercholesterolaemia	^ESCT1205255		767133009
+11930691000006111	dutch lipid clinic network diagnostic criteria for familial hypercholesterolaemia	^ESCT1193069		872521000000106
+1675961000000112	lipid disorder follow up assessment	66X4	66X4.00	473211005
+1739071000006119	assessment using simon broome diagnostic criteria for familial hypercholesterolaemia	3878	3878.00	519851000000103
+1865801000006111	dutch lipid clinic network diagnostic criteria for familial hypercholesterolaemia score	38Gr	38Gr.00	872541000000104
+5117001000006119	familial hypercholesterolaemia - heterozygous	^ESCTFA511700		238079002
+11927821000006110	hyperlipidaemia clinical management plan	^ESCT1192782		412778000
+8214761000006118	lipid disorder monitoring invitation	^ESCTLI821476		711471000000106
+8162431000006112	[v]dietary surveillance in hypercholesterolaemia	^ESCTVD816243		441901000000108
+6670041000006111	primary genetic mixed hyperlipidaemia	^ESCTPR667004		402787000
+5117301000006117	secondary mixed hyperlipidaemia	^ESCTSE511730		238089003
+1216379016	dietary surveillance in hypercholesterolaemia	ZV653-7	ZV65317	804641000000101
+6042251000006112	hyperlipidaemia screening test	^ESCTHY604225		314079002
+5117061000006118	familial hypercholesterolaemia due to genetic defect of apolipoprotein b-100	^ESCTFA511706		238081000
+1788141000006110	lipid lowering therapy discussed	EMISNQLI35		1788141000006106
+557081000000115	lipid disorder monitoring third letter	9Oc4	9Oc4.00	716731000000109
+398856016	mixed hyperlipidaemia	C322	C322.00	267434003
+192452016	disorder of cholesterol metabolism	C32-1	C32..11	123963007
+259230019	serum cholesterol very high	44P4	44P4.00	166831007
+356884010	very low density lipoprotinaemia	C321-2	C321.12	238084008
+6003981000006113	cholesterol reduction programme status	^ESCTCH600398		310878004
+6145521000006119	hypercholesterolaemia food	^ESCTHY614552		328566006
+3055881000006119	familial hypertriglyceridaemia	^ESCTFA305588		34528009
+12052571000006116	compound familial hypercholesterolaemia	^ESCT1205257		767133009
+11998171000006112	cholesterol reduction programme declined	^ESCT1199817		182981008
+735661000006117	low density lipoproteinaemia	C320-3	C320.13	398036000
+1591681000006119	refuses lipid disorder monitoring	EMISNQRE70		1591681000006103
+1591691000006116	lipid disorder monitoring default	EMISNQLI19		1591691000006100
+1591721000006114	lipid disorder monitoring 3rd letter	EMISNQLI22		1591721000006105
+533641000000111	lipid disorder monitoring declined	9Oc1	9Oc1.00	301111000000107
+2533125014	atherogenic lipoprotein phenotype	4L03	4L03.00	413596002
+475418015	hypercholesterolaemia	C329	C329.00	13644009
+259212014	serum lipids high	44O4	44O4.00	166816003
+12483971000006119	cholesterol reduction programme - declined	^ESCT1248397		310881009
+7966571000006116	mixed hyperlipidaemia associated with type ii diabetes mellitus	^ESCTMI796657		701000119103
+794161000006118	familial hyperbetalipoproteinaemia	C320-2	C320.12	398036000

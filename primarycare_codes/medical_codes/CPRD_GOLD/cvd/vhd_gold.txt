@@ -1,0 +1,259 @@
+medcode	readterm	readcode	mv	av	tv	pv	other	multiple	vhd
+3169	Heart valve and adjacent structures operations NOS	791z.00					1		1
+36768	Rheumatic pulmonary valve disease NOS	G141z00				1			1
+19957	Pulmonary valve disorders NOS	G543z00				1			1
+19019	Aortic valve disorders NOS	G541z00		1					1
+1267	Mitral valve diseases	G11..00							1
+15133	Replacement of aortic valve NEC	7911300		1					1
+49272	[X]Other aortic valve disorders	Gyu5600		1					1
+89936	Xenograft replacement of pulmonary valve	7913100				1			1
+61108	Plastic repair of unspecified valve of heart	7914.00					1		1
+4900	Other open operations on valve of heart	7918.00					1		1
+111997	Syphilitic endocarditis of pulmonary valve	A932400				1			1
+40582	Disorders of both aortic and tricuspid valves	G544000		1	1			1	1
+92226	Tricuspid valvectomy	791D000			1				1
+19390	Prosthetic replacement of mitral valve	7910200							1
+12312	Pulmonary valve disorders	G543.00				1			1
+72761	Allograft replacement of valve of heart NEC	7914000					1		1
+4548	Aortic valve disorders	G541.00		1					1
+85856	Mitral valve repair NEC	7910411							1
+48333	Heart valve or adjacent structures operations OS	791y.00					1		1
+53756	[X]Other mitral valve diseases	Gyu1000							1
+60957	Other specified plastic repair of mitral valve	7910y00							1
+43855	Tricuspid valve disorders NOS	G542z00			1				1
+105159	Revision of plastic repair of valve of heart NOS	7915z00					1		1
+40949	Mitral valve insufficiency	G540.12							1
+9450	Mitral valve regurgitation	G540.14							1
+1294	Mitral valve prolapse	G540.15							1
+44690	Other specified other open operation on valve of heart	7918y00					1		1
+49338	Implant of heart valve prosthesis + complication, no blame	TB01200					1		1
+97087	Therapeutic transluminal operation on heart valve NOS	7919z00					1		1
+30173	Valves of heart and adjacent structures operations	791..00					1		1
+30610	Aortic valve sclerosis	G541600		1					1
+92070	Aortic valve repair NEC	7911411		1					1
+16545	Rheumatic mitral valve disease	G11..11							1
+40264	[V]Presence of prosthetic heart valve	ZV45H00					1		1
+61436	Syphilitic endocarditis of tricuspid valve	A932300			1				1
+19699	Disorders of both mitral and tricuspid valves	G544100			1			1	1
+102236	Other specified closed incision of valve of heart	7917y00					1		1
+61427	Revision of plastic repair of tricuspid valve	7915200			1				1
+94521	[X]Other rheumatic aortic valve diseases	Gyu1100		1					1
+62633	Mechanical complication of heart valve prosthesis	SP00200					1		1
+49592	Carpentier prosthetic replacement of mitral valve	7910213							1
+57318	Bjork-Shiley prosthetic replacement of mitral valve	7910212							1
+30567	Bjork-Shiley prosthetic replacement of mitral valve	7910211							1
+73904	Edwards prosthetic replacement of mitral valve	7910214							1
+939	Endocarditis, valve unspecified, NOS	G54zz00					1		1
+44167	Rheumatic pulmonary valve disease	G141.00				1			1
+39977	Therapeutic transluminal operations on valve of heart	7919.00					1		1
+57338	Multiple valve disease, unspecified	G544X00						1	1
+94345	Plastic repair of pulmonary valve NOS	7913z00				1			1
+40239	Multiple valve diseases	G544.00						1	1
+41169	Revision of plastic repair of valve of heart	7915.00					1		1
+1756	Replacement of aortic valve	7911.12		1					1
+2817	Tricuspid valve disorders, non-rheumatic	G542.00			1				1
+2977	Mitral valve incompetence	G540.00							1
+68807	Syphilitic valve disease	A932.11					1		1
+16373	Tricuspid valve disease NEC	G140.00			1				1
+40086	Other specified plastic repair of aortic valve	7911y00		1					1
+10078	Diseases of mitral and aortic valves	G13..00		1				1	1
+29158	Mitral and aortic valve disease NOS	G13z.00		1				1	1
+92297	Syphilitic endocarditis of aortic valve	A932200		1					1
+26153	Annuloplasty of tricuspid valve	7918100			1				1
+39916	Mitral valve leaf prolapse	G540300							1
+52271	Nonrheumatic tricuspid valve stenosis with insufficiency	G542200			1				1
+89579	Insufficiency of unspecified heart valve	G54z014					1		1
+18475	Combined disorders of mitral, aortic and tricuspid valves	G544200		1	1			1	1
+7276	Prosthetic replacement of valve of heart NEC	7914200					1		1
+39972	Revision of plastic repair of pulmonary valve	7915300				1			1
+32930	Replacement of tricuspid valve NEC	7912300			1				1
+18100	Rheumatic aortic valve disease	G12..00		1					1
+51472	Endocarditis, valve unspecified, OS	G54z300					1		1
+98560	[X]Other nonrheumatic mitral valve disorders	Gyu5500							1
+30443	Mitral valve disease NOS	G11z.00							1
+46836	Plastic repair of pulmonary valve	7913.00				1			1
+100910	[X]Multiple valve disorders/diseases CE	Gyu5D00					1		1
+85957	Percutaneous transluminal pulmonary valve replacement	7919600				1			1
+9396	Annuloplasty of mitral valve	7918000							1
+98173	Transluminal aortic valve implantation	7911600		1					1
+34932	Pulmonary valve stenosis with insufficiency	G543400				1			1
+98538	Nonrheumatic tricuspid valve disorder, unspecified	G542X00			1				1
+43923	Allograft replacement of pulmonary valve	7913000				1			1
+10964	Aortic valve stenosis with insufficiency	G541400		1					1
+41168	Plastic repair of mitral valve NOS	7910z00							1
+35812	Prosthetic replacement of aortic valve	7911200		1					1
+31979	Endocarditis, valve unspecified	G54z.00					1		1
+97908	Therapeutic transluminal operation on heart valve OS	7919y00					1		1
+55918	Syphilitic endocarditis of mitral valve	A932100							1
+39763	Xenograft replacement of aortic valve	7911100		1					1
+24557	Mitral valve disorders NOS	G540z00							1
+66201	Prosthetic replacement of tricuspid valve	7912200			1				1
+110488	[X]Tricuspid valve disorders/diseases CE	Gyu5B00			1				1
+39671	Incompetence of unspecified heart valve	G54z000					1		1
+99077	[X]Other tricuspid valve diseases	Gyu1200			1				1
+36734	Starr prosthetic replacement of valve of heart	7914212					1		1
+46135	Edwards prosthetic replacement of valve of heart	7914211					1		1
+17257	Revision of plastic repair of mitral valve	7915000							1
+15910	Plastic repair of unspecified valve of heart NOS	7914z00					1		1
+22003	Regurgitation of unspecified heart valve	G54z013					1		1
+51658	Xenograft replacement of mitral valve	7910100							1
+7894	Plastic repair of mitral valve	7910.00							1
+26168	Plastic repair of tricuspid valve	7912.00			1				1
+98783	Xenograft replacement of tricuspid valve	7912100			1				1
+50809	Rheumatic aortic valve disease NOS	G12z.00		1					1
+30705	Annuloplasty of valve of heart NEC	7918200					1		1
+95799	Pulmonary valve repair NEC	7913411				1			1
+38894	Replacement of pulmonary valve	7913.12				1			1
+111996	Syphilitic endocarditis of unspecified valve	A932000					1		1
+28871	[V]Has artificial heart valve	ZV43300					1		1
+63499	Other specified revision of plastic repair of valve of heart	7915y00					1		1
+45256	Revision of plastic repair of aortic valve	7915100		1					1
+63601	Prosthetic replacement of pulmonary valve	7913200				1			1
+53959	[X]Other pulmonary valve disorders	Gyu5800				1			1
+5643	Replacement of valve of heart NEC	7914300					1		1
+10111	Stenosis of unspecified heart valve	G54z100					1		1
+110531	[X]Endocarditis,valve unspecified,in diseases CE	Gyu5E00					1		1
+72417	Plastic repair of tricuspid valve NOS	7912z00			1				1
+49379	Other open operation on valve of heart NOS	7918z00					1		1
+93158	Allograft replacement of mitral valve	7910000							1
+98580	Allograft replacement of tricuspid valve	7912000			1				1
+70698	Multiple mitral and aortic valve involvement	G13y.00		1				1	1
+3911	Replacement of mitral valve	7910.12							1
+47014	Replacement of tricuspid valve	7912.11			1				1
+29887	Replacement of unspecified valve of heart	7914.11					1		1
+28662	Nonrheumatic mitral valve stenosis	G113.00							1
+91802	Percutaneous transluminal pulmonary valve perfor dilation	7919500				1			1
+71004	[X]Aortic valve disorders in diseases classified elsewhere	Gyu5A00		1					1
+111998	Syphilitic endocarditis of heart valve NOS	A932z00					1		1
+49413	Open incision of heart valve	7916.00					1		1
+9498	Plastic repair of aortic valve	7911.00		1					1
+53804	Plastic repair of aortic valve NOS	7911z00		1					1
+96199	Tricuspid valve repair NEC	7912511			1				1
+60533	Replacement of pulmonary valve NEC	7913300				1			1
+72613	Rheumatic tricuspid valve disease NOS	G140z00			1				1
+105655	Repair of valve of heart NEC	7914411					1		1
+28850	Heart valve disorders - non rheumatic	G54..11					1		1
+18780	[V]Heart valve transplanted	ZV42200					1		1
+57633	Ruptured mitral valve cusp	G114.00							1
+72523	Other specified plastic repair of tricuspid valve	7912y00			1				1
+89459	Pulmonary valvectomy	791D100				1			1
+114144	[X]Multiple valve disease, unspecified	Gyu1500						1	1
+3731	Replacement of mitral valve NEC	7910300							1
+69189	Xenograft replacement of valve of heart NEC	7914100					1		1
+95817	Other specified plastic repair of unspecified valve of heart	7914y00					1		1
+63493	Other specified open specified incision of valve of heart	7916y00					1		1
+73967	Other specified plastic repair of pulmonary valve	7913y00				1			1
+100482	Transapical aortic valve implantation	7911500		1					1
+43778	Allograft replacement of aortic valve	7911000		1					1
+31839	Mitral valve prolapse	G540200							1
+73754	[X]Presence of other heart valve replacement	ZVu6e00					1		1
+109622	Other specified excision of valve of heart	791Dy00					1		1
+49355	Mitral stenosis and aortic insufficiency	G131.00		1				1	1
+63960	Rheumatic aortic stenosis with insufficiency	G122.00		1					1
+999	Aortic stenosis, non-rheumatic	G541100		1					1
+9591	Aortic stenosis	G541500		1					1
+8274	Mitral and aortic stenosis	G130.00		1				1	1
+17596	Mitral stenosis and aortic regurgitation	G131.14		1				1	1
+2343	Aortic stenosis alone, cause unspecified	G541300		1					1
+33907	Mitral regurgitation and aortic stenosis	G132.13		1				1	1
+31759	Mitral incompetence and aortic stenosis	G132.12		1				1	1
+33262	Mitral insufficiency and aortic stenosis	G132.00		1				1	1
+9391	Rheumatic aortic stenosis	G120.00		1					1
+61250	Mitral stenosis and aortic incompetence	G131.13		1				1	1
+16539	Subaortic stenosis	P6y0.00		1					1
+20940	Repair of subaortic stenosis	791A200		1					1
+14998	Aortic incompetence, non-rheumatic	G541000		1					1
+1007	Aortic incompetence alone, cause unspecified	G541200		1					1
+31727	Mitral and aortic incompetence	G133.00		1				1	1
+43347	Aortic incompetence - rheumatic	G121.11		1					1
+58810	Aortic insufficiency alone, cause unspecified	G541211		1					1
+47887	Aortic insufficiency, non-rheumatic	G541011		1					1
+94872	Mitral and aortic insufficiency	G133.11		1				1	1
+32211	Rheumatic aortic insufficiency	G121.00		1					1
+1005	Aortic regurgitation alone, cause unspecified	G541212		1					1
+10187	Aortic regurgitation, non-rheumatic	G541012		1					1
+7963	Aortic regurgitation - rheumatic	G121.12		1					1
+11878	Mitral and aortic regurgitation	G133.12		1				1	1
+32435	Rheumatic mitral stenosis	G110.11							1
+44488	Mitral stenosis with insufficiency	G112.00							1
+44328	Mitral stenosis with regurgitation	G112.13							1
+50983	Mitral stenosis with incompetence	G112.12							1
+1885	Mitral stenosis	G110.00							1
+34240	Mitral incompetence, cause unspecified	G540100							1
+5058	Mitral incompetence, non-rheumatic	G540000							1
+21807	Mitral incompetence - rheumatic	G111.11							1
+51879	Rheumatic mitral insufficiency	G111.00							1
+561	Mitral regurgitation	G540.16							1
+22837	Mitral regurgitation - rheumatic	G111.12							1
+15496	Pulmonary regurgitation, non-rheumatic	G543012				1			1
+6077	Pulmonary regurgitation, cause unspecified	G543215				1			1
+72221	Pulmonary insufficiency following surgery	H585100				1			1
+15640	Pulmonary insufficiency, non-rheumatic	G543011				1			1
+105626	Rheumatic pulmonary stenosis and insufficiency	G141200				1			1
+54088	Rheumatic pulmonary insufficiency	G141100				1			1
+59188	Chronic pulmonary insufficiency following surgery	Hy02.00				1			1
+65340	Acute pulmonary insufficiency following thoracic surgery	Hy00.00				1			1
+38299	Pulmonary insufficiency, cause unspecified	G543213				1			1
+93880	Pulmonary insufficiency following shock	H585000				1			1
+65000	Trauma and post-operative pulmonary insufficiency	H585.00				1			1
+57425	Acute pulmonary insufficiency following nonthoracic surgery	Hy01.00				1			1
+23608	Pulmonary incompetence, non-rheumatic	G543000				1			1
+46736	Pulmonary incompetence, cause unspecified	G543200				1			1
+61878	Pulmonary stenosis, cause unspecified	G543311				1			1
+2669	Pulmonary stenosis, cause unspecified	G543300				1			1
+62207	Rheumatic pulmonary stenosis	G141000				1			1
+14723	Pulmonary stenosis, non-rheumatic	G543100				1			1
+62186	Rheumatic tricuspid stenosis and incompetence	G14021Y			1				1
+115771	Tricuspid stenosis and incompetence, cause unspecified	G140511			1				1
+42239	Tricuspid incompetence - rheumatic	G140112			1				1
+34869	Tricuspid incompetence, cause unspecified	G140412			1				1
+1779	Tricuspid incompetence, non-rheumatic	G542000			1				1
+97738	Tricuspid insufficiency, non-rheumatic	G542011			1				1
+93114	Rheumatic tricuspid stenosis and insufficiency	G140200			1				1
+42128	Tricuspid insufficiency, cause unspecified	G140400			1				1
+72306	Tricuspid stenosis and insufficiency, cause unspecified	G140500			1				1
+60266	Rheumatic tricuspid insufficiency	G140100			1				1
+49551	Tricuspid stenosis and regurgitation, cause unspecified	G140514			1				1
+93113	Rheumatic tricuspid stenosis and regurgitation	G14021X			1				1
+21980	Tricuspid regurgitation - rheumatic	G140111			1				1
+35372	Tricuspid regurgitation, non-rheumatic	G542012			1				1
+9286	Tricuspid regurgitation, cause unspecified	G140413			1				1
+34958	Aortic valvuloplasty	7911.11		1					1
+53164	Aortic valvuloplasty NEC	7911400		1					1
+67659	Closed incision of heart valve	7917.00					1		1
+29481	Closed heart valvotomy	7917.11					1		1
+19246	Closed mitral valvotomy	7917000							1
+99614	Closed tricuspid valvotomy	7917200			1				1
+38607	Closed pulmonary valvotomy	7917300				1			1
+51940	Brock pulmonary valvulotomy	7917311				1			1
+20221	Closed incision of valve of heart NOS	7917z00					1		1
+53413	De Vega tricuspid annuloplasty	7918111			1				1
+62095	Excision of vegetations of valve of heart	7918300					1		1
+96316	Closure of tricuspid valve	7918400			1				1
+95784	Closure of pulmonary valve	7918500				1			1
+95532	Aortoventriculoplasty with pulmonary valve autograft	791C500				1			1
+93968	Excision of valve of heart	791D.00					1		1
+49185	Aortic valve calcification	G541700		1					1
+63562	[X] Embolism from prosthetic heart valve	SyuK611					1		1
+16544	Heart valvotomy NEC	7916z11					1		1
+63710	Infect and inflammatory reaction due to cardiac valve pros	SP00400					1		1
+36638	Mitral valvuloplasty	7910.11							1
+22582	Mitral valvuloplasty NEC	7910400							1
+17141	Open aortic valvotomy	7916100		1					1
+16636	Open heart valvotomy	7916.11					1		1
+62361	Open incision of valve of heart NOS	7916z00					1		1
+17812	Open mitral valvotomy	7916000							1
+29732	Open pulmonary valvotomy	7916300				1			1
+67931	Open tricuspid valvotomy	7916200			1				1
+39828	Percutaneous transluminal aortic valvotomy	7919100		1					1
+53696	Percutaneous transluminal mitral valvotomy	7919000							1
+36795	Percutaneous transluminal pulmonary valvotomy	7919300				1			1
+107653	Percutaneous transluminal tricuspid valvotomy	7919200			1				1
+39996	Percutaneous transluminal valvotomy	7919.11					1		1
+60265	Percutaneous transluminal valvuloplasty	7919400					1		1
+30014	Pulmonary valvuloplasty	7913.11				1			1
+50649	Pulmonary valvuloplasty NEC	7913400				1			1
+93924	Tricuspid valvuloplasty	7912.12			1				1
+99557	Tricuspid valvuloplasty NEC	7912500			1				1
+5743	Valvular heart disease	G54z500					1		1
+50398	Valvuloplasty of heart NEC	7914400					1		1

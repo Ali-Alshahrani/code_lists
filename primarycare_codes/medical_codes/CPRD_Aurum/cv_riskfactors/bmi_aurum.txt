@@ -1,0 +1,59 @@
+medcodeid	term
+100716012	Body mass index
+1750501000006110	Checking weight monitoring
+1780175010	Baseline weight
+1808061000006110	Body mass index less than 18.5
+1808071000006110	Body mass index 18.5-24.9
+1809441000006110	Weight change
+1910911000006110	Reported weight
+1910931000006110	Reported height
+2159952010	Underweight
+2160062010	Body mass index 40+ - severely obese
+217781000000116	O/E - weight greater than 20% over ideal
+2196071000000110	Baseline body mass index
+2316211000000110	Unintentional weight gain
+2350241000000110	Obese class I (body mass index 30.0 - 34.9)
+2350261000000110	Obese class II (body mass index 35.0 - 39.9)
+2474325012	Body mass index 20-24 - normal
+252191014	Weight increasing
+252192019	Weight decreasing
+2536041016	Weight static
+253669010	Standing height
+253672015	O/E -height within 10% average
+253673013	O/E-height 10-20% over average
+253676017	O/E - height NOS
+253677014	Body weight
+253679012	O/E -weight 10-20% below ideal
+253680010	O/E - weight within 10% ideal
+253687013	O/E - Underweight
+253688015	O/E - weight NOS
+253844013	Normal body mass index
+253845014	Increased body mass index
+253846010	Decreased body mass index
+253847018	Body mass index index 25-29 - overweight
+253848011	Body mass index 30+ - obesity
+271181000006113	O/E-height > 20% below average
+272151000006114	O/E -height > 20% over average
+272551000006116	O/E - weight > 20% below ideal
+284561000006119	O/E - height 10-20% < average
+317244017	Failure to gain weight
+356960015	Overweight
+402435016	O/E - weight 10-20% over ideal
+406169014	Weight steady
+411922013	O/E - overweight
+451201014	Weight monitoring
+453856012	Body mass index less than 20
+567001000000116	Counterweight programme
+59281000006111	Weight screening
+857681000006117	Weight reduction clinic
+908721000006111	[RFC] Overweight/ underweight
+909921000006118	[RFC] Weight problem
+910251000006110	[RFC] Overweight
+910261000006112	[RFC] Underweight
+923831000006115	O/E - height
+923851000006110	O/E - weight
+923861000006112	Body mass index
+982581000006118	Weight (Over)
+982591000006115	Weight (Under)
+982601000006111	Height (Over)
+982611000006114	Height (Under)

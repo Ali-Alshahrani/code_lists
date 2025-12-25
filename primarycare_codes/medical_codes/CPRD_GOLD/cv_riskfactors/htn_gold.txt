@@ -1,0 +1,139 @@
+medcode	readcode	desc
+2666	14A2.00	H/O: hypertension
+19342	212K.00	Hypertension resolved
+32976	6146200	Hypertension induced by oral contraceptive pill
+109611	661M600	Hypertension self-management plan agreed
+110631	661N600	Hypertension self-management plan review
+4444	662..12	Hypertension monitoring
+16565	6627.00	Good hypertension control
+27511	6628.00	Poor hypertension control
+30776	6629.00	Hypertension:follow-up default
+21826	662F.00	Hypertension treatm. started
+13188	662G.00	Hypertensive treatm.changed
+12948	662H.00	Hypertension treatm.stopped
+3425	662O.00	On treatment for hypertension
+13186	662P.00	Hypertension monitoring
+102406	662P000	Hypertension 9 month review
+109771	662P100	Telehealth hypertension monitoring
+18590	662b.00	Moderate hypertension control
+18482	662c.00	Hypertension six month review
+19070	662d.00	Hypertension annual review
+95359	662r.00	Trial withdrawal of antihypertensive therapy
+98230	67H8.00	Lifestyle advice regarding hypertension
+85944	7Q01.00	High cost hypertension drugs
+101649	7Q01y00	Other specified high cost hypertension drugs
+18057	8B26.00	Antihypertensive therapy
+11056	8BL0.00	Patient on maximal tolerated antihypertensive therapy
+12680	8CR4.00	Hypertension clinical management plan
+22333	8I3N.00	Hypertension treatment refused
+106279	8IA5.00	Trial withdrawal of antihypertensive therapy declined
+5215	9OI..00	Hypertension monitoring admin.
+45149	9OI1.00	Attends hypertension monitor.
+43220	9OI2.00	Refuses hypertension monitor.
+36305	9OIA.00	Hypertension monitor.chck done
+24127	9OIA.11	Hypertension monitored
+109942	9OIB.00	Borderline hypertension monitoring first letter
+37086	F404200	Blind hypertensive eye
+6702	F421300	Hypertensive retinopathy
+204	G2...00	Hypertensive disease
+8732	G2...11	BP - hypertensive disease
+799	G20..00	Essential hypertension
+351	G20..11	High blood pressure
+107704	G20..12	Primary hypertension
+15377	G200.00	Malignant essential hypertension
+1894	G201.00	Benign essential hypertension
+4372	G202.00	Systolic hypertension
+83473	G203.00	Diastolic hypertension
+10818	G20z.00	Essential hypertension NOS
+3712	G20z.11	Hypertension NOS
+16292	G21..00	Hypertensive heart disease
+50157	G210.00	Malignant hypertensive heart disease
+95334	G210000	Malignant hypertensive heart disease without CCF
+72668	G210100	Malignant hypertensive heart disease with CCF
+103046	G210z00	Malignant hypertensive heart disease NOS
+52427	G211.00	Benign hypertensive heart disease
+61660	G211000	Benign hypertensive heart disease without CCF
+52127	G211100	Benign hypertensive heart disease with CCF
+105938	G211z00	Benign hypertensive heart disease NOS
+31464	G21z.00	Hypertensive heart disease NOS
+61166	G21z000	Hypertensive heart disease NOS without CCF
+8857	G21z011	Cardiomegaly - hypertensive
+62718	G21z100	Hypertensive heart disease NOS with CCF
+16173	G21zz00	Hypertensive heart disease NOS
+4668	G22..00	Hypertensive renal disease
+39649	G220.00	Malignant hypertensive renal disease
+43935	G221.00	Benign hypertensive renal disease
+32423	G222.00	Hypertensive renal disease with renal failure
+15106	G22z.00	Hypertensive renal disease NOS
+29310	G22z.11	Renal hypertension
+63466	G23..00	Hypertensive heart and renal disease
+67232	G230.00	Malignant hypertensive heart and renal disease
+63000	G231.00	Benign hypertensive heart and renal disease
+21837	G232.00	Hypertensive heart&renal dis wth (congestive) heart failure
+28684	G233.00	Hypertensive heart and renal disease with renal failure
+57987	G234.00	Hyperten heart&renal dis+both(congestv)heart and renal fail
+68659	G23z.00	Hypertensive heart and renal disease NOS
+7329	G24..00	Secondary hypertension
+31755	G240.00	Secondary malignant hypertension
+59383	G240000	Secondary malignant renovascular hypertension
+73293	G240z00	Secondary malignant hypertension NOS
+57288	G241.00	Secondary benign hypertension
+25371	G241000	Secondary benign renovascular hypertension
+51635	G241z00	Secondary benign hypertension NOS
+34744	G244.00	Hypertension secondary to endocrine disorders
+16059	G24z.00	Secondary hypertension NOS
+31387	G24z000	Secondary renovascular hypertension NOS
+31341	G24z100	Hypertension secondary to drug
+42229	G24zz00	Secondary hypertension NOS
+105371	G25..00	Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+105316	G25..11	Stage 1 hypertension
+105989	G26..00	Severe hypertension (Nat Inst for Health Clinical Ex 2011)
+105487	G26..11	Severe hypertension
+105480	G27..00	Hypertension resistant to drug therapy
+105274	G28..00	Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+18765	G2y..00	Other specified hypertensive disease
+7057	G2z..00	Hypertensive disease NOS
+3979	G672.00	Hypertensive encephalopathy
+31816	G672.11	Hypertensive crisis
+69753	Gyu2.00	[X]Hypertensive diseases
+102458	Gyu2000	[X]Other secondary hypertension
+97533	Gyu2100	[X]Hypertension secondary to other renal disorders
+9170	L12..00	Hypertension complicating pregnancy/childbirth/puerperium
+37344	L120000	Benign essential hypertension in preg/childb/puerp unspec
+44912	L120100	Benign essential hypertension in preg/childb/puerp - deliv
+61408	L120300	Benign essential hypertension in preg/childb/puerp-not deliv
+34136	L120z00	Benign essential hypertension in preg/childb/puerp NOS
+64127	L121000	Renal hypertension in pregnancy/childbirth/puerp unspecified
+71717	L121100	Renal hypertension in pregnancy/childbirth/puerp - delivered
+66567	L122.00	Other pre-existing hypertension in preg/childbirth/puerp
+73586	L122000	Other pre-existing hypertension in preg/childb/puerp unspec
+72030	L122100	Other pre-existing hypertension in preg/childb/puerp - deliv
+96743	L122300	Other pre-exist hypertension in preg/childb/puerp-not deliv
+62432	L122z00	Other pre-existing hypertension in preg/childb/puerp NOS
+20439	L123.00	Transient hypertension of pregnancy
+55338	L123000	Transient hypertension of pregnancy unspecified
+54942	L123100	Transient hypertension of pregnancy - delivered
+67035	L123200	Transient hypertension of pregnancy - deliv with p/n comp
+71730	L123300	Transient hypertension of pregnancy - not delivered
+70342	L123400	Transient hypertension of pregnancy + postnatal complication
+35646	L123z00	Transient hypertension of pregnancy NOS
+43664	L127.00	Pre-eclampsia or eclampsia with pre-existing hypertension
+47741	L127000	Pre-eclampsia or eclampsia with hypertension unspecified
+42947	L127100	Pre-eclampsia or eclampsia with hypertension - delivered
+53160	L127300	Pre-eclampsia or eclampsia with hypertension - not delivered
+93055	L127z00	Pre-eclampsia or eclampsia + pre-existing hypertension NOS
+44549	L128.00	Pre-exist hypertension compl preg childbirth and puerperium
+60655	L128000	Pre-exist hyperten heart dis compl preg childbth+puerperium
+52621	L128200	Pre-exist 2ndry hypertens comp preg childbth and puerperium
+34173	L12B.00	Proteinuric hypertension of pregnancy
+40723	L12z.00	Unspecified hypertension in pregnancy/childbirth/puerperium
+41949	L12z000	Unspecified hypertension in preg/childb/puerp unspecified
+44068	L12z100	Unspecified hypertension in preg/childb/puerp - delivered
+26631	Q000.00	Fetus or neonate affected by maternal hypertensive disease
+30795	Q492.00	Neonatal hypertension
+63260	SLC6z00	Hypertensive agent poisoning NOS
+21660	TJC7.00	Adverse reaction to other antihypertensives
+20497	TJC7z00	Adverse reaction to antihypertensives NOS
+63164	U60C500	[X]Oth antihyperten drug caus advers eff in therap use, NEC
+30770	U60C511	[X] Adverse reaction to other antihypertensives
+44350	U60C51A	[X] Adverse reaction to antihypertensives NOS

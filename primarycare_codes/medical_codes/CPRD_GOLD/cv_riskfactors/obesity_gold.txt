@@ -1,0 +1,61 @@
+medcode	readcode	readterm
+59780	222A.00	O/E - obese
+22556	22K7.00	Body mass index 40+ - severely obese
+7984	22A5.11	O/E - obese
+70898	C38z.00	Obesity and other hyperalimentation NOS
+17897	ZV77800	[V]Screening for obesity
+21744	9OK..11	Obesity clinic administration
+16196	1444.00	H/O: obesity
+40153	66CZ.00	Obesity monitoring NOS
+55585	9OK6.00	Obesity monitoring 3rd letter
+52036	9OK3.00	Obesity monitoring default
+73304	9OK9.00	Obesity monitoring deleted
+104129	C380600	Adult-onset obesity
+49250	C380100	Drug-induced obesity
+48330	L161.12	Maternal obesity syndrome
+105638	9hN1.00	Excepted from obesity quality indicators: informed dissent
+38799	C380000	Obesity due to excess calories
+103574	C38y011	Obesity hypoventilation syndrome
+102647	9hN0.00	Excepted from obesity quality indicators: patient unsuitable
+17477	ZV65319	[V]Dietary counselling in obesity
+102514	66CN.00	Risk health associated overweight and obesity, at high risk
+52034	9OK1.00	Attends obesity monitoring
+70950	9OK7.00	Obesity monitoring verbal inv.
+32843	9OK..00	Obesity monitoring admin.
+11461	66C..00	Obesity monitoring
+49409	9OK4.00	Obesity monitoring 1st letter
+104421	C380700	Lifelong obesity
+17470	6878.00	Obesity screen
+17444	66CE.00	Reason for obesity therapy - occupational
+66406	C38..00	Obesity and other hyperalimentation
+22695	C380400	Central obesity
+67516	9OK2.00	Refuses obesity monitoring
+69757	Cyu7000	[X]Other obesity
+104724	66CL.00	Risk health associa overweight obesity, at no increased risk
+106010	66CP.00	Risk health associ overweight and obesity, at very high risk
+102150	66CM.00	Risk health associ overweight and obesity, at increased risk
+64712	66C5.00	Treatment of obesity changed
+29538	66C2.00	Follow-up obesity assessment
+38632	66C6.00	Treatment of obesity started
+19556	1266.00	FH: Obesity
+25968	C380500	Generalised obesity
+104887	66CS.00	Inter risk hlth overwght obesity adv diet phys act cons drug
+52782	Cyu7.00	[X]Obesity and other hyperalimentation
+67517	9OK8.00	Obesity monitor phone invite
+3176	66C4.00	Has seen dietician - obesity
+10728	ZC2CM00	Dietary advice for obesity
+103212	9hN..00	Exception reporting: obesity quality indicators
+52703	212Q.00	Obesity resolved
+13278	22K5.00	Body mass index 30+ - obesity
+38059	C380200	Extreme obesity with alveolar hypoventilation
+52735	9OKZ.00	Obesity monitoring admin.NOS
+47439	9OKA.00	Obesity monitoring check done
+11401	C38z000	Simple obesity NOS
+27570	66C7.00	Treatment of obesity stopped
+38658	66C1.00	Initial obesity assessment
+55586	9OK5.00	Obesity monitoring 2nd letter
+430	C380.00	Obesity
+106771	C380800	Childhood obesity
+8854	C380300	Morbid obesity
+	*obese*	
+	*obesi*	

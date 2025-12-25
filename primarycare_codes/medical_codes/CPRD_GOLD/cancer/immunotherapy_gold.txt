@@ -1,0 +1,6 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+33797	961	10	0	0	7L16200	Intravenous immunotherapy	February 2009
+94988	18	1	187	0	5A86.00	Immunotherapy	February 2009
+36378	220	0	0	0	7L19400	Subcutaneous immunotherapy	February 2009
+47076	161	0	0	0	7L18300	Intramuscular immunotherapy	February 2009
+21277	275	43	1	0	8C3..00	Immunological therapy	February 2009

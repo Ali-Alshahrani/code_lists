@@ -1,0 +1,56 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+91102	48	0	0	0	7M0cz00	Radiotherapy procedures NOS	February 2009
+30425	42	1	0	0	ZV6B000	[V]Follow-up exam after radiotherapy for other conditions	February 2009
+114560	1	0	0	0	ZVu0C00	[X]Follow-up examinat after radiother for other conditions	December 2019
+59684	353	0	0	0	7M0c.00	Radiotherapy procedures	February 2009
+10950	1670	4	1	0	ZL93100	Seen by radiotherapist	February 2009
+8957	2647	3173	0	0	8H4G.00	Refer to radiotherapist	February 2009
+5527	2124	15	0	0	ZV58000	[V]Radiotherapy session	February 2009
+16662	69	3	0	0	ZV66100	[V]Convalescence after radiotherapy	February 2009
+45099	19	0	93	0	515Z.00	Radiotherapy progress NOS	February 2009
+22490	222	0	0	0	8BAL.00	Combined pre-operative chemotherapy and radiotherapy	February 2009
+22472	128	7	1081	0	59Z..00	External radiotherapy NOS	February 2009
+52006	287	0	0	0	ZLE3100	Discharge from radiotherapy service	February 2009
+29679	122	15	407	0	5146.00	Radiotherapy - post-op.control	February 2009
+38466	843	4	2527	0	5151.00	Radiotherapy started	February 2009
+6153	3015	26	3495	0	5A16.12	Iodine 131 radiotherapy	February 2009
+28061	221	2	176	0	5A16.11	I131 radiotherapy	February 2009
+30547	214	3	0	0	ZV67700	[V]Follow-up exam after radiotherapy for malignant neoplasm	February 2009
+107418	0	0	2	0	5A17.00	Combined internal radiotherapy	December 2013
+320	107640	1487	2	0	7M37100	Radiotherapy NEC	February 2009
+64143	1	0	8	0	597Z.00	Combined radiotherapy NOS	February 2009
+29198	386	364	0	0	ZL54111	Refer to radiotherapist	February 2009
+28809	397	0	0	0	8BAM.00	Combined post-operative chemotherapy and radiotherapy	February 2009
+18904	403	6	0	0	ZV67100	[V]Radiotherapy follow-up	February 2009
+68423	334	0	0	0	7L1Z.00	Radiotherapy delivery	February 2009
+16935	393	5	646	0	515..00	Progress of radiotherapy	February 2009
+31804	195	1	0	0	TB12100	Radiotherapy procedure with complication, without blame	February 2009
+10346	11790	31	0	0	9N0D.00	Seen in radiotherapy clinic	February 2009
+34535	122	141	0	0	8HVV.00	Private referral to radiotherapist	February 2009
+95009	40	0	0	0	7L1Z100	Delivery of a fraction of intracavitary radiotherapy	February 2009
+30942	5713	162	1	0	9N1yC00	Seen in radiotherapy clinic	February 2009
+35597	31	0	29	0	5147.00	Radiotherapy for analgesia	February 2009
+45087	347	96	0	0	8H3L.00	Non-urgent radiotherapy admisn	February 2009
+33965	415	53	0	0	ZL54100	Referral to radiotherapist	February 2009
+95126	22	0	0	0	7L1Zy00	Other specified radiotherapy delivery	February 2009
+54919	14	0	204	0	5A8Z.00	Other radiotherapy NOS	February 2009
+114482	1	0	0	0	TB12z00	Radiological proced/radiotherapy+complication, no blame, NOS	December 2019
+10932	2318	523	0	0	8H67.00	Referred for radiotherapy	February 2009
+91891	104	0	0	0	7L1Zz00	Radiotherapy delivery NOS	February 2009
+10776	146	10	162	0	5A...11	Radiotherapy - internal	February 2009
+32478	174	4	0	0	ZL13100	Under care of radiotherapist	February 2009
+29285	381	18	718	0	5149.00	Radiotherapy-tumour palliation	February 2009
+43261	19	0	46	0	5144.00	Radiotherapy - pre-op. control	February 2009
+25490	236	0	0	0	ZLD2400	Discharge by radiotherapist	February 2009
+9706	2844	27	7462	0	5154.00	Radiotherapy completed	February 2009
+86329	323	0	0	0	7L1Z400	Oral delivery of radiotherapy for thyroid ablation	February 2009
+91694	127	0	0	0	7L1Z300	Delivery of a fraction of external beam radiotherapy NEC	February 2009
+29301	91	5	112	0	514Z.00	Radiotherapy purpose - NOS	February 2009
+103523	42	0	0	0	TB12.00	Radiological procedures/radiotherapy + complication,no blame	January 2012
+44831	35	1	154	0	5153.00	Radiotherapy stopped	February 2009
+108138	4773	1	0	0	7L2..00	Radiotherapy	June 2014
+18715	234	4	388	0	5AB..00	Stereotactic radiotherapy	February 2009
+1482	3669	97	5561	0	59...00	External radiotherapy	February 2009
+46824	193	36	0	0	8H2G.00	Admit radiotherapy emergency	February 2009
+1009	1049	97	0	0	8HB6.00	Radiotherapy follow-up	February 2009
+28712	327	0	0	0	8J01.00	Iodine seed radiotherapy	February 2009

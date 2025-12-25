@@ -1,0 +1,83 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	cmp_type
+34556015	Secondary dilated cardiomyopathy	G55y-1	G55y.11	20529002	dcm
+59588016	Familial cardiomyopathy	G5542	G554200	35728003	other
+75410014	Hypertrophic obstructive cardiomyopathy	G551	G551.00	45227007	hcm
+138527014	Alcoholic cardiomyopathy	G555	G555.00	83521008	other
+142397010	Cardiomyopathy	G55	G55..00	85898001	other
+150511013	Constrictive cardiomyopathy	G5541	G554100	415295002	other
+299796018	Ischaemic cardiomyopathy	G343	G343.00	194849004	ischemic
+300032019	Other primary cardiomyopathies	G554	G554.00	85898001	other
+300038015	Hypertrophic non-obstructive cardiomyopathy	G5543	G554300	195020003	hcm
+300040013	Primary dilated cardiomyopathy	G5544	G554400	195021004	dcm
+300041012	Other primary cardiomyopathy NOS	G554z	G554z00	85898001	other
+300042017	Nutritional and metabolic cardiomyopathies	G557	G557.00	195023001	other
+300046019	Mucopolysaccharidosis cardiomyopathy	G5574	G557400	195027000	other
+300052018	Cardiomyopathy in disease EC	G558	G558.00	195029002	other
+300053011	Cardiomyopathy in Friedreich's ataxia	G5580	G558000	195030007	other
+300054017	Cardiomyopathy in myotonic dystrophy	G5581	G558100	195031006	other
+300055016	Dystrophic cardiomyopathy	G5582	G558200	195032004	other
+300057012	Cardiomyopathy associated with another disorder	G558z	G558z00	195029002	other
+300062013	Cardiomyopathy NOS	G55z	G55z.00	85898001	other
+300910013	Hypertrophic cardiomyopathy	Gyu5M	Gyu5M00	233873004	hcm
+300911012	Primary restrictive cardiomyopathy	Gyu5N	Gyu5N00	90828009	rcm
+300912017	[X]Other cardiomyopathies	Gyu5P	Gyu5P00	85898001	other
+300916019	[X]Cardiomyopathy in other diseases classified elsewhere	Gyu5T	Gyu5T00	195029002	other
+350413012	Congestive obstructive cardiomyopathy	G5540-1	G554011	233871002	hcm
+395766015	Obscure African cardiomyopathy	G552	G552.00	398754006	other
+395767012	Nutritional and metabolic cardiomyopathy NOS	G557z	G557z00	195023001	other
+395768019	Cardiomyopathy associated with another disorder	G55y	G55y.00	195029002	other
+410930018	Heller cardiomyotomy	76080-1	7608011	265347008	other
+419130013	Arrhythmogenic right ventricular cardiomyopathy	G559	G559.00	281170005	arvd
+460126017	Cardiomyopathy in Duchenne muscular dystrophy	F391B	F391B00	315608004	other
+1778488011	Congestive cardiomyopathy	G5540	G554000	399020009	other
+2674238014	Tachycardia-induced cardiomyopathy	G55A-1	G55A.11	426300009	other
+2816931010	Stress cardiomyopathy	G5545-1	G554511	441541008	other
+2816932015	Takotsubo cardiomyopathy	G5545	G554500	441541008	other
+370261000006111	[X]Cardiomyopathy in infectious+parasitic diseases CE	Gyu5Q	Gyu5Q00	195029002	other
+370271000006116	[X]Cardiomyopathy in metabolic diseases CE	Gyu5R	Gyu5R00	195023001	other
+370281000006118	[X]Cardiomyopathy in nutritional diseases CE	Gyu5S	Gyu5S00	195023001	other
+537931000006112	Cardiomyopathy in Chagas's disease	G556	G556.00	998008	other
+537991000006111	Postpartum cardiomyopathy	L1865	L186500	62377009	other
+1705371000000116	Tachycardiomyopathy	G55A	G55A.00	426300009	other
+2196311000000112	Amyloid cardiomyopathy	G5584	G558400	847041000000109	other
+2934111000006116	Familial amyloid cardiomyopathy	^ESCTFA293411		27097002	other
+3229411000006118	Obstructive cardiomyopathy	^ESCTOB322941		45227007	hcm
+3229421000006114	HOCM - Hypertrophic obstructive cardiomyopathy	^ESCTHO322942		45227007	hcm
+3343411000006113	Primary familial dilated cardiomyopathy	^ESCTPR334341		52029003	dcm
+3343421000006117	Familial dilated cardiomyopathy	^ESCTFA334342		52029003	dcm
+3360091000006112	Primary idiopathic dilated cardiomyopathy	^ESCTPR336009		53043001	dcm
+3513911000006111	Puerperal cardiomyopathy	^ESCTPU351391		62377009	other
+3797011000006119	Restrictive cardiomyopathy secondary to amyloidosis	^ESCTRE379701		79754008	rcm
+3859091000006114	Dilated cardiomyopathy secondary to alcohol	^ESCTDI385909		83521008	dcm
+3859111000006117	Dilated cardiomyopathy caused by alcohol	^ESCTDI385911		83521008	dcm
+3866161000006118	Primary familial hypertrophic cardiomyopathy	^ESCTPR386616		83978005	hcm
+4776141000006112	Ischemic cardiomyopathy	^ESCTIS477614		194849004	ischemic
+4777091000006118	Hypertrophic cardiomyopathy without obstruction	^ESCTHY477709		195020003	hcm
+4777111000006110	HCM - Hypertrophic non-obstructive cardiomyopathy	^ESCTHC477711		195020003	hcm
+5056831000006119	HCM - Hypertrophic cardiomyopathy	^ESCTHC505683		233873004	hcm
+5331161000006112	Arrhythmogenic right ventricular cardiomyopathy	^ESCTAR533116		253528005	arvd
+6611081000006118	Restrictive cardiomyopathy with endomyocardial fibrosis	^ESCTRE661108		398754006	rcm
+6615851000006116	Dilated cardiomyopathy	^ESCTDI661585		399020009	dcm
+6615891000006110	DCM - Dilated cardiomyopathy	^ESCTDC661589		399020009	dcm
+6873341000006113	Restrictive cardiomyopathy	^ESCTRE687334		415295002	rcm
+6873351000006110	Constrictive cardiomyopathy	^ESCTCO687335		415295002	other
+7065281000006117	Ischaemic congestive cardiomyopathy	^ESCTIS706528		426856002	ischemic
+7347751000006119	Left ventricular myocardial noncompaction cardiomyopathy	^ESCTLE734775		447935001	ischemic
+7475611000006114	Cardiomyopathy due to neuromuscular disorder	^ESCTCA747561		471846004	other
+7475751000006117	Ischaemic dilated cardiomyopathy due to coronary artery disease	^ESCTIS747575		472100003	dcm
+7560331000006116	Dilated cardiomyopathy 3B	^ESCTDI756033		702424003	dcm
+7560341000006114	DMD-associated dilated cardiomyopathy	^ESCTDM756034		702424003	dcm
+7573201000006117	Heart failure with reduced ejection fraction due to cardiomyopathy	^ESCTHE757320		703275009	other
+7735491000006113	Transthyretin related familial amyloid cardiomyopathy	^ESCTTR773549		715655000	other
+7806081000006118	Cardiomyopathy and renal anomaly syndrome	^ESCTCA780608		720610008	other
+7964821000006113	Nonischemic congestive cardiomyopathy	^ESCTNO796482		111000119104	other
+8065541000006115	Cardiomyopathy due to viral infection	^ESCTCA806554		204981000119101	other
+11858851000006114	Pacing-induced cardiomyopathy	^ESCT1185885		471870000	other
+12049151000006112	Familial dilated cardiomyopathy with conduction defect due to LMNA mutation	^ESCT1204915		766883006	dcm
+13484031000006111	Cardiomyopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)	^ESCT1348403		119731000146105	other
+13971661000006116	Infiltrative cardiomyopathy	^ESCT1397166		871646007	other
+14499651000006114	Dilated cardiomyopathy due to metabolic disorder	^ESCT1449965		111285003	dcm
+14509111000006110	Dilated cardiomyopathy of ischaemic origin	^ESCT1450911		426856002	dcm
+14742751000006110	Left ventricular failure with normal ejection fraction due to cardiomyopathy	^ESCT1474275		1204206001	other
+14798871000006119	Alcoholic cardiomyopathy	^ESCT1479887		1234750000	other
+14798891000006118	Dilated cardiomyopathy caused by alcohol	^ESCT1479889		1234750000	dcm

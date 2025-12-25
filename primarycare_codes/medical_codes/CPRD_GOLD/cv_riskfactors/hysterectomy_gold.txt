@@ -1,0 +1,57 @@
+medcode	readcode	readterm
+6231	1599.00	h/o: hysterectomy
+12920	685H.00	no smear - benign hysterectomy
+12910	685H.11	no smear - hysterectomy
+9735	7E04.00	abdominal excision of uterus
+2448	7E04.11	abdominal hysterectomy
+3064	7E04.12	wertheim hysterectomy
+35264	7E04000	abdominal hysterocolpectomy and excision periuterine tissue
+31312	7E04100	abdominal hysterectomy & excision of periuterine tissue nec
+39748	7E04200	abdominal hysterocolpectomy nec
+269	7E04300	total abdominal hysterectomy nec
+69607	7E04311	bonney abdominal hysterectomy
+3666	7E04312	hysterectomy nec
+1729	7E04400	subtotal abdominal hysterectomy
+813	7E04500	abdominal hysterectomy and bilateral salpingoophorectomy
+23863	7E04511	abdominal hysterectomy & bilateral salpingoophorectomy (bso)
+7798	7E04512	tah - total abdom hysterectomy & bilateral salpingoophorect
+19182	7E04600	radical hysterectomy
+1830	7E04700	abdominal hysterectomy and right salpingoopherectomy
+2058	7E04711	abdominal hysterectomy and left salpingoopherectomy
+7949	7E04800	abdominal hysterectomy and left salpingoophorectomy
+3433	7E04900	tah - tot abdom hysterectomy and bso - bilat salpingophorect
+11662	7E04A00	abdominal hysterectomy with conservation of ovaries
+25815	7E04B00	lapar total abdominal hysterect bilat salpingo-oophorectomy
+18980	7E04C00	laparoscopic hysterectomy
+96162	7E04D00	excision of accessory uterus
+94549	7E04E00	laparoscopic subtotal hysterectomy
+94934	7E04F00	subtotal abdominal hysterectomy with conservation of ovaries
+94490	7E04G00	total abdominal hysterectomy with conservation of ovaries
+109060	7E04H00	subtotl abdominal hysterectomy & bilat salpingo-oophorectomy
+109686	7E04J00	subtotl abdominal hysterectomy & right salpingo-oophorectomy
+109229	7E04K00	subtotal abdominal hysterectomy & left salpingo-oophorectomy
+111335	7E04N00	radical hysterectomy with conservation of ovaries
+109286	7E04P00	radical hysterectomy with bilateral salpingo-oophorectomy
+14655	7E04y00	other specified abdominal excision of uterus
+15056	7E04z00	abdominal excision of uterus nos
+24101	7E05.00	vaginal excision of uterus
+52057	7E05.11	schauta radical vaginal hysterectomy
+873	7E05.12	vaginal hysterectomy
+59569	7E05000	vaginal hysterocolpectomy and excision of periuterine tissue
+54109	7E05100	vaginal hysterectomy and excision of periuterine tissue nec
+28429	7E05200	vaginal hysterocolpectomy nec
+7441	7E05300	vaginal hysterectomy nec
+100097	7E05311	heaney vaginal hysterectomy
+19088	7E05400	laparoscopic vaginal hysterectomy
+42949	7E05500	vaginal hysterectomy with conservation of ovaries
+97020	7E05600	lap assist vag hysterectomy with bilat salpingo-oophorectomy
+109193	7E05700	vaginal hysterectomy and right salpingo-oophorectomy
+109351	7E05800	vaginal hysterectomy and left salpingo-oophorectomy
+48866	7E05y00	other specified vaginal excision of uterus
+47215	7E05y11	ward vaginal hysterectomy
+38349	7E05z00	vaginal excision of uterus nos
+29155	7F1A000	caesarean hysterectomy
+17540	8L70.00	hysterectomy planned
+49408	9O8W.00	cervical smear to continue post hysterectomy
+10888	K515.00	post hysterectomy vaginal vault prolapse
+28861	L398500	delivery by caesarean hysterectomy

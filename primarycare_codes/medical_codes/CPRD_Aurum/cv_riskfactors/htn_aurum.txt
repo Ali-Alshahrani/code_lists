@@ -1,0 +1,243 @@
+medcode	readcode	desc	originalreadcode	snomedctconceptid	snomedctdescriptionid	release	emiscodecategoryid
+12496011	F421300	hypertensive retinopathy	F4213	6962006	12496011		32
+60444016	G211.00	benign hypertensive heart disease	G211	36221001	60444016		32
+64282015	G22..00	hypertensive renal disease	G22	38481006	64282015		32
+80224019	G203.00	diastolic hypertension	G203	48146000	80224019		32
+84111015	G672.00	hypertensive encephalopathy	G672	50490005	84111015		32
+93494011	G202.00	systolic hypertension	G202	56218007	93494011		32
+107545013	G21..00	hypertensive heart disease	G21	64715009	107545013		32
+253532015	212K.00	hypertension resolved	212K	162659009	253532015		27
+299673010	G233.00	hypertensive heart and renal disease with renal failure	G233	194780003	299673010		32
+305774018	L123100	transient hypertension of pregnancy - delivered	L1231	198965005	305774018		32
+305776016	L123300	transient hypertension of pregnancy - not delivered	L1233	198967002	305776016		32
+316848016	Q492.00	neonatal hypertension	Q492	206596003	316848016		32
+355621014	L123600	transient hypertension of pregnancy	L1236	237279007	355621014		32
+451424017	8B26.00	antihypertensive therapy	8B26	308116003	451424017		32
+1488750011	66b2.00	hypertension monitoring not required	66b2	395050009	1488750011		1
+1780318013	662b.00	moderate hypertension control	662b	401117004	1780318013		1
+350601000000116	7Q01.00	high cost hypertension drugs	7Q01	220901000000101	350601000000116		32
+790031000006119		hypertension annual review	EMISHGT69	790031000006103	790031000006119		1
+857151000006119		no h/o: hypertension	EMISNO2	857151000006103	857151000006119		32
+1706551000000114	662P000	hypertension 9 month review	662P0	766211000000109	1706551000000114		1
+1806071000006118		stage 1 hypertension	EMISNQST24	1806071000006102	1806071000006118		32
+1806141000006113		severe hypertension	EMISNQSE73	1806141000006109	1806141000006113		32
+1855791000006117		hypertension monitoring in secondary care	EMISNQHY16	1855791000006101	1855791000006117		37
+1877391000006112		hypertension clinical management plan no longer in place	EMISNQHY19	1877391000006108	1877391000006112		32
+1916621000006119		borderline hypertension monitoring invitation first letter	EMISNQBO45	1916621000006103	1916621000006119		37
+1916641000006114		borderline hypertension monitoring invitation third letter	EMISNQBO47	1916641000006105	1916641000006114		37
+2193031000000112	G25..11	stage 1 hypertension	G25-1	843821000000102	2193031000000112		32
+2403141000000118	9OIB.00	borderline hypertension monitoring first letter	9OIB	938571000000104	2403141000000118		37
+2403221000000116	9OIC.00	borderline hypertension monitoring second letter	9OIC	938611000000108	2403221000000116		37
+2423811000000118	662P100	telehealth hypertension monitoring	662P1	715280009	3302075013		1
+299686018	G2y..00	other specified hypertensive disease	G2y	38341003	1215744012		32
+300870016	Gyu2000	[x]other secondary hypertension	Gyu20	31992008	53452019		32
+324342013	SLC6z00	hypertensive agent poisoning nos	SLC6z	22915003	38478017		32
+19441000006114	L122z00	other pre-existing hypertension in preg/childb/puerp nos	L122z	86041002	142647015		32
+19451000006111	L122000	other pre-existing hypertension in preg/childb/puerp unspec	L1220	86041002	142647015		32
+95981000006112	L123.00	transient hypertension of pregnancy	L123	237279007	355621014		32
+176961000006112	L121000	renal hypertension in pregnancy/childbirth/puerp unspecified	L1210	198949009	305757018		32
+212961000006118	L127z00	pre-eclampsia or eclampsia + pre-existing hypertension nos	L127z	198997005	305818015		32
+504811000006110	L120000	benign essential hypertension in preg/childb/puerp unspec	L1200	86041002	142647015		32
+741661000006118	G21z.00	hypertensive heart disease nos	G21z	64715009	107545013		32
+741681000006111	G21z100	hypertensive heart disease nos with ccf	G21z1	64715009	107545013		32
+741691000006114	G21z000	hypertensive heart disease nos without ccf	G21z0	64715009	107545013		32
+300869017	Gyu2.00	[x]hypertensive diseases	Gyu2	38341003	1215744012		32
+504911000006115	G211000	benign hypertensive heart disease without ccf	G2110	77970009	129404019		32
+299665018	G222.00	hypertensive renal disease with renal failure	G222	49220004	81984019		32
+299650019	G210z00	malignant hypertensive heart disease nos	G210z	54225002	90135019		32
+12487991000006113		hypertensive treatm.changed	^ESCT1248799	170587004	264486018		1
+3255831000006110		severe proteinuric hypertension of pregnancy	^ESCTSE325583	46764007	1494752012		32
+3552531000006110		hhd - hypertensive heart disease	^ESCTHH355253	64715009	499930018		32
+5506881000006111		fetal or neonatal effect of maternal hypertensive disease	^ESCTFE550688	268794002	2965983010		32
+3162241000006116		mild proteinuric hypertension of pregnancy	^ESCTMI316224	41114007	1229720018		32
+3117411000006118		high blood pressure	^ESCTHI311741	38341003	64172013		32
+12488221000006116		hypertension treatm.stopped	^ESCT1248822	170588009	264487010		1
+3784371000006115		accelerated essential hypertension	^ESCTAC378437	78975002	503982017		32
+4738411000006117		hypertension monitoring deleted	^ESCTHY473841	185724004	285723013		37
+3117451000006117		bp - high blood pressure	^ESCTBP311745	38341003	490277011		32
+5506921000006115		foetal or neonatal effect of maternal hypertensive disease	^ESCTFO550692	268794002	2966058019		32
+3117491000006111		high blood pressure disorder	^ESCTHI311749	38341003	490282016		32
+351341000000118	7Q01z00	high cost hypertension drugs nos	7Q01z	220901000000101	350591000000110		32
+2792621000006113		essential hypertension complicating and/or reason for care during childbirth	^ESCTES279262	18416000	31074018		31
+3295561000006110		hypertensive renal disease complicating and/or reason for care during childbirth	^ESCTHY329556	49171007	81910016		31
+9325321000006111		pre-existing hypertensive heart disease in mother complicating childbirth	^ESCTPR932532	1.07574410001e+16	3006046018		31
+4055121000006110		ulcer of skin caused by ischemia due to hypertensive disease	^ESCTUL405512	95343001	1490536017		31
+3529151000006119		benign essential hypertension in obstetric context	^ESCTBE352915	63287004	105199011		31
+3294471000006115		hypertensive heart and renal disease in obstetric context	^ESCTHY329447	49102001	81808019		31
+8440001000006117		hypertension monitoring sms (short message service) text message second invitation	^ESCTHY844000	1066961000000103	2679951000000112		31
+4055111000006119		ulcer of skin caused by ischaemia due to hypertensive disease	^ESCTUL405511	95343001	1490305012		31
+8016551000006112		pre-existing essential hypertension in postpartum	^ESCTPR801655	40511000119107	3005642014		31
+8180731000006115		[x]hypertensive diseases	^ESCTXH818073	471521000000108	875671000000118		31
+11926091000006118		hypertensive renal disease with renal failure	^ESCT1192609	194774006	299665018		31
+5999791000006119		hypertension monitoring invitation	^ESCTHY599979	310427004	454000016		31
+5970791000006118		non-proteinuric hypertension of pregnancy	^ESCTNO597079	307632004	450961014		32
+3470161000006117		hypertensive heart disease complicating and/or reason for care during childbirth	^ESCTHY347016	59733002	99223017		31
+3565371000006115		labile diastolic hypertension	^ESCTLA356537	65518004	108859012		31
+6349461000006119		labile essential hypertension	^ESCTLA634946	371125006	1209829017		31
+3296681000006113		biofeedback training in regulation of blood pressure for essential hypertension	^ESCTBI329668	49239009	82026015		31
+3790511000006110		hypertensive heart disease in obstetric context	^ESCTHY379051	79355007	131651017		31
+3636695013		diastolic hypertension and systolic hypertension	^ESCT1169187	762463000	3636695013		31
+2951231000006117		renal hypertension	^ESCTRE295123	28119000	47076011		31
+5979461000006110		hypertension monitoring status	^ESCTHY597946	308502002	451862010		31
+3584771000006117		hypertensive renal disease complicating and/or reason for care during pregnancy	^ESCTHY358477	66709007	110825016		31
+2657651000006118		essential hypertension complicating and/or reason for care during puerperium	^ESCTES265765	9901000	17281016		31
+2581861000006110		hypertensive heart disease with congestive heart failure	^ESCTHY258186	5148006	9634016		31
+11927831000006113		hypertension clinical management plan	^ESCT1192783	412779008	2474335018		31
+7103581000006114		systolic essential hypertension	^ESCTSY710358	429457004	2695883018		31
+96011000006114	L123200	transient hypertension of pregnancy - delivered with postnatal complication	L1232	198966006	305775017		32
+176951000006110	L121100	renal hypertension complicating pregnancy, childbirth and the puerperium - delivered	L1211	198951008	305759015		32
+176971000006117	L121.00	renal hypertension complicating pregnancy, childbirth and the puerperium	L121	198949009	305757018		32
+212991000006114	L127100	pre-eclampsia or eclampsia with pre-existing hypertension - delivered	L1271	198999008	305820017		32
+213081000006118	L128200	pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium	L1282	199008003	305829016		32
+213091000006115	L128000	pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium	L1280	199006004	305827019		32
+504761000006115	L120200	benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	L1202	198945003	305753019		32
+728671000006119	G210100	malignant hypertensive heart disease with congestive cardiac failure	G2101	83105008	1236017010		32
+728681000006116	G210000	malignant hypertensive heart disease without congestive heart failure	G2100	36315003	60617018		32
+789941000006117	G234.00	hypertensive heart and renal disease with both (congestive) heart failure and renal failure	G234	194781004	299674016		32
+789961000006118	9OI5.00	hypertension monitoring second letter	9OI5	185720008	285719017		37
+789991000006114	9OI8.00	hypertension monitoring telephone invite	9OI8	185723005	285722015		37
+1846961000006115	G26..00	severe hypertension (nice - national institute for health and clinical excellence 2011)	G26	843841000000109	2189451000000110		32
+1908721000006111	G251.00	stage 1 hypertension (nice 2011) with evidence of end organ damage	G251	908651000000101	2335801000000114		32
+2878561000006113		benign essential hypertension complicating and/or reason for care during pregnancy	^ESCTBE287856	23717007	39825015		31
+3051991000006110		hypertensive heart disease complicating and/or reason for care during puerperium	^ESCTHY305199	34273003	57228011		31
+351361000000117	7Q01y00	other specified high cost hypertension drugs	7Q01y	220901000000101	350591000000110		32
+2474335018	8CR4.00	hypertension clinical management plan	8CR4	736286003	3517026016		32
+299655012	G21zz00	hypertensive heart disease nos	G21zz	64715009	107545013		32
+299675015	G23z.00	hypertensive heart and renal disease nos	G23z	86234004	143003017		32
+2115801000000110	661N600	hypertension self-management plan review	661N6	810981000000107	2115801000000110		1
+530221000000112	662r.00	trial withdrawal of antihypertensive therapy	662r	299561000000105	530221000000112		1
+535651000000113	8IA6.00	trial reduction of antihypertensive therapy declined	8IA6	302081000000108	535651000000113		32
+411508017	G21z011	cardiomegaly - hypertensive	G21z0-1	275516004	411508017		32
+305818015	L127.00	pre-eclampsia or eclampsia with pre-existing hypertension	L127	198997005	305818015		32
+262960017	6146200	hypertension induced by oral contraceptive pill	61462	169465000	262960017		5
+1529013	F404200	blind hypertensive eye	F4042	264008	1529013		32
+3671691000006112		essential hypertension in obstetric context	^ESCTES367169	72022006	119680018		31
+3440301000006116		hypertensive renal disease complicating and/or reason for care during puerperium	^ESCTHY344030	57873008	96227015		31
+151161000006115	G240.00	malignant secondary hypertension	G240	89242004	147988014		32
+212971000006113	L127400	pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication	L1274	199003007	305824014		32
+213001000006110	L127300	pre-eclampsia or eclampsia with pre-existing hypertension - not delivered	L1273	199002002	305823015		32
+504831000006116	L120.00	benign essential hypertension complicating pregnancy, childbirth and the puerperium	L120	198942000	305750016		32
+741701000006114	G232.00	hypertensive heart and renal disease with (congestive) heart failure	G232	194779001	299672017		32
+1846941000006119	G25..00	stage 1 hypertension (nice - national institute for health and clinical excellence 2011)	G25	843821000000102	2189411000000111		32
+2829961000006111		hypertensive heart disease complicating and/or reason for care during pregnancy	^ESCTHY282996	20753005	34916010		31
+3781691000006113		essential hypertension complicating and/or reason for care during pregnancy	^ESCTES378169	78808002	130761010		31
+3687981000006118		hypertensive renal disease in obstetric context	^ESCTHY368798	73030000	121301011		31
+2866121000006115		hypertensive heart and renal disease complicating and/or reason for care during pregnancy	^ESCTHY286612	22966008	38584017		31
+9325521000006118		pre-existing hypertensive heart disease in mother complicating pregnancy	^ESCTPR932552	1.07590310001e+16	3005991017		31
+3768511000006114		benign hypertensive heart disease without congestive heart failure	^ESCTBE376851	77970009	129404019		32
+12115621000006113		referral for antihypertensive therapy	^ESCT1211562	1097181000000109	2747621000000112		31
+356121000006111	U60C511	[x] adverse reaction to other antihypertensives	U60C5-1	293495006	433712011		5
+504801000006112	L120z00	benign essential hypertension in preg/childb/puerp nos	L120z	86041002	142647015		32
+19431000006116	L122100	other pre-existing hypertension in preg/childb/puerp - deliv	L1221	86041002	142647015		32
+299682016	G24zz00	secondary hypertension nos	G24zz	31992008	53452019		32
+395751018	G20z.00	essential hypertension nos	G20z	59621000	99042012		32
+2193021000000110	G26..11	severe hypertension	G26-1	843841000000109	2193021000000110		32
+2193971000000110	G27..00	hypertension resistant to drug therapy	G27	845891000000103	2193971000000110		32
+530161000000111	662q.00	trial reduction of antihypertensive therapy	662q	299531000000100	530161000000111		1
+535591000000118	8IA5.00	trial withdrawal of antihypertensive therapy declined	8IA5	302051000000102	535591000000118		32
+299676019	G240000	secondary malignant renovascular hypertension	G2400	194783001	299676019		32
+299681011	G244.00	hypertension secondary to endocrine disorders	G244	194788005	299681011		32
+251674014	14A2.00	h/o: hypertension	14A2	161501007	251674014		32
+53452019	G24..00	secondary hypertension	G24	31992008	53452019		32
+109700019	G231.00	benign hypertensive heart and renal disease	G231	66052004	109700019		32
+131046010	G200.00	malignant essential hypertension	G200	78975002	131046010		32
+143003017	G23..00	hypertensive heart and renal disease	G23	86234004	143003017		32
+1780252014	8I3N.00	hypertension treatment refused	8I3N	401047000	1780252014		32
+1780253016	662c.00	hypertension six month review	662c	401048005	1780253016		1
+443764015	662O.00	on treatment for hypertension	662O	302192008	443764015		1
+2521841000006119		hypertensive heart and renal disease complicating and/or reason for care during childbirth	^ESCTHY252184	1474004	3568011		31
+9325331000006114		preexisting hypertensive heart disease in childbirth	^ESCTPR932533	1.07574410001e+16	3006039010		31
+299680012	G241z00	benign secondary hypertension	G241z	194785008	2470031013		32
+21601000000111	9OI..00	hypertension monitoring administration	9OI	713641000000103	1564881000000111		37
+176941000006113	L121300	renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered	L1213	198953006	305761012		32
+212981000006111	L127200	pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication	L1272	199000005	305821018		32
+504901000006118	G211100	benign hypertensive heart disease with congestive cardiac failure	G2111	194767001	299653017		32
+1908711000006115	G250.00	stage 1 hypertension (nice 2011) without evidence of end organ damage	G250	908631000000108	2335761000000116		32
+3636694012		combined diastolic and systolic hypertension	^ESCT1169188	762463000	3636694012		31
+3489281000006119		hypertensive heart disease without congestive heart failure	^ESCTHY348928	60899001	101181010		31
+12726231000006115		adverse reaction to other antihypertensives	^ESCT1272623	674791000000101	1479581000000112		5
+12728941000006118		transient hypertension of pregnancy nos	^ESCT1272894	695711000000100	1521571000000116		31
+3117471000006110		hbp - high blood pressure	^ESCTHB311747	38341003	490280012		32
+12002721000006115		hypertension monitoring declined	^ESCT1200272	763324001	3638556010		37
+790131000006118	2126100	hypertension resolved	21261	162659009	253532015		27
+176981000006119	L121z00	renal hypertension in pregnancy/childbirth/puerperium nos	L121z	198949009	305757018		32
+395753015	G22z.00	hypertensive renal disease nos	G22z	38481006	64282015		32
+19421000006119	L122300	other pre-exist hypertension in preg/childb/puerp-not deliv	L1223	86041002	142647015		32
+76671000006115	L12z000	unspecified hypertension in preg/childb/puerp unspecified	L12z0	48194001	80299016		32
+305764016	L122.00	other pre-existing hypertension in preg/childbirth/puerp	L122	86041002	142647015		32
+2159168015	8BL0.00	patient on maximal tolerated antihypertensive therapy	8BL0	407567007	2159168015		32
+402166016	Q000.00	fetus or neonate affected by maternal hypertensive disease	Q000	268794002	402166016		32
+264472017	6628.00	poor hypertension control	6628	170578008	264472017		1
+3135013	G201.00	benign essential hypertension	G201	1201005	3135013		32
+99042012	G20..00	essential hypertension	G20	59621000	99042012		32
+7513101000006118		hypertensive renal disease with end stage renal failure	^ESCTHY751310	698810000	2981366013		31
+3068941000006115		benign essential hypertension complicating and/or reason for care during puerperium	^ESCTBE306894	35303009	58911017		31
+96001000006111	L123400	transient hypertension of pregnancy with postnatal complication	L1234	198968007	305777013		32
+504781000006113	L120400	benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	L1204	198947006	305755014		32
+790071000006116	9OIA.00	hypertension monitoring check done	9OIA	270440008	405052015		37
+3470001000006117		sustained diastolic hypertension	^ESCTSU347000	59720008	99206014		31
+7510311000006111		benign hypertensive renal disease with renal failure	^ESCTBE751031	698591006	2974754013		31
+8279351000006112		provision of written information about high blood pressure	^ESCTPR827935	837871000000106	2175211000000118		31
+3636696014		diastolic hypertension co-occurrent with systolic hypertension	^ESCT1169189	762463000	3636696014		31
+8459521000006112		hypertension monitoring invitation email	^ESCTHY845952	1083101000000106	2714131000000115		31
+9325531000006115		preexisting hypertensive heart disease in pregnancy	^ESCTPR932553	1.07590310001e+16	3006050013		31
+8016541000006110		postpartum pre-existing essential hypertension	^ESCTPO801654	40511000119107	3005787016		31
+789971000006113	9OI6.00	hypertension monitoring third letter	9OI6	185721007	285720011		37
+176921000006118	L121400	renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	L1214	198954000	305762017		32
+498791000006113	9OI1.00	attends hypertension monitoring	9OI1	185716009	285715011		37
+504791000006111	L120100	benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered	L1201	198944004	305752012		32
+12726241000006113		adverse reaction to antihypertensives nos	^ESCT1272624	674801000000102	1479611000000118		5
+3250801000006112		low-renin essential hypertension	^ESCTLO325080	46481004	77481016		31
+5105201000006119		moderate proteinuric hypertension of pregnancy	^ESCTMO510520	237281009	355624018		32
+12488211000006112		hypertension treatm. started	^ESCT1248821	170586008	264485019		1
+76691000006119	L12z.00	unspecified hypertension in pregnancy/childbirth/puerperium	L12z	198941007	305749016		32
+790091000006115	662P.00	hypertension monitoring	662P	275944005	411919011		1
+351481000006111	U60C51A	[x] adverse reaction to antihypertensives nos	U60C5-A	293495006	433712011		5
+331291010	TJC7.00	adverse reaction to other antihypertensives	TJC7	293495006	433712011		5
+299654011	G211z00	benign hypertensive heart disease nos	G211z	36221001	60444016		32
+299677011	G240z00	secondary malignant hypertension nos	G240z	89242004	147988014		32
+300871017	Gyu2100	[x]hypertension secondary to other renal disorders	Gyu21	31992008	53452019		32
+305780014	L123z00	transient hypertension of pregnancy nos	L123z	237279007	355621014		32
+2403261000000112	9OID.00	borderline hypertension monitoring third letter	9OID	938631000000100	2403261000000112		37
+47076011	G22z.11	renal hypertension	G22z-1	38481006	64282015		32
+84112010	G672.11	hypertensive crisis	G672-1	50490005	84111015		32
+2117971000000119	661M600	hypertension self-management plan agreed	661M6	812021000000106	2117971000000119		1
+3669111000006119		benign essential hypertension complicating and/or reason for care during childbirth	^ESCTBE366911	71874008	119423013		31
+1131851000000118	67H8.00	lifestyle advice regarding hypertension	67H8	443402002	1179241000000118		17
+494622019	L12B.00	proteinuric hypertension of pregnancy	L12B	398254007	1786188019		32
+1780319017	662d.00	hypertension annual review	662d	401118009	1780319017		1
+1409014	G221.00	benign hypertensive renal disease	G221	193003	1409014		32
+64168014	G2...00	hypertensive disease	G2	38341003	64168014		32
+90135019	G210.00	malignant hypertensive heart disease	G210	54225002	90135019		32
+99047018	G20..12	primary hypertension	G20-2	59621000	99047018		32
+264471012	6627.00	good hypertension control	6627	170577003	264471012		1
+264473010	6629.00	hypertension:follow-up default	6629	170579000	264473010		1
+3474371000006117		adrenal hypertension	^ESCTAD347437	59997006	99667011		31
+2813981000006110		high-renin essential hypertension	^ESCTHI281398	19769006	33294011		31
+3437381000006110		parenchymal renal hypertension	^ESCTPA343738	57684003	95927019		31
+3710191000006113		secondary diastolic hypertension	^ESCTSE371019	74451002	123652011		31
+8303931000006116		did not attend optometrist ocular hypertension monitoring	^ESCTDI830393	872241000000102	2253171000000119		31
+2683231000006113		hypertensive heart and renal disease complicating and/or reason for care during puerperium	^ESCTHY268323	11511004	19902011		31
+7609711000006110		hypertensive crisis	^ESCTHY760971	706882009	3027305016		31
+8439981000006118		hypertension monitoring invitation sms (short message service) text message	^ESCTHY843998	1066941000000104	2679901000000111		31
+3950631000006119		accelerated secondary hypertension	^ESCTAC395063	89242004	508416019		32
+3852501000006115		malignant hypertensive heart disease with congestive heart failure	^ESCTMA385250	83105008	137848017		32
+523801000006119	G2...11	bp - hypertensive disease	G2-1	38341003	64168014		32
+158241000006117	G24z.00	secondary hypertension nos	G24z	31992008	53452019		32
+213011000006113	L127000	pre-eclampsia or eclampsia with hypertension unspecified	L1270	198997005	305818015		32
+305773012	L123000	transient hypertension of pregnancy unspecified	L1230	237279007	355621014		32
+1992471000006116		vte risk assessment - uncontrolled systolic hypertension	EMISNQVT26	1992471000006100	1992471000006116		32
+1916631000006116		borderline hypertension monitoring invitation second letter	EMISNQBO46	1916631000006100	1916631000006116		37
+1855781000006115		hypertension monitoring in primary care	EMISNQHY15	1855781000006104	1855781000006115		37
+2478822013	G241000	secondary benign renovascular hypertension	G2410	73410007	2478822013		32
+405053013	9OIA.11	hypertension monitored	9OIA-1	270440008	405053013		37
+411919011	662..12	hypertension monitoring	662-2	275944005	411919011		1
+299678018	G241.00	secondary benign hypertension	G241	194785008	299678018		32
+299684015	G24z100	hypertension secondary to drug	G24z1	194791005	299684015		5
+108730018	G220.00	malignant hypertensive renal disease	G220	65443008	108730018		32
+110659019	G230.00	malignant hypertensive heart and renal disease	G230	66610008	110659019		32
+8439991000006115		hypertension monitoring sms (short message service) text message first invitation	^ESCTHY843999	1066951000000101	2679921000000119		31
+176931000006115	L121200	renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	L1212	198952001	305760013		32
+213101000006114	L128100	pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium	L1281	199007008	305828012		32
+504821000006119	L120300	benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered	L1203	198946002	305754013		32
+790011000006113	9OI4.00	hypertension monitoring first letter	9OI4	185719002	285718013		37

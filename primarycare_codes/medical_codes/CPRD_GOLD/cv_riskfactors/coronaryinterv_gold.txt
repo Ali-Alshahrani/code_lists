@@ -1,0 +1,94 @@
+medcode	readterm	readcode	clinicalevents	testevents	immunisationevents	databasebuild
+107406	Emergency percutaneous coronary intervention	792E000	129	0	0	December 2013
+105184	Percutaneous coronary intervention	792E.00	24998	0	0	November 2012
+41547	Transluminal balloon angioplasty of coronary artery OS	7928y00	327	0	0	February 2009
+737	Coronary artery bypass graft operations	792..11	70884	26	0	February 2009
+101121	Coronary artery bypass graft operation planned	8L40.00	808	0	0	December 2010
+18670	Percut transluminal balloon angioplasty one coronary artery	7928000	1896	0	0	February 2009
+96537	OS perc translumina balloon angioplast stenting coronary art	793Gy00	21	0	0	April 2009
+6980	[V]Status following coronary angioplasty NOS	ZV45L00	1149	0	0	February 2009
+5744	Open angioplasty of coronary artery	7927500	6607	0	0	February 2009
+34965	Diagnostic transluminal operations on coronary artery	792A.00	168	0	0	February 2009
+61208	Perc translum balloon angioplasty stenting coronary art NOS	793Gz00	312	0	0	February 2009
+33735	Percut translum balloon angioplasty mult coronary arteries	7928100	547	0	0	February 2009
+2901	Transluminal balloon angioplasty of coronary artery	7928.00	41619	0	0	February 2009
+42462	Percut translum balloon angioplasty bypass graft coronary a	7928200	107	0	0	February 2009
+732	Transluminal balloon angioplasty of coronary artery NOS	7928z00	4263	2	0	February 2009
+5703	Percutaneous balloon coronary angioplasty	7928.11	5378	0	0	February 2009
+43939	Perc translumin balloon angioplasty stenting coronary artery	793G.00	16978	0	0	February 2009
+86071	Percut translum cutting balloon angioplasty coronary artery	7928300	42	0	0	February 2009
+42304	Insertion of drug-eluting coronary artery stent	7929500	4377	0	0	February 2009
+8942	Insertion of coronary artery stent	7929400	37928	0	0	February 2009
+7137	Saphenous vein graft replacement of coronary artery OS	7920y00	17239	0	0	February 2009
+55092	Replacement of coronary arteries using multiple methods	792C000	15	0	0	February 2009
+70111	Allograft replacement of one coronary artery	7922000	6	0	0	February 2009
+70755	Replacement of coronary artery NOS	792Cz00	46	0	0	February 2009
+66664	Prosthetic replacement of two coronary arteries	7923100	12	0	0	February 2009
+42708	Autograft replacement of four of more coronary arteries NEC	7921300	106	0	0	February 2009
+9414	Other autograft replacement of coronary artery	7921.00	369	0	0	February 2009
+10209	Autograft replacement of three coronary arteries NEC	7921200	213	0	0	February 2009
+93828	Other specified replacement of coronary artery	792Cy00	14	0	0	February 2009
+45370	Allograft replacement of four or more coronary arteries	7922300	30	0	0	February 2009
+59423	Other specified allograft replacement of coronary artery	7922y00	97	0	0	February 2009
+92419	Prosthetic replacement of one coronary artery	7923000	9	0	0	February 2009
+19402	Prosthetic replacement of coronary artery	7923.00	63	0	0	February 2009
+7442	Saphenous vein graft replacement of three coronary arteries	7920200	4586	0	0	February 2009
+45886	Allograft replacement of three coronary arteries	7922200	45	0	0	February 2009
+11610	Saphenous vein graft replacement of four+ coronary arteries	7920300	2288	0	0	February 2009
+48767	Allograft replacement of coronary artery NOS	7922z00	12	0	0	February 2009
+61310	Other autograft replacement of coronary artery OS	7921y00	11	0	0	February 2009
+18249	Saphenous vein graft replacement of coronary artery	7920.00	3640	0	0	February 2009
+66236	Prosthetic replacement of three coronary arteries	7923200	43	0	0	February 2009
+8679	Saphenous vein graft replacement of one coronary artery	7920000	756	0	0	February 2009
+31556	Allograft replacement of coronary artery	7922.00	161	0	0	February 2009
+19413	Autograft replacement of two coronary arteries NEC	7921100	114	0	0	February 2009
+7634	Saphenous vein graft replacement of two coronary arteries	7920100	2012	0	0	February 2009
+67761	Prosthetic replacement of four or more coronary arteries	7923300	26	0	0	February 2009
+51515	Saphenous vein graft replacement coronary artery NOS	7920z00	354	0	0	February 2009
+7609	Other autograft replacement of coronary artery NOS	7921z00	20	0	0	February 2009
+19193	Prosthetic replacement of coronary artery NOS	7923z00	8	0	0	February 2009
+44561	Autograft replacement of one coronary artery NEC	7921000	100	0	0	February 2009
+55598	Other replacement of coronary artery	792C.00	131	0	0	February 2009
+57241	Allograft replacement of two coronary arteries	7922100	30	0	0	February 2009
+33620	Repair of coronary artery NEC	792B.00	75	0	0	February 2009
+19164	Repair of aneurysm of coronary artery	7927100	118	0	0	February 2009
+18903	Repair of arteriovenous fistula of coronary artery	7927000	49	0	0	February 2009
+44585	Repair of coronary artery NOS	792Bz00	60	0	0	February 2009
+94783	Repair of rupture of coronary artery	792B100	0	0	0	February 2009
+69247	Other specified repair of coronary artery	792By00	13	0	0	February 2009
+93432	Repair of arteriovenous malformation of coronary artery	792B200	15	0	0	February 2009
+101639	Repair of coronary sinus abnormality	790F300	21	0	0	February 2011
+101164	Coronary angiography planned	8LF..00	1334	0	0	December 2010
+22828	Percutaneous transluminal laser coronary angioplasty	7929000	1226	0	0	February 2009
+19046	Rotary blade coronary angioplasty	7929300	2105	0	0	February 2009
+18643	[V]Presence of coronary angioplasty implant and graft	ZV45800	1174	0	0	February 2009
+56990	Connection of mammary artery to coronary artery NOS	7925z00	101	0	0	February 2009
+96804	Connection of other thoracic artery to coronary artery	7926.00	79	0	0	May 2009
+114069	Connection of other thoracic artery to coronary artery OS	7926y00	1	0	0	August 2019
+72780	Connection of other thoracic artery to coronary artery NOS	7926z00	2	0	0	February 2009
+114714	Revision of connection of thoracic artery to coronary artery	7924400	1	0	0	March 2020
+37719	Connection of mammary artery to coronary artery OS	7925y00	16	0	0	February 2009
+37682	Connection of mammary artery to coronary artery	7925.00	192	0	0	February 2009
+101569	Revision of bypass for four or more coronary arteries	7924300	7	0	0	January 2011
+28837	Creation of bypass from mammary artery to coronary artery	7925.11	39	0	0	February 2009
+34963	Other bypass of coronary artery	792D.00	1168	0	0	February 2009
+8312	Saphenous vein graft bypass of coronary artery	7920.11	1858	0	0	February 2009
+52938	Revision of bypass for one coronary artery	7924000	21	0	0	February 2009
+57634	Revision of bypass for coronary artery NOS	7924z00	10	0	0	February 2009
+5030	[V]Presence of coronary artery bypass graft	ZV45K00	3787	0	0	February 2009
+7134	Other autograft bypass of coronary artery	7921.11	583	0	0	February 2009
+32651	Allograft bypass of coronary artery	7922.11	221	0	0	February 2009
+3159	Other specified other bypass of coronary artery	792Dy00	277	0	0	February 2009
+36011	Prosthetic bypass of coronary artery	7923.11	148	0	0	February 2009
+12734	Coronary artery bypass graft occlusion	SP07600	4480	0	0	February 2009
+5674	[V]Presence of coronary artery bypass graft - CABG	ZV45K11	7894	2	0	February 2009
+18913	[V]Presence of aortocoronary bypass graft	ZV45700	75	0	0	February 2009
+33471	Other bypass of coronary artery NOS	792Dz00	1333	0	0	February 2009
+69776	Mechanical complication of coronary bypass	SP00300	14	0	0	February 2009
+62608	Double anastom thoracic arteries to coronary arteries NEC	7926000	3	0	0	February 2009
+67591	Single anastomosis of thoracic artery to coronary artery NEC	7926200	3	0	0	February 2009
+33718	Double anastomosis of mammary arteries to coronary arteries	7925000	34	0	0	February 2009
+51507	Single anastomosis of mammary artery to coronary artery NEC	7925300	61	0	0	February 2009
+31519	Double implant of mammary arteries into coronary arteries	7925100	12	0	0	February 2009
+60753	Single implantation thoracic artery into coronary artery NEC	7926300	3	0	0	February 2009
+68139	Single implantation of mammary artery into coronary artery	7925400	26	0	0	February 2009

@@ -1,0 +1,326 @@
+medcodeid	readcode	term	originalreadcode	snomedctconceptid	label	class	subclass	stroke	tia	cerebro
+370661000006114	Gyu6G00	[x]cereb infarct due unsp occlus/stenos precerebr arteries	Gyu6G	125081000119106	1	stroke	ischaemic stroke	1		1
+370701000006118	Gyu6300	[x]cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	Gyu63	20059004	1	stroke	ischaemic stroke	1		1
+370711000006115	Gyu6.00	[x]cerebrovascular diseases	Gyu6	62914000	1	cerebrovascular disease				1
+300956017	Gyu6F00	[x]intracerebral haemorrhage in hemisphere, unspecified	Gyu6F	274100004	1	stroke	haemorrhagic stroke	1		1
+300941014	Gyu6400	[x]other cerebral infarction	Gyu64	432504007	1	stroke	ischaemic stroke	1		1
+11919571000006110		[x]other intracerebral haemorrhage	^ESCT1191957	274100004	1	stroke	haemorrhagic stroke	1		1
+300944018	Gyu6700	[x]other specified cerebrovascular diseases	Gyu67	62914000	1	cerebrovascular disease				1
+300936018	Gyu6100	[X]Other subarachnoid haemorrhage	Gyu61	21454007	1	stroke	haemorrhagic stroke	1		1
+426231000006114	Gyu6B00	[x]sequelae of other nontraumatic intracranial haemorrhage	Gyu6B	363302008	4	stroke	haemorrhagic stroke	1		1
+426481000006114	Gyu6D00	[x]sequelae/other + unspecified cerebrovascular diseases	Gyu6D	195239002	4	cerebrovascular disease				1
+300935019	Gyu6000	[x]subarachnoid haemorrhage from other intracranial arteries	Gyu60	21454007	1	stroke	haemorrhagic stroke	1		1
+7254771000006114		abnormal vision as a late effect of cerebrovascular disease	^ESCTAB725477	441759008	4	cerebrovascular disease				1
+5736641000006113		acute ill-defined cerebrovascular disease	^ESCTAC573664	288723005	1	cerebrovascular disease				1
+7054171000006115		Acute lacunar infarction	^ESCTAC705417	426107000	1	stroke	ischaemic stroke	1		1
+449935012	8Hd6.00	admission to stroke unit	8Hd6	306803007	4	stroke	other	1		1
+356328018	C154211	adrenocortical haemorrhage	C1542-1	237766002	1	stroke	haemorrhagic stroke	1		1
+145925010	F423600	Amaurosis fugax	F4236	88032003	1	cerebrovascular disease				1
+300363010	G661.00	anterior cerebral artery syndrome	G661	195210002	1	stroke	ischaemic stroke	1		1
+5011491000006115		anterior circulation transient ischaemic attack	^ESCTAN501149	230716006	1	tia	ischaemic stroke	1	1	1
+7252841000006116		aphasia as late effect of cerebrovascular disease	^ESCTAP725284	441630004	4	cerebrovascular disease				1
+3513770017		aphasia as sequela of non-traumatic intracerebral haemorrhage	^ESCT1170746	291721000119102	4	stroke	haemorrhagic stroke	1		1
+3513783016		aphasia due to and following non-traumatic intracerebral haemorrhage	^ESCT1170747	291721000119102	4	stroke	haemorrhagic stroke	1		1
+8046321000006118		apraxia as late effect of cerebrovascular disease	^ESCTAP804632	145741000119101	4	cerebrovascular disease				1
+5011861000006114		asymptomatic cerebrovascular disease	^ESCTAS501186	230738008	1	cerebrovascular disease				1
+8014261000006116		ataxia as sequela of cerebrovascular disease	^ESCTAT801426	29941000119105	4	cerebrovascular disease				1
+300303013	G630.00	basilar artery occlusion	G630	195180004	1	cerebrovascular disease				1
+3507310015		bilateral vertebral artery occlusion	^ESCT1172871	1.59786310001e+16	1	stroke	ischaemic stroke	1		1
+4056931000006116		Brain stem haemorrhage	^ESCTBR405693	95454007	1	stroke	haemorrhagic stroke	1		1
+524541000006117	G64z000	Brain stem infarction	G64z0	95457000	1	stroke	ischaemic stroke	1		1
+4057041000006110		Brain stem stroke	^ESCTBR405704	95457000	1	stroke	haemorrhagic stroke	1		1
+345650013	G64z.11	brainstem infarction nos	G64z-1	95457000	1	stroke	ischaemic stroke	1		1
+345684012	G657.00	carotid territory transient ischaemic attack	G657	230716006	1	tia	ischaemic stroke	1	1	1
+1726581000006116		central post-stroke pain	EMISNQCE10	1726581000006100	4	stroke	other	1		1
+413750011	1M4..00	central post-stroke pain	1M4	277286006	4	stroke	other	1		1
+502878012	G613.00	cerebellar haemorrhage	G613	75038005	1	stroke	haemorrhagic stroke	1		1
+7833631000006111		cerebellar haemorrhage due to birth injury	^ESCTCE783363	722575008	1	stroke	haemorrhagic stroke	1		1
+158118014	G64z.12	cerebellar infarction	G64z-2	95460007	1	stroke	ischaemic stroke	1		1
+300366019	G664.00	cerebellar stroke syndrome	G664	195213000	1	stroke	ischaemic stroke	1		1
+345701012	G674000	Cerebral amyloid angiopathy	G6740	230724001	1	cerebrovascular disease				1
+1229954013	G673.00	Cerebral aneurysm, nonruptured	G673	42994005	1	cerebrovascular disease				1
+884551000006112	G673.99	Cerebral aneurysm-non ruptured	G673-99	42994005	1	cerebrovascular disease				1
+1222398015	G64..00	cerebral arterial occlusion	G64	20059004	1	cerebrovascular disease				1
+92070010	G670.00	Cerebral atherosclerosis	G670	55382008	1	cerebrovascular disease				1
+841051000006113	G678.00	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	G678	390936003	1	stroke	ischaemic stroke	1		1
+297013012	F11x200	cerebral degeneration due to cerebrovascular disease	F11x2	192813004	1	cerebrovascular disease				1
+542831000006116	G641.11	cerebral embolus	G641-1	75543006	1	stroke	ischaemic stroke	1		1
+12757911000006115		cerebral haemorrhage following injury	^ESCT1275791	82894007	1	stroke	haemorrhagic stroke	1		1
+505322013	S62..00	cerebral haemorrhage following injury	S62	450418003	1	stroke	haemorrhagic stroke	1		1
+320852013	S62z.00	cerebral haemorrhage following injury nos	S62z	450418003	1	stroke	haemorrhagic stroke	1		1
+300312010	G63y000	cerebral infarct due to thrombosis of precerebral arteries	G63y0	195185009	1	stroke	ischaemic stroke	1		1
+300322016	G641000	cerebral infarction due to embolism of cerebral arteries	G6410	195190007	1	stroke	ischaemic stroke	1		1
+300313017	G63y100	cerebral infarction due to embolism of precerebral arteries	G63y1	195186005	1	stroke	ischaemic stroke	1		1
+300321011	G640000	cerebral infarction due to thrombosis of cerebral arteries	G6400	195189003	1	stroke	ischaemic stroke	1		1
+8015131000006115		cerebral infarction due to vertebral artery occlusion	^ESCTCE801513	34191000119104	1	stroke	ischaemic stroke	1		1
+12727431000006119		cerebral infarction nos	^ESCT1272743	682621000000105	1	stroke	ischaemic stroke	1		1
+13909901000006119		Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	^ESCT1390990	788884002	1	stroke	haemorrhagic stroke	1		1
+543141000006110	G6X..00	cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	G6X	20059004	1	stroke	ischaemic stroke	1		1
+3509775010		cerebrovascular accident due to right vertebral artery occlusion	^ESCT1170808	292681000119101	1	stroke	ischaemic stroke	1		1
+104563015	G6...00	cerebrovascular disease	G6	62914000	1	cerebrovascular disease				1
+300419019	G6z..00	cerebrovascular disease nos	G6z	62914000	1	cerebrovascular disease				1
+3508911010		cognitive deficit as late effect of spontaneous intracerebral haemorrhage	^ESCT1170744	291711000119109	4	stroke	haemorrhagic stroke	1		1
+3508865014		cognitive deficit as sequela of cerebrovascular disease	^ESCT1170665	290621000119101	4	cerebrovascular disease				1
+3508912015		cognitive deficit as sequela of nontraumatic intracerebral haemorrhage	^ESCT1170742	291711000119109	4	stroke	haemorrhagic stroke	1		1
+3508864013		cognitive deficit due to and following cerebrovascular disease	^ESCT1170664	290621000119101	4	cerebrovascular disease				1
+3508908014		cognitive deficit due to and following nontraumatic intracerebral haemorrhage	^ESCT1170740	291711000119109	4	stroke	haemorrhagic stroke	1		1
+495394013	G610.00	cortical haemorrhage	G610	49422009	1	stroke	haemorrhagic stroke	1		1
+5597041000006114		cpsp - central post-stroke pain	^ESCTCP559704	277286006	4	stroke	other	1		1
+3662331000006119		ct - cerebral thrombosis	^ESCTCT366233	71444005	1	stroke	ischaemic stroke	1		1
+605481000006110	L440.11	cva - cerebrovascular accident in the puerperium	L440-1	275434003	1	stroke	ischaemic stroke	1		1
+605501000006117	G66..11	cva unspecified	G66-1	230690007	1	stroke	ischaemic stroke	1		1
+3522701000006112		cvd - cerebrovascular disease	^ESCTCV352270	62914000	1	cerebrovascular disease				1
+800691000006113	G671.00	diffuse cerebrovascular disease	G671	302909007	1	cerebrovascular disease				1
+8042111000006110		dysarthria as late effects of cerebrovascular disease	^ESCTDY804211	133981000119106	4	cerebrovascular disease				1
+3506626017		dysphagia as late effect of spontaneous intracerebral haemorrhage	^ESCT1170674	290641000119107	4	stroke	haemorrhagic stroke	1		1
+3506627014		dysphagia as sequela of non-traumatic intracerebral haemorrhage	^ESCT1170673	290641000119107	4	stroke	haemorrhagic stroke	1		1
+3506623013		dysphagia due to and following non-traumatic intracerebral haemorrhage	^ESCT1170669	290641000119107	4	stroke	haemorrhagic stroke	1		1
+7251281000006117		dysphasia as late effect of cerebrovascular disease	^ESCTDY725128	441529001	4	cerebrovascular disease				1
+8454601000006119		emergency hospital admission to transient ischaemic attack service	^ESCTEM845460	1079201000000105	4	tia	ischaemic stroke	1	1	1
+300276019	G616.00	external capsule haemorrhage	G616	195167002	1	stroke	haemorrhagic stroke	1		1
+884431000006116	G620.99	Extradural haemorrhage	G620-99	397809001	1	stroke	haemorrhagic stroke	1		1
+8042121000006119		fluency disorder as sequela of cerebrovascular disease	^ESCTFL804212	133991000119109	4	cerebrovascular disease				1
+300379011	G671z00	generalised ischaemic cerebrovascular disease nos	G671z	302909007	1	stroke	ischaemic stroke	1		1
+8044141000006119		hemiparesis as late effect of cerebrovascular disease	^ESCTHE804414	140281000119108	4	cerebrovascular disease				1
+7258571000006111		hemiplegia as late effect of cerebrovascular disease	^ESCTHE725857	442024001	4	cerebrovascular disease				1
+7266791000006110		hemiplegia of dominant side as late effect of cerebrovascular disease	^ESCTHE726679	442676003	4	cerebrovascular disease				1
+7266721000006113		hemiplegia of nondominant side as late effect of cerebrovascular disease	^ESCTHE726672	442668000	4	cerebrovascular disease				1
+1809211000006111		high risk of cerebrovascular disease	EMISNQHI23	1809211000006107	4	cerebrovascular disease				1
+12223121000006111		ich - intracerebral haemorrhage	^ESCT1222312	274100004	1	stroke	haemorrhagic stroke	1		1
+218511000000117	G64..12	infarction - cerebral	G64-2	432504007	1	stroke	ischaemic stroke	1		1
+345639010	G63..11	infarction - precerebral	G63-1	230692004	1	stroke	ischaemic stroke	1		1
+2474651019	G64z400	infarction of basal ganglia	G64z4	413102000	1	stroke	ischaemic stroke	1		1
+496232015	G611.00	internal capsule haemorrhage	G611	52201006	1	stroke	haemorrhagic stroke	1		1
+12223101000006118		intracerebral haemorrhage	^ESCT1222310	274100004	1	stroke	haemorrhagic stroke	1		1
+744901000006114	G61..00	intracerebral haemorrhage (ich)	G61	274100004	1	stroke	haemorrhagic stroke	1		1
+5146111000006110		intracerebral haemorrhage in fetus or newborn	^ESCTIN514611	240313004	1	stroke	haemorrhagic stroke	1		1
+744921000006116	G61X.00	intracerebral haemorrhage in hemisphere, unspecified	G61X	274100004	1	stroke	haemorrhagic stroke	1		1
+300287010	G61z.00	intracerebral haemorrhage nos	G61z	274100004	1	stroke	haemorrhagic stroke	1		1
+4777861000006119		intracerebral haemorrhage with intraventricular haemorrhage	^ESCTIN477786	195168007	1	stroke	haemorrhagic stroke	1		1
+300277011	G617.00	intracerebral haemorrhage, intraventricular	G617	195168007	1	stroke	haemorrhagic stroke	1		1
+4777881000006112		intracerebral haemorrhage, multiple localised	^ESCTIN477788	195169004	1	stroke	haemorrhagic stroke	1		1
+746571000006116	G618.00	intracerebral haemorrhage, multiple localized	G618	195169004	1	stroke	haemorrhagic stroke	1		1
+12223111000006115		Intracerebral hemorrhage	^ESCT1222311	274100004	1	stroke	haemorrhagic stroke	1		1
+896541000006117	S64z.99	Intracerebral injury NOS	S64z-99	684491000000102	1	stroke	haemorrhagic stroke	1		1
+12729181000006117		intracranial haemorrhage nos	^ESCT1272918	700251000000105	1	stroke	haemorrhagic stroke	1		1
+2622631000006114		intrapontine haemorrhage	^ESCTIN262263	7713009	1	stroke	haemorrhagic stroke	1		1
+3818181000006114		Lacunar infarct	^ESCTLA381818	81037000	1	stroke	ischaemic stroke	1		1
+299342019	Fyu5600	Lacunar infarction	Fyu56	230698000	1	stroke	ischaemic stroke	1		1
+5011161000006115		Lacunar stroke	^ESCTLA501116	230698000	1	stroke	ischaemic stroke	1		1
+300403014	G68..00	late effects of cerebrovascular disease	G68	195239002	1	cerebrovascular disease				1
+130375018	G64z111	lateral medullary syndrome	G64z1-1	78569004	1	stroke	ischaemic stroke	1		1
+3508836015		left facial weakness as late effect of cerebrovascular disease	^ESCT1172885	1.59823110001e+16	4	cerebrovascular disease				1
+451133011	G64z200	left sided cerebral infarction	G64z2	307766002	1	stroke	ischaemic stroke	1		1
+300370010	G667.00	left sided cva	G667	195216008	1	stroke	ischaemic stroke	1		1
+748941000006115	G61X000	left sided intracerebral haemorrhage, unspecified	G61X0	274100004	1	stroke	haemorrhagic stroke	1		1
+3778021000006116		lms - lateral medullary syndrome	^ESCTLM377802	78569004	1	stroke	ischaemic stroke	1		1
+345675012	G619.00	lobar cerebral haemorrhage	G619	230710000	1	stroke	haemorrhagic stroke	1		1
+300362017	G660.00	middle cerebral artery syndrome	G660	195209007	1	stroke	ischaemic stroke	1		1
+8006601000006111		monoplegia of arm dominant side as sequela of cerebrovascular disease	^ESCTMO800660	18761000119108	4	cerebrovascular disease				1
+8006561000006111		monoplegia of leg dominant side as sequela of cerebrovascular disease	^ESCTMO800656	18751000119106	4	cerebrovascular disease				1
+7256601000006115		monoplegia of lower limb as late effect of cerebrovascular disease	^ESCTMO725660	441887006	4	cerebrovascular disease				1
+7259611000006114		monoplegia of upper limb as late effect of cerebrovascular disease	^ESCTMO725961	442097001	4	cerebrovascular disease				1
+300310019	G633.00	multiple and bilateral precerebral arterial occlusion	G633	195183002	1	cerebrovascular disease				1
+5967391000006111		Multiple lacunar infarcts	^ESCTMU596739	307363008	1	stroke	ischaemic stroke	1		1
+300389010	G673000	Nonruptured cerebral aneurysm due to dissection of cerebral artery	G6730	713082007	1	cerebrovascular disease				1
+660111000006117	G620.00	Nontraumatic extradural haemorrhage	G620	397809001	1	stroke	haemorrhagic stroke	1		1
+3507385017		nontraumatic hemispheric cortical intracerebral haemorrhage	^ESCT1170711	291521000119105	1	stroke	haemorrhagic stroke	1		1
+8089851000006116		nontraumatic intracerebral haemorrhage	^ESCTNO808985	291571000119106	1	stroke	haemorrhagic stroke	1		1
+2475119012	G622.00	Non-traumatic subdural haemorrhage	G622	195176009	1	stroke	haemorrhagic stroke	1		1
+300396012	G677100	occlusion and stenosis of anterior cerebral artery	G6771	195233001	1	cerebrovascular disease				1
+300399017	G677300	occlusion and stenosis of cerebellar arteries	G6773	195235008	1	cerebrovascular disease				1
+300395011	G677000	occlusion and stenosis of middle cerebral artery	G6770	195232006	1	cerebrovascular disease				1
+300398013	G677200	occlusion and stenosis of posterior cerebral artery	G6772	195234007	1	cerebrovascular disease				1
+2436731000000112	5C13.00	old cerebral infarction on imaging	5C13	955491000000106	1	stroke	ischaemic stroke	1		1
+300290016	G62..00	other and unspecified intracranial haemorrhage	G62	62914000	1	stroke	haemorrhagic stroke	1		1
+320853015	S63..00	other cerebral haemorrhage following injury	S63	450418003	1	stroke	haemorrhagic stroke	1		1
+320897016	S63z.00	other cerebral haemorrhage following injury nos	S63z	450418003	1	stroke	haemorrhagic stroke	1		1
+300374018	G67..00	other cerebrovascular disease	G67	62914000	1	cerebrovascular disease				1
+300402016	G67z.00	other cerebrovascular disease nos	G67z	62914000	1	cerebrovascular disease				1
+300401011	G67y.00	other cerebrovascular disease os	G67y	62914000	1	cerebrovascular disease				1
+300311015	G63y.00	other precerebral artery occlusion	G63y	266253001	1	cerebrovascular disease				1
+300418010	G6y..00	other specified cerebrovascular disease	G6y	62914000	1	cerebrovascular disease				1
+503469016	G614.00	pontine haemorrhage	G614	7713009	1	stroke	haemorrhagic stroke	1		1
+300364016	G662.00	posterior cerebral artery syndrome	G662	195211003	1	stroke	ischaemic stroke	1		1
+5011551000006110		posterior circulation transient ischaemic attack	^ESCTPO501155	230717002	1	tia	ischaemic stroke	1	1	1
+395777014	G63..00	precerebral arterial occlusion	G63	266253001	1	cerebrovascular disease				1
+12733211000006119		precerebral artery occlusion nos	^ESCT1273321	584161000000109	1	cerebrovascular disease				1
+300314011	G63z.00	precerebral artery occlusion nos	G63z	266253001	1	cerebrovascular disease				1
+213421000006113	G670.11	Precerebral atherosclerosis	G670-1	55382008	1	cerebrovascular disease				1
+5011191000006111		Pure motor lacunar infarction	^ESCTPU501119	230699008	1	stroke	ischaemic stroke	1		1
+345655015	G665.00	pure motor lacunar syndrome	G665	230699008	1	stroke	ischaemic stroke	1		1
+345658018	G666.00	pure sensory lacunar syndrome	G666	230700009	1	stroke	ischaemic stroke	1		1
+3508830014		right facial weakness as late effect of cerebrovascular disease	^ESCT1172881	1.59822710001e+16	4	cerebrovascular disease				1
+451134017	G64z300	right sided cerebral infarction	G64z3	307767006	1	stroke	ischaemic stroke	1		1
+300371014	G668.00	right sided cva	G668	195217004	1	stroke	ischaemic stroke	1		1
+12722481000006116		right sided intracerebral haemorrhage, unspecified	^ESCT1272248	308128006	1	stroke	haemorrhagic stroke	1		1
+163261000006119	G61X100	right sided intracerebral haemorrhage, unspecified	G61X1	195168007	1	stroke	haemorrhagic stroke	1		1
+287283010	A94y600	Rupture of syphilitic cerebral aneurysm	A94y6	186893003	1	stroke	haemorrhagic stroke	1		1
+7571571000006110		secondary cerebrovascular disease	^ESCTSE757157	703163006	4	cerebrovascular disease				1
+7254411000006111		sensory disorder as a late effect of cerebrovascular disease	^ESCTSE725441	441735003	4	cerebrovascular disease				1
+7840021000006110		sequela of non-traumatic intracerebral haemorrhage	^ESCTSE784002	723084007	4	stroke	haemorrhagic stroke	1		1
+300411016	G683.00	sequelae of cerebral infarction	G683	195243003	4	stroke	ischaemic stroke	1		1
+4778311000006112		sequelae of cerebrovascular disease	^ESCTSE477831	195239002	4	cerebrovascular disease				1
+300407010	G681.00	sequelae of intracerebral haemorrhage	G681	195241001	4	stroke	haemorrhagic stroke	1		1
+149551000006111	G682.00	sequelae of other nontraumatic intracranial haemorrhage	G682	363302008	4	stroke	haemorrhagic stroke	1		1
+300406018	G680.00	Sequelae of subarachnoid haemorrhage	G680	195240000	4	stroke	haemorrhagic stroke	1		1
+149701000006118	G68W.00	sequelae/other + unspecified cerebrovascular diseases	G68W	195239002	4	cerebrovascular disease				1
+1130181000000113	G679.00	small vessel cerebrovascular disease	G679	443929000	1	cerebrovascular disease				1
+8045251000006112		spontaneous cerebellar haemorrhage	^ESCTSP804525	142851000119103	1	stroke	haemorrhagic stroke	1		1
+3507383012		Spontaneous haemorrhage of cortical intracerebral hemisphere	^ESCT1170710	291521000119105	1	stroke	haemorrhagic stroke	1		1
+5518041000006112		Spontaneous subarachnoid haemorrhage	^ESCTSP551804	270907008	1	stroke	haemorrhagic stroke	1		1
+12727691000006117		stroke and cerebrovascular accident unspecified	^ESCT1272769	685631000000102	1	stroke	ischaemic stroke	1		1
+122361000006113	G64..13	stroke due to cerebral arterial occlusion	G64-3	230691006	1	stroke	ischaemic stroke	1		1
+11903571000006110		stroke due to intracerebral haemorrhage	^ESCT1190357	274100004	1	stroke	haemorrhagic stroke	1		1
+411416011	L440.12	stroke in the puerperium	L440-2	275434003	1	stroke	ischaemic stroke	1		1
+2127781000000110	662M200	stroke initial post discharge review	662M2	816561000000108	4	tia	ischaemic stroke	1	1	1
+122401000006115	G66..12	stroke unspecified	G66-2	230690007	1	stroke	ischaemic stroke	1		1
+123441000006112	G60X.00	Subarachnoid haemorrh from intracranial artery, unspecif	G60X	21454007	1	stroke	haemorrhagic stroke	1		1
+481028017	G60..00	Subarachnoid haemorrhage	G60	21454007	1	stroke	haemorrhagic stroke	1		1
+5011581000006119		Subarachnoid haemorrhage due to ruptured aneurysm	^ESCTSU501158	230719004	1	stroke	haemorrhagic stroke	1		1
+391042012	S62..12	Subarachnoid haemorrhage following injury	S62-2	450375008	1	stroke	haemorrhagic stroke	1		1
+402929011	S620.00	Subarachnoid haemorrhage following injury without open intracranial wound	S620	28048009	1	stroke	haemorrhagic stroke	1		1
+123481000006118	G603.00	Subarachnoid haemorrhage from anterior communicating artery	G603	21454007	1	stroke	haemorrhagic stroke	1		1
+5583061000006119		Subarachnoid haemorrhage from anterior communicating artery aneurysm	^ESCTSU558306	276282001	1	stroke	haemorrhagic stroke	1		1
+123491000006115	G605.00	Subarachnoid haemorrhage from basilar artery	G605	276284000	1	stroke	haemorrhagic stroke	1		1
+300244012	G601.00	subarachnoid haemorrhage from carotid siphon and bifurcation	G601	195155004	1	stroke	haemorrhagic stroke	1		1
+123511000006114	G602.00	subarachnoid haemorrhage from middle cerebral artery	G602	21454007	1	stroke	haemorrhagic stroke	1		1
+5583021000006113		subarachnoid haemorrhage from middle cerebral artery aneurysm	^ESCTSU558302	276280009	1	stroke	haemorrhagic stroke	1		1
+123521000006118	G604.00	Subarachnoid haemorrhage from posterior communicating artery	G604	21454007	1	stroke	haemorrhagic stroke	1		1
+5583081000006112		Subarachnoid haemorrhage from posterior communicating artery aneurysm	^ESCTSU558308	276283006	1	stroke	haemorrhagic stroke	1		1
+300253017	G606.00	Subarachnoid haemorrhage from vertebral artery	G606	195160000	1	stroke	haemorrhagic stroke	1		1
+300257016	G60z.00	Subarachnoid haemorrhage NOS	G60z	21454007	1	stroke	haemorrhagic stroke	1		1
+12761901000006117		Subarachnoid hemorrhage	^ESCT1276190	21454007	1	stroke	haemorrhagic stroke	1		1
+428181000006115	Gyu6E00	Subarachnoid hemorrhage	Gyu6E	21454007	1	stroke	haemorrhagic stroke	1		1
+2832651000006111		subcortical haemorrhage	^ESCTSU283265	20908003	1	stroke	haemorrhagic stroke	1		1
+2534198011	G623.00	Subdural haemorrhage	G623	35486000	1	stroke	haemorrhagic stroke	1		1
+884441000006114	G621.99	Subdural haemorrhage	G621-99	195176009	1	stroke	haemorrhagic stroke	1		1
+300294013	G621.00	Subdural haemorrhage - nontraumatic	G621	195176009	1	stroke	haemorrhagic stroke	1		1
+320836010	S62..13	Subdural haemorrhage following injury	S62-3	209987007	1	stroke	haemorrhagic stroke	1		1
+5492201000006111		tia - transient ischaemic attack	^ESCTTI549220	266257000	1	tia	ischaemic stroke	1	1	1
+395783012	G65..12	transient ischaemic attack	G65-2	266257000	1	tia	ischaemic stroke	1	1	1
+11929301000006118		transient ischaemic attack clinical management plan	^ESCT1192930	704127004	4	tia	ischaemic stroke	1	1	1
+7674171000006113		transient ischaemic attack due to embolism	^ESCTTR767417	710575003	1	tia	ischaemic stroke	1	1	1
+884511000006111	G65z.99	transient ischaemic attacks	G65z-99	584181000000100	1	tia	ischaemic stroke	1	1	1
+988951000006117	G65..99	transient ischaemic attacks	G65-99	266257000	1	tia	ischaemic stroke	1	1	1
+12757931000006114		traumatic cerebral haemorrhage	^ESCT1275793	82894007	1	stroke	haemorrhagic stroke	1		1
+300309012	G632.00	vertebral artery occlusion	G632	195182007	1	tia	ischaemic stroke	1	1	1
+67501000006115	G651000	Vertebrobasilar artery syndrome	G6510	195199008	1	stroke	ischaemic stroke	1		1
+106394016	G656.00	Vertebrobasilar insufficiency	G656	64009001	1	stroke	ischaemic stroke	1		1
+67511000006117	G65..13	Vertebro-basilar insufficiency	G65-3	64009001	1	stroke	ischaemic stroke	1		1
+5034291000006111		Vertebrobasilar ischaemic vertigo	^ESCTVE503429	232288005	1	tia	ischaemic stroke	1	1	1
+5011521000006118		vertebrobasilar territory transient ischaemic attack	^ESCTVE501152	230717002	1	tia	ischaemic stroke	1	1	1
+5011531000006115		Vertebrobasilar territory transient ischemic attack	^ESCTVE501153	230717002	1	tia	ischaemic stroke	1	1	1
+8013501000006117		vertigo as sequela of cerebrovascular disease	^ESCTVE801350	26021000119107	4	cerebrovascular disease				1
+8026081000006119		visual disturbance as sequela of cerebrovascular disease	^ESCTVI802608	87551000119101	4	cerebrovascular disease				1
+3508835016		weakness of left facial muscle as sequela of cerebrovascular disease	^ESCT1172883	1.59823110001e+16	4	cerebrovascular disease				1
+3513530010		weakness of left facial muscle due to and following cerebrovascular disease	^ESCT1172884	1.59823110001e+16	4	cerebrovascular disease				1
+3508829016		weakness of right facial muscle as sequela of cerebrovascular disease	^ESCT1172880	1.59822710001e+16	4	cerebrovascular disease				1
+3513532019		weakness of right facial muscle due to and following cerebrovascular disease	^ESCT1172882	1.59822710001e+16	4	cerebrovascular disease				1
+300348012	G65y.00	Other transient cerebral ischaemia	G65y	266257000	1	tia	ischaemic stroke	1	1	1
+300349016	G65zz00	Transient cerebral ischaemia NOS	G65zz	266257000	1	tia	ischaemic stroke	1	1	1
+395788015	G65..00	Transient cerebral ischaemia	G65	266257000	1	tia	ischaemic stroke	1	1	1
+95931000006111	G65z.00	Transient cerebral ischaemia NOS	G65z	266257000	1	tia	ischaemic stroke	1	1	1
+416991000006112	Fyu5500	Transient cerebral ischemia	Fyu55	266257000	1	tia	ischaemic stroke	1	1	1
+7064691000006118		Transient cerebral ischaemia due to atrial fibrillation	^ESCTTR706469	426814001	1	tia	ischaemic stroke	1	1	1
+7289121000006119		Recurrent transient cerebral ischaemic attack	^ESCTRE728912	444172003	2	tia	ischaemic stroke	1	1	1
+7289131000006116		Recurrent transient cerebral ischemic attack	^ESCTRE728913	444172003	2	tia	ischaemic stroke	1	1	1
+11920121000006117		Transient cerebral ischemia	^ESCT1192012	266257000	1	tia	ischaemic stroke	1	1	1
+5011331000006114		Anterior cerebral circulation haemorrhagic infarction	^ESCTAN501133	230707007	1	stroke	haemorrhagic stroke	1		1
+5011431000006119		Lacunar haemorrhage	^ESCTLA501143	230712008	1	stroke	haemorrhagic stroke	1		1
+417171000006111	Fyu5700	[X]Other vascular syndroms/brain in cerebrovasculr diseases	Fyu57	62914000	1	cerebrovascular disease				1
+267321000006114	G677.00	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction	G677	195231004	1	cerebrovascular disease				1
+542261000006114	G6W..00	Cerebral infarction due to occlusion of precerebral artery	G6W	125081000119106	1	stroke	ischaemic stroke	1		1
+2729551000000111		Cerebral infarction due to occlusion of cerebral artery	^ESCT1171762	1089411000000104	1	stroke	ischaemic stroke	1		1
+8046951000006114		Cerebral infarction due to carotid artery occlusion	^ESCTCE804695	149821000119103	1	stroke	ischaemic stroke	1		1
+300380014	G671000	Acute cerebrovascular insufficiency	G6710	29322000	1	stroke	ischaemic stroke	1		1
+7855631000006111		Cerebral ischaemic stroke due to small artery occlusion	^ESCTCE785563	724424009	1	stroke	ischaemic stroke	1		1
+8011371000006117		Sequela of ischaemic cerebral infarction	^ESCTSE801137	23671000119107	4	stroke	ischaemic stroke	1		1
+13909861000006114		Cerebral ischaemic stroke due to dissection of artery	^ESCT1390986	788880006	1	stroke	ischaemic stroke	1		1
+13909871000006119		Cerebral ischaemic stroke due to aortic arch embolism	^ESCT1390987	788881005	1	stroke	ischaemic stroke	1		1
+13909881000006116		Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	^ESCT1390988	788882003	1	stroke	ischaemic stroke	1		1
+13909891000006118		Cerebral ischaemic stroke due to hypercoagulable state	^ESCT1390989	788883008	1	stroke	ischaemic stroke	1		1
+14194801000006111		Acute cerebrovascular accident due to ischaemia	^ESCT1419480	7.62005171000e+17	1	stroke	ischaemic stroke	1		1
+5726831000006118		Cerebral ischaemia	^ESCTCE572683	287731003	1	stroke	ischaemic stroke	1		1
+300352012	G65z000	Impending cerebral ischaemia	G65z0	195205001	4	cerebrovascular disease				1
+300353019	G65z100	Intermittent cerebral ischaemia	G65z1	195206000	1	tia	ischaemic stroke	1	1	1
+360778011	G671100	Chronic cerebral ischaemia	G6711	111298007	1	cerebrovascular disease				1
+3515794015		Acute cerebral ischaemia	^ESCT1173136	1.62182910001e+16	1	stroke	ischaemic stroke	1		1
+2262511000000116	G67B.00	Reversible cerebral vasoconstriction syndrome	G67B	700467001	1	tia	ischaemic stroke	1	1	1
+100691000006118	F051000	Cerebral venous thrombosis of cavernous sinus	F0510	89980009	1	cerebrovascular disease				1
+100721000006111	F051.00	Cerebral venous sinus thrombosis	F051	192759008	1	cerebrovascular disease				1
+101523017	G72y100	Aneurysm of external carotid artery	G72y1	61091005	1	cerebrovascular disease				1
+107332010	G634.00	Carotid artery stenosis	G634	64586002	1	cerebrovascular disease				1
+1235117015	7A28200	Percutaneous transluminal angioplasty of vertebral artery	7A282	86274005	4	stroke	ischaemic stroke	1		1
+126301000006113	G63..12	Stenosis of precerebral artery	G63-2	1055001	1	cerebrovascular disease				1
+126531000006111	G631.11	Stenosis, carotid artery	G631-1	64586002	1	cerebrovascular disease				1
+13630281000006117		Aneurysm of internal carotid bifurcation	^ESCT1363028	783415001	1	cerebrovascular disease				1
+13661661000006114		Stenosis of both carotid arteries	^ESCT1366166	787044009	1	cerebrovascular disease				1
+13661671000006119		Stenosis of bilateral carotid arteries	^ESCT1366167	787044009	1	cerebrovascular disease				1
+13717171000006112		Cerebrovascular accident due to stenosis of bilateral carotid arteries	^ESCT1371717	1.66619710001e+16	1	stroke	ischaemic stroke	1		1
+13937171000006112		Stenosis of cerebral artery	^ESCT1393717	838275008	1	cerebrovascular disease				1
+14014281000006112		Cerebrovascular accident due to stenosis of bilateral vertebral arteries	^ESCT1401428	1.66619310001e+16	1	stroke	ischaemic stroke	1		1
+14095711000006110		Stenosis of right carotid artery	^ESCT1409571	285201000119100	1	cerebrovascular disease				1
+14194191000006114		Acute cerebrovascular accident due to stenosis of left carotid artery	^ESCT1419419	4.65832210001e+16	1	stroke	ischaemic stroke	1		1
+14194661000006111		Acute cerebrovascular accident due to stenosis of right carotid artery	^ESCT1419466	6.93158221000e+17	1	stroke	ischaemic stroke	1		1
+14457851000006110		Cerebral venous sinus thrombosis in pregnancy	^ESCT1445785	1156027008	1	cerebrovascular disease				1
+14457901000006117		Cerebral venous sinus thrombosis in puerperium	^ESCT1445790	1156029006	1	cerebrovascular disease				1
+14501081000006115		Cerebral venous thrombosis in puerperium	^ESCT1450108	200260008	1	cerebrovascular disease				1
+1729331000006116		Cerebral venous thrombosis	EMISNQCE11	1729331000006100	1	cerebrovascular disease				1
+1746621000006118	7A20498	Carotid endarterectomy	7A204-98	1746621000006102	4	cerebrovascular disease				1
+2549541000006119		Thrombophlebitis of intracranial venous sinus	^ESCTTH254954	3168002	1	cerebrovascular disease				1
+2672991000006115		Aneurysm of common carotid artery	^ESCTAN267299	10878002	1	cerebrovascular disease				1
+267311000006118	G677400	Occlusion and stenosis of multiple and bilateral cerebral arteries	G6774	195236009	1	cerebrovascular disease				1
+271533019	7A20311	Carotid endarterectomy and patch	7A203-1	175367001	4	cerebrovascular disease				1
+271534013	7A20400	Carotid endarterectomy	7A204	66951008	4	cerebrovascular disease				1
+271542014	7A21400	Operation on aneurysm of carotid artery	7A214	175376008	4	cerebrovascular disease				1
+271546012	7A22000	Percutaneous transluminal angioplasty of carotid artery	7A220	175380003	4	cerebrovascular disease				1
+271605013	7A26300	Endarterectomy of vertebral artery	7A263	175418002	4	stroke	ischaemic stroke	1		1
+271614015	7A26C00	Endarterectomy of vertebral artery NEC	7A26C	175418002	4	stroke	ischaemic stroke	1		1
+2729571000000119		Cerebral infarction due to stenosis of cerebral artery	^ESCT1171763	1089421000000105	1	stroke	ischaemic stroke	1		1
+2838001000006118		Cerebral venous thrombosis of lateral sinus	^ESCTCE283800	21258007	1	stroke	ischaemic stroke	1		1
+2893081000006112		Internal carotid aneurysm	^ESCTIN289308	24624008	1	cerebrovascular disease				1
+296931015	F05..00	Phlebitis and thrombophlebitis of intracranial sinuses	F05	192753009	1	cerebrovascular disease				1
+300942019	Gyu6500	[X]Occlusion and stenosis of other precerebral arteries	Gyu65	266253001	1	cerebrovascular disease				1
+307780013	L417.00	Obstetric cerebral venous thrombosis	L417	200258006	1	cerebrovascular disease				1
+307781012	L417000	Cerebral venous thrombosis in pregnancy	L4170	200259003	1	cerebrovascular disease				1
+307782017	L417100	Cerebral venous thrombosis in the puerperium	L4171	200260008	1	cerebrovascular disease				1
+3384641000006117		Basilar artery stenosis	^ESCTBA338464	54519002	1	cerebrovascular disease				1
+3550511000006115		Carotid artery narrowing	^ESCTCA355051	64586002	1	cerebrovascular disease				1
+3588611000006113		CEA - Carotid endarterectomy	^ESCTCE358861	66951008	4	cerebrovascular disease				1
+3971061000006111		Vertebral artery stenosis	^ESCTVE397106	90520006	1	cerebrovascular disease				1
+4056981000006115		Cerebral venous thrombosis	^ESCTCE405698	95455008	1	cerebrovascular disease				1
+41282012	G72y200	Aneurysm of internal carotid artery	G72y2	24624008	1	cerebrovascular disease				1
+4768491000006118		Thrombosis of intracranial venous sinus	^ESCTTH476849	192759008	1	cerebrovascular disease				1
+482451000006111	G72y000	Aneurysm of common carotid art	G72y0	10878002	1	cerebrovascular disease				1
+5011651000006111		Cerebral venous thrombosis of sigmoid sinus	^ESCTCE501165	230721009	1	cerebrovascular disease				1
+5011661000006113		Cerebral venous thrombosis of cortical vein	^ESCTCE501166	230722002	1	cerebrovascular disease				1
+5011671000006118		Cerebral venous thrombosis of great cerebral vein	^ESCTCE501167	230723007	1	cerebrovascular disease				1
+5048771000006110		Endarterectomy of internal carotid artery	^ESCTEN504877	233296007	4	cerebrovascular disease				1
+5058131000006113		Internal carotid artery stenosis	^ESCTIN505813	233964008	1	cerebrovascular disease				1
+5058141000006115		ICA - Internal carotid artery stenosis	^ESCTIC505814	233964008	1	cerebrovascular disease				1
+5058511000006110		Carotid artery aneurysm	^ESCTCA505851	233988005	1	cerebrovascular disease				1
+542251000006112	G676000	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic	G6760	195230003	1	stroke	ischaemic stroke	1		1
+5583011000006117		Unruptured aneurysm of carotid artery	^ESCTUN558301	276279006	1	cerebrovascular disease				1
+5592861000006115		Percutaneous endarterectomy of internal carotid artery	^ESCTPE559286	276949008	4	cerebrovascular disease				1
+5597471000006111		Unruptured internal carotid bifurcation aneurysm	^ESCTUN559747	277314001	1	cerebrovascular disease				1
+5597651000006116		Ruptured internal carotid-posterior communicating artery zone aneurysm	^ESCTRU559765	277329004	1	stroke	haemorrhagic stroke	1		1
+5836951000006117		Intracranial venous thrombosis	^ESCTIN583695	297157005	1	cerebrovascular disease				1
+641561000006113	7A20300	Endarterectomy of carotid artery and patch repair of carotid artery	7A203	175367001	4	cerebrovascular disease				1
+641731000006114	7A26A00	Endarterectomy of vertebral artery and patch repair of vertebral artery	7A26A	175425009	4	stroke	ischaemic stroke	1		1
+6715411000006111		Stenosis of lower limb artery	^ESCTST671541	405556007	1	cerebrovascular disease				1
+7044461000006117		Stenosis of brachiocephalic artery	^ESCTST704446	425448004	1	cerebrovascular disease				1
+7226691000006114		Percutaneous transluminal angioplasty of cerebral venous sinus using fluoroscopic guidance	^ESCTPE722669	439700004	4	cerebrovascular disease				1
+7863741000006115		Cerebral ischemic stroke due to stenosis of extracranial large artery	^ESCTCE786374	724994008	1	stroke	ischaemic stroke	1		1
+7990811000006110		Symptomatic carotid artery stenosis	^ESCTSY799081	9611000119107	1	cerebrovascular disease				1
+8031281000006118		Cerebral infarction due to stenosis of carotid artery	^ESCTCE803128	99451000119105	1	stroke	ischaemic stroke	1		1
+8086861000006114		Atherosclerosis of bilateral carotid arteries	^ESCTAT808686	284861000119104	1	cerebrovascular disease				1
+8086891000006118		Left carotid artery atherosclerosis	^ESCTLE808689	284871000119105	1	cerebrovascular disease				1
+8086901000006119		Atherosclerosis of right carotid artery	^ESCTAT808690	284881000119108	1	cerebrovascular disease				1
+8087261000006113		Left carotid artery stenosis	^ESCTLE808726	285191000119103	1	cerebrovascular disease				1
+8087281000006115		Right carotid artery stenosis	^ESCTRI808728	285201000119100	4	cerebrovascular disease				1
+938561000006115	G70y000	Carotid atherosclerosis	G70y0	300920004	1	cerebrovascular disease				1
+9836791000006118		Aneurysm of left internal carotid artery	^ESCTAN983679	1.56484010001e+16	1	cerebrovascular disease				1
+9836831000006113		Aneurysm of left carotid artery	^ESCTAN983683	1.56485610001e+16	1	cerebrovascular disease				1
+9875951000006117		Cerebrovascular accident due to right carotid artery stenosis	^ESCTCE987595	1.60269510001e+16	1	stroke	ischaemic stroke	1		1
+9875961000006115		Cerebrovascular accident due to left carotid artery stenosis	^ESCTCE987596	1.60269910001e+16	1	stroke	ischaemic stroke	1		1

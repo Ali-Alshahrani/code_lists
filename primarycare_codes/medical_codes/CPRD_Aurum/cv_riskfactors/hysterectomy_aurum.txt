@@ -1,0 +1,262 @@
+medcode	desc	originalreadcode	readcode	snomedctconceptid
+68497011	caesarean hysterectomy	7F1A0	7F1A000	41059002
+273717011	subtotal abdominal hysterectomy	7E044	7E04400	176795006
+274117010	excision of lesion of broad ligament of uterus	7E270	7E27000	177055009
+307604012	delivery by caesarean hysterectomy	L3985	L398500	200150009
+393625012	vaginal excision of uterus	7E05	7E05.00	265056007
+2474692011	abdominal hysterectomy with conservation of ovaries	7E04A	7E04A00	413144006
+2676226015	excision of accessory uterus	7E04D	7E04D00	427107006
+569631000000112	laparoscopic subtotal hysterectomy	7E04E	7E04E00	431316002
+628771000000110	total abdominal hysterectomy with conservation of ovaries	7E04G	7E04G00	116143008
+870101000006119	subtotal abdom. hysterectomy	7E044-99	7E04499	176795006
+906481000006115	[rfc] hysterectomy	HNG0124		906481000006104
+933351000006119	radical abdominal hysterectomy	7E046-99	7E04699	116142003
+1894981000006112	vaginal hysterectomy and right salpingo-oophorectomy	EMISNQVA16		1894981000006108
+2358521000000110	vaginal hysterectomy and right salpingo-oophorectomy	7E057	7E05700	918451000000102
+2358561000000119	vaginal hysterectomy and left salpingo-oophorectomy	7E058	7E05800	918471000000106
+2358601000000119	radical hysterectomy with conservation of ovaries	7E04N	7E04N00	918491000000105
+2358641000000116	radical hysterectomy with bilateral salpingo-oophorectomy	7E04P	7E04P00	918511000000102
+273729019	other specified abdominal excision of uterus	7E04y	7E04y00	116141005
+273889013	other specified bilateral excision of adnexa of uterus	7E10y	7E10y00	176901003
+273890016	bilateral excision of adnexa of uterus nos	7E10z	7E10z00	176901003
+273906019	other specified unilateral excision of adnexa of uterus	7E11y	7E11y00	176757001
+273908018	other excision of adnexa of uterus	7E12	7E12.00	176757001
+393626013	vaginal hysterectomy nec	7E053	7E05300	265056007
+393627016	other specified vaginal excision of uterus	7E05y	7E05y00	265056007
+436671000006111	abdominal hysterectomy and left salpingoophorectomy	7E048	7E04800	302191001
+818301000006112	heaney vaginal hysterectomy	7E053-1	7E05311	265056007
+436691000006112	abdominal hysterocolpectomy and excision periuterine tissue	7E040	7E04000	447771005
+3933421000006114	excision of lesion of uterus	^ESCTEX393342		88218008
+3079081000006110	schauta-amreich vaginal hysterectomy	^ESCTSC307908		35955002
+5100081000006112	uterus excision	^ESCTUT510008		236886002
+5483161000006111	vh - vaginal hysterectomy	^ESCTVH548316		265056007
+5993541000006116	extended abdominal hysterectomy	^ESCTEX599354		309879006
+5100071000006114	excision procedure on uterus	^ESCTEX510007		236886002
+3178901000006119	prolapse of vaginal vault after hysterectomy	^ESCTPR317890		42116007
+3079071000006112	radical vaginal hysterectomy, schauta type operation	^ESCTRA307907		35955002
+4351541000006113	specimen from uterus obtained by radical hysterectomy	^ESCTSP435154		122696004
+7483901000006111	history of vaginal hysterectomy	^ESCTHI748390		473171009
+8032421000006110	sampling of vagina for papanicolaou smear after hysterectomy for malignant disease done	^ESCTSA803242		103921000119100
+8032671000006114	vaginal papanicolaou smear after hysterectomy with history of cervical dysplasia done	^ESCTVA803267		104651000119104
+8033331000006111	sampling of vagina for papanicolaou smear after benign hysterectomy done	^ESCTSA803333		106411000119105
+2710301000006112	abdominal hysterectomy with colpo-urethrocystopexy, marshall-marchetti-krantz type	^ESCTAB271030		13254001
+6722271000006115	college of american pathologists cancer checklist; uterine cervix: colpectomy, hysterectomy, pelvic exenteration	^ESCTCO672227		406044008
+6328481000006117	endometrium, hysterectomy surgical margin, involved by tumor	^ESCTEN632848		369650007
+7324541000006117	total abdominal hysterectomy and removal of vaginal cuff	^ESCTTO732454		446446002
+7489141000006113	laparoscopic assisted vaginal hysterectomy with repair of rectocele	^ESCTLA748914		608806004
+7642481000006112	laparoscopic vaginal hysterectomy using robotic assistance	^ESCTLA764248		708985003
+2896161000006111	anesthesia for cesarean hysterectomy	^ESCTAN289616		24806008
+4351831000006117	specimen from fallopian tube obtained by hysterectomy with salpingo-oophorectomy	^ESCTSP435183		122719002
+7473691000006115	hysterectomy forceps, single-use	^ESCTHY747369		470644009
+7640811000006118	robot assisted laparoscopic radical hysterectomy	^ESCTRO764081		708878003
+12059001000006111	intrafascial vaginal total hysterectomy	^ESCT1205900		767612001
+7336811000006110	hysteroscopic excision of uterus and supporting structures	^ESCTHY733681		447237002
+8032431000006113	vaginal papanicolaou smear with history of hysterectomy for cancer done	^ESCTVA803243		103921000119100
+4215741000006115	vaginal hysterectomy with colpo-urethrocystopexy, marshall-marchetti-krantz type	^ESCTVA421574		112918004
+2781581000006116	subtotal hysterectomy after caesarean delivery	^ESCTSU278158		17744000
+8032661000006119	sampling of vagina for papanicolaou smear after hysterectomy for dysplasia of cervix done	^ESCTSA803266		104651000119104
+4215731000006113	supracervical hysterectomy with unilateral removal of tube and ovary	^ESCTSU421573		112917009
+3008211000006111	total hysterectomy with unilateral removal of tube	^ESCTTO300821		31545000
+6208771000006113	tuffier operation for vaginal hysterectomy	^ESCTTU620877		359974005
+7489151000006110	laparoscopic assisted vaginal hysterectomy with repair of cystocoele and rectocoele	^ESCTLA748915		608807008
+7108321000006112	history of total hysterectomy with bilateral salpingo-oophorectomy (bso)	^ESCTHI710832		429763009
+7640801000006116	laparoscopic total hysterectomy using robotic assistance	^ESCTLA764080		708877008
+3636967010	vaginal hysterectomy and pelvic floor repair	^ESCT1169369		762625001
+2974731000006113	supracervical hysterectomy with removal of both tubes and ovaries	^ESCTSU297473		29529008
+6585231000006117	specimen from right fallopian tube obtained by hysterectomy with salpingo-oophorectomy	^ESCTSP658523		397326000
+3415061000006117	anesthesia for vaginal hysterectomy	^ESCTAN341506		56315007
+7313191000006110	hysteroscopic excision of polyp of uterus	^ESCTHY731319		445766004
+7489121000006118	laparoscopic assisted vaginal hysterectomy with repair of cystocele	^ESCTLA748912		608805000
+3384211000006119	vaginal hysterectomy with repair of enterocele	^ESCTVA338421		54490004
+7489131000006115	laparoscopic assisted vaginal hysterectomy with repair of rectocoele	^ESCTLA748913		608806004
+7483931000006115	history of abdominal hysterectomy	^ESCTHI748393		473173007
+2675721000006110	closure of vesicouterine fistula with hysterectomy	^ESCTCL267572		11050006
+5729291000006110	hysterectomy and fetus removal	^ESCTHY572929		288042004
+6474961000006117	partial or subtotal hysterectomy	^ESCTPA647496		387643005
+6208951000006117	heaney operation for vaginal hysterectomy	^ESCTHE620895		359983000
+3537346011	total hysterectomy with left oophorectomy	^ESCT1168346		739671004
+6722531000006115	college of american pathologists cancer checklist; ovary: oophorectomy, salpingo-oophorectomy, subtotal oophorectomy or removal of tumour in fragments, hysterectomy with salpingo-oophorectomy	^ESCTCO672253		406070009
+7374111000006113	excisional biopsy of uterus	^ESCTEX737411		449727003
+12058991000006111	total hysterectomy via vaginal approach using intrafascial technique	^ESCT1205899		767612001
+3540776019	total hysterectomy with left salpingectomy	^ESCT1168378		740515000
+2781591000006118	subtotal hysterectomy after cesarean delivery	^ESCTSU278159		17744000
+3767401000006114	vaginal hysterectomy with partial colpectomy	^ESCTVA376740		77902002
+6328541000006112	trophoblast, hysterectomy surgical margin, involved by tumor	^ESCTTR632854		369654003
+7232931000006117	partial excision of uterus for removal of interstitial ectopic pregnancy	^ESCTPA723293		440148001
+4351681000006115	specimen from endometrium obtained by radical hysterectomy	^ESCTSP435168		122706001
+3537344014	supracervical hysterectomy with right salpingo-oophorectomy	^ESCT1168345		739670003
+5101701000006113	emergency cesarean hysterectomy	^ESCTEM510170		236987005
+3205101000006116	vaginal hysterectomy with total colpectomy	^ESCTVA320510		43791001
+3533011000006118	vaginal hysterectomy with colpo-urethrocystopexy, pereyra type	^ESCTVA353301		63516002
+5608231000006119	post-hysterectomy menopause	^ESCTPO560823		278063007
+7330341000006117	hysteroscopic excision of leiomyoma of uterus	^ESCTHY733034		446804002
+7472961000006110	hysterectomy forceps, reusable	^ESCTHY747296		470565005
+6622991000006117	trophoblastic tissue obtained by radical hysterectomy	^ESCTTR662299		399447007
+410888018	hysterectomy	7E043-2	7E04312	236886002
+220381000000111	wertheim's hysterectomy	7E04-2	7E04.12	307771009
+1924991000006114	subtotal abdominal hysterectomy and right salpingo-oophorectomy	7E04J	7E04J00	918411000000101
+273735019	vaginal hysterectomy and excision of periuterine tissue	7E051	7E05100	448539002
+520681000006118	radical abdominal hysterectomy	7E043-1	7E04311	307771009
+6220861000006119	wertheim-meigs abdominal hysterectomy	^ESCTWE622086		361222003
+6622051000006110	specimen from left fallopian tube obtained by hysterectomy with salpingo-oophorectomy	^ESCTSP662205		399388008
+6208741000006117	ward-mayo operation for vaginal hysterectomy	^ESCTWA620874		359971002
+6722541000006113	college of american pathologists cancer checklist; ovary: oophorectomy, salpingo-oophorectomy, subtotal oophorectomy or removal of tumor in fragments, hysterectomy with salpingo-oophorectomy	^ESCTCO672254		406070009
+5986971000006110	hysterectomy and bilateral salpingo-oophorectomy sample	^ESCTHY598697		309287004
+12031481000006111	hysterectomy and left salpingo-oophorectomy sample	^ESCT1203148		765469005
+7093961000006119	history of hysterectomy with benign disease	^ESCTHI709396		428804004
+3002891000006119	excision of congenital septum of uterus	^ESCTEX300289		31191000
+870111000006116	hysterectomy nos	7E04z-99	7E04z99	547111000000105
+451138019	radical abdominal hysterectomy	7E040-99	7E04099	307771009
+4268551000006115	tah - total abdominal hysterectomy	^ESCTTA426855		116143008
+4544271000006117	history of hysterectomy	^ESCTHI454427		161800001
+436651000006118	abdominal hysterectomy and bilateral salpingoophorectomy	7E045	7E04500	116144002
+673281000006115	no smear - hysterectomy	685H-1	685H.11	268544001
+273751010	open excision of lesion of uterus nec	7E062	7E06200	88218008
+273915014	other excision of adnexa of uterus nos	7E12z	7E12z00	176757001
+1894261000006111	radical hysterectomy with conservation of ovaries	EMISNQRA15		1894261000006107
+273880012	vaginal excision of lesion of uterus	7E0G0	7E0G000	176895001
+273893019	unilateral excision of adnexa of uterus	7E11	7E11.00	176907004
+284218019	hysterectomy planned	8L70	8L70.00	183989002
+252126010	h/o: hysterectomy	1599	1599.00	161800001
+197188014	radical vaginal hysterectomy	7E050-99	7E05099	35955002
+1233920014	laparoscopic vaginal hysterectomy	7E054	7E05400	75835007
+3507991000006110	anesthesia for radical hysterectomy	^ESCTAN350799		62022005
+7180051000006116	family history of total abdominal hysterectomy with bilateral salpingo-oophorectomy	^ESCTFA718005		433506004
+12058981000006113	intrafascial tah (total abdominal hysterectomy)	^ESCT1205898		767611008
+3537352012	total hysterectomy with right salpingo-oophorectomy	^ESCT1168349		739674007
+4351601000006112	specimen from uterine cervix obtained by radical hysterectomy	^ESCTSP435160		122701006
+7382071000006117	open excision of lesion of uterus	^ESCTOP738207		450692005
+445899013	total abdominal hysterectomy	7E043	7E04300	116143008
+436631000006113	total abdominal hysterectomy with bilateral salpingo-oophorectomy	7E045-1	7E04511	116144002
+8255581000006112	vaginal hysterectomy and pelvic floor repair	^ESCTVA825558		800701000000102
+7380481000006112	laparoscopic excision of leiomyoma of uterus	^ESCTLA738048		450559006
+2896151000006114	anaesthesia for caesarean hysterectomy	^ESCTAN289615		24806008
+3537349016	total hysterectomy with right oophorectomy	^ESCT1168347		739672006
+6328471000006115	endometrium, hysterectomy surgical margin, involved by tumour	^ESCTEN632847		369650007
+4268511000006116	total hysterectomy	^ESCTTO426851		116140006
+4351761000006116	specimen from ovary obtained by hysterectomy with salpingo-oophorectomy	^ESCTSP435176		122712006
+5101711000006111	elective caesarean hysterectomy	^ESCTEL510171		236988000
+2985601000006117	vaginal hysterectomy with total colpectomy and repair of enterocele	^ESCTVA298560		30160001
+7642471000006114	robot assisted laparoscopic vaginal hysterectomy	^ESCTRO764247		708985003
+3507981000006112	anaesthesia for radical hysterectomy	^ESCTAN350798		62022005
+5989641000006116	hysterectomy sample	^ESCTHY598964		309501000
+4268581000006111	tah bso - total abdominal hysterectomy and bilateral salpingo-oophorectomy	^ESCTTA426858		116144002
+3161311000006116	total hysterectomy after caesarean delivery	^ESCTTO316131		41059002
+114571000006114	tah - tot abdom hysterectomy and bso - bilat salpingophorect	7E049	7E04900	116144002
+1894241000006112	subtotal abdominal hysterectomy with bilat salpingo-oophorectomy	EMISNQSU74		1894241000006108
+1894251000006114	radical hysterectomy with bilateral salpingo-oophorectomy	EMISNQRA14		1894251000006105
+1894281000006118	subtotal abdominal hysterectomy and left salpingo-oophorectomy	EMISNQSU76		1894281000006102
+7472451000006119	hysterectomy scissors	^ESCTHY747245		470507004
+970871000006112	laparoscopic hysterectomy	EMISNQLA1		970871000006108
+870081000006110	hysterectomy	7E04-99	7E04.99	116141005
+6583881000006119	specimen from ovary obtained by hysterectomy with left salpingo-oophorectomy	^ESCTSP658388		397246008
+184451014	abdominal hysterectomy	7E04-1	7E04.11	116141005
+393638016	endoscopic excision of lesion of uterus	7E0D0	7E0D000	265065000
+5101721000006115	elective cesarean hysterectomy	^ESCTEL510172		236988000
+7527111000006115	vaginal hysterectomy with repair of cystocoele and rectocoele	^ESCTVA752711		699789005
+5100131000006112	laparoscopic radical hysterectomy	^ESCTLA510013		236891001
+3932371000006113	removal of ectopic interstitial uterine pregnancy requiring total hysterectomy	^ESCTRE393237		88144003
+7508481000006114	history of supracervical hysterectomy	^ESCTHI750848		698448004
+445901016	vaginal hysterocolpectomy	7E052	7E05200	309880009
+216331000006113	post-hysterectomy vaginal vault prolapse	K515	K515.00	42116007
+978071000006115	laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy	7E04B	7E04B00	414575003
+4351591000006116	specimen from uterine cervix obtained by hysterectomy	^ESCTSP435159		122700007
+3540773010	total hysterectomy with right salpingectomy	^ESCT1168377		740514001
+12058951000006117	total hysterectomy via vaginal approach	^ESCT1205895		767610009
+6474981000006110	supracervical hysterectomy	^ESCTSU647498		387644004
+3906201000006115	total hysterectomy with removal of both tubes and ovaries	^ESCTTO390620		86477000
+3470321000006113	total hysterectomy with unilateral removal of tube and ovary	^ESCTTO347032		59750000
+12031501000006118	hysterectomy and right salpingo-oophorectomy sample	^ESCT1203150		765470006
+7489161000006112	laparoscopic assisted vaginal hysterectomy with repair of cystocele and rectocele	^ESCTLA748916		608807008
+5100121000006114	classic semm laparoscopic hysterectomy	^ESCTCL510012		236890000
+5483151000006114	colpohysterectomy	^ESCTCO548315		265056007
+5729301000006111	hysterectomy in pregnancy	^ESCTHY572930		288043009
+4801591000006113	delivery by cesarean hysterectomy	^ESCTDE480159		200150009
+3733171000006110	lavh (laparoscopy assisted vaginal hysterectomy)	^ESCTLA373317		75835007
+3079101000006119	vaginal hysterocolpectomy and excision of parametrium	^ESCTVA307910		35955002
+3161291000006115	cesarean hysterectomy	^ESCTCE316129		41059002
+3079061000006117	radical vaginal hysterocolpectomy	^ESCTRA307906		35955002
+871621000006114	hysterectomy in pregnancy	7F1A0-98	7F1A098	288043009
+273730012	abdominal excision of uterus nos	7E04z	7E04z00	116141005
+273744018	vaginal excision of uterus nos	7E05z	7E05z00	265056007
+1894971000006114	vaginal hysterectomy and left salpingo-oophorectomy	EMISNQVA15		1894971000006105
+851411000006118	total hysterectomy & bso	EMISR4QTO1		851411000006102
+853791000006118	total hysterectomy	EGTON294		853791000006102
+2474693018	vaginal hysterectomy with conservation of ovaries	7E055	7E05500	413145007
+355049018	laparoscopic hysterectomy	7E04C	7E04C00	236887006
+6328561000006111	trophoblast, hysterectomy cervical/vaginal surgical margin, involved by tumor	^ESCTTR632856		369655002
+6474971000006112	subtotal hysterectomy	^ESCTSU647497		387643005
+2935561000006114	vaginal hysterectomy with partial colpectomy and repair of enterocele	^ESCTVA293556		27185000
+6722181000006113	college of american pathologists cancer checklist; endometrium: hysterectomy, with or without other organs or tissues	^ESCTCO672218		406035007
+7640791000006117	robot assisted laparoscopic total hysterectomy	^ESCTRO764079		708877008
+6208811000006113	mayo operation for vaginal hysterectomy	^ESCTMA620881		359977003
+7083101000006118	history of total hysterectomy	^ESCTHI708310		428078001
+220401000000111	abdominal hysterectomy and left salpingo-oophorectomy	7E047-1	7E04711	302191001
+5100101000006116	laparoscopic total hysterectomy	^ESCTLA510010		236888001
+7108311000006116	history of total hysterectomy with bilateral salpingo-oophorectomy	^ESCTHI710831		429763009
+3525282012	no vaginal papanicolaou smear required due to history of hysterectomy	^ESCT1170558		71911000119106
+12058971000006110	total abdominal hysterectomy using intrafascial technique	^ESCT1205897		767611008
+6328531000006119	trophoblast, hysterectomy surgical margin, involved by tumour	^ESCTTR632853		369654003
+2883971000006114	hysterectomy for removal of hydatidiform mole	^ESCTHY288397		24068006
+7489111000006114	laparoscopic assisted vaginal hysterectomy with repair of cystocoele	^ESCTLA748911		608805000
+7640821000006114	laparoscopic radical hysterectomy using robotic assistance	^ESCTLA764082		708878003
+7328091000006110	total laparoscopic excision of uterus by abdominal approach	^ESCTTO732809		446679008
+7565821000006117	sampling of vagina for papanicolaou smear after benign hysterectomy	^ESCTSA756582		702735009
+436641000006115	abdominal hysterectomy and excision of periuterine tissue	7E041	7E04100	447771005
+1924981000006111	subtotal abdominal hysterectomy and bilateral salpingo-oophorectomy	7E04H	7E04H00	918381000000103
+114581000006112	tah - total abdominal hysterectomy and bilateral salpingo-oophorectomy	7E045-2	7E04512	116144002
+12058961000006115	vaginal total hysterectomy	^ESCT1205896		767610009
+58151000006116	ward vaginal hysterectomy	7E05y-1	7E05y11	265056007
+273914013	other specified other excision of adnexa of uterus	7E12y	7E12y00	176757001
+6583871000006117	specimen from ovary obtained by hysterectomy with right salpingo-oophorectomy	^ESCTSP658387		397245007
+871631000006112	hysterectomy + fetus removal	7F1A0-99	7F1A099	41059002
+486325012	schauta radical vaginal hysterectomy	7E05-1	7E05.11	35955002
+401561016	no smear - benign hysterectomy	685H	685H.00	268544001
+273886018	bilateral excision of adnexa of uterus	7E10	7E10.00	176901003
+184456016	radical hysterectomy	7E046	7E04600	116142003
+3537342013	supracervical hysterectomy with left salpingo-oophorectomy	^ESCT1168344		739669004
+7527121000006111	vaginal hysterectomy with repair of cystocele and rectocele	^ESCTVA752712		699789005
+7101171000006119	history of radical hysterectomy	^ESCTHI710117		429290001
+7232921000006115	partial hysterectomy for removal of cornual ectopic pregnancy	^ESCTPA723292		440148001
+8450661000006112	abdominal hysterectomy with sacrocolpopexy using mesh	^ESCTAB845066		1076221000000107
+6474991000006113	supracervical hysterectomy without removal of tube or ovary	^ESCTSU647499		387644004
+6475001000006118	bell-buettner operation for subtotal abdominal hysterectomy	^ESCTBE647500		387645003
+6722421000006117	college of american pathologists cancer checklist; fallopian tube: unilateral salpingectomy, salpingo-oophorectomy, or hysterectomy with salpingo-oophorectomy	^ESCTCO672242		406059002
+6626281000006110	trophoblastic tissue obtained by hysterectomy	^ESCTTR662628		399658009
+5101691000006113	emergency caesarean hysterectomy	^ESCTEM510169		236987005
+5989621000006111	hysterectomy and unilateral salpingo-oophorectomy sample	^ESCTHY598962		309500004
+3415051000006119	anaesthesia for vaginal hysterectomy	^ESCTAN341505		56315007
+6474951000006119	partial hysterectomy	^ESCTPA647495		387643005
+6328551000006114	trophoblast, hysterectomy cervical/vaginal surgical margin, involved by tumour	^ESCTTR632855		369655002
+8033341000006118	vaginal papanicolaou smear after hysterectomy for non-malignant condition done	^ESCTVA803334		106411000119105
+3526798012	abdominal hysterectomy with sacrocolpopexy using mesh	^ESCT1167385		737099004
+5989661000006117	specimen from uterus obtained by hysterectomy	^ESCTSP598966		309501000
+7565811000006113	sampling of vagina for papanicolaou smear after hysterectomy for dysplasia of cervix	^ESCTSA756581		702734008
+5100111000006118	laparoscopic supracervical hysterectomy	^ESCTLA510011		236889009
+3517498019	no vaginal pap smear required due to history of hysterectomy	^ESCT1170557		71911000119106
+12723321000006117	abdominal excision of uterus nos	^ESCT1272332		547111000000105
+3537350016	total hysterectomy with left salpingo-oophorectomy	^ESCT1168348		739673001
+9322181000006116	history of total hysterectomy without abnormal cervical papanicolaou smear	^ESCTHI932218		1.07388910001e+16
+3161301000006119	total hysterectomy after cesarean delivery	^ESCTTO316130		41059002
+3733151000006117	laparoscopic-assisted vaginal hysterectomy	^ESCTLA373315		75835007
+1658651000006116	subtotal abdominal hysterectomy with conservation of ovaries	7E04F	7E04F00	176795006
+64601000006112	vaginal hysterocolpectomy and excision of periuterine tissue	7E050	7E05000	448539002
+436581000006110	abdominal excision of uterus	7E04	7E04.00	116141005
+273907011	unilateral excision of adnexa of uterus nos	7E11z	7E11z00	176907004
+1894271000006116	subtotal abdominal hysterectomy and right salpingo-oophorectomy	EMISNQSU75		1894271000006100
+2548931012	cervical smear to continue post hysterectomy	9O8W	9O8W.00	416419004
+393622010	vaginal hysterectomy	7E05-2	7E05.12	265056007
+7565801000006110	sampling of vagina for papanicolaou smear after hysterectomy for malignant disease	^ESCTSA756580		702733002
+3002881000006117	excision of septum of uterus	^ESCTEX300288		31191000
+7381821000006115	excision of adnexa of uterus	^ESCTEX738182		450669005
+7093951000006116	history of hysterectomy for benign disease	^ESCTHI709395		428804004
+6386391000006118	glandular cells status post hysterectomy	^ESCTGL638639		373876002
+2948721000006119	total hysterectomy with unilateral removal of ovary	^ESCTTO294872		27950001
+3380441000006111	excision of uterus and supporting structures	^ESCTEX338044		54261007
+4351671000006118	specimen from endometrium obtained by hysterectomy	^ESCTSP435167		122705002
+6208891000006115	vaginal panhysterectomy	^ESCTVA620889		359980002
+5729281000006112	hysterectomy and foetus removal	^ESCTHY572928		288042004
+445900015	abdominal hysterocolpectomy	7E042	7E04200	309879006
+436681000006114	abdominal hysterectomy and right salpingo-oophorectomy	7E047	7E04700	302190000
+1701941000006119	laparoscopy assisted vaginal hysterectomy with bilateral salpingo-oophorectomy	7E056	7E05600	441820006
+1925001000006119	subtotal abdominal hysterectomy and left salpingo-oophorectomy	7E04K	7E04K00	918431000000109

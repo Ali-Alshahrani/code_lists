@@ -1,0 +1,181 @@
+medcode	readterm	lablel	class	subclass	stroke	tia	cerebro
+94482	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	1	stroke	ischaemic stroke	1		1
+91627	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	1	stroke	ischaemic stroke	1		1
+73901	[X]Cerebrovascular diseases	1	cerebrovascular disease				1
+96630	[X]Intracerebral haemorrhage in hemisphere, unspecified	1	stroke	haemorrhagic stroke	1		1
+92036	[X]Occlusion and stenosis of other cerebral arteries	1	cerebrovascular disease				1
+90572	[X]Occlusion and stenosis of other precerebral arteries	1	cerebrovascular disease				1
+53745	[X]Other cerebral infarction	1	stroke	ischaemic stroke	1		1
+53810	[X]Other intracerebral haemorrhage	1	stroke	haemorrhagic stroke	1		1
+93459	[X]Other lacunar syndromes	1	stroke	ischaemic stroke	1		1
+65745	[X]Other subarachnoid haemorrhage	1	stroke	haemorrhagic stroke	1		1
+63746	[X]Other transnt cerebral ischaemic attacks+related syndroms	1	tia	ischaemic stroke	1	1	1
+110337	[X]Sequelae of stroke,not specfd as h'morrhage or infarction	4	stroke	other	1		1
+108630	[X]Subarachnoid haemorrh from intracranial artery, unspecif	1	stroke	haemorrhagic stroke	1		1
+108668	[X]Subarachnoid haemorrhage from other intracranial arteries	1	stroke	haemorrhagic stroke	1		1
+105520	Admission to stroke unit	4	stroke	ischaemic stroke	1		1
+1195	Amaurosis fugax	1	cerebrovascular disease				1
+19280	Anterior cerebral artery syndrome	1	stroke	ischaemic stroke	1		1
+46316	Basal nucleus haemorrhage	1	stroke	haemorrhagic stroke	1		1
+32447	Basilar artery occlusion	1	stroke	ischaemic stroke	1		1
+8443	Brain stem stroke syndrome	1	stroke	ischaemic stroke	1		1
+25615	Brainstem infarction	1	stroke	ischaemic stroke	1		1
+15252	Brainstem infarction NOS	1	stroke	ischaemic stroke	1		1
+44765	Carotid artery syndrome hemispheric	1	cerebrovascular disease				1
+105738	Carotid territory transient ischaemic attack	1	tia	ischaemic stroke	1	1	1
+100639	Central post-stroke pain	4	stroke	ischaemic stroke	1		1
+40758	Cereb infarct due unsp occlus/stenos precerebr arteries	1	stroke	ischaemic stroke	1		1
+13564	Cerebellar haemorrhage	1	stroke	haemorrhagic stroke	1		1
+5602	Cerebellar infarction	1	stroke	ischaemic stroke	1		1
+17322	Cerebellar stroke syndrome	1	stroke	ischaemic stroke	1		1
+10189	Cerebral amyloid angiopathy	1	cerebrovascular disease				1
+4635	Cerebral aneurysm, nonruptured	1	cerebrovascular disease				1
+8837	Cerebral arterial occlusion	1	cerebrovascular disease	ischaemic stroke			1
+11171	Cerebral atherosclerosis	1	cerebrovascular disease				1
+34758	Cerebral embolus	1	stroke	ischaemic stroke	1		1
+5682	Cerebral haemorrhage following injury	1	stroke	haemorrhagic stroke	1		1
+46545	Cerebral haemorrhage following injury NOS	1	stroke	haemorrhagic stroke	1		1
+23671	Cerebral infarct due to thrombosis of precerebral arteries	1	stroke	ischaemic stroke	1		1
+27975	Cerebral infarction due to embolism of cerebral arteries	1	stroke	ischaemic stroke	1		1
+24446	Cerebral infarction due to embolism of precerebral arteries	1	stroke	ischaemic stroke	1		1
+36717	Cerebral infarction due to thrombosis of cerebral arteries	1	stroke	ischaemic stroke	1		1
+3149	Cerebral infarction NOS	1	stroke	ischaemic stroke	1		1
+16517	Cerebral thrombosis	1	stroke	ischaemic stroke	1		1
+33543	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	1	stroke	ischaemic stroke	1		1
+2418	Cerebrovascular disease	1	cerebrovascular disease				1
+10062	Cerebrovascular disease NOS	1	cerebrovascular disease				1
+31595	Cortical haemorrhage	1	stroke	haemorrhagic stroke	1		1
+5363	CVA - cerebral artery occlusion	1	cerebrovascular disease	ischaemic stroke			1
+6960	CVA - cerebrovascular accid due to intracerebral haemorrhage	1	stroke	haemorrhagic stroke	1		1
+47607	CVA - cerebrovascular accident in the puerperium	1	stroke	ischaemic stroke	1		1
+6116	CVA - Cerebrovascular accident unspecified	1	stroke	ischaemic stroke	1		1
+1298	CVA unspecified	1	stroke	ischaemic stroke	1		1
+30045	External capsule haemorrhage	1	stroke	haemorrhagic stroke	1		1
+36178	Extradural haemorrhage - nontraumatic	1	stroke	haemorrhagic stroke	1		1
+27661	Extradural haemorrhage following injury	1	stroke	haemorrhagic stroke	1		1
+12555	Generalised ischaemic cerebrovascular disease NOS	1	stroke	ischaemic stroke	1		1
+28914	Haemorrhagic stroke monitoring	4	stroke	haemorrhagic stroke	1		1
+569	Infarction - cerebral	1	stroke	ischaemic stroke	1		1
+57495	Infarction - precerebral	1	stroke	ischaemic stroke	1		1
+26424	Infarction of basal ganglia	1	stroke	ischaemic stroke	1		1
+40338	Internal capsule haemorrhage	1	stroke	haemorrhagic stroke	1		1
+5051	Intracerebral haemorrhage	1	stroke	haemorrhagic stroke	1		1
+31060	Intracerebral haemorrhage in hemisphere, unspecified	1	stroke	haemorrhagic stroke	1		1
+3535	Intracerebral haemorrhage NOS	1	stroke	haemorrhagic stroke	1		1
+30202	Intracerebral haemorrhage, intraventricular	1	stroke	haemorrhagic stroke	1		1
+57315	Intracerebral haemorrhage, multiple localized	1	stroke	haemorrhagic stroke	1		1
+20284	Intracranial haemorrhage NOS	1	stroke	haemorrhagic stroke	1		1
+23361	Late effects of cerebrovascular disease	4	cerebrovascular disease				1
+5185	Lateral medullary syndrome	1	stroke	ischaemic stroke	1		1
+9985	Left sided cerebral infarction	1	stroke	ischaemic stroke	1		1
+7780	Left sided CVA	1	stroke	ischaemic stroke	1		1
+28314	Left sided intracerebral haemorrhage, unspecified	1	stroke	haemorrhagic stroke	1		1
+107440	Lobar cerebral haemorrhage	1	stroke	haemorrhagic stroke	1		1
+18689	Middle cerebral artery syndrome	1	stroke	ischaemic stroke	1		1
+98642	Multiple and bilateral precerebral arterial occlusion	1	stroke	ischaemic stroke	1		1
+57527	Occlusion and stenosis of anterior cerebral artery	1	cerebrovascular disease				1
+55602	Occlusion and stenosis of cerebellar arteries	1	cerebrovascular disease				1
+51759	Occlusion and stenosis of middle cerebral artery	1	cerebrovascular disease				1
+65770	Occlusion and stenosis of posterior cerebral artery	1	cerebrovascular disease				1
+71274	Occlusion+stenosis of multiple and bilat cerebral arteries	1	stroke	ischaemic stroke	1		1
+109679	Old cerebral infarction on imaging	1	stroke	ischaemic stroke	1		1
+31805	Other and unspecified intracranial haemorrhage	1	stroke	haemorrhagic stroke	1		1
+52968	Other cerebral haemorrhage following injury	1	stroke	haemorrhagic stroke	1		1
+42283	Other cerebral haemorrhage following injury NOS	1	stroke	haemorrhagic stroke	1		1
+13577	Other cerebrovascular disease	1	cerebrovascular disease				1
+37493	Other cerebrovascular disease NOS	1	cerebrovascular disease				1
+34117	Other cerebrovascular disease OS	1	cerebrovascular disease				1
+51326	Other precerebral artery occlusion	1	cerebrovascular disease	ischaemic stroke			1
+51311	Other specified cerebrovascular disease	1	cerebrovascular disease				1
+19354	Other transient cerebral ischaemia	1	tia	ischaemic stroke	1	1	1
+7912	Pontine haemorrhage	1	stroke	haemorrhagic stroke	1		1
+19260	Posterior cerebral artery syndrome	1	stroke	ischaemic stroke	1		1
+45781	Precerebral arterial occlusion	1	cerebrovascular disease	ischaemic stroke			1
+71585	Precerebral artery occlusion NOS	1	cerebrovascular disease				1
+5184	Precerebral atherosclerosis	1	cerebrovascular disease				1
+33499	Pure motor lacunar syndrome	1	stroke	ischaemic stroke	1		1
+51767	Pure sensory lacunar syndrome	1	cerebrovascular disease				1
+10504	Right sided cerebral infarction	1	stroke	ischaemic stroke	1		1
+12833	Right sided CVA	1	stroke	ischaemic stroke	1		1
+19201	Right sided intracerebral haemorrhage, unspecified	1	stroke	haemorrhagic stroke	1		1
+31941	Rupture of syphilitic cerebral aneurysm	1	cerebrovascular disease	haemorrhagic stroke			1
+39403	Sequelae of cerebral infarction	4	stroke	ischaemic stroke	1		1
+48149	Sequelae of intracerebral haemorrhage	4	stroke	haemorrhagic stroke	1		1
+43451	Sequelae of other nontraumatic intracranial haemorrhage	4	stroke	haemorrhagic stroke	1		1
+6228	Sequelae of stroke,not specfd as h'morrhage or infarction	4	stroke	other	1		1
+44740	Sequelae of subarachnoid haemorrhage	4	stroke	haemorrhagic stroke	1		1
+51138	Sequelae/other + unspecified cerebrovascular diseases	4	cerebrovascular disease				1
+1469	Stroke and cerebrovascular accident unspecified	1	stroke	ischaemic stroke	1		1
+6155	Stroke due to cerebral arterial occlusion	1	stroke	ischaemic stroke	1		1
+18604	Stroke due to intracerebral haemorrhage	1	stroke	haemorrhagic stroke	1		1
+56279	Stroke in the puerperium	1	stroke	ischaemic stroke	1		1
+6253	Stroke unspecified	1	stroke	ischaemic stroke	1		1
+18686	Stroke/CVA annual review	4	stroke	ischaemic stroke	1		1
+28753	Stroke/transient ischaemic attack monitoring first letter	4	stroke	ischaemic stroke	1		1
+17326	Subarachnoid haemorrh from intracranial artery, unspecif	1	stroke	haemorrhagic stroke	1		1
+1786	Subarachnoid haemorrhage	1	stroke	haemorrhagic stroke	1		1
+28807	Subarachnoid haemorrhage following injury	1	stroke	haemorrhagic stroke	1		1
+42331	Subarachnoid haemorrhage from anterior communicating artery	1	stroke	haemorrhagic stroke	1		1
+41910	Subarachnoid haemorrhage from basilar artery	1	stroke	haemorrhagic stroke	1		1
+56007	Subarachnoid haemorrhage from carotid siphon and bifurcation	1	stroke	haemorrhagic stroke	1		1
+19412	Subarachnoid haemorrhage from middle cerebral artery	1	stroke	haemorrhagic stroke	1		1
+9696	Subarachnoid haemorrhage from posterior communicating artery	1	stroke	haemorrhagic stroke	1		1
+60692	Subarachnoid haemorrhage from vertebral artery	1	stroke	haemorrhagic stroke	1		1
+23580	Subarachnoid haemorrhage NOS	1	stroke	haemorrhagic stroke	1		1
+4273	Subdural haemorrhage - nontraumatic	1	stroke	haemorrhagic stroke	1		1
+6569	Subdural haemorrhage following injury	1	stroke	haemorrhagic stroke	1		1
+18912	Subdural haemorrhage NOS	1	stroke	haemorrhagic stroke	1		1
+68800	Subdural h'ge inj no open intracranial wnd + unspec consc	1	stroke	haemorrhagic stroke	1		1
+504	Transient cerebral ischaemia	1	tia	ischaemic stroke	1	1	1
+15788	Transient cerebral ischaemia NOS	1	tia	ischaemic stroke	1	1	1
+1895	Transient cerebral ischaemia NOS	1	tia	ischaemic stroke	1	1	1
+1433	Transient ischaemic attack	1	tia	ischaemic stroke	1	1	1
+42720	Transient ischaemic deafness	4	tia	ischaemic stroke	1	1	1
+40847	Vertebral artery occlusion	1	tia	ischaemic stroke	1	1	1
+21118	Vertebro-basilar artery syndrome	1	stroke	ischaemic stroke	1		1
+10794	Vertebrobasilar insufficiency	1	tia	ischaemic stroke	1	1	1
+2417	Vertebro-basilar insufficiency	1	tia	ischaemic stroke	1	1	1
+47642	Wallenberg syndrome	1	stroke	ischaemic stroke	1		1
+95347	[X]Other vascular syndroms/brain in cerebrovasculr diseases	1	cerebrovascular disease				1
+31704	Occlusion/stenosis cerebral arts not result cerebral infarct	1	cerebrovascular disease				1
+70536	Acute cerebrovascular insufficiency NOS	1	stroke	ischaemic stroke	1		1
+40053	Generalised ischaemic cerebrovascular disease NOS	1	stroke	ischaemic stroke	1		1
+24385	Chronic cerebral ischaemia	1	cerebrovascular disease				1
+16507	Intermittent cerebral ischaemia	1	tia	ischaemic stroke	1	1	1
+55247	Impending cerebral ischaemia	4	cerebrovascular disease				1
+107725	Reversible cerebral vasoconstriction syndrome	1	tia	ischaemic stroke	1	1	1
+99367	[X]Other cerebrovascular disorders in diseases CE	1	cerebrovascular disease				1
+111096	[X]Other specified cerebrovascular diseases	1	cerebrovascular disease				1
+114606	Aneurysm and dissection of precerebral artery	1	cerebrovascular disease				1
+39344	Cereb infarct due cerebral venous thrombosis, nonpyogenic	1	stroke	ischaemic stroke	1		1
+5365	Cerebral artery aneurysm operations	4	cerebrovascular disease				1
+101733	Cerebral vein thrombosis	1	cerebrovascular disease				1
+55974	Cerebral venous thrombosis in the puerperium	1	cerebrovascular disease				1
+10625	Clipping of aneurysm of cerebral artery	4	cerebrovascular disease				1
+22018	Dissection of cerebral arteries, nonruptured	1	cerebrovascular disease				1
+45897	Excision of aneurysm of cerebral artery	4	cerebrovascular disease				1
+58757	Obliteration of aneurysm of cerebral artery NEC	4	cerebrovascular disease				1
+50260	Operation on cerebral artery/ circle of Willis aneurysm NOS	4	cerebrovascular disease				1
+63903	Operation on cerebral artery/ circle of Willis aneurysm OS	4	cerebrovascular disease				1
+30415	Percutaneous coil embolisation of cerebral artery aneurysm	4	cerebrovascular disease				1
+98188	Small vessel cerebrovascular disease	1	cerebrovascular disease				1
+63830	Stenosis of precerebral arteries	1	cerebrovascular disease				1
+37823	Ligation of aneurysm of cerebral artery NEC	4	cerebrovascular disease				1
+31876	Aneurysm of common carotid art	1	cerebrovascular disease				1
+50678	Aneurysm of external carotid artery	1	cerebrovascular disease				1
+36390	Aneurysm of internal carotid artery	1	cerebrovascular disease				1
+12634	Carotid artery dissection	1	cerebrovascular disease				1
+2652	Carotid artery stenosis	1	cerebrovascular disease				1
+12733	Carotid endarterectomy and patch	4	cerebrovascular disease				1
+35916	Endarterectomy and patch repair of carotid artery	4	cerebrovascular disease				1
+2654	Endarterectomy of carotid artery NEC	4	cerebrovascular disease				1
+36145	Operation on aneurysm of carotid artery	4	cerebrovascular disease				1
+29973	Percutaneous transluminal angioplasty of carotid artery	4	cerebrovascular disease				1
+2156	Stenosis, carotid artery	1	cerebrovascular disease				1
+4152	Thrombosis, carotid artery	1	cerebrovascular disease				1
+37199	Carotid artery atherosclerosis	1	cerebrovascular disease				1
+49715	Phlebitis and thrombophlebitis of intracranial sinuses	1	cerebrovascular disease				1
+66489	Endarterectomy and patch repair of vertebral artery	4	cerebrovascular disease				1
+68906	Endarterectomy of vertebral artery NEC	4	cerebrovascular disease				1
+55074	Percutaneous transluminal angioplasty of vertebral artery	4	cerebrovascular disease				1
+97122	Vertebral artery dissection	1	cerebrovascular disease				1

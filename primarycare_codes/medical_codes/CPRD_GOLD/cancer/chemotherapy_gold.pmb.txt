@@ -1,0 +1,54 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+15386	9866	87	0	0	7L16100	Intravenous chemotherapy	February 2009
+105336	40	0	0	0	7L1d400	Electrochemotherapy	December 2012
+64997	314	1	0	0	7L1d.00	Delivery of chemotherapy for neoplasm	February 2009
+70290	1	0	6	0	5A7..00	Radiomimetic chemotherapy	February 2009
+20443	849	5	0	0	ZV67200	[V]Chemotherapy follow-up	February 2009
+104142	408	0	0	0	8BAl.00	Neoadjuvant chemotherapy	May 2012
+73729	8	0	0	0	ZVu0D00	[X]Follow-up examinat after chemother for other conditions	February 2009
+19467	437	0	0	0	8BAJ.00	Pre-operative chemotherapy	February 2009
+113131	3	0	0	0	8F84.00	Convalescence after chemother.	December 2018
+22490	222	0	0	0	8BAL.00	Combined pre-operative chemotherapy and radiotherapy	February 2009
+95424	15	0	0	0	7L1dz00	Delivery of chemotherapy for neoplasm NOS	February 2009
+783	152890	2099	16	0	8BAD.00	Chemotherapy	February 2009
+101693	257	0	0	0	8CRC.00	Cancer chemotherapy management plan	February 2011
+60682	43	0	0	0	ZV6B100	[V]Follow-up exam after chemotherapy for other conditions	February 2009
+108561	41	0	0	0	7Q0J.00	Other chemotherapy drugs	August 2014
+111213	3	0	0	0	7Q0J200	Other specified other chemotherapy drugs	August 2016
+69387	0	0	2	0	5974.00	Ext.beam-surgery+chemotherapy	February 2009
+59801	225	0	0	0	14P7.00	H/O: chemotherapy	February 2009
+18675	1192	1	0	0	8BAK.00	Post-operartive chemotherapy	February 2009
+73172	3	0	71	0	5A7Z.00	Radio-chemotherapy NOS	February 2009
+94431	1	0	0	0	7L1ez00	Delivery of oral chemotherapy for neoplasm NOS	February 2009
+107734	2	0	0	0	7L1d200	Deliver simple parenteral chemother neoplas first attendance	February 2014
+51959	222	0	0	0	8BAI.00	Ambulatory chemotherapy	February 2009
+28809	397	0	0	0	8BAM.00	Combined post-operative chemotherapy and radiotherapy	February 2009
+46028	800	0	0	0	8BAY.00	Date chemotherapy stopped	February 2009
+113708	19	0	0	0	7L1d300	Delivery subsequent element cycle chemotherapy for neoplasm	May 2019
+30283	1970	11	0	0	7B2C700	Intravesical install chemotherapeutic agent for malignancy	February 2009
+42854	319	0	0	0	Z6E2.00	Photochemotherapy	February 2009
+5019	17627	82	1	0	8BAD000	Cancer chemotherapy	February 2009
+35609	30	0	0	0	ZV66200	[V]Convalescence after chemotherapy	February 2009
+5333	2226	32	0	0	65N..00	Prophylactic chemotherapy	February 2009
+51781	592	8	0	0	ZVu3L00	[X]Other chemotherapy	February 2009
+28071	377	0	0	0	7L10200	Continuous infusion of chemotherapy	February 2009
+45500	5434	2	0	0	ZV07300	[V]Other prophylactic chemotherapy	February 2009
+30264	1160	7	0	0	7L19300	Subcutaneous chemotherapy	February 2009
+90743	108	0	0	0	7L1e.00	Delivery of oral chemotherapy for neoplasm	February 2009
+51787	8	0	17	0	5975.00	Ext.beam + chemotherapy	February 2009
+40490	418	17	0	0	7046200	Intrathecal chemotherapy	February 2009
+96310	6	0	0	0	7L1dy00	Other specified delivery of chemotherapy for neoplasm	April 2009
+25479	210	0	0	0	ZV67800	[V]Follow-up examin after chemotherapy for malign neoplasm	February 2009
+31489	1133	10	0	0	ZV58800	[V]Chemotherapy session for neoplasm	February 2009
+18079	4005	417	0	0	8HB7.00	Chemotherapy follow-up	February 2009
+105864	5	0	0	0	ZV1C300	[V]Personal history of chemotherapy for neoplastic disease	March 2013
+100865	21	0	0	0	7G0E300	Combined photochemotherapy and UVB light therapy to skin	November 2010
+37123	9153	1	0	0	7L18200	Intramuscular chemotherapy	February 2009
+14887	13213	1071	11	0	8BA5.00	Oral chemotherapy	February 2009
+89452	4	0	0	0	7L1b.00	Procurement drugs for chemotherapy for neoplasm in bands 1-5	February 2009
+53477	29	0	0	0	ZV67811	[V]Follow-up examination after chemotherapy for leukaemia	February 2009
+26149	6630	3	0	0	8CV1.00	Chemotherapy started	February 2009
+18832	3254	0	0	0	8BAa.00	Date chemotherapy completed	February 2009
+20381	237	2	0	0	ZV58100	[V]Maintenance chemotherapy	February 2009
+93602	54	1	0	0	7G0E200	Combined photochemotherapy and UVA light therapy to skin	February 2009
+34155	284	1	0	0	65NZ.00	Prophylactic chemotherapy NOS	February 2009

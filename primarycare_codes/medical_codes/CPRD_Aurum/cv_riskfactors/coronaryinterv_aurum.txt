@@ -1,0 +1,64 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	observations
+6869441000006114	PCI - Percutaneous coronary intervention	^ESCTPC686944		415070008	700
+8440271000006117	PCI (percutaneous coronary intervention) record	^ESCTPC844027		1067211000000108	4
+13961761000006118	PCI (percutaneous coronary intervention) of LCA (left coronary artery)	^ESCT1396176		868245005	20
+13961781000006111	PCI (percutaneous coronary intervention) of left anterior descending branch of coronary artery	^ESCT1396178		868246006	70
+13961801000006110	PCI (percutaneous coronary intervention) of circumflex branch of left coronary artery	^ESCT1396180		868247002	10
+13961821000006117	PCI (percutaneous coronary intervention) of RCA (right coronary artery)	^ESCT1396182		868248007	100
+8327951000006114	Fluoroscopy guided primary percutaneous coronary intervention	^ESCTFL832795		914231000000100	30
+5040091000006112	CABG - Coronary artery bypass graft	^ESCTCA504009		232717009	80
+5040151000006119	CABG x 1 - Coronary artery bypass graft x 1	^ESCTCA504015		232719007	8
+5040171000006112	CABG x 2 - Coronary artery bypass grafts x 2	^ESCTCA504017		232720001	30
+5040201000006111	CABG x 3 - Coronary artery bypass grafts x 3	^ESCTCA504020		232721002	70
+5040221000006118	CABG x 4 - Coronary artery bypass grafts x 4	^ESCTCA504022		232722009	40
+5040241000006113	CABG x 5 - Coronary artery bypass grafts x 5	^ESCTCA504024		232723004	10
+6851841000006118	Emergency CABG	^ESCTEM685184		414088005	10
+271169016	Coronary artery bypass graft	792D	792D.00	232717009	40000
+348644016	Coronary artery bypass graft operations	792-1	792..11	232717009	400000
+451132018	[V]Presence of coronary artery bypass graft	ZV45K	ZV45K00	399261000	8000
+1227364015	History of coronary artery bypass grafting	ZV45K-1	ZV45K11	399261000	10000
+2160096015	Coronary artery bypass graft occlusion	SP076	SP07600	408546009	8000
+161481000006112	Aortocoronary artery bypass graft with saphenous vein graft	7920y	7920y00	3546002	20000
+1550991000000116	Coronary artery bypass graft operation planned	8L40	8L40.00	698378009	2000
+2771011000006114	Aortocoronary artery bypass graft with vein graft	^ESCTAO277101		17073005	6
+3494951000006115	Aortocoronary artery bypass graft repeated	^ESCTAO349495		61236006	1
+4317901000006119	Internal mammary-coronary artery bypass graft	^ESCTIN431790		119564002	20
+4317911000006116	Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery	^ESCTCO431791		119565001	10
+5040111000006115	Coronary artery bypass grafting	^ESCTCO504011		232717009	90
+5040141000006116	Coronary artery bypass graft x 1	^ESCTCO504014		232719007	60
+5040161000006117	Coronary artery bypass grafts x 2	^ESCTCO504016		232720001	1000
+5040181000006110	Coronary artery bypass grafts x 3	^ESCTCO504018		232721002	3000
+5040211000006114	Coronary artery bypass grafts x 4	^ESCTCO504021		232722009	1000
+5040231000006115	Coronary artery bypass grafts x 5	^ESCTCO504023		232723004	30
+5040251000006110	Coronary artery bypass grafts greater than 5	^ESCTCO504025		232724005	4
+6360441000006119	Recurrent angina after coronary artery bypass graft	^ESCTRE636044		371810009	5
+7106991000006111	Coronary arteriosclerosis of coronary artery bypass graft	^ESCTCO710699		429673002	3
+7298951000006115	Arteriosclerosis of coronary artery bypass graft of transplanted heart	^ESCTAR729895		444855007	7
+7508011000006110	Coronary artery bypass grafting planned	^ESCTCO750801		698378009	1
+7508021000006119	CABG (coronary artery bypass graft) operation planned	^ESCTCA750802		698378009	30
+7855741000006112	Atherosclerosis of autologous coronary artery bypass graft	^ESCTAT785574		724431008	1
+8041051000006118	History of placement of stent in coronary artery bypass graft	^ESCTHI804105		130541000119100	20
+12125951000006116	Arteriosclerosis of autologous vein coronary artery bypass graft with angina	^ESCT1212595		15960581000119102	1
+12125971000006114	Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft	^ESCT1212597		15960661000119107	2
+13961481000006115	Coronary artery bypass grafting using radial artery graft	^ESCT1396148		868227005	1
+13961541000006110	Coronary artery bypass graft using free LIMA (left internal mammary artery) graft	^ESCT1396154		868231004	8
+13961551000006112	Coronary artery bypass graft using free left internal mammary artery graft	^ESCT1396155		868231004	4
+14055221000006116	Coronary artery bypass graft with saphenous vein graft	^ESCT1405522		3546002	1
+14179491000006111	Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart	^ESCT1417949		15960341000119104	2
+14453321000006115	Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to intermediate artery	^ESCT1445332		1155686006	3
+14466301000006111	Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to diagonal branch of anterior descending branch of left coronary artery	^ESCT1446630		1156983007	2
+14636541000006114	Angiography of coronary artery bypass graft	^ESCT1463654		252427007	1
+2535176014	Percutaneous coronary intervention	792E	792E.00	415070008	70000
+2535177017	Emergency percutaneous coronary intervention	792E0	792E000	414089002	4000
+6718021000006116	History of percutaneous coronary intervention	^ESCTHI671802		405741001	9
+13961751000006115	Percutaneous coronary intervention of left coronary artery	^ESCT1396175		868245005	40
+13961771000006113	Percutaneous coronary intervention of anterior descending branch of left coronary artery	^ESCT1396177		868246006	10
+13961791000006114	Percutaneous coronary intervention of circumflex branch of left coronary artery	^ESCT1396179		868247002	4
+13961811000006113	Percutaneous coronary intervention of right coronary artery	^ESCT1396181		868248007	40
+2676631000006114	PTCA - Percutaneous transluminal coronary angioplasty	^ESCTPT267663		11101003	40
+89711000006118	Percutaneous transluminal coronary angioplasty	7928	7928.00	11101003	100000
+3883421000006114	Percutaneous transluminal coronary angioplasty, multiple vessels	^ESCTPE388342		85053006	50
+6583111000006116	Percutaneous transluminal coronary angioplasty by rotoablation	^ESCTPE658311		397193006	1
+7086511000006119	History of percutaneous transluminal coronary angioplasty	^ESCTHI708651		428308007	1
+7100421000006116	Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty	^ESCTRE710042		429245005	1
+12009351000006117	Percutaneous transluminal coronary angioplasty using drug eluting balloon catheter	^ESCT1200935		763725002	5

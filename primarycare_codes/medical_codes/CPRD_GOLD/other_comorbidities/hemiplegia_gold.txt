@@ -1,0 +1,40 @@
+medcode	readcode	readterm	hemiplegia
+35540	F240100	Spastic tetraplegia	1
+8282	2836.00	O/E - quadriplegia	1
+2019	F234.00	Infantile hemiplegia NOS	1
+21249	F232.00	Congenital quadriplegia	1
+3293	F223.00	Right hemiplegia	1
+39085	F220.00	Flaccid hemiplegia	1
+25324	F230.00	Congenital diplegia	1
+3063	F241.00	Paraplegia	1
+1749	F22..00	Hemiplegia	1
+36133	2835.00	O/E - paraplegia	1
+16117	F240.11	Tetraplegia	1
+27966	F231.00	Congenital hemiplegia	1
+5512	F230100	Cerebral palsy with spastic diplegia	1
+9375	F241100	Spastic paraplegia	1
+8933	F222.00	Left hemiplegia	1
+22135	2833.00	O/E - hemiplegia	1
+3514	F141.00	Hereditary spastic paraplegia	1
+46175	F241000	Flaccid paraplegia	1
+9271	F240.00	Quadriplegia	1
+59494	N231011	Massive muscular calcification associated with paraplegia	1
+37160	F230000	Congenital paraplegia	1
+99040	F230.11	Paraplegia - congenital	1
+45551	F230z00	Congenital diplegia NOS	1
+46128	F240000	Flaccid tetraplegia	1
+48126	F232.11	Tetraplegia - congenital	1
+58576	F038.00	Tropical spastic paraplegia	1
+20122	F221.00	Spastic hemiplegia	1
+8492	F22z.00	Hemiplegia NOS	1
+104775	F230111	Spastic diplegic cerebral palsy	1
+105133	F2B1.00	Spastic hemiplegic cerebral palsy	1
+40407	2982.00	O/E - hemiplegic posture	1
+102734	2984.00	O/E - paraplegic in extension	1
+55371	2983.00	O/E - paraplegic in flexion	1
+104580	F2B0.00	Spastic quadriplegic cerebral palsy	1
+52659	F23y400	Ataxic diplegic cerebral palsy	1
+2848	F24y.00	Other specified paralytic syndromes	1
+98465	Fyu9100	[X]Other specified paralytic syndromes	1
+39630	F24..00	Other paralytic syndromes	1
+53755	Fyu9.00	[X]Cerebral palsy and other paralytic syndromes	1

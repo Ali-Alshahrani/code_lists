@@ -1,0 +1,26 @@
+medcode	desc	readcode	clinicalevents	testevents	databaserelease
+107231	target body mass index	22KA.00	14	0	November 2013
+108478	obese class iii (bmi equal to or greater than 40.0)	22KE.00	1123	0	August 2014
+8105	body mass index	22K..00	4479749	232	February 2009
+44291	body mass index 20-24 - normal	22K8.00	177631	64	February 2009
+24496	body mass index less than 20	22K6.00	43473	5	February 2009
+32914	body mass index low k/m2	22K3.00	50999	0	February 2009
+101047	body mass index centile	22K9.00	505	0	December 2010
+103499	overweight	22AA.00	1969	0	January 2012
+102514	risk health associated overweight and obesity, at high risk	66CN.00	12	0	June 2011
+14763	weight steady	1621.00	49840	0	February 2009
+96348	counterweight programme	6B4..11	72	0	April 2009
+28937	body mass index high k/m2	22K2.00	414060	0	February 2009
+28946	body mass index normal k/m2	22K1.00	389710	1	February 2009
+22556	body mass index 40+ - severely obese	22K7.00	73573	5	February 2009
+106010	risk health associ overweight and obesity, at very high risk	66CP.00	1890	0	April 2013
+102150	risk health associ overweight and obesity, at increased risk	66CM.00	470	0	April 2011
+9015	body mass index index 25-29 - overweight	22K4.00	275278	125	February 2009
+8041	weight monitoring	66C..11	356485	12	February 2009
+105791	baseline body mass index centile	22K9000	7	0	February 2013
+105800	baseline body mass index	22KB.00	43	0	February 2013
+108610	obese class ii (body mass index 35.0 - 39.9)	22KD.00	1450	0	September 2014
+13278	body mass index 30+ - obesity	22K5.00	464130	74	February 2009
+108694	obese class i (body mass index 30.0 - 34.9)	22KC.00	1614	0	October 2014
+2839	o/e - overweight	22A4.11	41017	8	February 2009
+104724	risk health associa overweight obesity, at no increased risk	66CL.00	1	0	August 2012

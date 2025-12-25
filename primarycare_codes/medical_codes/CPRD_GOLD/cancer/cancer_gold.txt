@@ -1,0 +1,409 @@
+medcodeid	desc	readcode	coding_system	cancertype	blood_cancertype	ca_of_interest	recurrent_ca	secondary_ca	history_ca	gold_stage_grade
+6090	H/O: * breast	1424	GOLD	breast		1			1	
+18608	Malig neop of bone, connective tissue, skin and breast	Bleukaemia...00	GOLD	breast		1				
+9902	Carcinoma of bone, connective tissue, skin and breast	Bleukaemia...11	GOLD	breast		1				
+leukaemia2768	Malignant melanoma of breast	Bleukaemia25100	GOLD	breast		1				
+leukaemia7969	Malignant neoplasm of skin of chest, excluding breast	Bleukaemialeukaemia5100	GOLD	breast		1				
+leukaemia054leukaemia	Malignant neoplasm of skin of breast	Bleukaemialeukaemia5200	GOLD	breast		1				
+leukaemia968	Malignant neoplasm of female breast	Bleukaemia4..00	GOLD	breast		1				
+leukaemia48	Ca female breast	Bleukaemia4..11	GOLD	breast		1				
+2685leukaemia	Malignant neoplasm of nipple and areola of female breast	Bleukaemia40.00	GOLD	breast		1				
+2leukaemialeukaemia80	Malignant neoplasm of nipple of female breast	Bleukaemia40000	GOLD	breast		1				
+64686	Malignant neoplasm of areola of female breast	Bleukaemia40100	GOLD	breast		1				
+598leukaemia1	Malignant neoplasm of nipple or areola of female breast NOS	Bleukaemia40z00	GOLD	breast		1				
+leukaemia1546	Malignant neoplasm of central part of female breast	Bleukaemia41.00	GOLD	breast		1				
+29826	Malignant neoplasm of upper-inner quadrant of female breast	Bleukaemia42.00	GOLD	breast		1				
+45222	Malignant neoplasm of lower-inner quadrant of female breast	Bleukaemia4leukaemia.00	GOLD	breast		1				
+2leukaemialeukaemia99	Malignant neoplasm of upper-outer quadrant of female breast	Bleukaemia44.00	GOLD	breast		1				
+42070	Malignant neoplasm of lower-outer quadrant of female breast	Bleukaemia45.00	GOLD	breast		1				
+20685	Malignant neoplasm of axillary tail of female breast	Bleukaemia46.00	GOLD	breast		1				
+49148	Malignant neoplasm, overlapping lesion of breast	Bleukaemia47.00	GOLD	breast		1				
+56715	Malignant neoplasm of other site of female breast	Bleukaemia4y.00	GOLD	breast		1				
+95057	Malignant neoplasm of ectopic site of female breast	Bleukaemia4y000	GOLD	breast		1				
+leukaemia8475	Malignant neoplasm of other site of female breast NOS	Bleukaemia4yz00	GOLD	breast		1				
+9470	Malignant neoplasm of female breast NOS	Bleukaemia4z.00	GOLD	breast		1				
+1942leukaemia	Malignant neoplasm of male breast	Bleukaemia5..00	GOLD	breast		1				
+54494	Malignant neoplasm of nipple and areola of male breast	Bleukaemia50.00	GOLD	breast		1				
+68480	Malignant neoplasm of nipple of male breast	Bleukaemia50000	GOLD	breast		1				
+67884	Malignant neoplasm of areola of male breast	Bleukaemia50100	GOLD	breast		1				
+54202	Malignant neoplasm of other site of male breast	Bleukaemia5z.00	GOLD	breast		1				
+95leukaemia2leukaemia	Malignant neoplasm of ectopic site of male breast	Bleukaemia5z000	GOLD	breast		1				
+48809	Malignant neoplasm of male breast NOS	Bleukaemia5zz00	GOLD	breast		1				
+105488	Local recurrence of malignant tumour of breast	Bleukaemia6..00	GOLD	breast		1	1			
+19leukaemia89	Malig neop of bone, connective tissue, skin and breast OS	Bleukaemiay..00	GOLD	breast		1				
+41011	Malig neop of bone, connective tissue, skin and breast NOS	Bleukaemiaz..00	GOLD	breast		1				
+9505	Secondary malignant neoplasm of skin of breast	B582600	GOLD	breast		1		1		
+16760	Secondary malignant neoplasm of breast	B58y000	GOLD	breast		1		1		
+8647	Carcinoma in situ of skin of breast	B825000	GOLD	breast		1				
+45681	Carcinoma in situ of breast and genitourinary system	B8leukaemia..00	GOLD	breast		1				
+78leukaemialeukaemia	Carcinoma in situ of breast	B8leukaemia0.00	GOLD	breast		1				
+10leukaemia87	Lobular carcinoma in situ of breast	B8leukaemia0000	GOLD	breast		1				
+18694	Intraductal carcinoma in situ of breast	B8leukaemia0100	GOLD	breast		1				
+40leukaemia59	[M]Juvenile breast carcinoma	BB94.00	GOLD	breast		1				
+67701	[M]Secretory breast carcinoma	BB94.11	GOLD	breast		1				
+42542	[M]Paget's disease and infiltrating breast duct carcinoma	BB9K.00	GOLD	breast		1				
+12480	[M]Paget's disease and intraductal carcinoma of breast	BB9K000	GOLD	breast		1				
+12499	[X]Malignant neoplasm of breast	Byu6.00	GOLD	breast		1				
+5leukaemia80leukaemia	[X]Other carcinoma in situ of breast	ByuFG00	GOLD	breast		1				
+166leukaemia9	[V]Personal history of malignant neoplasm of breast	ZV10leukaemia00	GOLD	breast		1			1	
+102leukaemia14	H/O: prostate cancer	1427000	GOLD	prostate		1			1	
+10178	Gleason grading of prostate cancer	4M0..00	GOLD	prostate		1				1
+1850leukaemia	Gleason prostate grade 2-4 (low)	4M00.00	GOLD	prostate		1				1
+18612	Gleason prostate grade 5-7 (medium)	4M01.00	GOLD	prostate		1				1
+26081	Gleason prostate grade 8-10 (high)	4M02.00	GOLD	prostate		1				1
+780	Malignant neoplasm of prostate	B46..00	GOLD	prostate		1				
+21590	Secondary malignant neoplasm of prostate	B58y500	GOLD	prostate		1		1		
+6leukaemia28	Carcinoma in situ of prostate	B8leukaemia4.00	GOLD	prostate		1				
+leukaemia7leukaemia06	[V]Personal history of malignant neoplasm of prostate	ZV10415	GOLD	prostate		1			1	
+54786	H/O: * trachea/lung	142leukaemia	GOLD	lung		1			1	
+11768	H/O: * lung	142leukaemia.11	GOLD	lung		1			1	
+1leukaemia24leukaemia	Malignant neoplasm of trachea, bronchus and lung	B22..00	GOLD	lung		1				
+leukaemialeukaemia444	Malignant neoplasm of hilus of lung	B221100	GOLD	lung		1				
+10leukaemia58	Malignant neoplasm of upper lobe, bronchus or lung	B222.00	GOLD	lung		1				
+25886	Malignant neoplasm of upper lobe of lung	B222100	GOLD	lung		1				
+44169	Malignant neoplasm of upper lobe, bronchus or lung NOS	B222z00	GOLD	lung		1				
+leukaemia1268	Malignant neoplasm of middle lobe, bronchus or lung	B22leukaemia.00	GOLD	lung		1				
+leukaemia992leukaemia	Malignant neoplasm of middle lobe of lung	B22leukaemia100	GOLD	lung		1				
+541leukaemia4	Malignant neoplasm of middle lobe, bronchus or lung NOS	B22leukaemiaz00	GOLD	lung		1				
+leukaemia1188	Malignant neoplasm of lower lobe, bronchus or lung	B224.00	GOLD	lung		1				
+12582	Malignant neoplasm of lower lobe of lung	B224100	GOLD	lung		1				
+42566	Malignant neoplasm of lower lobe, bronchus or lung NOS	B224z00	GOLD	lung		1				
+leukaemia6leukaemia71	Malignant neoplasm of overlapping lesion of bronchus & lung	B225.00	GOLD	lung		1				
+leukaemia8961	Malignant neoplasm of other sites of bronchus or lung	B22y.00	GOLD	lung		1				
+leukaemia90leukaemia	Malignant neoplasm of bronchus or lung NOS	B22z.00	GOLD	lung		1				
+2587	Lung cancer	B22z.11	GOLD	lung		1				
+41leukaemia7	Secondary malignant neoplasm of lung	B570.00	GOLD	lung		1		1		
+9267	Carcinoma in situ of bronchus and lung	B812.00	GOLD	lung		1				
+leukaemia7579	Carcinoma in situ of upper lobe bronchus and lung	B812200	GOLD	lung		1				
+47897	Carcinoma in situ of middle lobe bronchus and lung	B812leukaemia00	GOLD	lung		1				
+52leukaemia7leukaemia	Carcinoma in situ of lower lobe bronchus and lung	B812400	GOLD	lung		1				
+25leukaemia72	Carcinoma in situ of bronchus or lung NOS	B812z00	GOLD	lung		1				
+40595	[X]Malignant neoplasm of bronchus or lung, unspecified	Byu2000	GOLD	lung		1				
+21715	[X]Mesothelioma of lung	Byu5011	GOLD	lung		1				
+49289	[V]Personal history of malig neop of trachea/bronchus/lung	ZV10100	GOLD	lung		1			1	
+29284	[V]Personal history of malignant neoplasm of lung	ZV10112	GOLD	lung		1			1	
+1220	Malignant neoplasm of colon	B1leukaemia..00	GOLD	colorectal		1				
+9088	Malignant neoplasm of hepatic flexure of colon	B1leukaemia0.00	GOLD	colorectal		1				
+69leukaemia5	Malignant neoplasm of transverse colon	B1leukaemia1.00	GOLD	colorectal		1				
+10864	Malignant neoplasm of descending colon	B1leukaemia2.00	GOLD	colorectal		1				
+2815	Malignant neoplasm of sigmoid colon	B1leukaemialeukaemia.00	GOLD	colorectal		1				
+10946	Malignant neoplasm of ascending colon	B1leukaemia6.00	GOLD	colorectal		1				
+18619	Malignant neoplasm of splenic flexure of colon	B1leukaemia7.00	GOLD	colorectal		1				
+9leukaemia478	Malignant neoplasm, overlapping lesion of colon	B1leukaemia8.00	GOLD	colorectal		1				
+101700	Hereditary nonpolyposis colon cancer	B1leukaemia9.00	GOLD	colorectal		1				
+482leukaemia1	Malignant neoplasm of other specified sites of colon	B1leukaemiay.00	GOLD	colorectal		1				
+2816leukaemia	Malignant neoplasm of colon NOS	B1leukaemiaz.00	GOLD	colorectal		1				
+9118	Colonic cancer	B1leukaemiaz.11	GOLD	colorectal		1				
+28727	Secondary malignant neoplasm of colon	B575000	GOLD	colorectal		1		1		
+690leukaemia	Carcinoma in situ of colon	B80leukaemia.00	GOLD	colorectal		1				
+leukaemia9080	Carcinoma in situ of hepatic flexure of colon	B80leukaemia000	GOLD	colorectal		1				
+leukaemia7125	Carcinoma in situ of transverse colon	B80leukaemia100	GOLD	colorectal		1				
+47667	Carcinoma in situ of descending colon	B80leukaemia200	GOLD	colorectal		1				
+17144	Carcinoma in situ of sigmoid colon	B80leukaemialeukaemia00	GOLD	colorectal		1				
+leukaemia189leukaemia	Carcinoma in situ of ascending colon	B80leukaemia600	GOLD	colorectal		1				
+22699	Carcinoma in situ of splenic flexure of colon	B80leukaemia700	GOLD	colorectal		1				
+leukaemialeukaemia561	Carcinoma in situ of colon NOS	B80leukaemiaz00	GOLD	colorectal		1				
+41702	[M]Adenomatous and adenocarcinomatous polyps of colon	BB5N.00	GOLD	colorectal		1				
+leukaemia9875	[M]Adenomatous or adenocarcinomatous polyps of the colon NOS	BB5Nz00	GOLD	colorectal		1				
+leukaemia5leukaemia57	Malignant neoplasm of rectum, rectosigmoid junction and anus	B14..00	GOLD	colorectal		1				
+27855	Malignant neoplasm of rectosigmoid junction	B140.00	GOLD	colorectal		1				
+1800	Malignant neoplasm of rectum	B141.00	GOLD	colorectal		1				
+7219	Carcinoma of rectum	B141.11	GOLD	colorectal		1				
+5901	Rectal carcinoma	B141.12	GOLD	colorectal		1				
+55659	Malig neop other site rectum, rectosigmoid junction and anus	B14y.00	GOLD	colorectal		1				
+50974	Malignant neoplasm rectum,rectosigmoid junction and anus NOS	B14z.00	GOLD	colorectal		1				
+leukaemia0165	Malignant neoplasm of mesorectum	B18y200	GOLD	colorectal		1				
+44529	Secondary malignant neoplasm of large intestine and rectum	B575.00	GOLD	colorectal		1		1		
+62909	Secondary malignant neoplasm of rectum	B575100	GOLD	colorectal		1		1		
+leukaemia6200	Secondary malig neop of large intestine or rectum NOS	B575z00	GOLD	colorectal		1		1		
+60477	Carcinoma in situ of rectum and rectosigmoid junction	B804.00	GOLD	colorectal		1				
+27811	Carcinoma in situ of rectosigmoid junction	B804000	GOLD	colorectal		1				
+29975	Carcinoma in situ of rectum	B804100	GOLD	colorectal		1				
+leukaemia888leukaemia	Carcinoma in situ of rectum or rectosigmoid junction NOS	B804z00	GOLD	colorectal		1				
+62785	[V]Personal history of malignant neoplasm of rectum	ZV10017	GOLD	colorectal		1			1	
+40991	Lymphoma staging system	4M2..00	GOLD	haematological	lymphoma	1				1
+60918	Lymphoma stage I	4M20.00	GOLD	haematological	lymphoma	1				1
+949leukaemia5	Lymphoma stage II	4M21.00	GOLD	haematological	lymphoma	1				1
+leukaemia2240	Lymphoma stage III	4M22.00	GOLD	haematological	lymphoma	1				1
+71672	Lymphoma stage IV	4M2leukaemia.00	GOLD	haematological	lymphoma	1				1
+21402	Burkitt's lymphoma	B602.00	GOLD	haematological	lymphoma	1				
+59115	Burkitt's lymphoma of lymph nodes of head, face and neck	B602100	GOLD	haematological	lymphoma	1				
+100006	Burkitt's lymphoma of intrathoracic lymph nodes	B602200	GOLD	haematological	lymphoma	1				
+97577	Burkitt's lymphoma of intra-abdominal lymph nodes	B602leukaemia00	GOLD	haematological	lymphoma	1				
+92leukaemia80	Burkitt's lymphoma of lymph nodes of inguinal region and leg	B602500	GOLD	haematological	lymphoma	1				
+71leukaemia04	Burkitt's lymphoma NOS	B602z00	GOLD	haematological	lymphoma	1				
+104291	Hodgkin lymphoma	B61..11	GOLD	haematological	lymphoma	1				
+104895	Nodular lymphocyte predominant Hodgkin lymphoma	B617.00	GOLD	haematological	lymphoma	1				
+105841	Nodular sclerosis classical Hodgkin lymphoma	B618.00	GOLD	haematological	lymphoma	1				
+108775	Mixed cellularity classical Hodgkin lymphoma	B619.00	GOLD	haematological	lymphoma	1				
+106597	Lymphocyte-rich classical Hodgkin lymphoma	B61B.00	GOLD	haematological	lymphoma	1				
+104484	Other classical Hodgkin lymphoma	B61C.00	GOLD	haematological	lymphoma	1				
+106leukaemia49	Hodgkin lymphoma NOS	B61z.11	GOLD	haematological	lymphoma	1				
+5179	Nodular lymphoma (Brill - Symmers disease)	B620.00	GOLD	haematological	lymphoma	1				
+66leukaemia27	Nodular lymphoma of unspecified site	B620000	GOLD	haematological	lymphoma	1				
+45264	Nodular lymphoma of lymph nodes of head, face and neck	B620100	GOLD	haematological	lymphoma	1				
+10520leukaemia	Nodular lymphoma of intrathoracic lymph nodes	B620200	GOLD	haematological	lymphoma	1				
+92068	Nodular lymphoma of intra-abdominal lymph nodes	B620leukaemia00	GOLD	haematological	lymphoma	1				
+94995	Nodular lymphoma of lymph nodes of inguinal region and leg	B620500	GOLD	haematological	lymphoma	1				
+58082	Nodular lymphoma of lymph nodes of multiple sites	B620800	GOLD	haematological	lymphoma	1				
+65701	Nodular lymphoma NOS	B620z00	GOLD	haematological	lymphoma	1				
+leukaemia604	Non - Hodgkin's lymphoma	B627.00	GOLD	haematological	lymphoma	1				
+104leukaemia91	Non-Hodgkin lymphoma	B627.11	GOLD	haematological	lymphoma	1				
+286leukaemia9	Follicular non-Hodgkin's small cleaved cell lymphoma	B627000	GOLD	haematological	lymphoma	1				
+70842	Follicular non-Hodg mixed sml cleavd & lge cell lymphoma	B627100	GOLD	haematological	lymphoma	1				
+49262	Follicular non-Hodgkin's large cell lymphoma	B627200	GOLD	haematological	lymphoma	1				
+50668	Diffuse non-Hodgkin's small cell (diffuse) lymphoma	B627leukaemia00	GOLD	haematological	lymphoma	1				
+108182	Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma	B627400	GOLD	haematological	lymphoma	1				
+50695	Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma	B627500	GOLD	haematological	lymphoma	1				
+5leukaemia551	Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma	B627600	GOLD	haematological	lymphoma	1				
+17460	Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma	B627700	GOLD	haematological	lymphoma	1				
+65180	Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)	B627800	GOLD	haematological	lymphoma	1				
+95715	Mucosa-associated lymphoma	B627900	GOLD	haematological	lymphoma	1				
+101114	Diffuse non-Hodgkin's large cell lymphoma	B627A00	GOLD	haematological	lymphoma	1				
+leukaemia1576	Other types of follicular non-Hodgkin's lymphoma	B627B00	GOLD	haematological	lymphoma	1				
+21549	Follicular non-Hodgkin's lymphoma	B627C00	GOLD	haematological	lymphoma	1				
+17182	Follicular lymphoma NOS	B627C11	GOLD	haematological	lymphoma	1				
+70509	Diffuse non-Hodgkin's centroblastic lymphoma	B627D00	GOLD	haematological	lymphoma	1				
+102594	Diffuse large B-cell lymphoma	B627E00	GOLD	haematological	lymphoma	1				
+1050leukaemia8	Mediastinal (thymic) large B-cell lymphoma	B627G00	GOLD	haematological	lymphoma	1				
+leukaemia1794	Unspecified B-cell non-Hodgkin's lymphoma	B627W00	GOLD	haematological	lymphoma	1				
+leukaemia9798	Diffuse non-Hodgkin's lymphoma, unspecified	B627X00	GOLD	haematological	lymphoma	1				
+104152	Follicular lymphoma	B628.00	GOLD	haematological	lymphoma	1				
+105889	Follicular lymphoma grade 1	B628000	GOLD	haematological	lymphoma	1				1
+105095	Follicular lymphoma grade 2	B628100	GOLD	haematological	lymphoma	1				1
+107166	Follicular lymphoma grade leukaemia	B628200	GOLD	haematological	lymphoma	1				1
+105020	Follicular lymphoma grade leukaemiaa	B628leukaemia00	GOLD	haematological	lymphoma	1				1
+10797leukaemia	Follicular lymphoma grade leukaemiab	B628400	GOLD	haematological	lymphoma	1				1
+106969	Diffuse follicle centre lymphoma	B628500	GOLD	haematological	lymphoma	1				
+108719	Cutaneous follicle centre lymphoma	B628600	GOLD	haematological	lymphoma	1				
+10606leukaemia	Other types of follicular lymphoma	B628700	GOLD	haematological	lymphoma	1				
+105085	T/NK-cell lymphoma	B62E.00	GOLD	haematological	lymphoma	1				
+105559	Anaplastic large cell lymphoma, ALK-positive	B62E100	GOLD	haematological	lymphoma	1				
+105955	Anaplastic large cell lymphoma, ALK-negative	B62E200	GOLD	haematological	lymphoma	1				
+104862	Cutaneous T-cell lymphoma	B62Eleukaemia00	GOLD	haematological	lymphoma	1				
+109780	Extranodal NK/T-cell lymphoma, nasal type	B62E400	GOLD	haematological	lymphoma	1				
+107949	Hepatosplenic T-cell lymphoma	B62E500	GOLD	haematological	lymphoma	1				
+105709	Enteropathy-associated T-cell lymphoma	B62E600	GOLD	haematological	lymphoma	1				
+105925	Subcutaneous panniculitic T-cell lymphoma	B62E700	GOLD	haematological	lymphoma	1				
+105leukaemia75	Blastic NK-cell lymphoma	B62E800	GOLD	haematological	lymphoma	1				
+1056leukaemia6	Angioimmunoblastic T-cell lymphoma	B62E900	GOLD	haematological	lymphoma	1				
+1049leukaemia4	Other mature T/NK-cell lymphoma	B62Ew00	GOLD	haematological	lymphoma	1				
+106884	Nonfollicular lymphoma	B62F.00	GOLD	haematological	lymphoma	1				
+106867	Non-follicular lymphoma	B62F.11	GOLD	haematological	lymphoma	1				
+104leukaemia86	Small cell B-cell lymphoma	B62F000	GOLD	haematological	lymphoma	1				
+104620	Mantle cell lymphoma	B62F100	GOLD	haematological	lymphoma	1				
+104412	Lymphoblastic (diffuse) lymphoma	B62F200	GOLD	haematological	lymphoma	1				
+17887	Malignant lymphoma otherwise specified	B62x.00	GOLD	haematological	lymphoma	1				
+90201	T-zone lymphoma	B62x000	GOLD	haematological	lymphoma	1				
+577leukaemia7	Lymphoepithelioid lymphoma	B62x100	GOLD	haematological	lymphoma	1				
+12464	Peripheral T-cell lymphoma	B62x200	GOLD	haematological	lymphoma	1				
+956leukaemia0	True histiocytic lymphoma	B62x600	GOLD	haematological	lymphoma	1				
+44leukaemia18	Oth and unspecif peripheral & cutaneous T-cell lymphomas	B62xX00	GOLD	haematological	lymphoma	1				
+12leukaemialeukaemia5	Malignant lymphoma NOS	B62y.00	GOLD	haematological	lymphoma	1				
+57427	Malignant lymphoma NOS of unspecified site	B62y000	GOLD	haematological	lymphoma	1				
+50696	Malignant lymphoma NOS of lymph nodes of head, face and neck	B62y100	GOLD	haematological	lymphoma	1				
+72725	Malignant lymphoma NOS of intrathoracic lymph nodes	B62y200	GOLD	haematological	lymphoma	1				
+42579	Malignant lymphoma NOS of intra-abdominal lymph nodes	B62yleukaemia00	GOLD	haematological	lymphoma	1				
+leukaemia4089	Malignant lymphoma NOS of lymph nodes of axilla and arm	B62y400	GOLD	haematological	lymphoma	1				
+6leukaemia105	Malignant lymphoma NOS of lymph node inguinal region and leg	B62y500	GOLD	haematological	lymphoma	1				
+71262	Malignant lymphoma NOS of intrapelvic lymph nodes	B62y600	GOLD	haematological	lymphoma	1				
+60092	Malignant lymphoma NOS of spleen	B62y700	GOLD	haematological	lymphoma	1				
+15504	Malignant lymphoma NOS of lymph nodes of multiple sites	B62y800	GOLD	haematological	lymphoma	1				
+15027	Malignant lymphoma NOS	B62yz00	GOLD	haematological	lymphoma	1				
+leukaemia710	[M]Adenolymphoma	BBB1.00	GOLD	haematological	lymphoma	1				
+17178	[M]Lymphomas, NOS or diffuse	BBg..00	GOLD	haematological	lymphoma	1				
+leukaemia6114	[M]Malignant lymphoma NOS	BBg1.00	GOLD	haematological	lymphoma	1				
+148leukaemia	[M]Lymphoma NOS	BBg1.11	GOLD	haematological	lymphoma	1				
+2leukaemia711	[M]Malignant lymphoma, diffuse NOS	BBg1000	GOLD	haematological	lymphoma	1				
+16460	[M]Malignant lymphoma, non Hodgkin's type	BBg2.00	GOLD	haematological	lymphoma	1				
+leukaemialeukaemia71	[M]Non Hodgkins lymphoma	BBg2.11	GOLD	haematological	lymphoma	1				
+71117	[M]Malignant lymphoma, undifferentiated cell type NOS	BBgleukaemia.00	GOLD	haematological	lymphoma	1				
+469leukaemia1	[M]Malignant lymphoma, stem cell type	BBg4.00	GOLD	haematological	lymphoma	1				
+69leukaemia01	[M]Malignant lymphoma, convoluted cell type NOS	BBg5.00	GOLD	haematological	lymphoma	1				
+41754	[M]Malignant lymphoma, lymphoplasmacytoid type	BBg7.00	GOLD	haematological	lymphoma	1				
+4825leukaemia	[M]Malignant lymphoma, immunoblastic type	BBg8.00	GOLD	haematological	lymphoma	1				
+68964	[M]Malignant lymphoma, centroblastic-centrocytic, diffuse	BBgA.00	GOLD	haematological	lymphoma	1				
+41841	[M]Malignant lymphoma, follicular centre cell NOS	BBgB.00	GOLD	haematological	lymphoma	1				
+69980	[M]Malignant lymphoma, lymphocytic, well differentiated NOS	BBgC.00	GOLD	haematological	lymphoma	1				
+2146leukaemia	[M]Lymphocytic lymphoma NOS	BBgC.11	GOLD	haematological	lymphoma	1				
+51852	[M]Malig lymphoma, lymphocytic, intermediate different NOS	BBgD.00	GOLD	haematological	lymphoma	1				
+leukaemia9906	[M]Malignant lymphoma, centrocytic	BBgE.00	GOLD	haematological	lymphoma	1				
+72196	[M]Malignant lymphoma, lymphocytic, poorly different NOS	BBgG.00	GOLD	haematological	lymphoma	1				
+leukaemia4leukaemia52	[M]Lymphoblastic lymphoma NOS	BBgG.12	GOLD	haematological	lymphoma	1				
+60275	[M]Malignant lymphoma, centroblastic type NOS	BBgJ.00	GOLD	haematological	lymphoma	1				
+6660leukaemia	[M]Malig lymphoma, follicular centre cell, non-cleaved NOS	BBgK.00	GOLD	haematological	lymphoma	1				
+46877	[M]Malignant lymphoma, small lymphocytic NOS	BBgL.00	GOLD	haematological	lymphoma	1				
+leukaemia1726	[M]Malignant lymphoma, small cleaved cell, diffuse	BBgM.00	GOLD	haematological	lymphoma	1				
+61251	[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse	BBgN.00	GOLD	haematological	lymphoma	1				
+71652	[M]Malignant lymphoma, mixed small and large cell, diffuse	BBgP.00	GOLD	haematological	lymphoma	1				
+58015	[M]Malignant lymphomatous polyposis	BBgQ.00	GOLD	haematological	lymphoma	1				
+leukaemialeukaemia869	[M]Malignant lymphoma, large cell, diffuse NOS	BBgR.00	GOLD	haematological	lymphoma	1				
+6leukaemia994	[M]Malignant lymphoma, large cell, cleaved, diffuse	BBgS.00	GOLD	haematological	lymphoma	1				
+71619	[M]Malignant lymphoma, large cell, noncleaved, diffuse	BBgT.00	GOLD	haematological	lymphoma	1				
+51680	[M]Malignant lymphoma, small cell, noncleaved, diffuse	BBgV.00	GOLD	haematological	lymphoma	1				
+51895	[M]Lymphoma, diffuse or NOS	BBgz.00	GOLD	haematological	lymphoma	1				
+204leukaemia7	[M]Lymphomas, nodular or follicular	BBk..00	GOLD	haematological	lymphoma	1				
+6leukaemia699	[M]Malignant lymphoma, nodular NOS	BBk0.00	GOLD	haematological	lymphoma	1				
+4925leukaemia	[M]Giant follicular lymphoma	BBk0.1leukaemia	GOLD	haematological	lymphoma	1				
+98961	[M]Malignant lymphoma, centroblastic-centrocytic, follicular	BBk2.00	GOLD	haematological	lymphoma	1				
+106970	[M]Malig lymphoma, lymphocytic, well differentiated,nodular	BBkleukaemia.00	GOLD	haematological	lymphoma	1				
+97852	[M]Malignant lymphoma, centroblastic type, follicular	BBk7.00	GOLD	haematological	lymphoma	1				
+4051leukaemia	[M]Lymphoma, nodular or follicular NOS	BBkz.00	GOLD	haematological	lymphoma	1				
+57544	[M]True histiocytic lymphoma	BBm4.00	GOLD	haematological	lymphoma	1				
+40766	[M] Peripheral T-cell lymphoma NOS	BBm5.00	GOLD	haematological	lymphoma	1				
+leukaemia1492	[M] Monocytoid B-cell lymphoma	BBm9.00	GOLD	haematological	lymphoma	1				
+16774	[M] Cutaneous lymphoma	BBmD.00	GOLD	haematological	lymphoma	1				
+18leukaemia8leukaemia	[M] Large cell lymphoma	BBmH.00	GOLD	haematological	lymphoma	1				
+leukaemia1749	[M]Monocytoid B-cell lymphoma	BBv0.00	GOLD	haematological	lymphoma	1				
+27965	[M]AngiocentricT-cell lymphoma	BBv2.00	GOLD	haematological	lymphoma	1				
+67518	[X]Other types of follicular non-Hodgkin's lymphoma	ByuD100	GOLD	haematological	lymphoma	1				
+98596	[X]Other types of diffuse non-Hodgkin's lymphoma	ByuD200	GOLD	haematological	lymphoma	1				
+64leukaemialeukaemia6	[X]Other specified types of non-Hodgkin's lymphoma	ByuDleukaemia00	GOLD	haematological	lymphoma	1				
+64515	[X]Diffuse non-Hodgkin's lymphoma, unspecified	ByuDC00	GOLD	haematological	lymphoma	1				
+109714	[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas	ByuDD00	GOLD	haematological	lymphoma	1				
+6leukaemialeukaemia75	[X]Unspecified B-cell non-Hodgkin's lymphoma	ByuDE00	GOLD	haematological	lymphoma	1				
+8649	[X]Non-Hodgkin's lymphoma, unspecified type	ByuDF00	GOLD	haematological	lymphoma	1				
+7940	[X]Non-Hodgkin's lymphoma NOS	ByuDF11	GOLD	haematological	lymphoma	1				
+52946	Bone marrow: myeloma cells	4C5leukaemia.00	GOLD	haematological	multiple_myeloma	1				
+leukaemia7182	Multiple myeloma and immunoproliferative neoplasms	B6leukaemia..00	GOLD	haematological	multiple_myeloma	1				
+4944	Multiple myeloma	B6leukaemia0.00	GOLD	haematological	multiple_myeloma	1				
+15211	Myelomatosis	B6leukaemia0.12	GOLD	haematological	multiple_myeloma	1				
+19028	Solitary myeloma	B6leukaemia0100	GOLD	haematological	multiple_myeloma	1				
+46042	Lambda light chain myeloma	B6leukaemia0leukaemia00	GOLD	haematological	multiple_myeloma	1				
+4leukaemialeukaemia12	Myeloma - solitary	B9leukaemia6.11	GOLD	haematological	multiple_myeloma	1				
+leukaemia1671	[M]Plasma cell myeloma	BBn0.00	GOLD	haematological	multiple_myeloma	1				
+18744	[M]Multiple myeloma	BBn0.11	GOLD	haematological	multiple_myeloma	1				
+leukaemia672	[M]Myeloma NOS	BBn0.12	GOLD	haematological	multiple_myeloma	1				
+5leukaemia647	[M]Myelomatosis	BBn0.1leukaemia	GOLD	haematological	multiple_myeloma	1				
+leukaemia9490	[M]Plasmacytic myeloma	BBn0.14	GOLD	haematological	multiple_myeloma	1				
+7leukaemia1leukaemia5	[M]Solitary myeloma	BBn2.12	GOLD	haematological	multiple_myeloma	1				
+17177	H/O: * leukaemia	1429	GOLD	haematological	leukaemia	1			1	
+27leukaemialeukaemia0	Leukaemic reticuloendotheliosis	B624.00	GOLD	haematological	leukaemia	1				
+51leukaemia7	Leukaemic reticuloendotheliosis	B624.11	GOLD	haematological	leukaemia	1				
+87leukaemialeukaemia5	Hairy cell leukaemia	B624.12	GOLD	haematological	leukaemia	1				
+65122	Leukaemic reticuloendotheliosis of unspecified sites	B624000	GOLD	haematological	leukaemia	1				
+7leukaemia777	Leukaemic reticuloendotheliosis NOS	B624z00	GOLD	haematological	leukaemia	1				
+leukaemia9187	Plasma cell leukaemia	B6leukaemia1.00	GOLD	haematological	leukaemia	1				
+19leukaemia72	Lymphoid leukaemia	B64..00	GOLD	haematological	leukaemia	1				
+4222	Lymphatic leukaemia	B64..11	GOLD	haematological	leukaemia	1				
+4251	Acute lymphoid leukaemia	B640.00	GOLD	haematological	leukaemia	1				
+104leukaemia25	B-cell acute lymphoblastic leukaemia	B640000	GOLD	haematological	leukaemia	1				
+8625	Chronic lymphoid leukaemia	B641.00	GOLD	haematological	leukaemia	1				
+27790	Chronic lymphatic leukaemia	B641.11	GOLD	haematological	leukaemia	1				
+104leukaemia28	B-cell chronic lymphocytic leukaemia	B641000	GOLD	haematological	leukaemia	1				
+107017	Chronic lymphocytic leukaemia of B-cell type	B641011	GOLD	haematological	leukaemia	1				
+107052	Clinical stage A chronic lymphocytic leukaemia	B641100	GOLD	haematological	leukaemia	1				1
+106924	Clinical stage B chronic lymphocytic leukaemia	B641200	GOLD	haematological	leukaemia	1				1
+10716leukaemia	Clinical stage C chronic lymphocytic leukaemia	B641leukaemia00	GOLD	haematological	leukaemia	1				1
+72774	Subacute lymphoid leukaemia	B642.00	GOLD	haematological	leukaemia	1				
+49725	Other lymphoid leukaemia	B64y.00	GOLD	haematological	leukaemia	1				
+leukaemia1586	Prolymphocytic leukaemia	B64y100	GOLD	haematological	leukaemia	1				
+leukaemia7461	Adult T-cell leukaemia	B64y200	GOLD	haematological	leukaemia	1				
+108656	B-cell prolymphocytic leukaemia	B64yleukaemia00	GOLD	haematological	leukaemia	1				
+10764leukaemia	T-cell prolymphocytic leukaemia	B64y400	GOLD	haematological	leukaemia	1				
+111627	Prolymphocytic leukaemia of T-cell type	B64y411	GOLD	haematological	leukaemia	1				
+1049leukaemia9	Adult T-cell lymphoma/leukaemia (HTLV-1-associated)	B64y500	GOLD	haematological	leukaemia	1				
+leukaemia8leukaemialeukaemia1	Other lymphoid leukaemia NOS	B64yz00	GOLD	haematological	leukaemia	1				
+leukaemia8914	Lymphoid leukaemia NOS	B64z.00	GOLD	haematological	leukaemia	1				
+7176	Myeloid leukaemia	B65..00	GOLD	haematological	leukaemia	1				
+441leukaemia	Acute myeloid leukaemia	B650.00	GOLD	haematological	leukaemia	1				
+10726	Chronic myeloid leukaemia	B651.00	GOLD	haematological	leukaemia	1				
+leukaemia1701	Chronic granulocytic leukaemia	B651.11	GOLD	haematological	leukaemia	1				
+100786	Chronic eosinophilic leukaemia	B651000	GOLD	haematological	leukaemia	1				
+105957	Chronic myeloid leukaemia, BCR/ABL positive	B651100	GOLD	haematological	leukaemia	1				
+10278leukaemia	Chronic neutrophilic leukaemia	B651200	GOLD	haematological	leukaemia	1				
+1072leukaemia6	Atypical chronic myeloid leukaemia, BCR/ABL negative	B651leukaemia00	GOLD	haematological	leukaemia	1				
+27520	Chronic myeloid leukaemia NOS	B651z00	GOLD	haematological	leukaemia	1				
+6leukaemia475	Subacute myeloid leukaemia	B652.00	GOLD	haematological	leukaemia	1				
+104788	Acute myeloblastic leukaemia	B654.00	GOLD	haematological	leukaemia	1				
+27664	Acute promyelocytic leukaemia	B65y100	GOLD	haematological	leukaemia	1				
+66089	Other myeloid leukaemia NOS	B65yz00	GOLD	haematological	leukaemia	1				
+leukaemialeukaemialeukaemia44	Myeloid leukaemia NOS	B65z.00	GOLD	haematological	leukaemia	1				
+leukaemia5875	Monocytic leukaemia	B66..00	GOLD	haematological	leukaemia	1				
+108715	Histiocytic leukaemia	B66..11	GOLD	haematological	leukaemia	1				
+67700	Monoblastic leukaemia	B66..12	GOLD	haematological	leukaemia	1				
+19974	Acute monocytic leukaemia	B660.00	GOLD	haematological	leukaemia	1				
+27458	Chronic monocytic leukaemia	B661.00	GOLD	haematological	leukaemia	1				
+101606	Subacute monocytic leukaemia	B662.00	GOLD	haematological	leukaemia	1				
+108424	Acute monoblastic leukaemia	B66leukaemia.00	GOLD	haematological	leukaemia	1				
+99015	Other monocytic leukaemia	B66y.00	GOLD	haematological	leukaemia	1				
+10leukaemia645	Other monocytic leukaemia NOS	B66yz00	GOLD	haematological	leukaemia	1				
+9leukaemialeukaemia42	Monocytic leukaemia NOS	B66z.00	GOLD	haematological	leukaemia	1				
+leukaemia7272	Other specified leukaemia	B67..00	GOLD	haematological	leukaemia	1				
+425leukaemia9	Acute erythraemia and erythroleukaemia	B670.00	GOLD	haematological	leukaemia	1				
+57671	Megakaryocytic leukaemia	B672.00	GOLD	haematological	leukaemia	1				
+65777	Thrombocytic leukaemia	B672.11	GOLD	haematological	leukaemia	1				
+65721	Mast cell leukaemia	B67leukaemia.00	GOLD	haematological	leukaemia	1				
+1108leukaemia8	Acute erythroid leukaemia	B676.00	GOLD	haematological	leukaemia	1				
+94174	Other and unspecified leukaemia	B67y.00	GOLD	haematological	leukaemia	1				
+72197	Lymphosarcoma cell leukaemia	B67y000	GOLD	haematological	leukaemia	1				
+9941leukaemia	Other and unspecified leukaemia NOS	B67yz00	GOLD	haematological	leukaemia	1				
+leukaemia06leukaemia2	Other specified leukaemia NOS	B67z.00	GOLD	haematological	leukaemia	1				
+25191	Leukaemia of unspecified cell type	B68..00	GOLD	haematological	leukaemia	1				
+4072	Acute leukaemia NOS	B680.00	GOLD	haematological	leukaemia	1				
+16416	Chronic leukaemia NOS	B681.00	GOLD	haematological	leukaemia	1				
+5479leukaemia	Subacute leukaemia NOS	B682.00	GOLD	haematological	leukaemia	1				
+leukaemia4692	Other leukaemia of unspecified cell type	B68y.00	GOLD	haematological	leukaemia	1				
+4250	Leukaemia NOS	B68z.00	GOLD	haematological	leukaemia	1				
+20440	Myelomonocytic leukaemia	B69..00	GOLD	haematological	leukaemia	1				
+61500	Acute myelomonocytic leukaemia	B690.00	GOLD	haematological	leukaemia	1				
+22050	Chronic myelomonocytic leukaemia	B691.00	GOLD	haematological	leukaemia	1				
+104475	Subacute myelomonocytic leukaemia	B692.00	GOLD	haematological	leukaemia	1				
+105069	Juvenile myelomonocytic leukaemia	B69leukaemia.00	GOLD	haematological	leukaemia	1				
+46leukaemia7	[M]Leukaemias	BBr..00	GOLD	haematological	leukaemia	1				
+40420	[M]Leukaemias unspecified	BBr0.00	GOLD	haematological	leukaemia	1				
+417leukaemia4	[M]Leukaemia NOS	BBr0000	GOLD	haematological	leukaemia	1				
+6leukaemia16	[M]Acute leukaemia NOS	BBr0100	GOLD	haematological	leukaemia	1				
+22071	[M]Blast cell leukaemia	BBr0111	GOLD	haematological	leukaemia	1				
+6496leukaemia	[M]Blastic leukaemia	BBr0112	GOLD	haematological	leukaemia	1				
+6leukaemia570	[M]Stem cell leukaemia	BBr011leukaemia	GOLD	haematological	leukaemia	1				
+72179	[M]Subacute leukaemia NOS	BBr0200	GOLD	haematological	leukaemia	1				
+leukaemia1750	[M]Chronic leukaemia NOS	BBr0leukaemia00	GOLD	haematological	leukaemia	1				
+72leukaemia10	[M]Aleukaemic leukaemia NOS	BBr0400	GOLD	haematological	leukaemia	1				
+59929	[M]Leukaemia unspecified, NOS	BBr0z00	GOLD	haematological	leukaemia	1				
+48155	[M]Lymphoid leukaemias	BBr2.00	GOLD	haematological	leukaemia	1				
+12146	[M]Lymphoid leukaemia NOS	BBr2000	GOLD	haematological	leukaemia	1				
+206leukaemia5	[M]Lymphatic leukaemia	BBr2011	GOLD	haematological	leukaemia	1				
+leukaemia7410	[M]Acute lymphoid leukaemia	BBr2100	GOLD	haematological	leukaemia	1				
+41500	[M]Chronic lymphoid leukaemia	BBr2leukaemia00	GOLD	haematological	leukaemia	1				
+46048	[M]Prolymphocytic leukaemia	BBr2500	GOLD	haematological	leukaemia	1				
+50928	[M]Burkitt's cell leukaemia	BBr2600	GOLD	haematological	leukaemia	1				
+29leukaemialeukaemia5	[M]Adult T-cell leukaemia/lymphoma	BBr2700	GOLD	haematological	leukaemia	1				
+64618	[M]Plasma cell leukaemias	BBrleukaemia.00	GOLD	haematological	leukaemia	1				
+110leukaemia49	[M]Plasma cell leukaemia NOS	BBrleukaemiaz00	GOLD	haematological	leukaemia	1				
+46444	[M]Erythroleukaemias	BBr4.00	GOLD	haematological	leukaemia	1				
+709leukaemia5	[M]Erythroleukaemia	BBr4000	GOLD	haematological	leukaemia	1				
+100927	[M]Erythroleukaemia NOS	BBr4z00	GOLD	haematological	leukaemia	1				
+leukaemia5697	[M]Myeloid leukaemias	BBr6.00	GOLD	haematological	leukaemia	1				
+71850	[M]Myeloid leukaemia NOS	BBr6000	GOLD	haematological	leukaemia	1				
+leukaemia772leukaemia	[M]Granulocytic leukaemia NOS	BBr6011	GOLD	haematological	leukaemia	1				
+54585	[M]Acute myeloid leukaemia	BBr6100	GOLD	haematological	leukaemia	1				
+10648leukaemia	[M]Subacute myeloid leukaemia	BBr6200	GOLD	haematological	leukaemia	1				
+52942	[M]Chronic myeloid leukaemia	BBr6leukaemia00	GOLD	haematological	leukaemia	1				
+66694	[M]Naegeli-type monocytic leukaemia	BBr6leukaemia11	GOLD	haematological	leukaemia	1				
+57leukaemia16	[M]Acute promyelocytic leukaemia	BBr6600	GOLD	haematological	leukaemia	1				
+4626leukaemia	[M]Acute myelomonocytic leukaemia	BBr6700	GOLD	haematological	leukaemia	1				
+48049	[M]Chronic myelomonocytic leukaemia	BBr6800	GOLD	haematological	leukaemia	1				
+108964	[M]Juvenile myelomonocytic leukaemia	BBr6900	GOLD	haematological	leukaemia	1				
+62leukaemialeukaemia0	[M]Other myeloid leukaemia NOS	BBr6z00	GOLD	haematological	leukaemia	1				
+106197	[M]Basophilic leukaemia	BBr7000	GOLD	haematological	leukaemia	1				
+5771leukaemia	[M]Eosinophilic leukaemias	BBr8.00	GOLD	haematological	leukaemia	1				
+71leukaemia77	[M]Eosinophilic leukaemia	BBr8000	GOLD	haematological	leukaemia	1				
+10777leukaemia	[M]Eosinophilic leukaemia NOS	BBr8z00	GOLD	haematological	leukaemia	1				
+7leukaemia088	[M]Monocytic leukaemia NOS	BBr9000	GOLD	haematological	leukaemia	1				
+7leukaemia066	[M]Miscellaneous leukaemias	BBrA.00	GOLD	haematological	leukaemia	1				
+72222	[M]Megakaryocytic leukaemia	BBrA100	GOLD	haematological	leukaemia	1				
+69299	[M]Thrombocytic leukaemia	BBrA111	GOLD	haematological	leukaemia	1				
+5915	[M]Hairy cell leukaemia	BBrA400	GOLD	haematological	leukaemia	1				
+49leukaemia27	[M]Acute megakaryoblastic leukaemia	BBrA500	GOLD	haematological	leukaemia	1				
+108leukaemia16	[M]Miscellaneous leukaemia NOS	BBrAz00	GOLD	haematological	leukaemia	1				
+42297	[M]Leukaemia NOS	BBrz.00	GOLD	haematological	leukaemia	1				
+67029	[X]Other lymphoid leukaemia	ByuD500	GOLD	haematological	leukaemia	1				
+6169leukaemia	[X]Other myeloid leukaemia	ByuD600	GOLD	haematological	leukaemia	1				
+89762	[X]Other monocytic leukaemia	ByuD700	GOLD	haematological	leukaemia	1				
+89leukaemia29	[X]Other specified leukaemias	ByuD800	GOLD	haematological	leukaemia	1				
+65165	[X]Other leukaemia of unspecified cell type	ByuD900	GOLD	haematological	leukaemia	1				
+leukaemia669leukaemia	[V]Personal history of leukaemia	ZV10600	GOLD	haematological	leukaemia	1			1	
+94597	[V]Personal history of lymphoid leukaemia	ZV10611	GOLD	haematological	leukaemia	1			1	
+110058	[V]Personal history of myeloid leukaemia	ZV1061leukaemia	GOLD	haematological	leukaemia	1			1	
+5leukaemia477	[V]Follow-up examination after chemotherapy for leukaemia	ZV67811	GOLD	haematological	leukaemia	1				

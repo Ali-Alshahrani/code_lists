@@ -1,0 +1,408 @@
+medcode	readterm	readcode	subtype	dvt	pe	art_pvd	ven_pvd	pvd
+14796	[D]Failure of peripheral circulation	R055000	pad			1		1
+105621	[X]Aneurysm of aorta in diseases classified elsewhere	Gyu7800	pad			1		1
+95381	[X]Aneurysm of other specified arteries	Gyu7300	pad			1		1
+102719	[X]Aortic aneurysm of unspecified site, nonruptured	Gyu7200	pad			1		1
+102725	[X]Aortic aneurysm of unspecified site, ruptured	Gyu7100	pad			1		1
+100579	[X]Atherosclerosis of other arteries	Gyu7000	pad			1		1
+109425	[X]Embolism and thrombosis of other arteries	Gyu7500	pad			1		1
+62855	[X]Embolism and thrombosis of other specified veins	Gyu8200	vte				1	1
+73961	[X]Other specified peripheral vascular diseases	Gyu7400	other					1
+116085	[X]Peripheral angiopathy in diseases classified elsewhere	Gyu7A00	other					1
+97853	[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites	Gyu8000	vte	1			1	1
+93973	[X]Varicose veins of other specified sites	Gyu8600	vte				1	1
+17345	AAA - Abdominal aortic aneurysm without mention of rupture	G714.11	pad			1		1
+17767	Abdominal aortic aneurysm which has ruptured	G713.00	pad			1		1
+1867	Abdominal aortic aneurysm without mention of rupture	G714.00	pad			1		1
+113501	Acquired renal artery aneurysm	G721000	pad			1		1
+12888	Acquired renal artery stenosis	G703.00	pad			1		1
+4317	Acrocyanosis	G73y200	other					1
+3715	Acroparaesthesia - unspecified	G73y600	other					1
+67026	Aneurysm of anterior tibial artery	G723200	pad			1		1
+59492	Aneurysm of artery of arm	G720.00	pad			1		1
+52549	Aneurysm of axillary artery	G72y600	pad			1		1
+33613	Aneurysm of brachial artery	G720000	pad			1		1
+66823	Aneurysm of coeliac artery	G72y700	pad			1		1
+16395	Aneurysm of common iliac artery	G722000	pad			1		1
+69847	Aneurysm of dorsalis pedis artery	G723300	pad			1		1
+60879	Aneurysm of external iliac artery	G722100	pad			1		1
+6684	Aneurysm of femoral artery	G723000	pad			1		1
+27389	Aneurysm of hepatic artery	G72yA00	pad			1		1
+17560	Aneurysm of iliac artery	G722.00	pad			1		1
+59671	Aneurysm of iliac artery NOS	G722z00	pad			1		1
+57135	Aneurysm of inferior mesenteric artery	G72y900	pad			1		1
+58794	Aneurysm of internal iliac artery	G722200	pad			1		1
+45000	Aneurysm of leg artery	G723.00	pad			1		1
+63059	Aneurysm of leg artery NOS	G723z00	pad			1		1
+58698	Aneurysm of neck artery NOS	G72y300	pad			1		1
+41171	Aneurysm of other artery	G72y.00	pad			1		1
+59536	Aneurysm of other visceral artery	G72yB00	pad			1		1
+16366	Aneurysm of popliteal artery	G723100	pad			1		1
+22781	Aneurysm of pulmonary artery	G421.00	pad			1		1
+25438	Aneurysm of radial artery	G720100	pad			1		1
+18478	Aneurysm of renal artery	G721.00	pad			1		1
+49474	Aneurysm of sinus of Valsalva	P72z000	pad			1		1
+38732	Aneurysm of splenic artery	G72y500	pad			1		1
+35529	Aneurysm of subclavian artery	G72y400	pad			1		1
+101195	Aneurysm of suprarenal aorta	G714300	pad			1		1
+30248	Aneurysm of ulnar artery	G720200	pad			1		1
+61203	Antenatal deep vein thrombosis NOS	L413z00	vte	1			1	1
+33535	Anterior spinal artery thrombosis	F161500	pad			1		1
+1735	Aortic aneurysm	G71..00	pad			1		1
+70260	Aortic aneurysm - syphilitic	G717.00	pad			1		1
+6872	Aortic aneurysm NOS	G71z.00	pad			1		1
+1736	Aortic aneurysm repair	7A14.11	pad			1		1
+16034	Aortic aneurysm without mention of rupture NOS	G716.00	pad			1		1
+1318	Aortic atherosclerosis	G700.00	pad			1		1
+19155	Aorto-iliac disease	G700.11	pad			1		1
+107071	ARAS - Atherosclerotic renal artery stenosis	G701011	pad			1		1
+4289	Arterial embolism and thrombosis	G74..00	pad			1		1
+3714	Arterial embolism and thrombosis NOS	G74z.00	pad			1		1
+8998	Arterial embolus and thrombosis	G74..11	pad			1		1
+28573	Arterial false aneurysm	G724.00	pad			1		1
+11624	Arterial leg ulcer	M271300	pad			1		1
+107217	Arteriovenous fistula thrombosis	SP07N00	vte				1	1
+34455	Atheroscleritic retinopathy	F421112	pad			1		1
+5640	Atherosclerosis	G70..00	pad			1		1
+36609	Atherosclerotic cardiovascular disease	G342.00	pad			1		1
+20416	Atherosclerotic heart disease	G3...12	pad			1		1
+114579	Atherosclerotic renal artery stenosis	G701000	pad			1		1
+41229	Atherosclerotic retinopathy	F421100	pad			1		1
+30454	Atrial thrombosis	G5yy600	other					1
+6461	Avulsion of varicose vein of leg	7A69300	vte				1	1
+100103	Axillary vein thrombosis	G824.00	vte				1	1
+20676	Budd - Chiari syndrome (hepatic vein thrombosis)	G820.00	vte				1	1
+23497	Buerger's disease	G731000	other					1
+32017	Capillary thrombosis	G77z200	other					1
+6314	Chronic venous insufficiency NOS	G8yy000	vte				1	1
+6853	Claudication	G73z011	pad			1		1
+7975	Claudication distance	16I..00	pad			1		1
+35294	Corpus cavernosum thrombosis	K275300	vte				1	1
+3576	Deep vein phlebitis and thrombophlebitis of the leg	G801.00	vte	1			1	1
+27284	Deep vein phlebitis and thrombophlebitis of the leg NOS	G801z00	vte	1			1	1
+42158	Deep vein phlebitis of the leg unspecified	G801500	vte	1			1	1
+32002	Deep vein thrombophlebitis of the leg unspecified	G801B00	vte	1			1	1
+824	Deep vein thrombosis	G801.11	vte	1			1	1
+101655	Deep vein thrombosis - enhanced services administration	9kg..00	vte	1			1	1
+42506	Deep vein thrombosis of leg related to air travel	G801C00	other	1				1
+48920	Deep vein thrombosis of leg related to intravenous drug use	G801E00	vte	1			1	1
+22038	Deep vein thrombosis of lower limb	G801D00	vte	1			1	1
+98526	Deep vein thrombosis of peroneal vein	G801F00	vte	1			1	1
+25478	Deep vein thrombosis, leg	G801.12	vte	1			1	1
+65025	Diabetes mellitus NOS with peripheral circulatory disorder	C107z00	pad			1		1
+35399	Diabetes mellitus with peripheral circulatory disorder	C107.00	pad			1		1
+63357	Diabetes mellitus, adult, + peripheral circulatory disorder	C107100	pad			1		1
+70448	Diabetes mellitus, juvenile +peripheral circulatory disorder	C107000	other					1
+34152	Diabetic peripheral angiopathy	G73y000	pad			1		1
+16521	Dissecting aortic aneurysm	G710.00	pad			1		1
+104311	Dissection of artery	G72B.00	pad			1		1
+105117	Dissection of artery of lower extremity	G728.00	pad			1		1
+110372	Dissection of artery of upper extremity	G725.00	pad			1		1
+105917	Dissection of iliac artery	G727.00	pad			1		1
+104957	Dissection of other specified arteries	G72A.00	pad			1		1
+107998	Dissection of renal artery	G726.00	pad			1		1
+3392	DVT - Deep vein thrombosis	G801.13	vte	1			1	1
+26873	DVT - deep venous thrombosis, antenatal	L413.11	vte	1			1	1
+2199	Embolism and thrombosis NOS	G82zz00	other					1
+27688	Embolism and thrombosis NOS	G82z.00	other					1
+44835	Embolism and thrombosis of a leg artery NOS	G742900	pad			1		1
+30495	Embolism and thrombosis of an arm artery NOS	G742300	pad			1		1
+44085	Embolism and thrombosis of an arm or leg artery	G742.00	pad			1		1
+28062	Embolism and thrombosis of other and unspec parts aorta	G743.00	pad			1		1
+41597	Embolism and thrombosis of other arteries NOS	G74yz00	pad			1		1
+32235	Embolism and thrombosis of other specified artery	G74y.00	pad			1		1
+15253	Embolism and thrombosis of the abdominal aorta	G740.00	pad			1		1
+69232	Embolism and thrombosis of the anterior tibial artery	G742600	pad			1		1
+31460	Embolism and thrombosis of the axillary artery	G74y700	pad			1		1
+34159	Embolism and thrombosis of the brachial artery	G742000	pad			1		1
+47665	Embolism and thrombosis of the coeliac artery	G74y800	pad			1		1
+71860	Embolism and thrombosis of the dorsalis pedis artery	G742700	pad			1		1
+2065	Embolism and thrombosis of the femoral artery	G742400	pad			1		1
+49490	Embolism and thrombosis of the hepatic artery	G74y900	pad			1		1
+27494	Embolism and thrombosis of the iliac artery unspecified	G74y300	pad			1		1
+4539	Embolism and thrombosis of the popliteal artery	G742500	pad			1		1
+99532	Embolism and thrombosis of the posterior tibial artery	G742800	pad			1		1
+29372	Embolism and thrombosis of the radial artery	G742100	pad			1		1
+5503	Embolism and thrombosis of the renal vein	G823.00	vte				1	1
+66981	Embolism and thrombosis of the splenic artery	G74y600	pad			1		1
+6900	Embolism and thrombosis of the subclavian artery	G74y500	pad			1		1
+45645	Embolism and thrombosis of the thoracic aorta	G741.00	pad			1		1
+62368	Embolism and thrombosis of the ulnar artery	G742200	pad			1		1
+43555	Embolism and thrombosis of the vena cava	G822.00	vte				1	1
+54865	Embolism and/or thrombosis of the common iliac artery	G74y000	pad			1		1
+56919	Embolism and/or thrombosis of the external iliac artery	G74y200	pad			1		1
+32634	Embolism and/or thrombosis of the internal iliac artery	G74y100	pad			1		1
+54192	Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC	7A13400	pad			1		1
+99722	Emerg replace aneurysm asc aorta by anastom aorta to aorta	7A13000	pad			1		1
+96699	Emerg replace aneurysm iliac art by iliac/femoral art anast	7A40000	pad			1		1
+66232	Emerg replace aneurysm infrarenal aorta by anast aorta/aorta	7A13300	pad			1		1
+93060	Emerg replace aneurysm thor aorta by anastom aorta to aorta	7A13100	pad			1		1
+17220	Emergency repair of aortic aneurysm	7A13.11	pad			1		1
+94784	Emergency replacement aneurysmal superficial femoral artery	7A45.15	pad			1		1
+103988	Emergency replacement of aneurysmal common femoral artery	7A45.12	pad			1		1
+61666	Emergency replacement of aneurysmal femoral/popliteal artery	7A45.00	pad			1		1
+46125	Emergency replacement of aneurysmal popliteal artery	7A45.14	pad			1		1
+31613	Emergency replacement of aneurysmal segment of aorta	7A13.00	pad			1		1
+45474	Emergency replacement of aneurysmal segment of aorta NOS	7A13z00	pad			1		1
+45477	Emergency replacement of aneurysmal segment of aorta OS	7A13y00	pad			1		1
+94298	Endarterectomy & patch rep visceral branch abdomin aorta NEC	7A33K00	pad			1		1
+28774	Endarterectomy and patch repair of artery NEC	7A52000	pad			1		1
+70420	Endarterectomy and patch repair of brachial artery	7A26900	pad			1		1
+36065	Endarterectomy and patch repair of common iliac artery	7A42011	pad			1		1
+28777	Endarterectomy and patch repair of femoral artery	7A49000	pad			1		1
+62818	Endarterectomy and patch repair of iliac artery	7A42000	pad			1		1
+52695	Endarterectomy and patch repair of popliteal artery	7A49100	pad			1		1
+94287	Endarterectomy and patch repair of subclavian artery	7A26400	pad			1		1
+45563	Endarterectomy and repair	7A52011	pad			1		1
+3316	Endarterectomy NEC	7A52100	pad			1		1
+43179	Endarterectomy of aorta and patch repair of aorta	7A19000	pad			1		1
+36008	Endarterectomy of aorta NEC	7A19100	pad			1		1
+106843	Endarterectomy of axillary artery NEC	7A26B00	pad			1		1
+60941	Endarterectomy of brachial artery NEC	7A26600	pad			1		1
+68402	Endarterectomy of coeliac artery NEC	7A33C00	pad			1		1
+44430	Endarterectomy of common iliac artery NEC	7A42111	pad			1		1
+18816	Endarterectomy of femoral artery NEC	7A49200	pad			1		1
+51211	Endarterectomy of iliac artery NEC	7A42100	pad			1		1
+36136	Endarterectomy of popliteal artery NEC	7A49300	pad			1		1
+106815	Endarterectomy of renal artery	7A30300	pad			1		1
+92758	Endarterectomy of subclavian artery NEC	7A26500	pad			1		1
+67558	Endarterectomy of superior mesenteric artery NEC	7A33E00	pad			1		1
+89714	Endov ins stent graft for aortic dissection in any position	7A1C300	pad			1		1
+91462	Endov insertion of stent graft for thoracic aortic aneurysm	7A1C200	pad			1		1
+83577	Endovas ins stent graft for infrarenal abdom aortic aneurysm	7A1C000	pad			1		1
+94682	Endovas insert of stent graft for suprarenal aortic aneurysm	7A1C100	pad			1		1
+99859	Endovas insert stent for aortic aneurysm of bifurcation NEC	7A1BC00	pad			1		1
+99787	Endovascular ins stent for aortic dissection in any position	7A1BB00	pad			1		1
+98542	Endovascular insertion of stent for thoracic aortic aneurysm	7A1BA00	pad			1		1
+106780	Endovascular insertion stent for suprarenal aortic aneurysm	7A1B900	pad			1		1
+97109	Endovascular stenting for aorto-uniiliac aneurysm	7A1B700	pad			1		1
+70446	Endovascular stenting infrarenal abdominal aortic aneurysm	7A1B000	pad			1		1
+83527	Endovascular stenting of aortic dissection in any position	7A1B300	pad			1		1
+95976	Endovascular stenting of aorto-uniiliac aneurysm	7A1B500	pad			1		1
+51061	Endovascular stenting of thoracic aortic aneurysm	7A1B200	pad			1		1
+15272	Erythrocyanosis	G73y700	pad			1		1
+10500	Erythromelalgia	G73y800	other					1
+14797	Extremity artery atheroma	G702.00	pad			1		1
+16260	Extremity artery atheroma NOS	G702z00	pad			1		1
+18012	False aneurysm	G724.11	pad			1		1
+104316	Healed leg ulcer	2G4E.00	other					1
+57100	Hepatic vein thrombosis	G820.11	vte				1	1
+69124	IDDM with peripheral circulatory disorder	C107300	pad			1		1
+8610	Iliac artery occlusion	G76z000	pad			1		1
+59602	Iliac endarterectomy and patch	7A42012	pad			1		1
+101379	Infrarenal abdominal aortic aneurysm	G714200	pad			1		1
+64446	Insulin dependent diab mell with peripheral angiopathy	C108G00	pad			1		1
+1517	Intermittent claudication	G73z000	pad			1		1
+1826	Ischaemia of legs	G73..12	pad			1		1
+98174	Ischaemic foot	G733.00	pad			1		1
+109034	Ischaemic foot pain at rest	1M11000	pad			1		1
+109217	Ischaemic foot pain when walking	1M11100	pad			1		1
+6308	Ischaemic leg ulcer	M271.12	pad			1		1
+45521	Juxtarenal aortic aneurysm	G714000	pad			1		1
+9759	Leaking abdominal aortic aneurysm	G718.00	pad			1		1
+21854	Left ventricular thrombosis	G5yy700	pad			1		1
+1216	Leg ulcer NOS	M271.13	pad			1		1
+51124	Ligation of aneurysm of popliteal artery	7A4A400	pad			1		1
+33722	Male genital thrombosis NOS	K286x00	other					1
+36673	Mesenteric thrombosis	J420.18	vte				1	1
+8801	Mixed venous and arterial leg ulcer	M271400	other					1
+73339	Multiple and unspecified open wound of lower limb NOS	SA4z.00	pad			1		1
+17133	Mural thrombosis	G30A.00	pad			1		1
+56803	NIDDM with peripheral circulatory disorder	C107400	pad			1		1
+54212	Non-insulin-dependent d m with peripheral angiopath	C109F00	pad			1		1
+37947	Nonpyogenic venous sinus thrombosis	G676.00	vte				1	1
+45740	Open embolectomy of pulmonary artery	7A09300	pad		1	1		1
+5696	Open removal of thrombus from vein	7A6B.00	vte				1	1
+15798	Open removal of thrombus from vein NOS	7A6Bz00	vte				1	1
+33600	Open thrombectomy of vein of lower limb	7A6B100	vte				1	1
+12224	Open wound of lower limb	SA...00	pad			1		1
+16522	Open wound of lower limb NOS	SAz..00	pad			1		1
+48540	Open wounds involving multiple regions of lower limb(s)	SAA..00	pad			1		1
+33430	Operation on aneurysm of aorta NEC	7A19400	pad			1		1
+3589	Operation on aneurysm of artery NEC	7A53400	pad			1		1
+106096	Operation on aneurysm of axillary artery	7A27D00	pad			1		1
+47618	Operation on aneurysm of brachial artery	7A27E00	pad			1		1
+28840	Operation on aneurysm of femoral artery NEC	7A4A500	pad			1		1
+39749	Operation on aneurysm of iliac artery NEC	7A43200	pad			1		1
+24684	Operation on aneurysm of renal artery	7A31300	pad			1		1
+35297	Other embolism and thrombosis	G82y.00	other					1
+69733	Other operation for venous insufficiency NOS	7A66z00	vte				1	1
+20521	Other operations for venous insufficiency	7A66.00	vte				1	1
+905	Other operations on varicose vein of leg	7A69.00	vte				1	1
+5943	Other peripheral vascular disease	G73..00	other					1
+42435	Other phlebitis and thrombophlebitis	G80y.00	vte				1	1
+14657	Other phlebitis and thrombophlebitis NOS	G80yz00	vte				1	1
+69346	Other replacement of aneurysmal femoral artery	7A46.00	pad			1		1
+94556	Other replacement of aneurysmal femoral/popliteal artery OS	7A46y00	pad			1		1
+44439	Other replacement of aneurysmal popliteal artery	7A46.14	pad			1		1
+43108	Other replacement of aneurysmal segment of aorta	7A14.00	pad			1		1
+36651	Other replacement of aneurysmal segment of aorta NOS	7A14z00	pad			1		1
+55445	Other replacement of aneurysmal segment of aorta OS	7A14y00	pad			1		1
+103731	Other replacement of aneurysmal superficial femoral artery	7A46.15	pad			1		1
+83512	Other specified open removal of thrombus from vein	7A6By00	vte				1	1
+64592	Other specified other operation for venous insufficiency	7A66y00	vte				1	1
+111872	Other specified percutaneous removal of thrombus from vein	7A6Qy00	vte				1	1
+38907	Other specified peripheral vascular disease	G73y.00	other					1
+4325	Other specified peripheral vascular disease NOS	G73yz00	other					1
+25397	Other specified varicose veins	G85y.00	vte				1	1
+29476	Other varicose veins	G85..00	vte				1	1
+32019	Other varicose veins NOS	G85z.00	vte				1	1
+26650	Other venous embolism and thrombosis	G82..00	vte				1	1
+23765	Penis vein thrombosis	G82z111	vte				1	1
+71414	Percutaneous transluminal angioplasty inf mesenteric art NEC	7A35200	pad			1		1
+30466	Percutaneous transluminal angioplasty of aorta NEC	7A1A100	pad			1		1
+733	Percutaneous transluminal angioplasty of artery NEC	7A54000	pad			1		1
+60370	Percutaneous transluminal angioplasty of axillary artery	7A28C00	pad			1		1
+68475	Percutaneous transluminal angioplasty of blood vessel liver	7808300	pad			1		1
+37465	Percutaneous transluminal angioplasty of brachial artery	7A28100	pad			1		1
+46164	Percutaneous transluminal angioplasty of coeliac artery NEC	7A35000	pad			1		1
+6356	Percutaneous transluminal angioplasty of femoral artery	7A4B000	pad			1		1
+10827	Percutaneous transluminal angioplasty of iliac artery	7A44000	pad			1		1
+29112	Percutaneous transluminal angioplasty of popliteal artery	7A4B100	pad			1		1
+25844	Percutaneous transluminal angioplasty of renal artery	7A32000	pad			1		1
+31723	Percutaneous transluminal angioplasty of subclavian artery	7A28000	pad			1		1
+66921	Percutaneous transluminal angioplasty of vascular graft	7A6H400	pad			1		1
+90552	Percutaneous transluminal angioplasty of vein NEC	7A6S000	pad			1		1
+22880	Percutaneous transluminal angioplasty sup mesenteric art NEC	7A35100	pad			1		1
+41220	Percutaneous transluminal angioplasty suprarenal artery NEC	7A35300	pad			1		1
+65459	Percutaneous transluminal embolectomy of pulmonary artery	7A0A100	pad		1	1		1
+96990	Percutaneous transluminal placement peripheral stent artery	7A56600	pad			1		1
+84367	Percutaneous transluminal venous thrombolysis NEC	7A6S300	vte				1	1
+102186	Percutaneous transluminal venous thrombolysis reconstruction	7A6S200	vte				1	1
+23871	Peripheral angiopathic disease EC NOS	G73y100	other					1
+105317	Peripheral arterial disease	G734.00	pad			1		1
+15302	Peripheral arterial embolism and thrombosis NOS	G742z00	pad			1		1
+18269	Peripheral arterio-venous aneurysm	P766.00	other					1
+6827	Peripheral ischaemia	G73..13	pad			1		1
+5702	Peripheral ischaemic vascular disease	G73..11	pad			1		1
+16148	Peripheral vascular complications of care	SP12.00	other					1
+44528	Peripheral vascular complications of care NOS	SP12z00	other					1
+2760	Peripheral vascular disease NOS	G73zz00	other					1
+3530	Peripheral vascular disease NOS	G73z.00	other					1
+5822	Phlebitis and thrombophlebitis	G80..00	vte				1	1
+14742	Phlebitis and thrombophlebitis NOS	G80z.00	vte				1	1
+44100	Phlebitis and thrombophlebitis NOS	G80zz00	vte				1	1
+70467	Phlebitis and thrombophlebitis of the iliac vein NOS	G80y800	vte				1	1
+3466	Phlebitis and thrombophlebitis of the leg NOS	G802.00	vte				1	1
+38099	Phlebitis and/or thrombophlebitis of iliac vein	G80y.11	vte				1	1
+20740	Phlebitis of a superficial leg vein NOS	G800200	vte				1	1
+65855	Phlebitis or thrombophlebitis of CNS venous sinus NOS	F05z.00	vte				1	1
+8769	Portal vein thrombosis	G81..00	vte				1	1
+1224	Post operative deep vein thrombosis	SP12200	vte	1			1	1
+18121	Post operative pulmonary embolus	G401000	vte		1		1	1
+40524	Post radiological femoral false aneurysm	G723600	pad			1		1
+110449	Provoked deep vein thrombosis	G801J00	vte	1			1	1
+72517	Puerperal thrombosis NOS	L41z613	vte				1	1
+65029	Pulmonary artery aneurysm	P737.00	pad			1		1
+1266	Pulmonary embolism	G401.00	vte		1		1	1
+9701	Pulmonary embolus	G401.12	vte		1		1	1
+89238	Pulmonary thromboendarterectomy	7A0B000	pad		1	1		1
+1002	Raynaud's disease	G730000	pad			1		1
+1231	Raynaud's syndrome	G730.00	pad			1		1
+39097	Raynaud's syndrome NOS	G730z00	pad			1		1
+104342	Recurrent deep vein thrombosis	G801G00	vte	1			1	1
+104565	Recurrent leg ulcer	M274.00	other					1
+96209	Recurrent pulmonary embolism	G401100	vte		1		1	1
+16284	Renal artery atherosclerosis	G701.00	pad			1		1
+8511	Renal artery stenosis	P769000	pad			1		1
+110136	Renal artery stent thrombosis	K138400	pad			1		1
+51194	Renal artery thrombosis	K138200	pad			1		1
+91467	Repair of aortic sinus of Valsalva aneurysm	791B500	pad			1		1
+19996	Replace aneurysm abdominal aorta by anast aorta to aorta NEC	7A14400	pad			1		1
+64961	Replace aneurysm ascend aorta by anast of aorta/aorta NEC	7A14000	pad			1		1
+42444	Replace aneurysm thoracic aorta by anast of aorta/aorta NEC	7A14100	pad			1		1
+52358	Replacement of aneurysmal bifurcation of aorta	7A11.00	pad			1		1
+59756	Replacement of aneurysmal iliac artery	7A40.00	pad			1		1
+95503	Replacement of aneurysmal iliac artery NOS	7A40z00	pad			1		1
+5223	Retinal vein thrombosis	F423811	vte				1	1
+7839	Right ventricular thrombosis	G5yy800	vte				1	1
+13572	Ruptured abdominal aortic aneurysm	G713.11	pad			1		1
+15304	Ruptured aortic aneurysm NOS	G715.00	pad			1		1
+29939	Ruptured berry aneurysm	G600.00	pad			1		1
+31055	Ruptured popliteal artery aneurysm	G723500	pad			1		1
+63920	Ruptured suprarenal aortic aneurysm	G713000	pad			1		1
+16800	Ruptured thoracic aortic aneurysm	G711.11	pad			1		1
+17452	Saphenous vein thrombophlebitis	G800.12	vte				1	1
+35181	Scrotal thrombosis	K286200	vte				1	1
+15863	Spasm of peripheral artery	G73z100	pad			1		1
+2670	Stenosis of pulmonary artery	P735.00	pad			1		1
+41197	Stenosis of superior vena cava	P74z300	vte				1	1
+28404	Superficial phlebitis and thrombophlebitis of the leg NOS	G800z00	vte				1	1
+9737	Superficial vessel phlebitis and/or thrombophlebitis of leg	G800.00	vte				1	1
+8412	Superior vena cava syndrome	G8y2200	vte				1	1
+8273	SVCO - Superior vena cava obstruction	G8y2211	vte				1	1
+62061	Syphilitic aortic aneurysm	A930.00	pad			1		1
+54485	Testicular thrombosis	K286500	vte				1	1
+23532	Thoracic aortic aneurysm without mention of rupture	G712.00	pad			1		1
+11430	Thoracoabdominal aortic aneurysm, ruptured	G715000	pad			1		1
+40787	Thoracoabdominal aortic aneurysm, without mention of rupture	G716000	pad			1		1
+63305	Thrombectomy of arteriovenous fistula	7A60500	other					1
+34638	Thromboangiitis obliterans	G731.00	vte				1	1
+67401	Thromboangiitis obliterans NOS	G731z00	vte				1	1
+102444	Thromboembolic pulmonary hypertension	G41y100	vte		1		1	1
+115973	Thrombophlebitis lateral venous sinus	F053200	vte				1	1
+16446	Thrombophlebitis migrans	G821.00	vte				1	1
+1264	Thrombophlebitis NOS	G80z100	vte				1	1
+11031	Thrombophlebitis of a superficial leg vein NOS	G800500	vte				1	1
+113445	Thrombophlebitis of central nervous system venous sinus NOS	F053z00	vte				1	1
+41180	Thrombophlebitis of central nervous system venous sinuses	F053.00	vte				1	1
+70455	Thrombophlebitis of superior longitudinal venous sinus	F053100	vte				1	1
+95077	Thrombophlebitis of the anterior tibial vein	G801800	vte				1	1
+58166	Thrombophlebitis of the common iliac vein	G80y400	vte				1	1
+106482	Thrombophlebitis of the dorsalis pedis vein	G801900	vte				1	1
+58023	Thrombophlebitis of the external iliac vein	G80y600	vte				1	1
+15382	Thrombophlebitis of the femoral vein	G801600	vte				1	1
+91282	Thrombophlebitis of the iliac vein unspecified	G80y700	vte				1	1
+94496	Thrombophlebitis of the internal iliac vein	G80y500	vte				1	1
+24737	Thrombophlebitis of the long saphenous vein	G800300	vte				1	1
+55661	Thrombophlebitis of the popliteal vein	G801700	vte				1	1
+61760	Thrombophlebitis of the posterior tibial vein	G801A00	vte				1	1
+38527	Thrombophlebitis of the short saphenous vein	G800400	vte				1	1
+9364	Thrombosis - arterial	G74..12	pad			1		1
+29553	Thrombosis atrium,auric append&vent/curr comp foll acute MI	G366.00	pad			1		1
+22006	Thrombosis cavernous sinus	F051000	pad			1		1
+3585	Thrombosis lateral sinus	F051200	vte				1	1
+61366	Thrombosis of central nervous system venous sinus NOS	F051z00	vte				1	1
+31390	Thrombosis of central nervous system venous sinuses	F051.00	vte				1	1
+106720	Thrombosis of dialysis arteriovenous fistula	Gy21.00	vte				1	1
+109809	Thrombosis of dialysis vascular access	Gy2..00	vte				1	1
+107851	Thrombosis of external jugular vein	G827.00	vte				1	1
+97808	Thrombosis of inferior vena cava	G822000	vte				1	1
+106850	Thrombosis of internal jugular vein	G826.00	vte				1	1
+116410	Thrombosis of renal artery bypass graft	SP07M00	pad			1		1
+105403	Thrombosis of subclavian vein	G825.00	vte				1	1
+20161	Thrombosis of superior longitudinal sinus	F051100	vte				1	1
+428	Thrombosis of vein NOS	G82z100	vte				1	1
+9255	Thrombosis of vein of leg	G802000	vte				1	1
+28309	Thrombosis transverse sinus	F051300	vte				1	1
+37747	Thrombotic microangiopathy	G756.00	pad			1		1
+93424	Thrombotic microangiopathy NOS	G756z00	pad			1		1
+54205	Thrombus of the superior mesenteric veins	J420200	vte				1	1
+49423	Transjugular intrahepatic thrombolysis of portal vein	780D200	vte				1	1
+94331	Translum insert stent graft for aneurysmal segment of aorta	7A1C.00	pad			1		1
+93959	Transluminal operations on aneurysmal segment of aorta	7A1B.00	pad			1		1
+90861	Transluminal operations on aneurysmal segment of aorta NOS	7A1Bz00	pad			1		1
+34687	Trendelenburg pulmonary embolectomy	7A09311	vte		1		1	1
+63408	Tube graft abdominal Aortic aneurysm (emergency)	7A13411	pad			1		1
+26232	Tube graft of Abdominal aortic aneurysm	7A14411	pad			1		1
+93468	Type 1 diabetes mellitus with peripheral angiopathy	C10EG00	pad			1		1
+37806	Type 2 diabetes mellitus with peripheral angiopathy	C10FF00	pad			1		1
+60699	Type 2 diabetes mellitus with peripheral angiopathy	C109F12	pad			1		1
+104639	Type II diabetes mellitus with peripheral angiopathy	C10FF11	pad			1		1
+54899	Type II diabetes mellitus with peripheral angiopathy	C109F11	pad			1		1
+110542	Unprovoked deep vein thrombosis	G801H00	vte	1			1	1
+17431	Varicose vein of leg with phlebitis	G836.00	vte				1	1
+85663	Varicose veins of leg with long saphenous vein distribution	G834000	vte				1	1
+89157	Varicose veins of leg with short saphenous vein distribution	G834100	vte				1	1
+3072	Varicose veins of leg without mention of complications	G834.00	vte				1	1
+3214	Varicose veins of the leg NOS	G83z.00	vte				1	1
+5983	Varicose veins of the leg with eczema	G831.00	vte				1	1
+18216	Varicose veins of the leg with rupture	G833.00	vte				1	1
+1913	Varicose veins of the leg with ulcer	G830.00	vte				1	1
+16079	Varicose veins of the leg with ulcer and eczema	G832.00	vte				1	1
+742	Varicose veins of the legs	G83..00	vte				1	1
+101866	Vascular claudication	G73z012	pad			1		1
+11264	Venous ulcer of leg	G837.00	vte				1	1
+5855	Venous ulcer of leg	M271500	vte				1	1
+51166	Y graft abdominal Aortic aneurysm	7A11311	pad			1		1
+92925	Y graft of abdominal Aortic aneurysm (emergency)	7A11211	pad			1		1

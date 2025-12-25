@@ -1,0 +1,157 @@
+medcode	readcode	desc	liver_mild	liver_severe
+107896	AyuB200	[X]Chronic viral hepatitis, unspecified	1	
+53861	Jyu7700	[X]Granulomatous hepatitis, not elsewhere classified	1	
+105611	Gyu9400	[X]Oesophageal varices in diseases classified elsewhere		1
+6015	Jyu7100	[X]Other and unspecified cirrhosis of liver		1
+108343	AyuB100	[X]Other chronic viral hepatitis	1	
+106025	Jyu7600	[X]Toxic liver disease, unspecified	1	
+112028	AyuB300	[X]Unspecified viral hepatitis with coma	1	
+68967	AyuB.00	[X]Viral hepatitis	1	
+3216	J611.00	Acute alcoholic hepatitis	1	
+44163	A702000	Acute hep B with delta-agent (coinfection) with hep coma		1
+40029	PB63500	Alagille syndrome		1
+4743	J612.00	Alcoholic cirrhosis of liver		1
+21713	J612000	Alcoholic fibrosis and sclerosis of liver		1
+17330	J613000	Alcoholic hepatic failure		1
+7943	J617.00	Alcoholic hepatitis	1	
+48211	F10y000	Alper's disease		1
+25589	C376100	Alpha-1-antitrypsin hepatitis	1	
+38389	PB61400	Atresia of bile duct		1
+50400	PB61600	Atresia of hepatic ducts		1
+7957	J614111	Autoimmune chronic active hepatitis	1	
+18652	J63B.00	Autoimmune hepatitis	1	
+73482	J615D00	Bacterial portal cirrhosis		1
+116143	PB61.11	Bile duct atresia		1
+25597	PB61.00	Biliary atresia		1
+50444	PB61z00	Biliary atresia NOS		1
+9494	J616.00	Biliary cirrhosis		1
+58630	J616z00	Biliary cirrhosis NOS		1
+91591	J616200	Biliary cirrhosis of children		1
+113538	760J311	Blakemore intubation of oesophagus		1
+40567	J615600	Capsular portal cirrhosis		1
+27438	J615700	Cardiac portal cirrhosis		1
+116448	J615E00	Cardituberculous cirrhosis		1
+112867	J615811	Childhood function cirrhosis		1
+9029	J614100	Chronic active hepatitis	1	
+1755	J614200	Chronic aggressive hepatitis	1	
+7602	J617000	Chronic alcoholic hepatitis	1	
+1754	J614.00	Chronic hepatitis	1	
+111969	9kR..11	Chronic hepatitis annual review	1	
+99898	9kR..00	Chronic hepatitis annual review - enhanced services admin	1	
+15489	J614z00	Chronic hepatitis NOS	1	
+53877	J614y00	Chronic hepatitis unspecified	1	
+10539	J61z.00	Chronic liver disease NOS	1	
+66534	J614400	Chronic lobular hepatitis	1	
+23578	J614000	Chronic persistent hepatitis	1	
+26367	A707.00	Chronic viral hepatitis	1	
+106642	A707300	Chronic viral hepatitis B	1	
+24813	A707000	Chronic viral hepatitis B with delta-agent	1	
+41096	A707100	Chronic viral hepatitis B without delta-agent	1	
+30586	A707200	Chronic viral hepatitis C	1	
+32277	A707X00	Chronic viral hepatitis, unspecified	1	
+16725	J615.00	Cirrhosis - non alcoholic		1
+6863	J61..00	Cirrhosis and chronic liver disease		1
+1638	J615z13	Cirrhosis of liver NOS		1
+88994	7L1f.00	Compensation for liver failure		1
+97650	7L1fz00	Compensation for liver failure NOS		1
+16417	PB61000	Congenital absence of bile duct		1
+48269	PB61500	Congenital absence of hepatic ducts		1
+34642	Q48yz11	Congenital hepatic fibrosis		1
+50245	Q409100	Congenital hepatitis B infection	1	
+113524	PB61100	Congenital hypoplasia of bile duct		1
+67779	Q409.00	Congenital viral hepatitis	1	
+107622	Q409z00	Congenital viral hepatitis NOS	1	
+108819	J615711	Congestive cirrhosis		1
+18739	J615z12	Cryptogenic cirrhosis of liver		1
+102922	C370800	Cystic fibrosis related cirrhosis		1
+3450	J615300	Diffuse nodular cirrhosis		1
+47861	7805211	Exploration of liver transplant		1
+50458	PB61412	Extrahepatic atresia of bile duct		1
+44676	J615400	Fatty portal cirrhosis		1
+89717	761D800	Fibreopt endoscop rubber band ligation of upper GIT varices		1
+16759	760C500	Fibreoptic endoscopic banding of oesophageal varices		1
+11960	760C300	Fibreoptic endoscopic injection sclerotherapy oesoph varices		1
+68376	J612.11	Florid cirrhosis		1
+28929	G857.00	Gastric varices		1
+19512	C310400	Glycogenosis with hepatic cirrhosis		1
+27663	J63X.00	Granulomatous hepatitis, not elsewhere classified	1	
+25383	J61y400	Hepatic fibrosis	1	
+71453	J615z15	Hepatic fibrosis	1	
+100592	J61y600	Hepatic fibrosis with hepatic sclerosis		1
+26405	J63A.00	Hepatic granulomas in sarcoidosis		1
+60104	J61y500	Hepatic sclerosis		1
+41237	J631.00	Hepatitis in viral diseases EC	1	
+42222	J631z00	Hepatitis in viral diseases EC NOS	1	
+10636	J624.00	Hepatorenal syndrome		1
+10721	SP14300	Hepatorenal syndrome as a complication of care		1
+92909	J615500	Hypertrophic portal cirrhosis		1
+58184	J615812	Indian childhood cirrhosis		1
+48928	J615H00	Infectious cirrhosis NOS		1
+65889	PB61411	Intrahepatic atresia of bile duct		1
+96664	J615800	Juvenile portal cirrhosis		1
+100474	J612.12	Laennec's cirrhosis		1
+108800	J62z.00	Liver abscess and chronic liver disease causing sequelae NOS	1	
+31897	J62..00	Liver abscess and sequelae of chronic liver disease	1	
+110454	C370700	Liver disease due to cystic fibrosis	1	
+6692	SP08600	Liver transplant failure and rejection		1
+105758	8LH..00	Liver transplant planned		1
+31997	TB00200	Liver transplant with complication, without blame		1
+43404	7609300	Local ligation of oesophageal varices		1
+22841	J615z11	Macronodular cirrhosis of liver		1
+115451	J615200	Mixed portal cirrhosis		1
+69204	J615100	Multilobular portal cirrhosis		1
+16455	J615z00	Non-alcoholic cirrhosis NOS		1
+28798	J63y100	Nonspecific reactive hepatitis	1	
+113592	760J400	Oesophageal tamponade		1
+1641	G85..11	Oesophageal varices		1
+8363	G852300	Oesophageal varices in alcoholic cirrhosis of the liver		1
+26319	G852200	Oesophageal varices in cirrhosis of the liver		1
+44424	G852.00	Oesophageal varices in diseases EC		1
+62582	G852z00	Oesophageal varices in diseases EC NOS		1
+10797	G858.00	Oesophageal varices NOS		1
+24989	G850.00	Oesophageal varices with bleeding		1
+96756	G852000	Oesophageal varices with bleeding in diseases EC		1
+30655	G851.00	Oesophageal varices without bleeding		1
+73139	G852100	Oesophageal varices without bleeding in diseases EC		1
+20912	7609400	Open injection sclerotherapy to oesophageal varices		1
+20233	7609z00	Open operation on oesophageal varices NOS		1
+24220	7609.00	Open operations on oesophageal varices		1
+42843	J61y.00	Other non-alcoholic chronic liver disease	1	
+33597	J61yz00	Other non-alcoholic chronic liver disease NOS	1	
+48102	J62y.00	Other sequelae of chronic liver disease	1	
+112152	Q409y00	Other specified congenital viral hepatitis	1	
+107975	7609y00	Other specified open operation on oesophageal varices		1
+69552	A704.00	Other specified viral hepatitis with coma		1
+89587	A704z00	Other specified viral hepatitis with hepatic coma NOS		1
+8206	C350012	Pigmentary cirrhosis of liver		1
+47257	J615.11	Portal cirrhosis		1
+55454	J615y00	Portal cirrhosis unspecified		1
+40963	J61y300	Portal fibrosis without cirrhosis	1	
+5129	J623.00	Portal hypertension		1
+5638	J616000	Primary biliary cirrhosis		1
+15425	J661700	Primary sclerosing cholangitis		1
+53480	J614300	Recurrent hepatitis	1	
+69194	7800200	Replacement of previous liver transplant		1
+46647	760F400	Rigid oesophagoscopic banding of oesophageal varices		1
+47214	760F300	Rigid oesophagoscopic injection sclerotherapy oesoph varices		1
+25592	7824400	Roux-en-y procedure for biliary atresia		1
+15424	J616100	Secondary biliary cirrhosis		1
+55333	760J312	Sengstaken intubation of oesophagus		1
+112044	J615F00	Syphilitic portal cirrhosis		1
+62038	7609y11	Tanner devascularisation for bleeding varices		1
+36727	J635.00	Toxic liver disease	1	
+41104	J635200	Toxic liver disease with acute hepatitis	1	
+22766	J635000	Toxic liver disease with cholestasis		1
+39351	J635500	Toxic liver disease with chronic active hepatitis	1	
+64750	J635400	Toxic liver disease with chronic lobular hepatitis	1	
+17219	J635300	Toxic liver disease with chronic persistent hepatitis	1	
+44120	J635600	Toxic liver disease with fibrosis and cirrhosis of liver		1
+36107	J635100	Toxic liver disease with hepatic necrosis		1
+41673	J635X00	Toxic liver disease, unspecified	1	
+111975	A706.00	Unspecified viral hepatitis with coma		1
+55962	A700.00	Viral hepatitis A with coma		1
+69053	A702.00	Viral hepatitis B with coma		1
+65050	A704000	Viral hepatitis C with coma		1
+111976	A708.00	Viral hepatitis with hepatic coma		1
+100253	J615C00	Xanthomatous portal cirrhosis		1
+109540	J615G00	Zooparasitic portal cirrhosis		1

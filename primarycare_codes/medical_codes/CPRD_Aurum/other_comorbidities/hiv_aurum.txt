@@ -1,0 +1,169 @@
+medcodeid	desc	originalreadcode	snomedctconceptid	hiv
+103844015	Acquired immune deficiency syndrome	A788	62479008	1
+143288017	Human immunodeficiency virus infection	A788-1	86406008	1
+152322017	Asymptomatic human immunodeficiency virus infection	A7881	91947003	1
+257854011	HTLV-3 antibody positive	43C3	165816005	1
+257855012	HIV positive	43C3-1	165816005	1
+264371011	Human immunodeficiency virus carrier	65QA	699433000	1
+264418012	Notification of AIDS	65VE	170530008	1
+287012016	Human immunodeficiency virus with neurological disease	A7884	186707002	1
+287014015	Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection	A7886	713572001	1
+287020019	Human immunodeficiency virus with other clinical findings	A788y	86406008	1
+287021015	Acquired human immunodeficiency virus infection syndrome NOS	A788z	86406008	1
+287022010	Symptomatic human immunodeficiency virus infection	A789	81000119104	1
+287023017	Mycobacteriosis associated with AIDS	A7890	420818005	1
+287024011	HIV disease resulting in cytomegaloviral disease	A7891	81000119104	1
+287025012	HIV disease resulting in candidiasis	A7892	81000119104	1
+287027016	HIV disease resulting in multiple infections	A7894	186708007	1
+287029018	Burkitt lymphoma co-occurrent with human immunodeficiency virus infection	A7896	713897006	1
+287031010	HIV disease resulting in multiple malignant neoplasms	A7898	713572001	1
+287032015	HIV disease resulting in lymphoid interstitial pneumonitis	A7899	421671002	1
+288173019	[X]Human immunodeficiency virus disease	AyuC	86406008	1
+288174013	[X]HIV disease resulting in other bacterial infections	AyuC0	86406008	1
+288177018	[X]HIV disease resulting in other viral infections	AyuC1	186708007	1
+288178011	[X]HIV disease resulting in other mycoses	AyuC2	86406008	1
+288182013	[X]HIV disease resulting in other non-Hodgkin's lymphoma	AyuC6	442537007	1
+288185010	Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection	AyuC8	713572001	1
+288186011	[X]HIV disease resulting in unspecified malignant neoplasm	AyuC9	86406008	1
+288190013	[X]HIV disease resulting in other specified conditions	AyuCC	86406008	1
+288191012	[X]Unspecified human immunodeficiency virus [HIV] disease	AyuCD	86406008	1
+291993019	Retrovirus infection	A798	105635000	1
+317670010	[D]Laboratory evidence of human immunodeficiency virus [HIV]	R109	165816005	1
+365853018	Acute HIV infection	A7880	111880001	1
+1786260017	HTLV 1 (human T-lymphotropic virus 1) RNA (ribonucleic acid) detection assay	43j8	1008331000000109	1
+1786467016	HIV (human immunodeficiency virus) 1 ribonucleic acid detection assay	43j7	1008351000000102	1
+2622348012	HIV disease resulting in wasting syndrome	A789A	422003001	1
+130591000000115	HTLV 2 (human T-lymphotropic virus 2) RNA (ribonucleic acid) detection assay	43jE	1008311000000101	1
+170891000006110	Retrovirus as cause of diseases classified to other chapters	A7y01	105635000	1
+220181000006118	Pneumocystosis pneumonia	H24y2	415125002	1
+337231000006117	[V]Asymptomatic human immunodeficiency virus infection status	ZV01A	427921000000108	1
+376571000006116	[X]Dementia in human immunodef virus [HIV] disease	Eu024	421529006	1
+388991000006116	[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu	AyuC7	86406008	1
+389001000006116	HIV (human immunodeficiency virus) disease resulting in haematological and immunological abnormalities	AyuCB	943041000000105	1
+389011000006118	[X]HIV disease resulting in multiple diseases classified elsewhere	AyuCA	86406008	1
+389021000006114	[X]HIV disease resulting in multiple infections	AyuC3	186708007	1
+389101000006117	[X]HIV disease resulting/other infectious+parasitic diseases	AyuC4	186708007	1
+389111000006119	[X]HIV disease resulting/unspcf infectious+parasitic disease	AyuC5	186708007	1
+603931000000114	Human immunodeficiency virus viral load by log rank	4J3F	998171000000102	1
+825711000006111	HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu	A789X	86406008	1
+825721000006115	Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection	A7897	442537007	1
+825731000006117	HIV disease result/haematological+immunologic abnorms,NEC	A788U	943041000000105	1
+825771000006119	Kaposi's sarcoma associated with AIDS	A7895	420524008	1
+825791000006118	HIV disease resulting in multiple diseases CE	A788V	86406008	1
+825831000006113	Pneumocystosis associated with AIDS	A7893	420403001	1
+825841000006115	HIV disease resulting in unspecified malignant neoplasm	A788W	86406008	1
+825861000006116	HIV disease resulting/unspcf infectious+parasitic disease	A788X	186708007	1
+825871000006111	Human immunodeficiency virus infection with persistent generalised lymphadenopathy	A7882	95892003	1
+829181000006115	Human immunodeficiency virus with constitutional disease	A7883	186706006	1
+829221000006112	Human immunodeficiency virus infection with secondary clinical infectious disease	A7885	186708007	1
+1121571000000111	Human immunodeficiency virus monitoring	66j	504871000000109	1
+1121631000000110	Human immunodeficiency virus annual review	66j0	504901000000109	1
+1540131000006112	HIV (human immunodeficiency virus) ribonucleic acid/deoxyribonucleic acid ratio	43w3	996081000000100	1
+1715721000006111	Human immunodeficiency virus positive general health check service declined	9kl	504931000000103	1
+1741791000006119	HIV positive general health check service declined	9kl-1	504931000000103	1
+1814921000006112	HIV disease resulting in Pneumocystis jirovecii pneumonia	A7893-1	420403001	1
+1814931000006110	HIV disease resulting in Kaposi sarcoma	A7895-1	420524008	1
+1814951000006115	HIV disease resulting in other types of non-Hodgkin lymphoma	A7897-1	442537007	1
+1815001000006119	[X]HIV disease resulting in other non-Hodgkin lymphoma	AyuC6-1	442537007	1
+1816791000006117	HIV disease complicating pregnancy childbirth puerperium	L179	198609003	1
+1924211000006112	Human immunodeficiency virus type 1 subtype identification	4J3P	1007761000000101	1
+2168331000000117	HIV disease resulting in Burkitt lymphoma	A7896-1	713897006	1
+2802021000006119	Human immunodeficiency virus	^ESCTHU280202	19030005	1
+2802051000006111	HIV - Human immunodeficiency virus	^ESCTHI280205	19030005	1
+3082061000006116	Human immunodeficiency virus type 2	^ESCTHU308206	36115006	1
+3344251000006110	Congenital human immunodeficiency virus infection	^ESCTCO334425	52079000	1
+3515791000006119	Immunodeficiency due to human immunodeficiency virus infection	^ESCTIM351579	62479008	1
+3904981000006111	HIV - Human immunodeficiency virus infection	^ESCTHI390498	86406008	1
+3951391000006115	Human immunodeficiency virus type I	^ESCTHU395139	89293008	1
+4200801000006118	Acute human immunodeficiency virus seroconversion illness	^ESCTAC420080	111880001	1
+4596341000006119	Human immunodeficiency virus (HIV) positive	^ESCTHU459634	165816005	1
+4596351000006117	Human immunodeficiency virus positive	^ESCTHU459635	165816005	1
+4742821000006114	Human immunodeficiency virus infection constitutional disease	^ESCTHU474282	186706006	1
+4742831000006112	HIV - Human immunodeficiency virus infection constitutional disease	^ESCTHI474283	186706006	1
+4742841000006119	Human immunodeficiency virus infection with neurological disease	^ESCTHU474284	186707002	1
+5009881000006118	Neuropathy due to human immunodeficiency virus	^ESCTNE500988	230598008	1
+5084691000006117	HIV - Human immunodeficiency virus enteropathy	^ESCTHI508469	235726002	1
+5588871000006113	Congenital human immunodeficiency virus positive status syndrome	^ESCTCO558887	276666007	1
+5588881000006111	HIV - Congenital human immunodeficiency virus positive status syndrome	^ESCTHI558888	276666007	1
+6601991000006118	Human immunodeficiency virus encephalitis	^ESCTHU660199	398329009	1
+7708381000006118	Cytomegalovirus infection co-occurrent with human immunodeficiency virus infection	^ESCTCY770838	713722001	1
+7708721000006118	Human immunodeficiency virus antibody positive	^ESCTHU770872	713742005	1
+7708771000006117	Human immunodeficiency virus antibodies positive and p24 antigen positive	^ESCTHU770877	713745007	1
+7710381000006117	Dementia co-occurrent with human immunodeficiency virus infection	^ESCTDE771038	713844000	1
+7713761000006119	Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection	^ESCTRE771376	714083007	1
+7787831000006111	Infection of upper respiratory tract caused by Candida co-occurrent with human immunodeficiency virus infection	^ESCTIN778783	719522009	1
+8022731000006117	Human immunodeficiency virus	^ESCTHU802273	72621000119104	1
+11887321000006116	H/O asymptomatic human immunodeficiency virus infection	^ESCT1188732	432218001	1
+14155301000006113	Human immunodeficiency virus Centers for Disease Control and Prevention dual infection with HIV-1 and HIV-2	^ESCT1415530	1003679009	1
+14449731000006118	Primary effusion lymphoma due to human immune deficiency virus infection	^ESCT1444973	1153348007	1
+15116871000006119	HIV p24 Ag (Human immunodeficiency virus protein 24 antigen) in serum qualitative result	^ESCT1511687	42391000237102	1
+15118271000006119	HIV-1 (Human immunodeficiency virus 1) antigen test in serum qualitative result	^ESCT1511827	43771000237108	1
+15119701000006111	HIV (human immunodeficiency virus) antibody/antigen in serum qualitative result	^ESCT1511970	50061000237106	1
+15120021000006119	HIV (human immunodeficiency virus) type 2 antibody in serum qualitative result	^ESCT1512002	50421000237109	1
+15129271000006116	HIV (human immunodeficiency virus) antibody in serum qualitative result	^ESCT1512927	62801000237105	1
+15129931000006111	HIV (human immunodeficiency virus) type 1 antibody in body fluid sample qualitative result	^ESCT1512993	66001000237104	1
+15322391000006110	Human immunodeficiency virus antibody detected	^ESCT1532239	713742005	1
+15310111000006110	HIV detected	^ESCT1531011	165816005	1
+14155311000006111	HIV-CDC dual infection with HIV-1 and HIV-2	^ESCT1415531	1003679009	1
+6972261000006119	HIV retinopathy	^ESCTHI697226	421460008	1
+3994511000006112	Asymptomatic HIV infection	^ESCTAS399451	91947003	1
+3904971000006113	HIV infection	^ESCTHI390497	86406008	1
+2802031000006116	HIV	^ESCTHI280203	19030005	1
+1977041000006112	HIV-1/HIV-2 antigen/antibody combination immunoassay positive	EMISNQHI56	1977041000006108	1
+1823711000006112	Mother HIV positive	EMISNQMO96	1823711000006108	1
+1762151000006112	[SHHAPT] New HIV diagnosis - late - diagnosed prev. elsewhere	H1BX-SHHAPT	1762151000006108	1
+1762141000006110	[SHHAPT] New HIV diagnosis - acute - diagnosed prev. elsewhere	H1AX-SHHAPT	1762141000006106	1
+1762131000006117	[SHHAPT] New HIV diagnosis - diagnosed previously elsewhere	H1X-SHHAPT	1762131000006101	1
+1761381000006113	[SHHAPT] New HIV diagnosis - late	H1B-SHHAPT	1761381000006109	1
+1761361000006115	[SHHAPT] New HIV diagnosis - acute	H1A-SHHAPT	1761361000006104	1
+1761351000006117	[SHHAPT] New HIV diagnosis	H1-SHHAPT	1761351000006101	1
+1761311000006118	[SHHAPT] HIV positive	H-SHHAPT	1761311000006102	1
+1573641000006119	H/O: HIV	EMISNQHO13	1573641000006103	1
+908851000006113	[RFC] AIDS/HIV	HNG0607	908851000006109	1
+906841000006112	[RFC] HIV/AIDS	HNG0143	906841000006108	1
+854381000006118	HIV infection	EGTON41	854381000006102	1
+825891000006112	HIV Infection With Symptoms, Not AIDS - Subsequent Presentation	E2B-KC60	825891000006108	1
+825881000006114	HIV Infection With Symptoms, Not AIDS - First Presentation	E2A-KC60	825881000006105	1
+496791000006114	Asymptomatic HIV Infection - Subsequent Presentation	E1B-KC60	496791000006105	1
+496781000006111	Asymptomatic HIV Infection - First Presentation	E1A-KC60	496781000006107	1
+3515781000006117	Acquired immunodeficiency syndrome	^ESCTAC351578	62479008	1
+5093691000006119	Acquired immune deficiency syndrome-related nephropathy	^ESCTAC509369	236406007	1
+5588851000006115	Congenital acquired immune deficiency syndrome	^ESCTCO558885	276665006	1
+6973461000006110	Acquired immune deficiency syndrome dementia complex	^ESCTAC697346	421529006	1
+14668751000006114	Pneumocystosis with AIDS (acquired immunodeficiency syndrome)	^ESCT1466875	420403001	1
+14668791000006115	Kaposi's sarcoma with AIDS (acquired immunodeficiency syndrome)	^ESCT1466879	420524008	1
+14669181000006111	Presenile dementia with AIDS (acquired immunodeficiency syndrome)	^ESCT1466918	421023003	1
+14669521000006116	Dementia with AIDS (acquired immunodeficiency syndrome)	^ESCT1466952	421529006	1
+15046771000006110	AIDS (acquired immunodeficiency syndrome) wasting syndrome	^ESCT1504677	1260096003	1
+11989691000006113	hiv disease resulting in mycobacterial infection	^ESCT1198969	88415009	1
+12456741000006113	[v]asymptomatic human immunodeficiency virus infection status	^ESCT1245674	427921000000108	1
+1761401000006113	[shhapt] attendance for hiv related care	H2-SHHAPT	1761401000006109	1
+3515761000006110	aids	^ESCTAI351576	62479008	1
+3515801000006118	aids - acquired immunodeficiency syndrome	^ESCTAI351580	62479008	1
+3515811000006115	acquired immune deficiency syndrome (aids)	^ESCTAC351581	62479008	1
+4063961000006110	human immunodeficiency virus infection with persistent generalized lymphadenopathy	^ESCTHU406396	95892003	1
+4200811000006115	acute human immunodeficiency virus infection	^ESCTAC420081	111880001	1
+4634221000006110	notification of acquired immune deficiency syndrome	^ESCTNO463422	170530008	1
+474391000006110	aids - first presentation	E3A-KC60	474391000006106	1
+474401000006112	aids - subsequent presentation	E3B-KC60	474401000006108	1
+6953541000006114	pneumocystosis associated with acquired immunodeficiency syndrome	^ESCTPN695354	420403001	1
+6955711000006116	kaposi sarcoma associated with aids	^ESCTKA695571	420524008	1
+6955721000006112	kaposi's sarcoma associated with acquired immunodeficiency syndrome	^ESCTKA695572	420524008	1
+6960951000006115	mycobacteriosis associated with aids	^ESCTMY696095	420818005	1
+6960961000006118	mycobacteriosis associated with acquired immunodeficiency syndrome	^ESCTMY696096	420818005	1
+6973421000006116	dementia associated with aids	^ESCTDE697342	421529006	1
+6973431000006118	acquired immune deficiency syndrome-related dementia	^ESCTAC697343	421529006	1
+6973441000006111	aids - acquired immune deficiency syndrome dementia complex	^ESCTAI697344	421529006	1
+6973451000006113	adc - acquired immune deficiency syndrome dementia complex	^ESCTAD697345	421529006	1
+6973471000006115	dementia associated with acquired immunodeficiency syndrome	^ESCTDE697347	421529006	1
+6975941000006117	pneumonia associated with aids	^ESCTPN697594	421671002	1
+6975951000006115	pneumonia associated with acquired immunodeficiency syndrome	^ESCTPN697595	421671002	1
+6981921000006115	cachexia associated with aids	^ESCTCA698192	422003001	1
+6981941000006110	hiv - human immunodeficiency virus infection wasting syndrome	^ESCTHI698194	422003001	1
+6981961000006114	human immunodeficiency virus infection wasting syndrome	^ESCTHU698196	422003001	1
+6981971000006119	cachexia associated with acquired immunodeficiency syndrome	^ESCTCA698197	422003001	1
+7711131000006114	burkitt's lymphoma co-occurrent with human immunodeficiency virus infection	^ESCTBU771113	713897006	1
+8342711000006110	hiv (human immunodeficiency virus) disease resulting in haematological and immunological abnormalities	^ESCTHI834271	943041000000105	1
+879271000006114	aids +viral/chlamydial dis.nos	A78-99	543791000000108	1
+925451000006113	aids carrier	PCNQAI2	925451000006109	1
+925771000006110	notification of aids	PCNQNO16	925771000006106	1

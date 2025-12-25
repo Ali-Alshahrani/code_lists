@@ -1,0 +1,70 @@
+medcode	readcode	readterm	hiv
+2835	43C3.11	HIV positive	1
+8281	A789A00	HIV disease resulting in wasting syndrome	1
+9130	A788.11	Human immunodeficiency virus infection	1
+23763	65QA.00	AIDS carrier	1
+23951	A789200	HIV disease resulting in candidiasis	1
+27519	H24y200	Pneumonia with pneumocystis carinii	1
+27641	A789300	HIV disease resulting in Pneumocystis carinii pneumonia	1
+27853	A789500	HIV disease resulting in Kaposi's sarcoma	1
+32018	43j8.00	HTLV 1 nucleic acid detection	1
+33943	65VE.00	Notification of AIDS	1
+36294	A788z00	Acquired human immunodeficiency virus infection syndrome NOS	1
+37006	A789000	HIV disease resulting in mycobacterial infection	1
+41185	Eu02400	[X]Dementia in human immunodef virus [HIV] disease	1
+43537	43j7.00	HIV 1 nucleic acid detection	1
+44288	R109.00	[D]Laboratory evidence of human immunodeficiency virus [HIV]	1
+44617	A789600	HIV disease resulting in Burkitt's lymphoma	1
+46442	A798.00	Retrovirus infection	1
+47632	A788U00	HIV disease result/haematological+immunologic abnorms,NEC	1
+50076	A789400	HIV disease resulting in multiple infections	1
+51708	A789X00	HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu	1
+53636	A788400	Human immunodeficiency virus with neurological disease	1
+54423	A7y0100	Retrovirus as cause of diseases classified to other chapters	1
+58857	A788000	Acute human immunodeficiency virus infection	1
+58859	A788100	Asymptomatic human immunodeficiency virus infection	1
+62854	AyuC.00	[X]Human immunodeficiency virus disease	1
+62891	A788y00	Human immunodeficiency virus with other clinical findings	1
+65117	A789900	HIV disease resulting in lymphoid interstitial pneumonitis	1
+66367	A789700	HIV dis resulting oth types of non-Hodgkin's lymphoma	1
+66368	A789100	HIV disease resulting in cytomegaloviral disease	1
+67575	A788W00	HIV disease resulting in unspecified malignant neoplasm	1
+69766	A788200	HIV infection with persistent generalised lymphadenopathy	1
+69767	AyuC600	[X]HIV disease resulting in other non-Hodgkin's lymphoma	1
+70528	A788500	Human immunodeficiency virus with secondary infection	1
+70869	A788300	Human immunodeficiency virus with constitutional disease	1
+71450	A788X00	HIV disease resulting/unspcf infectious+parasitic disease	1
+72065	43jE.00	HTLV 2 nucleic acid detection	1
+93642	43w3.00	Human immunodeficiency virus RNA/DNA ratio	1
+96751	AyuCB00	[X]HIV disease result/haematological+immunologic abnorms,NEC	1
+96902	4J3F.00	Human immunodeficiency virus viral load by log rank	1
+98966	66j..00	Human immunodeficiency virus monitoring	1
+100769	AyuCD00	[X]Unspecified human immunodeficiency virus [HIV] disease	1
+101191	66j0.00	Human immunodeficiency virus annual review	1
+101836	A788600	Human immunodeficiency virus with secondary cancers	1
+102117	AyuC300	[X]HIV disease resulting in multiple infections	1
+102252	AyuCC00	[X]HIV disease resulting in other specified conditions	1
+107807	AyuC100	[X]HIV disease resulting in other viral infections	1
+111980	A789611	HIV disease resulting in Burkitt lymphoma	1
+112031	AyuC200	[X]HIV disease resulting in other mycoses	1
+112035	AyuC800	[X]HIV disease resulting in other malignant neoplasms	1
+108054	A789511	HIV disease resulting in Kaposi sarcoma	1
+112032	AyuC500	[X]HIV disease resulting/unspcf infectious+parasitic disease	1
+111979	A788V00	HIV disease resulting in multiple diseases CE	1
+112030	AyuC000	[X]HIV disease resulting in other bacterial infections	1
+104466	L179.00	HIV disease complicating pregnancy childbirth puerperium	1
+105324	A789800	HIV disease resulting in multiple malignant neoplasms	1
+112033	AyuC611	[X]HIV disease resulting in other non-Hodgkin lymphoma	1
+111981	A789711	HIV disease resulting in other types of non-Hodgkin lymphoma	1
+112037	AyuCA00	[X]HIV disease resulting in multiple diseases CE	1
+112034	AyuC700	[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu	1
+104134	AyuC400	[X]HIV disease resulting/other infectious+parasitic diseases	1
+104717	A789311	HIV disease resulting in Pneumocystis jirovecii pneumonia	1
+112036	AyuC900	[X]HIV disease resulting in unspecified malignant neoplasm	1
+24872	ZV01A00	[V]Asymptomatic human immunodeficency virus infection status	1
+110374	4J3P.00	Human immunodeficiency virus type 1 subtype identification	1
+44303	A789.00	Human immunodef virus resulting in other disease	1
+23770	A788.00	Acquired immune deficiency syndrome	1
+105040	9kl..00	HIV pos gen health check serv declind - enhanc service admin	1
+111971	9kl..11	HIV positive general health check service declined	1
+540	43C3.00	HTLV-3 antibody positive	1

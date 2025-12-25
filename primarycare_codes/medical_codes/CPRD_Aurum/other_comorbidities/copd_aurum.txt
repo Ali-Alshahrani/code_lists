@@ -1,0 +1,253 @@
+medcodeid	desc	originalreadcode	snomedctconceptid	copd
+7462014	Subcutaneous emphysema	SK07	3830001	1
+9337016	Panlobular emphysema	H321	4981000	1
+19421011	Interstitial pulmonary emphysema	H581	77690003	1
+27096010	Giant bullous emphysema	H3202	16003001	1
+53589018	Acute emphysematous cholecystitis	J6502	32067005	1
+55602016	Compensatory emphysema	H582	33325001	1
+87480013	Chronic tracheobronchitis	H31y1	52571006	1
+113497011	Centrilobular emphysema	H322	68328006	1
+123588010	Mucopurulent chronic bronchitis	H311	74417001	1
+216596014	End stage chronic obstructive airways disease	H3A	135836000	1
+285100019	Emphysematous bronchitis	H3121	185086009	1
+301444018	Simple chronic bronchitis NOS	H310z	61937009	1
+301448015	Mucopurulent chronic bronchitis NOS	H311z	74417001	1
+301450011	Chronic asthmatic bronchitis	H3120	195949008	1
+301451010	Chronic wheezy bronchitis	H3120-1	195949008	1
+301453013	Acute exacerbation of chronic obstructive airways disease	H3122	195951007	1
+301455018	Obstructive chronic bronchitis NOS	H312z	185086009	1
+301456017	Mixed simple and mucopurulent chronic bronchitis	H313	195953005	1
+301458016	Other chronic bronchitis NOS	H31yz	63480004	1
+301459012	Chronic bronchitis NOS	H31z	63480004	1
+301460019	Chronic bullous emphysema	H320	195957006	1
+301463017	Segmental bullous emphysema	H3200	195958001	1
+301464011	Zonal bullous emphysema	H3201	195959009	1
+301468014	Chronic bullous emphysema NOS	H320z	195957006	1
+301469018	Other emphysema	H32y	87433001	1
+301470017	Acute vesicular emphysema	H32y0	195963002	1
+301477019	Emphysema NOS	H32z	87433001	1
+301539010	Other specified chronic obstructive airways disease	H3y	13645005	1
+301572010	Chronic emphysema due to chemical fumes	H4640	196026004	1
+301835010	[X]Other emphysema	Hyu30	87433001	1
+301836011	[X]Other specified chronic obstructive pulmonary disease	Hyu31	13645005	1
+354323012	Emphysematous pyelonephritis	K1014	236373001	1
+354325017	Emphysematous pyelitis	K1015	236375008	1
+396108018	Bullous emphysema with collapse	H3203	266355005	1
+396109014	Atrophic (senile) emphysema	H32y1	266356006	1
+396110016	Other emphysema NOS	H32yz	87433001	1
+424365019	Acute infective exacerbation of chronic obstructive airways disease	ESCTAC8	285381006	1
+457168017	Mild chronic obstructive pulmonary disease	H36	313296004	1
+457169013	Moderate chronic obstructive pulmonary disease	H37	313297008	1
+457171013	Severe chronic obstructive pulmonary disease	H38	313299006	1
+461311019	[V]Screening for chronic bronchitis or emphysema	ZV7B3	414501000000107	1
+475431013	Chronic obstructive pulmonary disease	H3	13645005	1
+506053014	Purulent chronic bronchitis	H3110	84409004	1
+508561017	Simple chronic bronchitis	H310	61937009	1
+508562012	Chronic catarrhal bronchitis	H3100	89549007	1
+1222334016	Other specified chronic obstructive pulmonary disease	H3y-1	13645005	1
+1222335015	Chronic obstructive pulmonary disease NOS	H3z-1	13645005	1
+1227837013	[V]Screening for emphysema	ZV7B3-2	414501000000107	1
+1230190015	MacLeod's unilateral emphysema	H32y2	45145000	1
+1232475017	Perinatal mediastinal emphysema	Q3121-1	63607006	1
+1484924013	Chronic obstructive pulmonary disease monitoring	66YB	390891009	1
+1484971019	Chronic obstructive pulmonary disease monitoring due	66YD	390941006	1
+1488423019	Chronic obstructive pulmonary disease follow-up	66YL	394702007	1
+1488424013	Chronic obstructive pulmonary disease annual review	66YM	394703002	1
+1488856013	Chronic obstructive pulmonary disease leaflet given	8CE6	395159008	1
+1494601017	COAD follow-up	66YL-2	394702007	1
+1780380013	Chronic obstructive pulmonary disease monitoring by nurse	66YS	401184000	1
+1780381012	Chronic obstructive pulmonary disease monitoring by doctor	66YT	401185004	1
+1780395010	At risk of chronic obstructive pulmonary disease	14OJ	401200002	1
+2160051010	Emergency hospital admission for chronic obstructive pulmonary disease	8H2R	408501008	1
+2160102010	No family history of chronic obstructive pulmonary disease	122D	408552005	1
+2764073017	Family history of pulmonary emphysema	12D5	429953005	1
+3011135010	Step down change in chronic obstructive pulmonary disease management plan	ESCTST16	704123000	1
+3517253011	Acute exacerbation of chronic obstructive pulmonary disease care plan	^ESCT1166599	736365000	1
+3635300011	Ruptured emphysematous bleb	^ESCT1168866	762194005	1
+189761000000117	Chronic obstructive pulmonary disease monitoring first letter	9Oi0	716241000000106	1
+198471000000111	Chronic obstructive pulmonary disease monitoring second letter	9Oi1	717021000000106	1
+199481000000116	Chronic obstructive pulmonary disease monitoring third letter	9Oi2	717521000000104	1
+234431000006115	Perinatal interstitial emphysema or related condition OS	Q312y	60125001	1
+299001000000116	Chronic obstructive pulmonary disease disturbs sleep	66Yg	198401000000104	1
+299031000000110	Chronic obstructive pulmonary disease does not disturb sleep	66Yh	198411000000102	1
+314261000000118	Suspected chronic obstructive pulmonary disease	1J71	204991000000107	1
+315971000000115	Chronic obstructive pulmonary disease excluded by spirometry	1I70	205731000000109	1
+404571000006112	[X]Oth conds relat/interstial emphysema orig perinatl period	Qyu34	363225006	1
+405121000000111	Education about chronic obstructive pulmonary disease	679V	741056003	1
+457581000006111	Acute interstitial emphysema	H32y1-1	77690003	1
+516801000000112	Very severe chronic obstructive pulmonary disease	H39	293991000000106	1
+553001000006111	Chronic obstructive pulmonary disease screening	68C2	171230000	1
+555461000006119	Chronic obstructive pulmonary disease with acute lower respiratory infection	H3y0	196001008	1
+555471000006114	COAD - Chronic obstructive airways disease	H3-1	13645005	1
+640491000006111	Pulmonary emphysema	H32	87433001	1
+839001000006111	COPD self-management plan given	66YI	390891009	1
+845451000006118	COPD follow-up	66YL-1	394702007	1
+885281000006118	Mucopurulent chr. bronchitis	H311-99	74417001	1
+885301000006119	Chr. airway obstruction NOS	H3z-98	611541000000106	1
+885311000006116	Chronic obst. pulm. dis. NOS	H3z-99	611541000000106	1
+899261000006112	Traumatic subcutan. emphysema	SK07-99	54288002	1
+909711000006111	[RFC] Chronic obstructive pulmonary disease (COPD)	HNGNQRF16	909711000006107	1
+909721000006115	[RFC] Emphysema	HNGNQRF17	909721000006104	1
+966841000006111	Chronic obstructive pulmonary disease clinical management plan	8CR1	736283006	1
+967531000006119	Chronic obstructive pulmonary disease monitoring administration	9Oi	713731000000102	1
+967571000006116	Chronic obstructive pulmonary disease monitoring verbal invite	9Oi3	716281000000103	1
+967581000006118	Chronic obstructive pulmonary disease monitoring telephone invitation	9Oi4	716901000000101	1
+977891000006112	Chronic obstructive pulmonary disease accident and emergency attendance since last visit	66Yd	413845009	1
+977901000006111	Emergency chronic obstructive pulmonary disease admission since last appointment	66Ye	414087000	1
+977911000006114	Number of chronic obstructive pulmonary disease exacerbations in past year	66Yf	723245007	1
+990641000006110	Chronic obst. pulm. dis. NOS	H3-99	13645005	1
+990651000006112	Chr. airway obstruction NOS	H3-98	13645005	1
+998281000006115	Multiple chronic obstructive pulmonary disease emergency hospital admissions	66Yi	198901000000105	1
+1161361000000118	Clinical chronic obstructive pulmonary disease questionnaire total score	38Dd	445192002	1
+1176861000000111	Chronic obstructive pulmonary disease assessment test score	38Dg	446660005	1
+1573111000000115	Issue of chronic obstructive pulmonary disease rescue pack	8BMW	718241000000107	1
+1656601000006119	COPD patient unsuitable for pulmonary rehabilitation	EMISNQCO39	1656601000006103	1
+1683181000000112	Chronic obstructive pulmonary disease 3 monthly review	66YB0	760601000000107	1
+1683221000000119	Chronic obstructive pulmonary disease 6 monthly review	66YB1	760621000000103	1
+1699821000006113	At risk of chronic obstructive pulmonary disease exacerbation	14OX	383611000000102	1
+1704521000006118	Chronic obstructive pulmonary disease enhanced services administration	9kf	374591000000101	1
+1704531000006115	Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation	9kf0	371611000000107	1
+1704541000006113	COPD patient unsuitable for pulmonary rehabilitation	9kf0-1	371611000000107	1
+1704561000006112	Referred for chronic obstructive pulmonary disease structured smoking assessment	9kf1	375851000000108	1
+1704571000006117	Chronic obstructive pulmonary disease structured smoking assessment declined	9kf2	375911000000102	1
+1765681000000110	History of chronic obstructive pulmonary disease	14B3-2	270473001	1
+1771201000006116	Chronic obstructive pulmonary disease multidisciplinary review	EMISNQCH80	1771201000006100	1
+1783891000006115	Optimisation of medication for chronic obstructive pulmonary disease	8BMa0	473202005	1
+1784071000006113	Preferred place of care for next exacerbation of chronic obstructive pulmonary disease	8CeD	789661000000102	1
+1784371000006111	Referral to chronic obstructive pulmonary disease community nursing team	8Hkw	790301000000101	1
+1785171000006113	General practitioner out of hours service notified of chronic obstructive pulmonary disease care plan	9e03	783631000000109	1
+1811661000006110	Chronic obstructive pulmonary disease self-management plan agreed	661M3	811961000000106	1
+1811741000006117	Chronic obstructive pulmonary disease self-management plan review	661N3	810951000000101	1
+1813021000006111	Chronic obstructive pulmonary disease rescue pack not indicated	8I610	820341000000109	1
+1813871000006117	On chronic obstructive pulmonary disease supportive care pathway	9NgP	826111000000109	1
+1813881000006119	On COPD (chronic obstructive pulmonary disease) supportive care pathway	9NgP-1	826111000000109	1
+1823851000006119	Chronic obstructive pulmonary disease confirmed	EMISNQCH102	1823851000006103	1
+1839331000006117	Seen in chronic obstructive pulmonary disease clinic	EMISNQSE79	1839331000006101	1
+1856491000006119	Chronic obstructive pulmonary disease monitoring in primary care	EMISNQCH158	1856491000006103	1
+1856501000006110	Chronic obstructive pulmonary disease monitoring secondary care	EMISNQCH159	1856501000006106	1
+1856571000006116	Chronic obstructive pulmonary disease severity	EMISNQCH160	1856571000006100	1
+1856581000006118	Chronic obstructive pulmonary disease monitoring default	EMISNQCH161	1856581000006102	1
+1856591000006115	Chronic obstructive pulmonary disease follow-up assessment	EMISNQCH162	1856591000006104	1
+1882371000006118	Shared care chronic obstructive pulmonary disease monitoring	EMISNQSH45	1882371000006102	1
+1882421000006113	1 COPD exacerbation in past year	EMISNQ1C1	1882421000006109	1
+1882431000006111	3+ COPD exacerbations in past year	EMISNQ3C1	1882431000006107	1
+1882441000006118	2 COPD exacerbations in past year	EMISNQ2C1	1882441000006102	1
+1885981000006112	Chronic obstructive pulmonary disease written self management plan declined	8IEy	857811000000102	1
+1889301000006116	Chronic obstructive pulmonary disease screening admin	EMISNQCH269	1889301000006100	1
+1889321000006114	Chronic obstructive pulmonary disease screening invitation	EMISNQCH271	1889321000006105	1
+1904861000006117	Chronic obstructive pulmonary disease management plan declined	66Yz1	892321000000109	1
+1948051000006112	Asthma-chronic obstructive pulmonary disease overlap syndrome	H3B	1.06927610001e+16	1
+2009451000006113	Chronic obstructive pulmonary disease post discharge review	EMISNQCH958	2009451000006109	1
+2010061000006113	Acute non-infective exacerbation of chronic obstructive pulmonary disease	EMISNQAC878	847091000000104	1
+2152091000000112	Has chronic obstructive pulmonary disease care plan	8CMV	827571000000106	1
+2199261000000110	Chronic obstructive pulmonary disease care pathway	8CMW5	848431000000106	1
+2219551000000113	Seen in chronic obstructive pulmonary disease clinic	9Nk70	857661000000104	1
+2219861000000114	Chronic obstructive pulmonary disease rescue pack declined	8IEZ	857791000000103	1
+2308511000000113	Shared care chronic obstructive pulmonary disease monitoring	66Yz2	897311000000101	1
+2408831000000112	Chronic obstructive pulmonary disease resolved	2126F	941201000000103	1
+2423731000000115	Telehealth chronic obstructive pulmonary disease monitoring	66YB2	716358000	1
+2578881000006118	Panacinar emphysema	^ESCTPA257888	4981000	1
+2678611000006116	Soft tissue emphysema	^ESCTSO267861	11211003	1
+2716321000006116	COPD - Chronic obstructive pulmonary disease	^ESCTCO271632	13645005	1
+2767261000006118	Mediastinal emphysema	^ESCTME276726	16838000	1
+2767421000006111	Obstructive emphysema	^ESCTOB276742	16846004	1
+3013801000006116	Paraseptal emphysema	^ESCTPA301380	31898008	1
+3013821000006114	Subpleural emphysema	^ESCTSU301382	31898008	1
+3228301000006115	Unilateral emphysema	^ESCTUN322830	45145000	1
+3274861000006119	Congenital emphysema	^ESCTCO327486	47895001	1
+3295361000006115	Emphysema	^ESCTEM329536	49158009	1
+3437401000006110	Emphysematous bleb of lung	^ESCTEM343740	57686001	1
+3589231000006114	Congenital lobar emphysema	^ESCTCO358923	66987001	1
+3611791000006110	Centriacinar emphysema	^ESCTCE361179	68328006	1
+3650871000006116	Bronchial atresia with segmental pulmonary emphysema	^ESCTBR365087	70756004	1
+3764021000006117	Interstitial emphysema of lung	^ESCTIN376402	77690003	1
+3909511000006110	Ruptured emphysematous bleb of lung	^ESCTRU390951	86680006	1
+3921361000006112	Emphysema of lung	^ESCTEM392136	87433001	1
+4374671000006119	Acute emphysema	^ESCTAC437467	125294002	1
+4374681000006116	Chronic emphysema	^ESCTCH437468	125295001	1
+4510801000006114	End stage chronic obstructive pulmonary disease	^ESCTEN451080	135836000	1
+4781431000006114	Acute exacerbation of chronic obstructive pulmonary disease	^ESCTAC478143	195951007	1
+4781461000006117	Emphysematous bulla	^ESCTEM478146	195957006	1
+4781471000006112	Bullous emphysema	^ESCTBU478147	195957006	1
+5028341000006118	Orbital emphysema	^ESCTOR502834	231850002	1
+5054271000006111	Pulmonary emphysema in alpha-1 PI deficiency	^ESCTPU505427	233674008	1
+5054291000006112	Toxic emphysema	^ESCTTO505429	233675009	1
+5054301000006113	Chemical emphysema	^ESCTCH505430	233675009	1
+5054311000006111	Scar emphysema	^ESCTSC505431	233677001	1
+5468391000006110	Emphysematous	^ESCTEM546839	263747008	1
+6763251000006114	Emergency hospital admission for COPD (chronic obstructive pulmonary disease)	^ESCTEM676325	408501008	1
+7258581000006114	Acute exacerbation of chronic asthmatic bronchitis	^ESCTAC725858	442025000	1
+7310911000006112	Assessment using clinical chronic obstructive pulmonary disease questionnaire	^ESCTAS731091	445602009	1
+7313961000006117	Assessment using chronic obstructive pulmonary disease assessment test	^ESCTAS731396	445811006	1
+7313971000006112	Assessment using CAT - COPD (chronic obstructive pulmonary disease) assessment test	^ESCTAS731397	445811006	1
+7327771000006110	CAT - COPD (chronic obstructive pulmonary disease) assessment test score	^ESCTCA732777	446660005	1
+7501821000006119	Pulmonary hypertension due to chronic obstructive pulmonary disease	^ESCTPU750182	697911002	1
+7567251000006116	Chronic obstructive pulmonary disease clinic	^ESCTCH756725	702839006	1
+7586711000006111	Step up change in chronic obstructive pulmonary disease management plan	^ESCTST758671	704121003	1
+7627141000006111	Pulmonary emphysema co-occurrent with fibrosis of lung	^ESCTPU762714	708030004	1
+7627151000006113	CPFE - combined pulmonary fibrosis and emphysema	^ESCTCP762715	708030004	1
+7627161000006110	Combined pulmonary fibrosis and emphysema syndrome	^ESCTCO762716	708030004	1
+7970171000006119	Acute exacerbation of chronic obstructive airways disease with asthma	^ESCTAC797017	1751000119100	1
+8034781000006113	Did not attend chronic obstructive pulmonary disease clinic	^ESCTDI803478	110011000000107	1
+8058301000006110	COPD (chronic obstructive pulmonary disease) disturbs sleep	^ESCTCO805830	198401000000104	1
+8061211000006118	Chronic obstructive pulmonary disease monitoring status	^ESCTCH806121	201341000000101	1
+8120981000006112	COPD (Chronic obstructive pulmonary disease) patient unsuitable for pulmonary rehabilitation	^ESCTCO812098	371611000000107	1
+8125721000006119	At risk of COPD (chronic obstructive pulmonary disease) exacerbation	^ESCTAT812572	383611000000102	1
+8197651000006115	CAT - COPD (chronic obstructive pulmonary disease) assessment test	^ESCTCA819765	527361000000107	1
+8214721000006112	Chronic obstructive pulmonary disease monitoring invitation	^ESCTCH821472	711431000000109	1
+8219501000006114	Issue of COPD (chronic obstructive pulmonary disease) rescue pack	^ESCTIS821950	718241000000107	1
+8231811000006116	Discussion about chronic obstructive pulmonary disease exacerbation plan	^ESCTDI823181	753941000000104	1
+8235101000006114	COPD (chronic obstructive pulmonary disease) 3 monthly review	^ESCTCO823510	760601000000107	1
+8235131000006118	COPD (chronic obstructive pulmonary disease) 6 monthly review	^ESCTCO823513	760621000000103	1
+8249051000006111	Referral to COPD (chronic obstructive pulmonary disease) community nursing team	^ESCTRE824905	790301000000101	1
+8257861000006113	Chronic obstructive pulmonary disease monitoring due date	^ESCTCH825786	804631000000105	1
+8260631000006112	COPD (chronic obstructive pulmonary disease) self-management plan review	^ESCTCO826063	810951000000101	1
+8268191000006115	COPD (chronic obstructive pulmonary disease) rescue pack not indicated	^ESCTCO826819	820341000000109	1
+8279401000006116	Provision of written information about chronic obstructive pulmonary disease	^ESCTPR827940	837911000000108	1
+8285611000006113	Management of exacerbation of chronic obstructive pulmonary disease	^ESCTMA828561	845111000000103	1
+8287171000006115	Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)	^ESCTAC828717	847091000000104	1
+8288261000006119	COPD (chronic obstructive pulmonary disease) care pathway	^ESCTCO828826	848431000000106	1
+8294561000006110	Seen in COPD (chronic obstructive pulmonary disease) clinic	^ESCTSE829456	857661000000104	1
+8294651000006114	COPD (chronic obstructive pulmonary disease) rescue pack declined	^ESCTCO829465	857791000000103	1
+8294681000006118	Chronic obstructive pulmonary disease self management plan not appropriate	^ESCTCH829468	857821000000108	1
+8295911000006118	Chronic obstructive pulmonary disease care assessment	^ESCTCH829591	859431000000102	1
+8295921000006114	COPD (chronic obstructive pulmonary disease) care assessment	^ESCTCO829592	859431000000102	1
+8316481000006116	Shared care COPD (chronic obstructive pulmonary disease) monitoring	^ESCTSH831648	897311000000101	1
+8434621000006111	Respiratory Care for Chronic Obstructive Pulmonary Disease TOM (Therapy Outcome Measure) activity score	^ESCTRE843462	1062051000000104	1
+8437811000006110	Number of hospital admissions due to COPD (chronic obstructive pulmonary disease) in past year	^ESCTNU843781	1065151000000105	1
+8439091000006119	Chronic obstructive pulmonary disease monitoring email invitation	^ESCTCH843909	1066231000000103	1
+8439171000006119	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message invitation	^ESCTCO843917	1066281000000104	1
+8439851000006117	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message first invitation	^ESCTCO843985	1066821000000101	1
+8439871000006110	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message second invitation	^ESCTCO843987	1066841000000108	1
+8439881000006113	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message third invitation	^ESCTCO843988	1066851000000106	1
+9317341000006115	ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome	^ESCTAC931734	1.06927610001e+16	1
+11929151000006117	Chronic obstructive pulmonary disease assessment test	^ESCT1192915	527361000000107	1
+12460551000006111	[V]Screening for chronic bronchitis or emphysema	^ESCT1246055	414501000000107	1
+13670621000006117	Chronic Obstructive Pulmonary Disease Assessment Test scale	^ESCT1367062	57671000052108	1
+13936791000006111	Chronic emphysema due to vapour	^ESCT1393679	836477007	1
+13943951000006114	Bilateral congenital lobar emphysema	^ESCT1394395	840493007	1
+14161371000006110	Emphysema of left lung	^ESCT1416137	1010333003	1
+14161381000006113	Emphysema of right lung	^ESCT1416138	1010334009	1
+15317781000006118	At increased risk of chronic obstructive pulmonary disease	^ESCT1531778	401200002	1
+15492421000006118	Acute infective exacerbation of chronic obstructive pulmonary disease	^ESCT1549242	285381006	1
+13670621000006117	Chronic Obstructive Pulmonary Disease Assessment Test scale	^ESCT1367062	57671000052108	1
+301575012	Chronic pulmonary fibrosis due to chemical fumes	H4642	196028003	1
+556271000006115	Chronic radiation pulmonary fibrosis	H4y10	71193007	1
+301852014	[X]Other interstitial pulmonary diseases with fibrosis	Hyu50	233703007	1
+621121000006112	Diffuse interstitial pulmonary fibrosis	H5631	196125002	1
+85960018	Pulmonary fibrosis	H5632	51615001	1
+207831000006116	Interstitial pulmonary fibrosis of prematurity	Q3171	90610005	1
+885491000006116	Pulmonary fibrosis	H5631-99	51615001	1
+909731000006117	[RFC] Pulmonary fibrosis	HNGNQRF18	909731000006101	1
+1786131000006116	Idiopathic pulmonary fibrosis	H563-3	700250006	1
+3907561000006119	Pulmonary cystic fibrosis	^ESCTPU390756	86555001	1
+5054941000006114	Drug-induced diffuse interstitial pulmonary fibrosis	^ESCTDR505494	233725001	1
+6220591000006112	Pulmonary fibroplasia	^ESCTPU622059	361195001	1
+6715591000006119	Post-radiotherapy pulmonary fibrosis	^ESCTPO671559	405570007	1
+7059121000006115	Familial idiopathic pulmonary fibrosis	^ESCTFA705912	426437004	1
+7627141000006111	Pulmonary emphysema co-occurrent with fibrosis of lung	^ESCTPU762714	708030004	1
+7627151000006113	CPFE - combined pulmonary fibrosis and emphysema	^ESCTCP762715	708030004	1
+7627161000006110	Combined pulmonary fibrosis and emphysema syndrome	^ESCTCO762716	708030004	1
+7635751000006118	Acute idiopathic pulmonary fibrosis	^ESCTAC763575	708537005	1
+211391000006118	Post-inflammatory pulmonary fibrosis	H55	266368002	1
+7701591000006116	Drug induced pulmonary fibrosis	^ESCTDR770159	713244007	1

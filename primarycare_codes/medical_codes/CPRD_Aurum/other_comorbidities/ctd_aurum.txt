@@ -1,0 +1,465 @@
+medcodeid	desc	originalreadcode	snomedctconceptid	ctd
+6839012	Polymyositis ossificans	N2314	3458000	1
+25612013	Lupus erythematosus profundus	M1544	15084002	1
+38247018	Linear scleroderma	M2104	22784002	1
+52463013	Polymyositis	N004	31384009	1
+53211014	CREST syndrome	N0011	31848007	1
+55627011	Psoriatic arthropathy	M160	33339001	1
+55628018	Psoriatic arthritis	M160-1	33339001	1
+92208011	Systemic lupus erythematosus	N000	55464009	1
+95067016	Felty's syndrome	N041	57160007	1
+108529013	Polymyalgia rheumatica	N20	65323003	1
+125937016	Acute polyarticular juvenile rheumatoid arthritis	N0431	75822003	1
+147834015	Progressive systemic sclerosis	N0010	444133002	1
+158442019	Systemic lupus erythematosus encephalitis	N0006-1	95644001	1
+251794010	H/O: rheumatoid arthritis	14G1	161567008	1
+297544012	Polyneuropathy in rheumatoid arthritis	F3712	193180002	1
+297641010	Myopathy due to rheumatoid arthritis	F3964	193250002	1
+297644019	Myopathy due to scleroderma	F3966	193252005	1
+300579010	Wegener's granulomatosis	G754	195353004	1
+301716018	Lung disease with systemic sclerosis	H572	196133001	1
+301719013	Lung disease with polymyositis	H57y1	196136009	1
+301721015	Lung disease with systemic lupus erythematosus	H57y4	196138005	1
+308700012	Lupus erythematosus chronicus	M1540	200937007	1
+308704015	Lupus erythematosus migrans	M1542	200939005	1
+308705019	Lupus erythematosus nodularis	M1543	200940007	1
+308706018	Lupus erythematosus tumidus	M1545	200941006	1
+308707010	Lupus erythematosus unguium mutilans	M1546	200942004	1
+308709013	Lupus erythematosus NOS	M154z	200936003	1
+308730016	Psoriatic arthropathy NOS	M160z	33339001	1
+308855016	Unspecified circumscribed scleroderma	M2100	201048007	1
+308859010	Circumscribed scleroderma	M210	201048007	1
+308871016	Circumscribed scleroderma NOS	M210z	201048007	1
+309405011	Drug-induced systemic lupus erythematosus	N0002	201436003	1
+309408013	Systemic lupus erythematosus NOS	N000z	55464009	1
+309413012	Scleroderma	N001	89155008	1
+309416016	Systemic sclerosis induced by drugs and chemicals	N0012	201443009	1
+309459014	Staphylococcal arthritis and polyarthritis	N0108	201466005	1
+309460016	Pneumococcal arthritis and polyarthritis	N0109	201467001	1
+309787016	Rheumatoid arthritis of cervical spine	N0400	201764007	1
+309789018	Rheumatoid arthritis of shoulder	N0402	201766009	1
+309790010	Rheumatoid arthritis of sternoclavicular joint	N0403	201767000	1
+309791014	Rheumatoid arthritis of acromioclavicular joint	N0404	201768005	1
+309792019	Rheumatoid arthritis of elbow	N0405	201769002	1
+309794018	Rheumatoid arthritis of wrist	N0407	201771002	1
+309798015	Rheumatoid arthritis of hip	N040B	201775006	1
+309800010	Rheumatoid arthritis of knee	N040D	201777003	1
+309802019	Rheumatoid arthritis of ankle	N040F	201779000	1
+309803012	Rheumatoid arthritis of subtalar joint	N040G	201780002	1
+309804018	Rheumatoid arthritis of talonavicular joint	N040H	201781003	1
+309805017	Rheumatoid arthritis of other tarsal joint	N040J	429192004	1
+309816012	Flare of rheumatoid arthritis	N040T	201791009	1
+309827014	Monarticular juvenile rheumatoid arthritis	N0433	201799006	1
+309828016	Juvenile rheumatoid arthritis NOS	N043z	410795001	1
+309833017	Juvenile arthritis in Crohn's disease	N0453	201805000	1
+309836013	Juvenile arthritis in ulcerative colitis	N0454	201807008	1
+309841017	Other specified inflammatory polyarthropathy	N04y	3723001	1
+309849015	Other specified inflammatory polyarthropathy NOS	N04yz	417373000	1
+309850015	Inflammatory polyarthropathy NOS	N04z	417373000	1
+310156013	Unspecified polyarthropathy of other specified site	N0658	399269003	1
+311496011	Fibrosing alveolitis associated with rheumatoid arthritis	N04y0-2	10713006	1
+312520011	[X]Other specified rheumatoid arthritis	Nyu12	69896004	1
+312523013	[X]Other juvenile arthritis	Nyu15	239796000	1
+312579010	[X]Other forms of systemic lupus erythematosus	Nyu43	55464009	1
+312580013	[X]Other dermatomyositis	Nyu44	396230008	1
+312581012	[X]Other forms of systemic sclerosis	Nyu45	89155008	1
+312591018	[X]Dermatopolymyositis, unspecified	Nyu4E	396230008	1
+316770014	Scleroderma in newborn	Q4711	206541009	1
+352258013	Orofacial granulomatosis	J08zB	235048000	1
+354512012	Renal involvement in scleroderma	K0J0	236502006	1
+354513019	Acute scleroderma renal crisis	K0H	236503001	1
+359292012	Seronegative rheumatoid arthritis	N040P	239792003	1
+359310019	Juvenile arthritis in psoriasis	N0452	239803008	1
+359321011	Distal interphalangeal psoriatic arthropathy	M1601	239812005	1
+359459016	Dermatopolymyositis in neoplastic disease	N0031	239901009	1
+359513016	Giant cell arteritis with polymyalgia rheumatica	N200	239938009	1
+378099017	Endemic polyarthritis	N060-1	270505009	1
+400192018	Unspecified polyarthropathy or polyarthritis NOS	N065z	36186002	1
+405142017	Unspecified polyarthropathy or polyarthritis	N065	36186002	1
+426510015	Rheumatoid arthritis - multiple joint	N040S	287006005	1
+453243010	Systemic lupus erythematosus with pericarditis	N0004	309762007	1
+502690012	Pauciarticular onset juvenile chronic arthritis	N0456	74391003	1
+1778239014	Rheumatoid lung disease	N0421	398726004	1
+1784692011	Juvenile dermatomyositis	N0030	1212005	1
+1785104011	Acrosclerosis	N001-1	298285004	1
+1786505011	Caplan's syndrome	N04y0-1	398640008	1
+1786545019	Rheumatoid lung	N04y0	398726004	1
+2472449013	Juvenile seronegative polyarthritis	N0451	410797009	1
+2955624019	Granulomatosis with polyangiitis	G754-1	195353004	1
+114251000006118	Systemic lupus erythematosus with organ/system involvement	N0003	239887007	1
+162051000006115	Rheumatoid arthritis of distal radio-ulnar joint	N0406	201770001	1
+162191000006110	Rheumatoid arthritis of tibio-fibular joint	N040E	201778008	1
+162301000006117	Rheumatoid lung	H570	398726004	1
+177301000006114	Renal tubulo-interstitial disorder in systemic lupus erythematosus	K0B40	307755009	1
+187391000000116	Pm-1 - Polymyositis-scleroderma antibody level	43aA	1016731000000106	1
+215551000000114	Sero negative polyarthritis	N04y1-1	399112009	1
+221661000006114	Inflammatory polyarthritis	N065z-1	417373000	1
+363811000006111	Infective polyarthritis	Nyu01	61126009	1
+424981000006114	[X]Rheumatoid arthritis+involvement/other organs or systems	Nyu10	239793008	1
+463301000006112	Adult-onset Still's disease	N04y2	239920006	1
+556181000006113	Chronic post-rheumatic arthropathy	N044	84801008	1
+614691000006113	Dermatopolymyositis, unspecified	N003X	396230008	1
+673591000006119	Nodular fibrositis of chronic rheumatic disease	N044-2	84801008	1
+677561000006119	Nephrotic syndrome in systemic lupus erythematosus	K01x4	68815009	1
+755441000006119	Juvenile rheumatoid arthritis - Still's disease	N043	410795001	1
+856221000006115	Sero-negative polyarthritis	EGTONSE2	856221000006104	1
+889731000006111	Rheumatoid arthritis NOS	N040-90	69896004	1
+889741000006118	Rheum. arth. - other joint	N040-91	69896004	1
+889751000006116	Rheum. arth. - ankle/foot	N040-92	69896004	1
+889761000006119	Rheum. arth. - knee joint	N040-93	69896004	1
+889771000006114	Rheum. arth. - hip joint	N040-94	69896004	1
+889781000006112	Rheum. arth. - hand joint	N040-95	69896004	1
+889791000006110	Rheum. arth. - wrist joint	N040-96	69896004	1
+889801000006111	Rheum. arth. - elbow joint	N040-97	69896004	1
+889811000006114	Rheum. arth. - shoulder joint	N040-98	69896004	1
+889821000006118	Rheum. arth. - multiple joint	N040-99	69896004	1
+889841000006113	Still's disease - juvenile R.A	N043-99	201796004	1
+889851000006110	Polyarthropathy NOS -inflammat	N04z-99	417373000	1
+909191000006119	[RFC] Rheumatoid arthritis	HNGP005	909191000006103	1
+989291000006112	Rheum. arth. - wrist joint	N0407-99	201771002	1
+989301000006113	Rheum. arth. - hand joint	N0408-99	201772009	1
+989311000006111	Rheum. arth. - hip joint	N040B-99	201775006	1
+989321000006115	Rheum. arth. - knee joint	N040D-99	201777003	1
+989331000006117	Rheum. arth. - ankle/foot	N040F-99	201779000	1
+2619401000006115	Generalised scleroderma	^ESCTGE261940	7513007	1
+3191691000006115	Acute polyarthritis	^ESCTAC319169	42898009	1
+3329051000006116	Coup de sabre scleroderma	^ESCTCO332905	51156002	1
+3400601000006117	SLE - Systemic lupus erythematosus	^ESCTSL340060	55464009	1
+3562021000006111	PMR - Polymyalgia rheumatica	^ESCTPM356202	65323003	1
+3949101000006111	Systemic scleroderma	^ESCTSY394910	89155008	1
+3949121000006118	Scleroderma syndrome	^ESCTSC394912	89155008	1
+4409371000006113	Diffuse scleroderma	^ESCTDI440937	128460000	1
+4409391000006114	Diffuse cutaneous scleroderma	^ESCTDI440939	128460000	1
+4515241000006118	Psoriatic arthritis	^ESCTPS451524	156370009	1
+4515251000006116	PsA (Psoriatic arthritis)	^ESCTPS451525	156370009	1
+4515261000006119	PA (Psoriatic arthritis)	^ESCTPA451526	156370009	1
+4782401000006112	Scleroderma lung disease	^ESCTSC478240	196133001	1
+4805761000006111	Psoriatic arthritis with spine involvement	^ESCTPS480576	200956002	1
+4806451000006111	Localised scleroderma	^ESCTLO480645	201048007	1
+4806471000006118	Morphea scleroderma	^ESCTMO480647	201048007	1
+5035381000006116	Wegener's granulomatosis of nose	^ESCTWE503538	232369001	1
+5035401000006116	Granulomatosis with polyangiitis of nose	^ESCTGR503540	232369001	1
+5074381000006118	OFG - Orofacial granulomatosis	^ESCTOF507438	235048000	1
+5139451000006113	Juvenile psoriatic arthritis	^ESCTJU513945	239802003	1
+5139461000006110	Juvenile psoriatic arthritis with psoriasis	^ESCTJU513946	239803008	1
+5139581000006118	Psoriatic arthritis with distal interphalangeal joint involvement	^ESCTPS513958	239812005	1
+5140901000006112	Systemic lupus erythematosus with multisystem involvement	^ESCTSY514090	239890001	1
+5141001000006116	Polymyositis with malignant disease	^ESCTPO514100	239898008	1
+5141011000006118	Polymyositis associated with autoimmune disease	^ESCTPO514101	239899000	1
+5141601000006113	Limited granulomatosis with polyangiitis	^ESCTLI514160	239935007	1
+5141611000006111	Wegener's granulomatosis with multisystem involvement	^ESCTWE514161	239936008	1
+5141631000006117	Granulomatosis with polyangiitis with multisystem involvement	^ESCTGR514163	239936008	1
+5141661000006114	Giant cell arteritis without polymyalgia rheumatica	^ESCTGI514166	239939001	1
+5420601000006117	Polymyositis-scleroderma antibody	^ESCTPO542060	259925005	1
+5517331000006117	Endemic polyarthritis	^ESCTEN551733	270505009	1
+5557091000006112	Systemic lupus erythematosus disease activity index	^ESCTSY555709	273863009	1
+5557101000006118	SLEDAI - Systemic lupus erythematosus disease activity index	^ESCTSL555710	273863009	1
+5864721000006113	Limited scleroderma	^ESCTLI586472	299276009	1
+6670991000006115	Systemic lupus erythematosus-associated antiphospholipid syndrome	^ESCTSY667099	402865003	1
+6681821000006113	Acute systemic lupus erythematosus	^ESCTAC668182	403486000	1
+6682231000006115	Scleroderma-associated calcinosis	^ESCTSC668223	403514006	1
+6682461000006113	Scleroderma-like secondary cutaneous sclerosis	^ESCTSC668246	403524003	1
+6802591000006112	Juvenile seropositive polyarthritis	^ESCTJU680259	410796000	1
+6899871000006118	Undifferentiated inflammatory polyarthritis	^ESCTUN689987	416956002	1
+6899881000006115	Polyarthritis	^ESCTPO689988	416956002	1
+6991991000006119	Post-infective polyarthritis	^ESCTPO699199	422565003	1
+6995951000006111	Scleroderma (fungus)	^ESCTSC699595	422801000	1
+6995961000006113	Scleroderma	^ESCTSC699596	422801000	1
+7483011000006113	H/O polymyalgia rheumatica	^ESCTHO748301	473113000	1
+7483021000006117	History of polymyalgia rheumatica	^ESCTHI748302	473113000	1
+7511501000006112	Systemic lupus erythematosus in remission	^ESCTSY751150	698694005	1
+8102191000006119	Rheumatoid lung disease with rheumatoid arthritis	^ESCTRH810219	319841000119107	1
+8320761000006114	Polymyositis/scleroderma overlap syndrome	^ESCTPO832076	905371000000106	1
+8320771000006119	Systemic lupus erythematosus/Sjogren's overlap syndrome	^ESCTSY832077	905381000000108	1
+8407011000006110	PsAID-9 (Psoriatic Arthritis Impact of Disease 9) questionnaire	^ESCTPS840701	1025811000000109	1
+9310141000006117	Psoriatic arthritis mutilans	^ESCTPS931014	1.06293110001e+16	1
+11878901000006118	Eosinophilic granulomatosis with polyangiitis	^ESCT1187890	82275008	1
+11878911000006115	EGPA - eosinophilic granulomatosis with polyangiitis	^ESCT1187891	82275008	1
+12685471000006113	Juvenile idiopathic arthritis, polyarthritis	^ESCT1268547	1.60447510001e+16	1
+13677531000006119	Seronegative rheumatoid arthritis of multiple sites	^ESCT1367753	319081000119109	1
+13709541000006116	Bilateral rheumatoid arthritis of knees	^ESCT1370954	1.56872010001e+16	1
+14177911000006117	Bilateral seronegative rheumatoid arthritis of knees	^ESCT1417791	1.56912410001e+16	1
+14177941000006118	Bilateral seronegative rheumatoid arthritis of wrists	^ESCT1417794	1.56913210001e+16	1
+14177961000006119	Seronegative rheumatoid arthritis of both wrists	^ESCT1417796	1.56913210001e+16	1
+14433871000006111	Anti-synthetase syndrome due to polymyositis	^ESCT1443387	1144974009	1
+14464121000006114	Rheumatoid factor positive and anti-citrullinated protein antibody negative juvenile polyarthritis	^ESCT1446412	1156777001	1
+14464141000006119	Rheumatoid factor negative and anti-citrullinated protein antibody positive juvenile polyarthritis	^ESCT1446414	1156779003	1
+14473591000006112	Left hip joint seronegative rheumatoid arthritis	^ESCT1447359	319041000119104	1
+14473621000006114	Seronegative rheumatoid arthritis of left knee joint	^ESCT1447362	319051000119102	1
+14473631000006112	Left shoulder region seronegative rheumatoid arthritis	^ESCT1447363	319061000119100	1
+14473681000006113	Right hip joint seronegative rheumatoid arthritis	^ESCT1447368	319121000119106	1
+14473711000006114	Seronegative rheumatoid arthritis of right knee joint	^ESCT1447371	319131000119109	1
+14473741000006113	Right wrist region seronegative rheumatoid arthritis	^ESCT1447374	319151000119103	1
+14486391000006119	Bilateral seronegative rheumatoid arthritis of feet	^ESCT1448639	1.56910810001e+16	1
+14486451000006118	Bilateral seropositive rheumatoid arthritis of shoulder regions	^ESCT1448645	1.56918410001e+16	1
+14486481000006114	Bilateral seropositive rheumatoid arthritis of hip joints	^ESCT1448648	1.56919210001e+16	1
+14486571000006110	Bilateral seropositive rheumatoid arthritis of wrist joint regions	^ESCT1448657	1.56920410001e+16	1
+14488951000006113	Seronegative rheumatoid arthritis in remission	^ESCT1448895	1.66066810001e+16	1
+14514751000006114	Seronegative rheumatoid arthritis of multiple joints	^ESCT1451475	319081000119109	1
+14536101000006113	Rheumatoid arthritis with rheumatoid lung disease	^ESCT1453610	1162677006	1
+15211341000006113	Scleroderma	^ESCT1521134	267874003	1
+53457013	Vasculitis	G76B	31996006	1
+91895012	Nodular vasculitis	M152-1	55275006	1
+293373010	Cryoglobulinaemic vasculitis	C3321	190815001	1
+297777014	Retinal vasculitis	F421E	77628002	1
+309393014	[X]Vasculitis limited to skin, unspecified	Myu7G	53312001	1
+357845012	Livedoid vasculitis	M2y02	238762002	1
+1779323014	Rheumatoid vasculitis	N040N	400054000	1
+3441921018	Antineutrophil cytoplasmic antibody positive vasculitis	^ESCT1164058	722191003	1
+3441922013	Antineutrophil cytoplasmic antibody (ANCA) positive vasculitis	^ESCT1164059	722191003	1
+3636476014	Demyelination due to systemic vasculitis	^ESCT1169050	762352004	1
+65971000006112	Vasculitis of the skin	M2y0X	53312001	1
+2687811000006114	Necrotising vasculitis	^ESCTNE268781	11791001	1
+3247871000006117	Lymphocytic vasculitis of skin	^ESCTLY324787	46286007	1
+3258811000006112	Systemic vasculitis	^ESCTSY325881	46956008	1
+3483561000006111	Leukocytoclastic vasculitis	^ESCTLE348356	60555002	1
+3483571000006116	Allergic vasculitis	^ESCTAL348357	60555002	1
+3483581000006118	Hypersensitivity vasculitis	^ESCTHY348358	60555002	1
+3483611000006114	Leucocytoclastic vasculitis	^ESCTLE348361	60555002	1
+4059041000006116	Renal vasculitis	^ESCTRE405904	95578000	1
+4762491000006115	Henoch-Schoenlein vasculitis	^ESCTHE476249	191306005	1
+4770431000006110	Neuropathy in vasculitis and connective tissue disease	^ESCTNE477043	193177003	1
+5011761000006116	Cerebral arteritis in systemic vasculitis	^ESCTCE501176	230731002	1
+5058981000006112	Vasculitis secondary to drug	^ESCTVA505898	234020005	1
+5126351000006111	Primary cutaneous vasculitis	^ESCTPR512635	238785001	1
+5126381000006115	Secondary cutaneous vasculitis	^ESCTSE512638	238787009	1
+5141541000006114	Primary necrotising vasculitis with granulomata	^ESCTPR514154	239933000	1
+5141691000006118	Nailfold rheumatoid vasculitis	^ESCTNA514169	239941000	1
+5141711000006115	Necrotising rheumatoid vasculitis	^ESCTNE514171	239943002	1
+5141731000006114	Lupus vasculitis	^ESCTLU514173	239944008	1
+5141761000006117	Hypocomplementaemic urticarial vasculitis	^ESCTHY514176	239945009	1
+5141781000006110	Hypocomplementemic vasculitis	^ESCTHY514178	239945009	1
+5141791000006113	Hypocomplementemic urticarial vasculitis	^ESCTHY514179	239945009	1
+6668381000006113	Urticarial vasculitis	^ESCTUR666838	402656007	1
+6668521000006116	Localised cutaneous vasculitis	^ESCTLO666852	402664001	1
+6668531000006118	Localized cutaneous vasculitis	^ESCTLO666853	402664001	1
+6670821000006114	Normocomplementemic urticarial vasculitis	^ESCTNO667082	402855009	1
+6748601000006112	Primary systemic vasculitis	^ESCTPR674860	407530004	1
+7067811000006116	Cerebral vasculitis	^ESCTCE706781	427020007	1
+7072691000006116	Eosinophilic vasculitis of skin	^ESCTEO707269	427356003	1
+7480781000006110	H/O vasculitis	^ESCTHO748078	472974007	1
+7769371000006112	Cutaneous small vessel vasculitis	^ESCTCU776937	718217000	1
+7858321000006112	Vasculitis of large artery	^ESCTVA785832	724597006	1
+7858331000006110	Large vessel vasculitis	^ESCTLA785833	724597006	1
+7858361000006118	Small vessel vasculitis	^ESCTSM785836	724599009	1
+7858381000006111	Immune complex small vessel vasculitis	^ESCTIM785838	724600007	1
+7858391000006114	Vasculitis caused by antineutrophil cytoplasmic antibody	^ESCTVA785839	724601006	1
+8365841000006119	Sarcoid vasculitis	^ESCTSA836584	985971000000106	1
+8367971000006110	ANCA (antineutrophil cytoplasmic antibody) associated vasculitis caused by drug	^ESCTAN836797	988081000000103	1
+12107561000006114	Vasculitis with glomerulonephritis	^ESCT1210756	90971000119103	1
+12369161000006118	Medium vessel vasculitis	^ESCT1236916	724598001	1
+12369171000006113	ANCA (anti neutrophil cytoplasmic antibody) associated vasculitis	^ESCT1236917	724601006	1
+13678531000006115	Right retinal vasculitis	^ESCT1367853	332421000119101	1
+13680441000006117	Left retinal vasculitis	^ESCT1368044	338031000119109	1
+13682661000006117	Bilateral retinal vasculitis	^ESCT1368266	343801000119100	1
+13944631000006111	Birmingham Vasculitis Activity Score	^ESCT1394463	840555004	1
+13944641000006118	BVAS - Birmingham Vasculitis Activity Score	^ESCT1394464	840555004	1
+14071261000006111	Immunoglobulin A vasculitis	^ESCT1407126	191306005	1
+14073411000006110	Postinfective immunoglobulin A vasculitis	^ESCT1407341	239946005	1
+14432941000006117	Mononeuritis multiplex due to vasculitis	^ESCT1443294	1144906005	1
+14433421000006113	Colitis due to immunoglobulin A vasculitis	^ESCT1443342	1144939008	1
+14445961000006110	Isolated nailfold rheumatoid vasculitis	^ESCT1444596	1149218009	1
+14445981000006117	Systemic rheumatoid vasculitis	^ESCT1444598	1149219001	1
+14502531000006116	Rheumatoid necrotising vasculitis	^ESCT1450253	239943002	1
+14767861000006110	Perivasculitis of retina of eye	^ESCT1476786	1222546002	1
+15039111000006110	Dementia due to cerebral vasculitis	^ESCT1503911	1259485008	1
+719331000006112	lupus antibody screening		1031541000000107	1
+4086661000006112	lupus erythematosus factor		103174009	1
+486895011	le (lupus erythematosus) cell level		1031751000000100	1
+2667371000006113	lv - lupus vulgaris		10528009	1
+18298019	lupus vulgaris		10528009	1
+2675161000006115	lupus with glomerular sclerosis		11013005	1
+2675181000006113	systemic lupus erythematosus glomerulonephritis syndrome, world health organisation (who) class vi		11013005	1
+2675171000006110	lupus nephritis - who class vi		11013005	1
+2675201000006114	systemic lupus erythematosus glomerulonephritis syndrome, world health organization class vi		11013005	1
+2675191000006111	systemic lupus erythematosus glomerulonephritis syndrome, world health organization (who) class vi		11013005	1
+4348331000006116	lupus erythematosus factor assay		122430003	1
+2739071000006115	lupus profundus		15084002	1
+9833791000006111	family history of systemic lupus erythematosus		1.56278910001e+16	1
+1728151000006118	systemic lupus erythematosus encephalitis		1728151000006102	1
+297542011	polyneuropathy in disseminated lupus erythematosus		193178008	1
+297639014	myopathy due to disseminated lupus erythematosus		193248005	1
+2812511000006115	lupus hepatitis		19682006	1
+4805591000006111	le - lupus erythematosus		200936003	1
+4805601000006115	lupus		200936003	1
+308697013	lupus erythematosus		200936003	1
+4805631000006111	dle - discoid lupus erythematosus		200938002	1
+4805641000006118	le - discoid lupus erythematosus		200938002	1
+308701011	discoid lupus erythematosus		200938002	1
+2864791000006112	drug-induced lupus erythematosus due to procainamide		22888007	1
+2864801000006113	drug-induced lupus erythematosus caused by procainamide		22888007	1
+5006111000006112	chorea in systemic lupus erythematosus		230307005	1
+5055001000006112	lupus pneumonia		233730002	1
+5124671000006119	lichen planus-lupus erythematosus overlap		238652000	1
+5124681000006116	lichen planus with lupus erythematosus		238652000	1
+5128061000006112	lupus erythematosus and erythema multiforme-like syndrome		238926009	1
+5128091000006116	cdle - chronic discoid lupus erythematosus		238927000	1
+5128081000006119	chronic discoid lupus erythematosus		238927000	1
+5128101000006110	chilblain lupus erythematosus		238928005	1
+5140861000006117	skin and joint lupus		239886003	1
+5140851000006119	limited lupus erythematosus		239886003	1
+5140881000006110	lupus panniculitis		239888002	1
+5140891000006113	bullous systemic lupus erythematosus		239889005	1
+359447015	subacute cutaneous lupus erythematosus		239891002	1
+5140921000006119	scle - subacute cutaneous lupus erythematosus		239891002	1
+5140931000006116	sacle - subacute cutaneous lupus erythematosus		239891002	1
+5141741000006116	vasculitis due to lupus erythematosus		239944008	1
+5141751000006119	lupus erythematosus-associated vasculitis		239944008	1
+5284791000006118	lupus antibody activity measurement		250370000	1
+5284801000006117	lupus antibody activity		250370000	1
+5284821000006110	lupus antibody present		250371001	1
+2905941000006111	pericarditis secondary to systemic lupus erythematosus		25380002	1
+11851321000006119	pericarditis co-occurrent and due to systemic lupus erythematosus		25380002	1
+5418211000006113	lupus antibody		259748006	1
+5548551000006111	british isles lupus assessment group score		273339006	1
+5548561000006113	bilag - british isles lupus assessment group score		273339006	1
+5557081000006114	slam - systemic lupus activity measure		273862004	1
+5557071000006111	systemic lupus activity measure		273862004	1
+5607801000006113	lupus antibody absent		278036006	1
+2947791000006118	antibody to lupus la protein measurement		27904004	1
+8091131000006116	nephropathy co-occurrent and due to systemic lupus erythematosus		295101000119105	1
+8091151000006111	nephrotic syndrome co-occurrent and due to systemic lupus erythematosus		295111000119108	1
+8091161000006113	nephrosis co-occurrent and due to systemic lupus erythematosus		295121000119101	1
+8091171000006118	nephrosis with systemic lupus erythematosus		295121000119101	1
+8099911000006113	glomerular disease due to sle (systemic lupus erythematosus)		308751000119106	1
+8099901000006110	glomerular disease due to systemic lupus erythematosus		308751000119106	1
+6014511000006110	lupus erythematosus cell		312266001	1
+6014501000006112	lupus erythematosus (le) cell		312266001	1
+3014741000006112	lupus la protein antibody		31960007	1
+3086691000006118	lupus nephritis - who class iv		36402006	1
+3086711000006115	systemic lupus erythematosus glomerulonephritis syndrome, world health organization (who) class iv		36402006	1
+3086721000006111	systemic lupus erythematosus glomerulonephritis syndrome, world health organization class iv		36402006	1
+3086701000006118	systemic lupus erythematosus glomerulonephritis syndrome, world health organisation (who) class iv		36402006	1
+3087841000006114	dilated cardiomyopathy secondary to systemic lupus erythematosus		36471000	1
+6273631000006119	finding of lupus erythematosus cell level		365602000	1
+3093951000006113	canis lupus		36855005	1
+3111211000006114	lupus erythematosus cell preparation		37954002	1
+3111201000006111	lupus erythematosus (le) cell preparation		37954002	1
+6488301000006115	humulus lupus specific immunoglobulin e		388198001	1
+6501041000006116	humulus lupus specific immunoglobulin e antibody measurement		388661003	1
+6501021000006111	humulus lupus specific ige antibody measurement		388661003	1
+6593671000006115	lupus miliaris disseminatus faciei		397845003	1
+6593821000006117	sle - systemic lupus erythematosus-related syndrome		397856003	1
+6593811000006113	systemic lupus erythematosus-related syndrome		397856003	1
+6669061000006113	lupus erythematosus overlap syndrome		402711009	1
+6672721000006115	bacillus calmette-guerin-induced lupus vulgaris		402973006	1
+6672711000006111	bacillus calmette-guerin (bcg)-induced lupus vulgaris		402973006	1
+6672701000006113	bcg-induced lupus vulgaris		402973006	1
+6681831000006111	fulminating systemic lupus erythematosus		403487009	1
+6681841000006118	systemic lupus erythematosus of childhood		403488004	1
+6681851000006116	subacute cutaneous lupus erythematosus, annular/polycyclic type		403489007	1
+6681861000006119	subacute cutaneous lupus erythematosus, papulosquamous type		403490003	1
+6681871000006114	erythema multiforme-like lupus erythematosus		403491004	1
+6681891000006110	hypertrophic type discoid lupus erythematosus		403492006	1
+6681911000006112	warty discoid lupus erythematosus		403492006	1
+6681901000006114	warty lupus erythematosus		403492006	1
+6681931000006118	papular type discoid lupus erythematosus		403493001	1
+6681921000006116	rosaceous type discoid lupus erythematosus		403493001	1
+6681941000006111	discoid lupus erythematosus of mucous membranes		403494007	1
+6681951000006113	discoid lupus erythematosus of oral mucosa		403495008	1
+6681961000006110	discoid lupus erythematosus of genital mucous membranes		403496009	1
+6681971000006115	discoid lupus erythematosus of scalp		403497000	1
+6681981000006117	discoid lupus erythematosus of face		403498005	1
+6681991000006119	discoid lupus erythematosus of lip		403499002	1
+6682001000006117	discoid lupus erythematosus of hands		403500006	1
+6682011000006119	discoid lupus erythematosus of foot		403501005	1
+6682021000006110	disseminated discoid lupus erythematosus		403502003	1
+6682041000006115	anetoderma secondary to lupus erythematosus		403503008	1
+6682031000006113	lupus erythematosus-associated anetoderma		403503008	1
+6682051000006118	subcutaneous nodule associated with lupus erythematosus		403504002	1
+6682071000006111	calcinosis secondary to lupus erythematosus		403505001	1
+6682061000006116	lupus erythematosus-associated calcinosis		403505001	1
+6682081000006114	lupus erythematosus-associated papulonodular mucinosis		403506000	1
+6682101000006118	hypermelanosis due to lupus erythematosus		403507009	1
+6682091000006112	lupus erythematosus-associated hypermelanosis		403507009	1
+6682111000006115	lupus erythematosus-associated nailfold telangiectasia		403508004	1
+6682121000006111	telangiectasia of nailfolds due to lupus erythematosus		403508004	1
+6682131000006114	lupus erythematosus-associated urticarial vasculitis		403510002	1
+6682141000006116	urticarial vasculitis due to lupus erythematosus		403510002	1
+6682171000006112	necrotising vasculitis due to lupus erythematosus		403511003	1
+6682181000006110	necrotizing vasculitis due to lupus erythematosus		403511003	1
+6682161000006117	lupus erythematosus-associated necrotizing vasculitis		403511003	1
+6682151000006119	lupus erythematosus-associated necrotising vasculitis		403511003	1
+6682191000006113	lupus erythematosus-associated poikiloderma		403512005	1
+6682201000006111	poikiloderma due to lupus erythematosus		403512005	1
+6682221000006118	nail dystrophy due to lupus erythematosus		403513000	1
+6682211000006114	lupus erythematosus-associated nail dystrophy		403513000	1
+6728641000006112	canis lupus x canis lupus familiaris intraspecies hybrid		406507004	1
+6814601000006114	humulus lupus diagnostic allergen extract		411704002	1
+6905051000006113	retinal vasculitis due to systemic lupus erythematosus		417303004	1
+6978201000006117	fregilupus		421789006	1
+6978191000006115	genus fregilupus		421789006	1
+6982851000006113	fregilupus varius		422051009	1
+8155231000006110	cheilitis due to lupus erythematosus		430961000124105	1
+8155241000006117	lupus cheilitis		430961000124105	1
+7175201000006112	family history of lupus erythematosus		433164007	1
+7297171000006114	intraspecies canis lupus hybrid		444742002	1
+7359931000006118	canis lupus familiaris		448771007	1
+7359941000006111	canis lupus subspecies familiaris		448771007	1
+7363961000006116	canis lupus rufus		449057003	1
+7363971000006111	canis lupus subspecies rufus		449057003	1
+2573631000006113	systemic lupus erythematosus glomerulonephritis syndrome, world health organization class ii		4676006	1
+2573621000006110	systemic lupus erythematosus glomerulonephritis syndrome, world health organization (who) class ii		4676006	1
+2573601000006117	lupus nephritis - who class ii		4676006	1
+2573611000006119	systemic lupus erythematosus glomerulonephritis syndrome, world health organisation (who) class ii		4676006	1
+3343591000006116	membranous lupus glomerulonephritis		52042003	1
+3343611000006110	systemic lupus erythematosus glomerulonephritis syndrome, world health organisation (who) class v		52042003	1
+3343631000006116	systemic lupus erythematosus glomerulonephritis syndrome, world health organization class v		52042003	1
+3343601000006112	lupus nephritis - who class v		52042003	1
+3343621000006119	systemic lupus erythematosus glomerulonephritis syndrome, world health organization (who) class v		52042003	1
+3391131000006118	drug-induced lupus erythematosus due to hydralazine		54912002	1
+3391141000006111	drug-induced lupus erythematosus caused by hydralazine		54912002	1
+92209015	disseminated lupus erythematosus		55464009	1
+3498511000006116	drug-induced lupus erythematosus caused by diphenylhydantoin		61458006	1
+3498501000006119	drug-induced lupus erythematosus due to diphenylhydantoin		61458006	1
+2600311000006116	anarhichas lupus		6290000	1
+3529431000006116	lupus antibody screening		63300003	1
+3619241000006113	systemic lupus erythematosus glomerulonephritis syndrome		68815009	1
+114310015	lupus nephritis		68815009	1
+7532951000006118	discoid lupus erythematosus of lower eyelid		700269001	1
+7533801000006115	discoid lupus erythematosus of upper eyelid		700334001	1
+7586981000006119	maternal history of systemic lupus erythematosus		704143006	1
+2612551000006113	lupus erythematosus cell		7055007	1
+7615031000006118	lupus erythematosus of oral mucosa		707301001	1
+7615021000006116	lupus erythematosus of oral mucous membrane		707301001	1
+7659201000006110	canis lupus dingo		709853007	1
+309383019	cutaneous lupus erythematosus		7119001	1
+7701371000006112	gingival disease co-occurrent and due to lupus erythematosus		713225000	1
+7718861000006116	lupus vulgaris of nose		714394004	1
+8022621000006111	endocarditis due to systemic lupus erythematosus		72181000119109	1
+7860981000006118	chorea co-occurrent and due to systemic lupus erythematosus		724767000	1
+7860991000006115	chorea with systemic lupus erythematosus		724767000	1
+7861211000006111	demyelination with systemic lupus erythematosus		724781003	1
+7861201000006113	demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus		724781003	1
+3691811000006110	systemic lupus erythematosus glomerulonephritis syndrome, world health organization class i		73286009	1
+3691801000006112	systemic lupus erythematosus glomerulonephritis syndrome, world health organization (who) class i		73286009	1
+3691781000006113	lupus nephritis - who class i		73286009	1
+3691791000006111	systemic lupus erythematosus glomerulonephritis syndrome, world health organisation (who) class i		73286009	1
+7951821000006116	secondary autoimmune haemolytic anaemia co-occurrent and due to systemic lupus erythematosus		732960002	1
+7951831000006118	secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus		732960002	1
+7951841000006111	haemolytic anaemia associated with systemic lupus erythematosus		732960002	1
+7951851000006113	hemolytic anemia associated with systemic lupus erythematosus		732960002	1
+3526841010	lupus sensitive technique		737116009	1
+3526842015	lupus sensitive percent correction technique		737117000	1
+3526844019	lupus sensitive excess phospholipid technique		737118005	1
+3634897018	lupus sensitive with 1:1 pooled normal plasma technique		761999003	1
+3744671000006116	systemic lupus erythematosus glomerulonephritis syndrome, world health organization (who) class iii		76521009	1
+3744661000006111	lupus nephritis - who class iii		76521009	1
+3744681000006118	systemic lupus erythematosus glomerulonephritis syndrome, world health organisation (who) class iii		76521009	1
+3744691000006115	systemic lupus erythematosus glomerulonephritis syndrome, world health organization class iii		76521009	1
+3765031000006115	lupus disease of the lung		77753005	1
+3789511000006117	discoid lupus eyelid		79291003	1
+660871000006118	eyelid discoid lupus erythematosus		79291003	1
+3789501000006115	discoid lupus erythematosus eyelid		79291003	1
+3789491000006111	discoid lupus erythematosus of eyelid		79291003	1
+3791031000006115	ictalurus lupus		79387005	1
+8256141000006115	lupus insensitive aptt (activated partial thromboplastin time)		801661000000102	1
+3805521000006111	drug-induced lupus erythematosus		80258006	1
+4054931000006112	butterfly rash associated with systemic lupus		95332009	1
+4054921000006114	rash of systemic lupus erythematosus		95332009	1
+4056181000006118	systemic lupus erythematosus arthritis		95408003	1
+4059661000006111	neonatal lupus		95609003	1
+158372014	neonatal lupus erythematosus		95609003	1
+512234017	cerebral lupus		95644001	1
+4060271000006119	lupus encephalopathy		95644001	1
+4060291000006118	cerebral systemic lupus erythematosus		95644001	1

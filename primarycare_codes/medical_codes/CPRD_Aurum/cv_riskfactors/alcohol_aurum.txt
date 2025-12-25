@@ -1,0 +1,465 @@
+medcodeid	term	alch_status	depen_level
+11928671000006111	alcohol units per week	Unknown	
+12112021000006111	management of alcohol intake	Current drinker	unknown
+12117371000006112	referral to alcohol misuse service	Current drinker	high
+12456651000006117	[v]alcohol rehabilitation	Current drinker	high
+12619041000006111	history of alcohol use	Unknown	
+13667221000006114	psychotic behaviour caused by ingestible alcohol	Current drinker	high
+13770661000006117	referral to alcoholism rehabilitation service	Current drinker	high
+13929361000006112	alcohol detoxification	Current drinker	high
+13996301000006113	seen by community alcohol team	Current drinker	high
+14146421000006116	oesophageal varices due to cirrhosis of liver caused by alcohol	Current drinker	high
+14147511000006111	alcoholic beverage intake	Current drinker	high
+14147521000006115	alcoholic drink intake	Current drinker	unknown
+1947501000006118	emergency department attendance related to personal alcohol consumption	Current drinker	high
+2502061000006114	Currentent drinker	Current drinker	unknown
+2502071000006119	alcohol user	Current drinker	unknown
+2502081000006116	drinks alcohol	Current drinker	unknown
+2502091000006118	Currentent drinker of alcohol	Current drinker	unknown
+2502971000006115	dementia associated with alcoholism	Current drinker	high
+2612481000006116	alcohol hallucinosis	Current drinker	high
+2614651000006115	alcoholism	Current drinker	high
+2626141000006112	alcoholic polyneuropathy	Current drinker	high
+2626161000006111	alcoholic peripheral neuropathy	Current drinker	high
+2658601000006116	acute alcoholic liver disease	Current drinker	high
+2740361000006119	aa - alcohol abuse	Current drinker	high
+2740831000000114	harmful use of alcohol	Current drinker	high
+2819381000006112	alcohol rehabilitation and detoxification	Current drinker	high
+2911291000006114	acute alcohol intoxication	Current drinker	high
+2950191000006118	smell of alcohol on breath	Current drinker	unknown
+2998891000006117	drinking	Current drinker	unknown
+3073921000006112	alcohol rehabilitation	Current drinker	high
+3165681000006118	alcoholic liver disease	Current drinker	high
+3165691000006115	ald - alcoholic liver disease	Current drinker	high
+3315041000006111	alcoholic steatosis	Current drinker	high
+3315061000006110	alcoholic fatty liver disease	Current drinker	high
+3360071000006111	alcohol	Current drinker	unknown
+3367991000006112	alcoholic beverage	Current drinker	unknown
+3402361000006113	alcoholic ketoacidosis	Current drinker	high
+3510721000006113	combined alcohol and drug rehabilitation	Current drinker	high
+3528891000006113	alcohol measurement	Unknown	
+3528901000006112	alcohol level	Unknown	
+3545831000006115	detoxication psychiatric therapy for alcoholism	Current drinker	high
+3545841000006113	detoxication therapy for alcoholism	Current drinker	high
+3630161000006116	amnesic syndrome due to alcohol	Current drinker	high
+3630171000006111	alcoholic amnestic syndrome	Current drinker	high
+3843491000006118	ex-drinker	Ex-drinker	
+3846821000006114	alcohol poisoning	Current drinker	high
+3859091000006114	dilated cardiomyopathy secondary to alcohol	Current drinker	high
+3859111000006117	dilated cardiomyopathy caused by alcohol	Current drinker	high
+3913321000006111	drinks heavily	Current drinker	high
+3916281000006114	combined alcohol and drug detoxification	Current drinker	high
+4533141000006118	alcohol intake	Unknown	
+4533151000006116	ai - alcohol intake	Unknown	
+4533171000006114	etoh - alcohol intake	Unknown	
+4533191000006110	alcoholic drink intake	Unknown	
+4533231000006117	very heavy drinker - greater than 9 units/day	Current drinker	high
+4533271000006119	ex-trivial drinker - less than 1 unit/day	Ex-drinker	
+4533331000006113	ex-very heavy drinker - greater than 9 units/day	Ex-drinker	
+4533441000006111	xs - excessive alcohol consumption	Current drinker	high
+4533451000006113	excessive alcohol consumption	Current drinker	high
+4533461000006110	excessive alcohol use	Current drinker	high
+4539891000006115	history of alcoholism	Ex-drinker	
+4722771000006115	alcohol aversion therapy	Current drinker	high
+4943491000006113	drinking finding	Unknown	
+4957721000006112	high alcohol lager	Current drinker	high
+4977891000006117	alcohol drinking behaviour	Current drinker	unknown
+4977901000006118	alcohol drinking behavior	Current drinker	unknown
+4977971000006112	drinks on special occasions	Current drinker	low
+4977991000006113	fairly heavy drinker	Current drinker	high
+4978031000006111	problem drinker	Current drinker	high
+4978041000006118	alcoholic	Current drinker	high
+4978061000006119	dependent drinker	Current drinker	high
+4978121000006114	drinks at home	Current drinker	moderate
+4978151000006117	drinks in public places	Current drinker	moderate
+4978171000006110	street drinker	Current drinker	high
+4978241000006111	company when drinking	Current drinker	moderate
+4978281000006117	drinks in company	Current drinker	moderate
+4978321000006111	drinks with friends	Current drinker	moderate
+4978371000006112	pattern of drinking	Unknown	
+4978401000006110	pattern of alcohol consumption through week	Unknown	
+4978411000006113	drinks alcohol evenly through week	Unknown	
+4978421000006117	drinks alcohol unevenly through week	Unknown	
+4978431000006119	weekend drinker	Current drinker	moderate
+4978461000006111	episodic drinker	Current drinker	moderate
+4978471000006116	alcoholic binges exceeding sensible amounts	Current drinker	high
+4978481000006118	alcoholic binges exceeding safe amounts	Current drinker	high
+4978491000006115	daily drinker	Current drinker	high
+4978501000006111	drinks alcohol daily	Current drinker	high
+4978511000006114	habitual drinker	Current drinker	moderate
+4978531000006115	drinking episode	Current drinker	moderate
+4978541000006113	drinking bout	Current drinker	high
+4978561000006112	heavy drinking session	Current drinker	high
+4978571000006117	drinking binge	Current drinker	high
+4978581000006119	alcohol binge	Current drinker	high
+4978591000006116	binge drinking	Current drinker	high
+4978631000006116	time since stopped drinking	Ex-drinker	
+4978651000006111	priority of drink-related activities	Current drinker	high
+4978681000006115	undue priority given to drink-related activities	Current drinker	high
+4978731000006113	ability to control drinking	Current drinker	moderate
+4978751000006118	able to control drinking	Current drinker	moderate
+4978761000006116	unable to control drinking	Current drinker	high
+4978781000006114	unable to control drinking once started	Current drinker	high
+4978801000006113	unable to stop drinking before intoxication	Current drinker	high
+4978811000006111	use of stratagems to control drinking	Current drinker	moderate
+4978911000006116	drink driving	Current drinker	high
+4978931000006110	charged with drink driving offence	Current drinker	high
+4978951000006115	convicted of drink driving	Current drinker	high
+4979041000006111	feels drinking is out of control	Current drinker	high
+4979061000006110	craving for alcohol	Current drinker	high
+4987141000006114	alcohol units	Unknown	
+4987151000006111	alcohol units/day	Unknown	
+4987161000006113	alcohol units/week	Unknown	
+5063221000006116	alcohol-related macrocytosis	Current drinker	high
+5110231000006116	alcohol-induced hypoglycaemia	Current drinker	high
+5110241000006114	alcohol-induced hypoglycemia	Current drinker	high
+5495301000006113	alcoholism in family	Current drinker	unknown
+5497631000006115	cannot stop drinking	Current drinker	high
+5564291000006118	alcoholism detoxication centre	Current drinker	high
+5612351000006115	alcoholic macrocytosis	Current drinker	high
+5689771000006115	persistent alcohol abuse	Current drinker	high
+5689781000006117	chronic alcohol abuse	Current drinker	high
+5720641000006112	ex-problem drinker	Ex-drinker	
+5738331000006112	does drink	Current drinker	unknown
+5742041000006117	finding of drinking pattern	Unknown	
+5742081000006111	finding of quantity of drinking	Unknown	
+5827361000006119	alcohol deterrent overdose	Current drinker	high
+5886961000006112	abstinent alcoholic	Ex-drinker	
+5981291000006110	alcohol withdrawal-induced convulsion	Current drinker	high
+6006201000006119	ingestible alcohol	Current drinker	high
+6006211000006116	drinking alcohol	Current drinker	unknown
+6047161000006116	alcohol related optic neuropathy	Current drinker	high
+6221451000006112	alcohol-related fit	Current drinker	unknown
+6221531000006118	alcoholic cerebellar degeneration	Current drinker	high
+6260451000006113	drinking pattern	Unknown	
+6260461000006110	frequency of drinking	Current drinker	unknown
+6282101000006116	alcohol intake - finding	Current drinker	unknown
+6289331000006118	drink intake - finding	Current drinker	unknown
+6354581000006114	history of alcohol abuse	Ex-drinker	
+6455201000006114	substance use treatment: alcohol withdrawal	Current drinker	high
+6769891000006117	alcohol abuse prevention assessment	Current drinker	moderate
+6769921000006111	alcohol abuse prevention education	Current drinker	moderate
+6937411000006117	etoh - alcohol	Current drinker	unknown
+6947461000006115	alcoholic cirrhosis	Current drinker	high
+6947471000006110	alcoholic liver cirrhosis	Current drinker	high
+7108471000006117	alcohol intake exceeds recommended daily limit	Current drinker	high
+7309181000006113	alcohol-induced pancreatitis	Current drinker	high
+7309201000006114	alcoholic pancreatitis	Current drinker	high
+7334601000006116	drinks alcoholic cider	Current drinker	unknown
+7518451000006115	thrombocytopaenia due to alcohol	Current drinker	high
+7613321000006119	alcohol reduction programme	Current drinker	high
+7613331000006116	alcohol reduction program	Current drinker	high
+7700011000006113	assessment of alcohol use	Unknown	
+7700651000006119	chronic alcoholic liver disease	Current drinker	high
+7706231000006114	mild alcohol dependence	Current drinker	low
+7710581000006113	severe alcohol dependence	Current drinker	high
+7725141000006111	moderate alcohol dependence	Current drinker	moderate
+7785371000006113	withdrawn from alcohol detoxification program	Current drinker	high
+7791901000006117	alcohol induced disorder	Current drinker	high
+7821631000006114	fibrosis of liver caused by alcohol	Current drinker	high
+7821641000006116	alcoholic fibrosis of liver	Current drinker	high
+7849261000006118	perceptual disturbances and seizures co-ocCurrentent and due to alcohol withdrawal	Current drinker	high
+7849271000006113	alcohol withdrawal with perceptual disturbances and seizures	Current drinker	high
+7858041000006119	alcohol-related neurological disorder	Current drinker	high
+7967731000006110	decreased alcohol consumption	Current drinker	moderate
+8048151000006113	chronic pancreatitis due to chronic alcoholism	Current drinker	high
+8088741000006119	alcohol induced disorder co-ocCurrentent and due to alcohol dependence	Current drinker	high
+8088751000006117	alcohol dependence with alcohol induced disorder	Current drinker	high
+8103541000006113	feels alcohol consumption is not a problem	Current drinker	unknown
+8106921000006119	feels it is not necessary to reduce alcohol consumption	Current drinker	unknown
+8121241000006115	seen by counsellor for alcohol misuse	Current drinker	high
+8229891000006112	drinks real ale	Current drinker	unknown
+8259601000006117	referral to alcohol misuse clinic	Current drinker	high
+8458711000006115	ascites due to alcoholic cirrhosis	Current drinker	high
+8458781000006110	alcohol units consumed per day	Unknown	
+9344021000006112	unhealthy alcohol drinking behaviour	Current drinker	high
+9344031000006110	unhealthy alcohol drinking behavior	Current drinker	high
+106878015	alcohol detoxification	Current drinker	high
+110629012	chronic alcoholism	Current drinker	high
+117761000006116	suspect alcohol abuse - denied	Current drinker	high
+1221271018	alcohol consumption	Unknown	
+1225183017	alcohol deterrent poisoning	Current drinker	high
+12878014	alcoholism	Current drinker	high
+138527014	alcoholic cardiomyopathy	Current drinker	high
+14103017	alcoholic polyneuropathy	Current drinker	high
+144179014	heavy drinker	Current drinker	high
+1484890014	referral to community alcohol team	Current drinker	high
+15243013	alcohol withdrawal delirium	Current drinker	high
+15244019	delirium tremens	Current drinker	high
+1538911000006119	structured alcohol intervention	Current drinker	high
+1662551000006113	dental recall - excessive alcohol use	Current drinker	high
+1675391000006112	referral by community alcohol team	Current drinker	high
+1680121000006110	brief intervention for excessive alcohol consumptn completed	Current drinker	high
+1680131000006113	extended intervention for excessive alcohol consumptn complt	Current drinker	high
+1704281000006117	brief intervention for excessive alcohol consumptn declined	Current drinker	high
+1738341000000110	increasing risk drinking	Current drinker	high
+1738381000000119	higher risk drinking	Current drinker	high
+1738421000000111	lower risk drinking	Current drinker	low
+17390014	acute alcoholic hepatitis	Current drinker	high
+1745961000006111	extended intervention for excessive alcohol consumption declined	Current drinker	high
+1746481000000112	referral to community alcohol team declined	Current drinker	high
+1754191000006119	extended interven for excessive alcohol consumption declined	Current drinker	high
+1779661000006118	alcohol detoxification declined	Current drinker	high
+1806211000006115	unsuccessful attempts to reduce alcohol consumption	Current drinker	high
+1808491000006113	alcohol-related legal or disciplinary problem	Current drinker	high
+1808601000006116	oatp - outpatient alcohol treatment program	Current drinker	high
+1808611000006118	arep - alcohol rehabilitation education program	Current drinker	high
+1878791000006112	in-house alcohol detoxification	Current drinker	high
+1894171000006111	alcohol dependence resolved	Current drinker	unknown
+1926131000006117	refer to mh services deferred until alcohol misuse resolved	Current drinker	high
+1957791000006115	reduced alcohol intake	Current drinker	moderate
+1972151000006110	mental & behav dis due to use alcohol: acute intoxication, uncomplicated	Current drinker	high
+1972161000006112	mental & behav dis due to use alcohol: acute intoxication, with trauma or other bodily injury	Current drinker	high
+1972271000006112	mental & behav dis due to use alcohol: acute intoxication, with other medical complications	Current drinker	high
+1973241000006113	mental & behav dis due to use alcohol: acute intoxication, with delirium	Current drinker	high
+1973321000006113	mental & behav dis due to use alcohol: acute intoxication, with perceptual distortions	Current drinker	high
+1973411000006110	mental & behav dis due to use alcohol: acute intoxication, with coma	Current drinker	high
+1973441000006114	mental & behav dis due to use alcohol: acute intoxication, with convulsions	Current drinker	high
+1973481000006115	mental & behav dis due to use alcohol: acute intoxication, pathological intoxication	Current drinker	high
+1973701000006119	mental and behav dis due to use alcohol: dependence syndr, Currentently abstinent	Ex-drinker	
+1973811000006113	mental and behav dis due to use alcohol: dependence syndr, Currentently abstinent, but in a protected environment	Ex-drinker	
+1973871000006116	mental and behav dis due to use alcohol: dependence syndr, Currentently on a clinically supervised maintenance or replacement regime [controlled dependence]	Current drinker	high
+1974021000006112	mental and behav dis due to use alcohol: dependence syndr, Currentently abstinent, but receiving treatment with aversive or blocking drugs	Ex-drinker	
+1974071000006113	mental and behav dis due to use alcohol: dependence syndr, Currentently using the substance [active dependence]	Current drinker	high
+1974111000006117	mental and behav dis due to use alcohol: dependence syndr, continuous use	Current drinker	high
+1974141000006118	mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]	Current drinker	high
+1974191000006110	mental and behav dis due to use alcohol: withdrawal state, uncomplicated	Current drinker	high
+1974231000006117	mental and behav dis due to use alcohol: withdrawal state, with convulsions	Current drinker	high
+1974301000006117	mental & behav dis due to use alcohol: withdrawl state with delirium, without convulsions	Current drinker	high
+1974521000006117	mental & behav dis due to use alcohol: withdrawl state with delirium, with convulsions	Current drinker	high
+1975141000006117	mental & behav dis due to use alcohol: psychotic disorder, schizophrenia-like	Current drinker	high
+1975181000006111	mental & behav dis due to use alcohol: psychotic disorder, predominantly delusional	Current drinker	high
+1975291000006117	mental & behav dis due to use alcohol: psychotic disorder, predominantly hallucinatory	Current drinker	high
+1975341000006119	mental & behav dis due to use alcohol: psychotic disorder, predominantly polymorphic	Current drinker	high
+1975371000006110	mental & behav dis due to use alcohol: psychotic disorder, predominantly depressive symptoms	Current drinker	high
+1975411000006111	mental & behav dis due to use alcohol: psychotic disorder, predominantly manic symptoms	Current drinker	high
+1975461000006114	mental & behav dis due to use alcohol: psychotic disorder, mixed	Current drinker	high
+1975511000006112	mental & behav dis due to use alcohol: resid & late-onset psychot dis, flashbacks	Current drinker	high
+1975541000006111	mental & behav dis due to use alcohol: resid & late-onset psychot dis, personality or behaviour disorder	Current drinker	high
+1975591000006119	mental & behav dis due to use alcohol: resid & late-onset psychot dis, dementia	Current drinker	high
+1975661000006111	mental & behav dis due to use alcohol: resid & late-onset psychot dis, residual affective disorder	Current drinker	high
+1976071000006119	mental & behav dis due to use alcohol: resid & late-onset psychot dis, other persisting cognitive impairment	Current drinker	high
+1976111000006110	mental & behav dis due to use alcohol: resid & late-onset psychot dis, late-onset psychotic disorder	Current drinker	high
+1989851000006119	alcohol units consumed in last 48 hours	Unknown	
+2007461000006118	srh care activity - alcohol brief intervention	Current drinker	moderate
+2008681000006113	mhip clinical assess. - patient under influence of alcohol and/or other substances	Current drinker	high
+216585018	under care of community alcohol team	Current drinker	high
+223671000000110	hangover (alcohol)	Current drinker	moderate
+226571000000116	alcohol misuse - enhanced service completed	Current drinker	high
+2298341000000114	in-house alcohol detoxification	Current drinker	high
+2358251000000115	alcohol dependence resolved	Current drinker	unknown
+236441000000113	alcohol misuse - enhanced services administration	Current drinker	high
+2364891000000111	hospital alcohol liaison team report received	Current drinker	high
+240741000006114	patient advised about alcohol	Current drinker	high
+2419601000000110	specialist alcohol treatment service signposted	Current drinker	high
+2454281000000112	hospital attendance related to personal alcohol consumption	Current drinker	high
+2462911000000112	withdrawn from alcohol detoxification programme	Current drinker	high
+2467301000000111	alcohol relapse prevention	Ex-drinker	
+2474678017	alcohol disorder monitoring	Current drinker	high
+2475831000000114	alcohol harm reduction programme	Current drinker	high
+2485391000000114	alcohol twelve step programme	Current drinker	high
+250312016	light drinker - 1-2u/day	Current drinker	low
+250313014	moderate drinker - 3-6u/day	Current drinker	moderate
+250314015	heavy drinker - 7-9u/day	Current drinker	high
+250316018	very heavy drinker - >9u/day	Current drinker	high
+250317010	stopped drinking alcohol	Ex-drinker	
+250321015	ex-trivial drinker (<1u/day)	Ex-drinker	
+250322010	ex-light drinker - (1-2u/day)	Ex-drinker	
+250323017	ex-moderate drinker - (3-6u/d)	Ex-drinker	
+250324011	ex-heavy drinker - (7-9u/day)	Ex-drinker	
+250329018	ex-very heavy drinker-(>9u/d)	Ex-drinker	
+250331010	spirit drinker	Current drinker	unknown
+250332015	beer drinker	Current drinker	unknown
+250333013	drinks beer and spirits	Current drinker	unknown
+250334019	drinks wine	Current drinker	unknown
+250335018	alcohol intake above recommended sensible limits	Current drinker	high
+250340014	alcohol intake within recommended sensible limits	Current drinker	moderate
+251195015	alcoholics anonymous	Current drinker	high
+251626014	h/o: alcoholism	Ex-drinker	
+2532939017	alcohol consumption counselling	Current drinker	high
+2534258017	alcohol counselling by other agencies	Current drinker	high
+254305017	o/e - breath - alcohol smell	Current drinker	high
+254306016	o/e - alcoholic breath	Current drinker	high
+2549646014	referral to community drug and alcohol team	Current drinker	high
+2549849017	alcohol induced hallucinations	Current drinker	high
+263572010	maternal alcohol abuse	Current drinker	high
+2716771000000111	signposting to alcohol misuse service	Current drinker	high
+2796011000006111	alcohol intoxication delirium	Current drinker	high
+283028013	alcohol leaflet given	Current drinker	high
+283451018	aversion therapy - alcoholism	Current drinker	high
+283559019	admitted to alcohol detoxification centre	Current drinker	high
+294662017	korsakov's alcoholic psychosis with peripheral neuritis	Current drinker	high
+294664016	alcohol amnestic syndrome nos	Current drinker	high
+294668018	chronic alcoholic brain syndrome	Current drinker	high
+294669014	alcohol withdrawal hallucinosis	Current drinker	high
+294670010	drunkenness - pathological	Current drinker	high
+294671014	pathological alcohol intoxication	Current drinker	high
+294672019	alcoholic paranoia	Current drinker	high
+294673012	other alcoholic psychosis	Current drinker	high
+294674018	alcohol withdrawal syndrome	Current drinker	high
+294675017	other alcoholic psychosis nos	Current drinker	high
+294676016	alcoholic psychosis nos	Current drinker	high
+295126010	alcohol dependence with acute alcoholic intoxication	Current drinker	high
+295127018	acute alcoholic intoxication in alcoholism	Current drinker	high
+295128011	acute alcoholic intoxication, unspecified, in alcoholism	Current drinker	high
+295129015	continuous acute alcoholic intoxication in alcoholism	Current drinker	high
+295130013	episodic acute alcoholic intoxication in alcoholism	Current drinker	high
+295131012	acute alcoholic intoxication in remission, in alcoholism	Current drinker	high
+295132017	acute alcoholic intoxication in alcoholism nos	Current drinker	high
+295136019	unspecified chronic alcoholism	Current drinker	high
+295139014	continuous chronic alcoholism	Current drinker	high
+295141010	episodic chronic alcoholism	Current drinker	high
+295142015	chronic alcoholism in remission	Ex-drinker	
+295143013	chronic alcoholism nos	Current drinker	high
+295144019	alcohol dependence syndrome nos	Current drinker	high
+295251015	nondependent alcohol abuse, unspecified	Current drinker	high
+295252010	nondependent alcohol abuse, continuous	Current drinker	high
+295253017	nondependent alcohol abuse, episodic	Current drinker	high
+295254011	nondependent alcohol abuse in remission	Current drinker	high
+295255012	nondependent alcohol abuse nos	Current drinker	high
+295421012	sleep drunkenness	Current drinker	high
+295765017	[x]mental and behavioural disorders due to use of alcohol	Current drinker	high
+297011014	alcoholic encephalopathy	Current drinker	high
+299061000000117	hazardous alcohol use	Current drinker	high
+299081000000114	harmful alcohol use	Current drinker	high
+303399018	alcoholic liver damage unspecified	Current drinker	high
+306615012	maternal care for (suspected) damage to fetus from alcohol	Current drinker	high
+3122331000006110	patient referral for alcoholism rehabilitation	Current drinker	high
+315091000000117	[x]alcohol withdrawal-induced seizure	Current drinker	high
+317636014	[d]alcohol blood level excessive	Current drinker	high
+342320016	light drinker	Current drinker	low
+342322012	very heavy drinker	Current drinker	high
+342361016	drinks in morning to get rid of hangover	Current drinker	unknown
+342366014	binge drinker	Current drinker	high
+342421016	feels should cut down drinking	Current drinker	high
+346501000006111	[v]problems related to lifestyle alcohol use	Current drinker	high
+346929012	alcoholic dementia nos	Current drinker	high
+346930019	inebriety nos	Current drinker	moderate
+346931015	drunkenness nos	Current drinker	moderate
+350971000006112	[x] adverse reaction to alcohol deterrents	Current drinker	high
+353587018	alcoholic hepatitis	Current drinker	high
+353594015	alcoholic fibrosis and sclerosis of liver	Current drinker	high
+353595019	alcoholic hepatic failure	Current drinker	high
+353687012	alcohol-induced acute pancreatitis	Current drinker	high
+353698013	alcohol-induced chronic pancreatitis	Current drinker	high
+356292013	alcohol-induced pseudo-cushing's syndrome	Current drinker	high
+362251000006117	[x]acute alcoholic drunkenness	Current drinker	high
+362921000006118	[x]alcohol addiction	Current drinker	high
+362931000006115	[x]alcohol deterrents caus adverse effects in therapeut use	Current drinker	high
+362941000006113	[x]alcoholic dementia nos	Current drinker	high
+362951000006110	[x]alcoholic hallucinosis	Current drinker	high
+362961000006112	[x]alcoholic jealousy	Current drinker	high
+362971000006117	[x]alcoholic paranoia	Current drinker	high
+362981000006119	[x]alcoholic psychosis nos	Current drinker	high
+370961000006119	[x]chronic alcoholic brain syndrome	Current drinker	high
+370971000006114	[x]chronic alcoholism	Current drinker	high
+371501000000110	delivery of rehabilitation for alcohol addiction	Current drinker	high
+376451000006113	[x]delirium tremens, alcohol induced	Current drinker	high
+377081000006114	[x]dipsomania	Current drinker	high
+379971000006119	[x]evid alch invl detrm by levl intox alch invl not oth spec	Current drinker	high
+379981000006116	[x]evid alcoh invl determ by levl intox very sev alcoh intox	Current drinker	high
+379991000006118	[x]evid alcoh invol determ by level of intox mod alcoh intox	Current drinker	high
+380001000006112	[x]evid alcoh invol determ by level of intox sev alcoh intox	Current drinker	high
+380011000006110	[x]evid alcoh invol determ by levl of intox mild alcoh intox	Current drinker	high
+380031000006116	[x]evid of alcohol involv determind by level of intoxication	Current drinker	high
+380041000006114	[x]eviden alcoh involv blood alcoh level 240mg/100ml or more	Current drinker	high
+380051000006111	[x]eviden of alcoh involv blood alcoh level 100-119mg/100ml	Current drinker	high
+380061000006113	[x]eviden of alcoh involv blood alcoh level 120-199mg/100ml	Current drinker	high
+380071000006118	[x]eviden of alcoh involv blood alcoh level 200-239mg/100ml	Current drinker	high
+380081000006115	[x]eviden of alcohl involv blood alcohl level <20 mg/100 ml	Current drinker	low
+380091000006117	[x]eviden of alcohl involv blood alcohl level 20-39mg/100ml	Current drinker	low
+380101000006111	[x]eviden of alcohl involv blood alcohl level 40-59mg/100ml	Current drinker	moderate
+380111000006114	[x]eviden of alcohl involv blood alcohl level 60-79mg/100ml	Current drinker	moderate
+380121000006118	[x]eviden of alcohl involv blood alcohl level 80-99mg/100ml	Current drinker	moderate
+380131000006115	[x]evidence of alcohl involv determin by blood alcohl level	Current drinker	unknown
+3890681000006118	uncomplicated alcohol withdrawal	Current drinker	high
+394681000006119	[x]korsakov's psychosis, alcohol induced	Current drinker	high
+397201000006116	[x]men & behav dis due alcoh: resid & late-onset psychot dis	Current drinker	high
+397211000006118	[x]men & behav dis due alcohl: withdrawl state with delirium	Current drinker	high
+397241000006119	[x]men & behav dis due to use alcohol: oth men & behav dis	Current drinker	high
+397431000006111	[x]ment & behav dis due use alcohol: unsp ment & behav dis	Current drinker	high
+397611000006115	[x]mental & behav dis due to use alcohol: acute intoxication	Current drinker	high
+397621000006111	[x]mental & behav dis due to use alcohol: psychotic disorder	Current drinker	high
+397729013	trivial drinker - <1u/day	Current drinker	low
+397791000006118	[x]mental and behav dis due to use alcohol: amnesic syndrome	Current drinker	high
+397801000006117	[x]mental and behav dis due to use alcohol: dependence syndr	Current drinker	high
+397811000006119	[x]mental and behav dis due to use alcohol: withdrawal state	Current drinker	high
+397881000006114	[x]mental and behav dis due to use of alcohol: harmful use	Current drinker	high
+401760017	other alcoholic dementia	Current drinker	high
+401797010	nondependent alcohol abuse	Current drinker	high
+405461000000114	alcohol abuse monitoring	Current drinker	unknown
+451082013	[v] alcohol use	Unknown	
+451124014	chronic alcoholic hepatitis	Current drinker	high
+4525015	alcoholic gastritis	Current drinker	high
+453265010	oesophageal varices in alcoholic cirrhosis of the liver	Current drinker	high
+459715013	pain in lymph nodes after alcohol consumption	Current drinker	unknown
+460276013	[v]personal history of alcoholism	Ex-drinker	
+460926018	[v]alcohol rehabilitation	Current drinker	high
+461112017	[v]alcohol abuse counselling and surveillance	Current drinker	high
+464381000006118	adverse reaction to alcohol deterrents	Current drinker	high
+47085011	social drinker	Current drinker	low
+476361000006114	alcohol amnestic syndrome	Current drinker	high
+476411000006118	alcohol consumption nos	Unknown	
+476501000006115	alcohol intake	Current drinker	unknown
+476611000006116	alcoholic cirrhosis of liver	Current drinker	high
+476701000006114	alcoholic myopathy	Current drinker	high
+476741000006111	alcoholic psychoses	Current drinker	high
+478024019	alcohol-induced epilepsy	Current drinker	high
+478046010	cerebellar ataxia due to alcoholism	Current drinker	high
+480271000000113	disqualified from driving due to excess alcohol	Current drinker	high
+500478011	alcohol dependence syndrome	Current drinker	high
+500729017	alcohol causing toxic effect	Current drinker	high
+501294012	wernicke-korsakov syndrome	Current drinker	high
+502016018	dipsomania	Current drinker	high
+502017010	alcohol problem drinking	Current drinker	high
+507053019	dts - delirium tremens	Current drinker	high
+542611000006114	cerebral degeneration due to alcoholism	Current drinker	high
+556651000000116	alcohol units per week	Unknown	
+606991000000117	alcohol misuse	Current drinker	high
+622961000000116	referral to specialist alcohol treatment service	Current drinker	high
+629811000006113	drinks occasionally	Current drinker	moderate
+629821000006117	drinks rarely	Current drinker	low
+6881361000006110	suspected alcohol abuse	Current drinker	high
+7264381000006117	referral to specialist alcohol treatment service declined by patient	Current drinker	high
+73012011	moderate drinker	Current drinker	moderate
+739501000000112	advised to contact primary care alcohol worker	Current drinker	high
+740641000000115	referral to alcohol brief intervention service	Current drinker	high
+750531000000113	declined referral to specialist alcohol treatment service	Current drinker	high
+753331000006118	korsakov's alcoholic psychosis	Current drinker	high
+769451000006111	intoxication - alcohol	Current drinker	high
+817981000006115	health ed. - alcohol	Current drinker	high
+831091000006115	referral to alcohol abuse team	Current drinker	high
+831101000006114	referral to alcohol counsellor	Current drinker	high
+8364771000006117	injury following alcohol use	Current drinker	high
+83834016	alcoholic fatty liver	Current drinker	high
+851931000006116	referral to alcohol recovery project	Current drinker	high
+852151000006117	audit score >5 alcohol dependence syndrome	Current drinker	high
+852161000006115	audit score >5 alcohol problem drinker	Current drinker	high
+852381000006110	alcohol reduction-maintain abstinence	Ex-drinker	
+852391000006113	not interested in reducing alcohol	Current drinker	high
+852401000006110	ready to start reducing alcohol	Current drinker	unknown
+852411000006113	thinking about reducing alcohol	Current drinker	unknown
+854651000006117	alcohol overdose	Current drinker	high
+855071000006115	grade a none drinker or rare	Current drinker	low
+882221000006114	other alcoholic psychoses	Current drinker	high
+882531000006110	non-dependent abuse of alcohol	Current drinker	high
+886501000006115	alcoholic liver damage nos	Current drinker	high
+899411000006110	toxic effects of alcohol	Current drinker	high
+899431000006116	alcohol nos - toxic effect	Current drinker	high
+936001000006111	lifestyle advice regarding alcohol	Current drinker	high
+940781000006116	evidence of alcohol withdrawal	Current drinker	high
+961571000006111	excessive use of alcohol	Current drinker	high
+970391000006118	substance misuse of alcohol	Current drinker	high
+970401000006116	misuse of mixture of alcohol	Current drinker	high
+970411000006118	misuse of alcohol unspecified	Current drinker	high
+973071000006111	** responding to drug & alcohol problems in the community	Current drinker	unknown
+991151000006114	alcohol nos - toxic effect	Current drinker	high
+291352018	Non-drinker alcohol	Non-drinker	
+587231000006111	Non drinker alcohol	Non-drinker	
+4120351000006119	Does not drink alcohol	Non-drinker	
+4120371000006112	Non - drinker alcohol	Non-drinker	
+13628811000006110	Lifetime non-drinker of alcohol	Non-drinker	
+4977911000006115	Lifetime non-drinker	Non-drinker	
+4120381000006110	Current non-drinker of alcohol	Non-drinker	
+291355016	Teetotaller	Non-drinker	
+4977931000006114	Lifetime teetotaller	Non-drinker	

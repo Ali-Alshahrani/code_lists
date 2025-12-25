@@ -1,0 +1,133 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid
+1165041000000115	Heart failure resolved	21264	2126400	521691000000100	1165041000000115
+11928821000006114	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) stroke risk score	^ESCT1192882		793851000000102	1774641000000113
+11998561000006114	Assessment using CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score	^ESCT1199856		763007002	3637537015
+11998571000006119	Assessment using CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score	^ESCT1199857		763007002	3637534010
+11998631000006118	CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score	^ESCT1199863		763008007	3637564019
+12490791000006111	CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score	^ESCT1249079		1085111000000109	2718791000000111
+13910671000006110	Heart failure with mid range ejection fraction	^ESCT1391067		788950000	3786234019
+139475013	Heart failure	G58	G58..00	84114007	139475013
+139482012	Cardiac failure	G58-1	G58..11	84114007	139482012
+14015051000006114	Acute on chronic right-sided congestive heart failure	^ESCT1401505		16838951000119100	3849969010
+141306010	Left ventricular failure	G581	G581.00	85232009	141306010
+14151151000006111	Heart failure due to thyrotoxicosis	^ESCT1415115		898208007	4165017016
+147247018	Chronic congestive heart failure	G5801	G580100	88805009	147247018
+14742661000006115	Left ventricular failure with normal ejection fraction due to valvular heart disease	^ESCT1474266		1204200007	4952591012
+1484917012	Heart failure follow-up	8HBE	8HBE.00	390884006	1484917012
+1484918019	Heart failure annual review	662W	662W.00	390885007	1484918019
+1488804017	Heart failure confirmed	1O1	1O1..00	395105005	1488804017
+1489358014	Left ventricular diastolic dysfunction	G5yyA	G5yyA00	395704004	1489358014
+1495417010	asthma - cardiac	G581-1	G581.11	71892000	119456014
+1539471000006111	Heart failure monitoring - unstable symptoms	EMISNQHE15		1539471000006107	1539471000006111
+1539481000006114	Heart failure monitoring - specialist clinical needs	EMISNQHE16		1539481000006105	1539481000006114
+1539511000006118	Heart failure monitoring - multiple readmissions	EMISNQHE19		1539511000006102	1539511000006118
+1539531000006112	Heart failure monitoring - co-morbidities	EMISNQHE21		1539531000006108	1539531000006112
+1539541000006119	Heart failure monitoring - palliative care	EMISNQHE22		1539541000006103	1539541000006119
+1576321000006113	Cause of Death- Congestive Cardiac Failure	EGTON2G6A1		1576321000006109	1576321000006113
+1647701000000118	Heart failure with normal ejection fraction	G583	G583.00	446221000	2883808011
+1661371000000112	HFNEF - heart failure with normal ejection fraction	G583-1	G583.11	446221000	1713091000000115
+1678621000006111	CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score	38DE	38DE.00	763008007	3637565018
+1728531000006116	Heart failure resolved	EMISNQHE42		1728531000006100	1728531000006116
+1747691000006119	Emergency heart failure admission since last appointment	EMISNQEM10		1747691000006103	1747691000006119
+1782641000006118	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) stroke risk score	38DE0	38DE000	735259005	3513891017
+1816101000006113	Right ventricular failure	G584	G584.00	367363000	490972013
+18472010	Acute congestive heart failure	G5800	G580000	10633002	18472010
+1856361000006116	Heart failure monitoring in primary care	EMISNQHE70		1856361000006100	1856361000006116
+1856371000006111	Heart failure monitoring in secondary care	EMISNQHE71		1856371000006107	1856371000006111
+1861731000006114	AURAS-AF - consider the patient to have heart failure	EMISNQAU116		1861731000006105	1861731000006114
+1991651000006115	Severe left ventricular systolic dysfunction	EMISNQSE142		1991651000006104	1991651000006115
+206703015	Right heart failure	G580-2	G580.12	128404006	206703015
+2117931000000116	Heart failure self-management plan agreed	661M5	661M500	812001000000102	2117931000000116
+2159197017	Echocardiogram shows left ventricular systolic dysfunction	585f	585f.00	407596008	2159197017
+2159198010	Echocardiogram shows left ventricular diastolic dysfunction	585g	585g.00	407597004	2159198010
+216184014	Congestive heart failure monitoring	662T	662T.00	134378009	216184014
+216207010	Left ventricular systolic dysfunction	G5yy9	G5yy900	134401001	216207010
+216246012	Referral to heart failure clinic	8HTL	8HTL.00	134440006	216246012
+2227501000000110	Heart failure with preserved ejection fraction	G583-2	G583.12	446221000	2227501000000110
+223981000000118	Cardiac failure NOS	G58z-2	G58z.12	84114007	139482012
+2256811000000114	Referral to rapid access heart failure clinic	8HTL0	8HTL000	873881000000100	2256811000000114
+2352391000000117	On optimal heart failure therapy	2JZ	2JZ..00	915571000000102	2352391000000117
+2504341000006116	Acute left heart failure	^ESCTAC250434		364006	199283019
+2549208013	Emergency hospital admission for heart failure	8H2S	8H2S.00	416683003	3082850014
+2549243014	Seen in heart failure clinic	9N0k	9N0k.00	416717003	2549243014
+2549697018	Referral to heart failure nurse	8HHb	8HHb.00	417146007	2549697018
+2581861000006110	Hypertensive heart disease with congestive heart failure	^ESCTHY258186		5148006	9634016
+2585431000006117	Chronic left-sided congestive heart failure	^ESCTCH258543		5375005	9994016
+2660881000006116	High output heart failure	^ESCTHI266088		10091002	17613015
+2664351000006113	Chronic right-sided heart failure	^ESCTCH266435		10335000	17997015
+2675255018	Congestive heart failure due to valvular disease	G5804	G580400	426611007	2675255018
+2694523019	Left ventricular cardiac dysfunction	G5yyD	G5yyD00	429589006	2694523019
+300179017	Decompensated cardiac failure	G5802	G580200	195111005	300179017
+300180019	Compensated cardiac failure	G5803	G580300	195112003	300180019
+300190010	Acute left ventricular failure	G5810	G581000	195114002	300190010
+300217019	Post cardiac operation heart failure NOS	G5y4z	G5y4z00	195130005	300214014
+303361000000111	Referred by heart failure nurse specialist	9N6T	9N6T.00	200171000000102	303361000000111
+316833010	Congenital cardiac failure	Q48y1	Q48y100	206586007	316833010
+3182541000006117	Congestive cardiac failure	^ESCTCO318254		42343007	493287011
+3182551000006115	CCF - Congestive cardiac failure	^ESCTCC318255		42343007	493288018
+3182561000006118	CHF - Congestive heart failure	^ESCTCH318256		42343007	493289014
+3213831000006118	Right heart failure secondary to left heart failure	^ESCTRI321383		44313006	73920011
+3244761000006113	Hypertensive heart failure	^ESCTHY324476		46113002	76883018
+324974014	Heart transplant failure and rejection	SP084	SP08400	213151004	324974014
+324975010	Heart-lung transplant failure and rejection	SP085	SP08500	213152006	324975010
+3283871000006117	Chronic heart failure	^ESCTCH328387		48447003	80720010
+350484012	Heart failure as a complication of care	SP111-1	SP11111	233924009	350484012
+3513886018	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score	^ESCT1165290		735258002	3513886018
+3589241000006116	Chronic right-sided congestive heart failure	^ESCTCH358924		66989003	111275015
+3809001000006112	Acute right-sided congestive heart failure	^ESCTAC380900		80479009	133544010
+3842421000006111	Congestive rheumatic heart failure	^ESCTCO384242		82523003	136880013
+3868341000006118	HF - Heart failure	^ESCTHF386834		84114007	1234906013
+3886041000006118	Left heart failure	^ESCTLE388604		85232009	141303019
+3886061000006119	Left-sided heart failure	^ESCTLE388606		85232009	201199018
+3886071000006114	LVF - Left ventricular failure	^ESCTLV388607		85232009	1235017018
+395772015	Heart failure NOS	G58z	G58z.00	84114007	139475013
+3974561000006115	Pleural effusion due to congestive heart failure	^ESCTPL397456		90727007	150352015
+4005301000006110	biventricular failure	^ESCTBI400530		92506005	510016018
+411506018	impaired left ventricular function	G581-3	G581.13	275514001	411506018
+4193361000006119	Chronic left-sided heart failure	^ESCTCH419336		111283005	178503015
+451426015	Cardiac failure therapy	8B29	8B29.00	308118002	451426015
+490972013	Right ventricular failure	G580-3	G580.13	367363000	490972013
+493287011	Congestive cardiac failure	G580-1	G580.11	42343007	70653017
+504901000006118	Benign hypertensive heart disease with congestive cardiac failure	G2111	G211100	194767001	299653017
+510016018	Biventricular congestive heart failure	G580-4	G580.14	92506005	153058012
+6043761000006113	Refractory heart failure	^ESCTRE604376		314206003	458525012
+6204381000006117	Acute right-sided heart failure	^ESCTAC620438		359617009	474047012
+6914191000006115	Systolic heart failure	^ESCTSY691419		417996009	2577903013
+6919191000006119	Diastolic heart failure	^ESCTDI691919		418304008	2577902015
+7025691000006110	Decompensated chronic heart failure	^ESCTDE702569		424404003	2645367010
+7052811000006113	Right heart failure due to pulmonary hypertension	^ESCTRI705281		426012001	2674125010
+7056281000006118	Congestive heart failure due to left ventricular systolic dysfunction	^ESCTCO705628		426263006	2675256017
+70653017	Congestive heart failure	G580	G580.00	42343007	70653017
+7119751000006110	Chronic systolic dysfunction of left ventricle	^ESCTCH711975		430396006	2774357018
+7119761000006112	Chronic left ventricular systolic dysfunction	^ESCTCH711976		430396006	2770949016
+7208001000006118	Congestive heart failure, hypertension, age 75 years or older, diabetes, and previous stroke or transient ischaemic attack risk score	^ESCTCO720800		438367009	2790736010
+7250571000006113	Chronic systolic heart failure	^ESCTCH725057		441481004	2816275019
+7251291000006119	Chronic diastolic heart failure	^ESCTCH725129		441530006	2816764017
+7275961000006118	Acute on chronic diastolic heart failure	^ESCTAC727596		443344007	2839052013
+728671000006119	Malignant hypertensive heart disease with congestive cardiac failure	G2101	G210100	83105008	1236017010
+728681000006116	Malignant hypertensive heart disease without congestive heart failure	G2100	G210000	36315003	60617018
+72934016	Rheumatic left ventricular failure	G1yz1	G1yz100	43736008	72934016
+7321121000006119	Heart failure with preserved ejection fraction	^ESCTHE732112		446221000	3496968011
+741701000006114	Hypertensive heart and renal disease with (congestive) heart failure	G232	G232.00	194779001	299672017
+7487181000006110	Dysfunction of right cardiac ventricle	^ESCTDY748718		473365008	2956423012
+7487191000006113	Right ventricular cardiac dysfunction	^ESCTRI748719		473365008	2956568019
+7507301000006110	Acute exacerbation of chronic congestive heart failure	^ESCTAC750730		698296002	2973838013
+7507881000006112	Heart failure self management plan	^ESCTHE750788		698361000	2974220013
+7510321000006115	Asymptomatic left ventricular systolic dysfunction	^ESCTAS751032		698592004	2974791019
+7510341000006110	Symptomatic congestive heart failure	^ESCTSY751034		698594003	2974742013
+7573171000006116	Heart failure with reduced ejection fraction	^ESCTHE757317		703272007	3008211011
+7573181000006118	Heart failure with reduced ejection fraction due to coronary artery disease	^ESCTHE757318		703273002	3008136010
+7573191000006115	Heart failure with reduced ejection fraction due to myocarditis	^ESCTHE757319		703274008	3008268013
+7573201000006117	Heart failure with reduced ejection fraction due to cardiomyopathy	^ESCTHE757320		703275009	3008202011
+7573211000006119	Heart failure with reduced ejection fraction due to heart valve disease	^ESCTHE757321		703276005	3008139015
+789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	G234	G234.00	194781004	299674016
+8011111000006111	Congestive heart failure with right heart failure	^ESCTCO801111		23341000119109	2984250012
+8030311000006111	Exacerbation of congestive heart failure	^ESCTEX803031		96311000119109	2921293019
+8048061000006111	Chronic combined systolic and diastolic heart failure	^ESCTCH804806		153941000119100	2984291014
+8234591000006113	Generalised left ventricular dysfunction	^ESCTGE823459		759821000000103	1680151000000113
+8234601000006117	Regional left ventricular dysfunction	^ESCTRE823460		759831000000101	1680171000000116
+8234611000006119	Left ventricular dysfunction due to right ventricular interaction	^ESCTLE823461		759841000000105	1680191000000117
+8278041000006115	Rehabilitation for heart failure	^ESCTRE827804		835981000000108	2170921000000112
+8303561000006119	Heart failure monitoring	^ESCTHE830356		871681000000102	2251951000000113
+905391000006119	[RFC] Cardiac failure	HNG0013		905391000006103	905391000006119
+94251011	Acute heart failure	G582	G582.00	56675007	94251011

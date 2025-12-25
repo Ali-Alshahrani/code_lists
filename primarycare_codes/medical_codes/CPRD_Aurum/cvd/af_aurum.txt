@@ -1,0 +1,48 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid
+1932021000006117	3D study - problems with atrial fibrillation management	EMISNQ3D6		1932021000006101
+3299911000006116	AF - Atrial fibrillation	^ESCTAF329991		49436004
+5669591000006113	AF - Paroxysmal atrial fibrillation	^ESCTAF566959		282825002
+14233991000006115	Assessment using ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score	^ESCT1423399		1362841000000106
+82343012	Atrial fibrillation	G5730	G573000	49436004
+300130013	Atrial fibrillation and flutter	G573	G573.00	195080001
+300132017	Atrial fibrillation and flutter NOS	G573z	G573z00	195080001
+406861000000119	Atrial fibrillation annual review	6A9	6A9..00	248411000000105
+1823951000006111	Atrial fibrillation confirmed	EMISNQAT22		1823951000006107
+8439861000006115	Atrial fibrillation detected	^ESCTAT843986		1066831000000104
+1856431000006118	Atrial fibrillation follow-up	EMISNQAT30		1856431000006102
+216183015	Atrial fibrillation monitoring	662S	662S.00	134377004
+1855501000006118	Atrial fibrillation monitoring in primary care	EMISNQAT28		1855501000006102
+1855511000006115	Atrial fibrillation monitoring in secondary care	EMISNQAT29		1855511000006104
+294601000000110	Atrial fibrillation resolved	212R	212R.00	196371000000102
+8037691000006113	Atrial fibrillation with rapid ventricular response	^ESCTAT803769		120041000119109
+12619501000006118	Blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection	^ESCT1261950		1105331000000106
+2675253013	Chronic atrial fibrillation	G5737		426749004
+5887651000006116	Controlled atrial fibrillation	^ESCTCO588765		300996004
+256478018	ECG: atrial fibrillation	3272	3272.00	164889003
+7731461000006119	Familial atrial fibrillation	^ESCTFA773146		715395008
+783761000006118	Implantation of intravenous pacemaker for atrial fibrillation	7936A	7936A00	175146007
+7375931000006117	Insertion of pacemaker for control of atrial fibrillation	^ESCTIN737593		449863006
+5669611000006119	Intermittent atrial fibrillation	^ESCTIN566961		282825002
+5057261000006110	Lone atrial fibrillation	^ESCTLO505726		233910005
+7610331000006110	Longstanding persistent atrial fibrillation	^ESCTLO761033		706923002
+350465014	Non-rheumatic atrial fibrillation	G5733	G573300	233911009
+14234031000006116	ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score	^ESCT1423403		1362861000000107
+865521000006116	Pacer controlled atrial fibril	7936A-99	7936A99	175146007
+5669601000006117	PAF - Paroxysmal atrial fibrillation	^ESCTPA566960		282825002
+14161701000006115	Paroxysmal AF (atrial fibrillation) with RVR (rapid ventricular response)	^ESCT1416170		1010405004
+421235014	Paroxysmal atrial fibrillation	G5732	G573200	282825002
+14161691000006115	Paroxysmal atrial fibrillation with rapid ventricular response	^ESCT1416169		1010405004
+636721000000112	Permanent atrial fibrillation	G5734	G573400	440028005
+636701000000115	Persistent atrial fibrillation	G5735	G573500	440059007
+3636235015	Preexcited atrial fibrillation	^ESCT1168889		762247006
+6043781000006115	Rapid atrial fibrillation	^ESCTRA604378		314208002
+1755871000000117	Referral to atrial fibrillation clinic	8HTy	8HTy.00	758600000
+9988012	Atrial flutter	G5731	G573100	5370000
+256479014	ECG: atrial flutter	3273	3273.00	164890007
+2675306013	Paroxysmal atrial flutter	G5736	G573600	427665004
+1587611000006119	Percutaneous transluminal ablation of atrial wall for atrial flutter	793M1	793M100	707832008
+1587631000006113	Perc translum ablat conduct sys heart for atrial flutter NEC	793M3	793M300	707832008
+2608211000000115	Typical atrial flutter	G5738		720448006
+2608251000000116	Atypical atrial flutter	G5739		15964901000119107
+7046981000006110	Chronic atrial flutter	^ESCTCH704698		425615007
+7803641000006113	Atrial flutter type 1	^ESCTAT780364		720448006

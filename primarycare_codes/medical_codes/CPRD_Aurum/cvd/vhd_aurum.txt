@@ -1,0 +1,419 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctdescriptionid	snomedctconceptid	mv	av	tv	pv	other	multiple	vhd
+112523010	Aortic valve sclerosis	G5416	G541600	112523010	67754003		1					1
+119660019	Rheumatic aortic stenosis	G120	G120.00	119660019	72011007		1					1
+1219795015	Closed aortic valvotomy	79171	7917100	1219795015	112814001		1					1
+1222306011	Tricuspid incompetence, cause unspecified	G1404-2	G140412	178507019	111287006			1				1
+1222307019	Tricuspid regurgitation, cause unspecified	G1404-3	G140413	178507019	111287006			1				1
+1222308012	Tricuspid stenosis and regurgitation, cause unspecified	G1405-4	G140514	83138015	49915006			1				1
+1222309016	Tricuspid stenosis and incompetence, cause unspecified	G1405-1	G140511	83138015	49915006			1				1
+1222314017	Aortic insufficiency alone, cause unspecified	G5412-1	G541211	100055018	60234000		1					1
+1222315016	Aortic regurgitation alone, cause unspecified	G5412-2	G541212	100055018	60234000		1					1
+1222316015	Pulmonic valve regurgitation	G5432-5	G543215	178508012	91434003				1			1
+1227426018	Mitral incompetence - rheumatic	G111-1	G111.11	1227426018	31085000	1						1
+1232103019	Aortic valve stenosis	G5415	G541500	100633013	60573004		1					1
+1232958015	Tricuspid incompetence - rheumatic	G1401-2	G140112	1232958015	67696008			1				1
+1232960018	Rheumatic tricuspid insufficiency	G1401	G140100	1232960018	67696008			1				1
+1234202016	Aortic incompetence - rheumatic	G121-1	G121.11	1234202016	78031003		1					1
+1234383014	Mitral stenosis	G110	G110.00	1234383014	79619009	1						1
+129504017	Rheumatic aortic insufficiency	G121	G121.00	129504017	78031003		1					1
+13529261000006111	Transcatheter aortic valve implantation	^ESCT1352926		3727518019	773996000		1					1
+13529271000006116	TAVI - transcatheter aortic valve implantation	^ESCT1352927		3727517012	773996000		1					1
+13655201000006115	Mitral valve posterior leaflet prolapse	^ESCT1365520		3770092010	786040006	1						1
+13662991000006118	Percutaneous pulmonary valve implantation	^ESCT1366299		3774665013	787162002				1			1
+13936851000006111	Mild aortic valve stenosis	^ESCT1393685		3891762011	836480008		1					1
+13936861000006113	Mild stenosis of aortic valve	^ESCT1393686		3891761016	836480008		1					1
+13936871000006118	Moderate aortic valve stenosis	^ESCT1393687		3891764012	836481007		1					1
+13936881000006115	Moderate stenosis of aortic valve	^ESCT1393688		3891766014	836481007		1					1
+13936891000006117	Severe aortic valve stenosis	^ESCT1393689		3891768010	836482000		1					1
+13936901000006118	Severe stenosis of aortic valve	^ESCT1393690		3891767017	836482000		1					1
+13939391000006119	Mild mitral valve stenosis	^ESCT1393939		3896963014	838448003	1						1
+13939401000006117	Moderate mitral valve stenosis	^ESCT1393940		3896965019	838449006	1						1
+13939411000006119	Severe mitral valve stenosis	^ESCT1393941		3896967010	838450006	1						1
+13939421000006110	Mild mitral valve regurgitation	^ESCT1393942		3896969013	838451005	1						1
+13939431000006113	Moderate mitral valve regurgitation	^ESCT1393943		3896972018	838452003	1						1
+13939441000006115	Severe mitral valve regurgitation	^ESCT1393944		3896973011	838453008	1						1
+13939451000006118	Mild tricuspid valve regurgitation	^ESCT1393945		3896975016	838454002			1				1
+13939461000006116	Moderate tricuspid valve regurgitation	^ESCT1393946		3896977012	838455001			1				1
+13939471000006111	Severe tricuspid valve regurgitation	^ESCT1393947		3896979010	838456000			1				1
+13940501000006111	Severe tricuspid valve stenosis	^ESCT1394050		3897276018	838537007			1				1
+13940511000006114	Mild pulmonary valve stenosis	^ESCT1394051		3897278017	838538002				1			1
+13940521000006118	Moderate pulmonary valve stenosis	^ESCT1394052		3897279013	838539005				1			1
+13940531000006115	Severe pulmonary valve stenosis	^ESCT1394053		3897283013	838540007				1			1
+13940541000006113	Mild pulmonary valve regurgitation	^ESCT1394054		3897287014	838541006				1			1
+13940551000006110	Moderate pulmonary valve regurgitation	^ESCT1394055		3897290015	838542004				1			1
+13940561000006112	Severe pulmonary valve regurgitation	^ESCT1394056		3897293018	838543009				1			1
+13940571000006117	Mild aortic valve regurgitation	^ESCT1394057		3897295013	838544003		1					1
+13940581000006119	Moderate aortic valve regurgitation	^ESCT1394058		3897297017	838545002		1					1
+13940591000006116	Severe aortic valve regurgitation	^ESCT1394059		3897299019	838546001		1					1
+13948561000006114	Aortic valve bioprosthesis	^ESCT1394856		3943032017	860577005		1					1
+14091521000006113	Aortic bi-cusp mechanical valve prosthesis	^ESCT1409152		3977693019	736892002		1					1
+14168581000006112	Mitral regurgitation due to acquired abnormality of mitral subvalvular apparatus	^ESCT1416858		4361463014	1119300000	1						1
+143386015	Rheumatic mitral stenosis	G110-1	G110.11	143386015	86466006	1						1
+14428131000006112	Mitral valve regurgitation due to acute myocardial infarction	^ESCT1442813		4537390011	1142308000	1						1
+14456201000006114	Repair of aortic valve	^ESCT1445620		4570617014	1155885007		1					1
+14502061000006115	Aortic valvuloplasty	^ESCT1450206		4570616017	232834008		1					1
+14504241000006118	Chronic rheumatic mitral valvulitis	^ESCT1450424		4544428019	286947004	1						1
+145956019	PVR - Pulmonary valve replacement	7913-2	7913.12	1235296017	88045004				1			1
+14639251000006116	Tricuspid valvuloplasty	^ESCT1463925		4644118016	265474008			1				1
+1478969019	Mitral valvuloplasty	7910-1	7910.11	1478969019	384642005	1						1
+14864621000006110	TAVR - transcatheter aortic valve replacement	^ESCT1486462		5034390017	773996000		1					1
+1547091000006111	Percutaneous transluminal pulmonary valvotomy and valvuloplasty	79195	7919500	758711000000114	384441000000101				1			1
+159271000006119	Ruptured mitral valve cusp	G114	G114.00	374137013	251003004	1						1
+168601000006114	Rheumatic tricuspid stenosis	G1400	G140000	146419014	88318005			1				1
+1716111000006113	Transapical implantation of aortic valve	79115	7911500	2842340013	443887000		1					1
+1716711000006112	Transluminal implantation of aortic valve	79116	7911600	2840822014	443916000		1					1
+188662011	Aortic valvuloplasty	7911-1	7911.11	188662011	112816004		1					1
+193911000006111	Pulmonic valve stenosis	G5433	G543300	94441012	56786000				1			1
+193971000006119	Pulmonary valve anomalies	P60	P60..00	313345015	204339005				1			1
+193991000006118	Pulmonary valve disease	G543	G543.00	1233968015	76267008				1			1
+194021000006117	Pulmonary valvuloplasty	7913-1	7913.11	1480881010	386749005				1			1
+204071000006116	Mechanical prosthetic aortic valve replacement	79112	7911200	270947017	174929002		1					1
+204181000006117	Mechanical prosthetic mitral valve replacement	79102	7910200	2768408010	431339008	1						1
+204211000006118	Prosthetic replacement of pulmonary valve	79132	7913200	270978018	174946004				1			1
+204241000006119	Prosthetic replacement of tricuspid valve	79122	7912200	270962015	174937005			1				1
+20721017	Rheumatic aortic valve disease	G12	G12..00	20721017	12023003		1					1
+219511000000113	Mitral valve disease	G11	G11..00	444757013	11851006	1						1
+2471474013	Mitral valve prolapse	G5402	G540200	2471474013	409712001	1						1
+2504401000006110	Heart valve disorder	^ESCTHE250440		1701013	368009					1		1
+2504421000006117	Heart valve disease	^ESCTHE250442		1706015	368009					1		1
+2510851000006117	Rheumatic mitral stenosis with regurgitation	^ESCTRH251085		2376019	787001	1						1
+2526691000006119	Mitral valvotomy	^ESCTMI252669		4062010	1770009	1						1
+2536641017	Tricuspid valvuloplasty	7912-2	7912.12	2536641017	384643000			1				1
+2602511000006114	Closed heart valvotomy of mitral valve	^ESCTCL260251		11669016	6433003	1						1
+2602541000006113	CMV - Closed mitral valvotomy	^ESCTCM260254		499819017	6433003	1						1
+2604851000006116	Pulmonary valve commissurotomy by transvenous balloon method	^ESCTPU260485		11888013	6567006				1			1
+2628851000006115	Mitral valve prolapse syndrome	^ESCTMI262885		14335010	8074002	1						1
+2628921000006115	Mitral valve prolapse, posterior leaflet	^ESCTMI262892		504504018	8074002	1						1
+2639211000006112	AVD - Aortic valve disease	^ESCTAV263921		1235210010	8722008		1					1
+2688731000006112	MVD - Mitral valve disease	^ESCTMV268873		444758015	11851006	1						1
+2691341000006112	Rheumatic disease of aortic valve	^ESCTRH269134		20718019	12023003		1					1
+270932014	Replacement of mitral valve NEC	79103	7910300	88255012	53059001	1						1
+270933016	Mitral valvuloplasty NEC	79104	7910400	1478969019	384642005	1						1
+270934010	Other specified plastic repair of mitral valve	7910y	7910y00	394276014	265472007	1						1
+270935011	Plastic repair of mitral valve NOS	7910z	7910z00	394276014	265472007	1						1
+270944012	Allograft replacement of aortic valve	79110	7911000	270944012	174927000		1					1
+270949019	Replacement of aortic valve NEC	79113	7911300	43909016	26212005		1					1
+270950019	Aortic valvuloplasty NEC	79114	7911400	188662011	112816004		1					1
+270951015	Other specified plastic repair of aortic valve	7911y	7911y00	394277017	265473002		1					1
+270952010	Plastic repair of aortic valve NOS	7911z	7911z00	394277017	265473002		1					1
+270963013	Replacement of tricuspid valve	79123	7912300	42309019	25236004			1				1
+270966017	Tricuspid valvuloplasty NEC	79125	7912500	1478970018	384643000			1				1
+270967014	Other specified plastic repair of tricuspid valve	7912y	7912y00	394278010	265474008			1				1
+270968016	Plastic repair of tricuspid valve NOS	7912z	7912z00	394278010	265474008			1				1
+270980012	Replacement of pulmonary valve	79133	7913300	145956019	88045004				1			1
+270981011	Pulmonary valvuloplasty NEC	79134	7913400	394279019	265475009				1			1
+270982016	Other specified plastic repair of pulmonary valve	7913y	7913y00	394279019	265475009				1			1
+270983014	Plastic repair of pulmonary valve NOS	7913z	7913z00	394279019	265475009				1			1
+270998011	Revision of plastic repair of mitral valve	79150	7915000	270998011	174960002	1						1
+270999015	Revision of plastic repair of aortic valve	79151	7915100	270999015	174961003		1					1
+271000016	Revision of plastic repair of tricuspid valve	79152	7915200	271000016	174962005			1				1
+271001017	Revision of plastic repair of pulmonary valve	79153	7915300	271001017	174963000				1			1
+271010013	Open mitral valvotomy	79160	7916000	271010013	174967004	1						1
+271011012	Open aortic valvotomy	79161	7916100	271011012	174968009		1					1
+271012017	Open tricuspid valvotomy	79162	7916200	271012017	174969001			1				1
+271015015	Open pulmonary valvotomy	79163	7916300	271015015	174970000				1			1
+271030012	Annuloplasty of mitral valve	79180	7918000	271030012	174980001	1						1
+271043012	Percutaneous transluminal mitral valvotomy	79190	7919000	271043012	174987003	1						1
+271044018	Percutaneous transluminal aortic valvotomy	79191	7919100	271044018	174988008		1					1
+271045017	Percutaneous transluminal tricuspid valvotomy	79192	7919200	271045017	174989000			1				1
+271046016	Percutaneous transluminal pulmonary valvotomy	79193	7919300	271046016	174990009				1			1
+271057014	Repair of subaortic stenosis	791A2	791A200	271057014	174997007		1					1
+2743131000000114	Sutureless aortic valve replacement	^ESCT1172383		2743131000000114	1095181000000101		1					1
+2771491000006111	Mitral valve prosthesis	^ESCTMI277149		28934011	17107009	1						1
+2771501000006115	Prosthetic mitral valve	^ESCTPR277150		1221471015	17107009	1						1
+2814831000006118	Nodular calcific aortic valve stenosis	^ESCTNO281483		33395014	19833008		1					1
+287258010	Syphilitic endocarditis of mitral valve	A9321	A932100	287258010	186875004	1						1
+287260012	Syphilitic endocarditis of tricuspid valve	A9323	A932300	287260012	186877007			1				1
+287261011	Syphilitic endocarditis of pulmonary valve	A9324	A932400	287261011	186878002				1			1
+2903301000006111	TVR - Tricuspid valve replacement	^ESCTTV290330		1224851015	25236004			1				1
+2919571000006112	AVR - Aortic valve replacement	^ESCTAV291957		1224989012	26212005		1					1
+297491000006116	Nonrheumatic tricuspid valve disorder, unspecified	G542X	G542X00	2957051016	194989009			1				1
+297501000006112	Nonrheumatic tricuspid valve stenosis with insufficiency	G5422	G542200	299998013	194992008			1				1
+299591014	Mitral stenosis with insufficiency	G112	G112.00	299591014	194726006	1						1
+299592019	Mitral stenosis with regurgitation	G112-3	G112.13	299592019	194726006	1						1
+299593012	Mitral stenosis with incompetence	G112-2	G112.12	299593012	194726006	1						1
+299596016	Mitral valve disease NOS	G11z	G11z.00	444757013	11851006	1						1
+299597013	Rheumatic aortic valve disease NOS	G12z	G12z.00	20718019	12023003		1					1
+299602018	Diseases of mitral and aortic valves	G13	G13..00	299602018	194732001	1	1				1	1
+299603011	Mitral and aortic stenosis	G130	G130.00	299603011	194733006	1	1				1	1
+299604017	Mitral stenosis and aortic insufficiency	G131	G131.00	299604017	194734000	1	1				1	1
+299605016	Mitral stenosis and aortic regurgitation	G131-4	G131.14	299605016	194734000	1	1				1	1
+299606015	Mitral stenosis and aortic incompetence	G131-3	G131.13	299606015	194734000	1	1				1	1
+299607012	Mitral incompetence and aortic stenosis	G132-2	G132.12	299607012	194735004	1	1				1	1
+299608019	Mitral regurgitation and aortic stenosis	G132-3	G132.13	299608019	194735004	1	1				1	1
+299609010	Mitral insufficiency and aortic stenosis	G132	G132.00	299609010	194735004	1	1				1	1
+299610017	Mitral and aortic incompetence	G133	G133.00	299610017	194736003	1	1				1	1
+299611018	Mitral and aortic insufficiency	G133-1	G133.11	299611018	194736003	1	1				1	1
+299612013	Mitral and aortic regurgitation	G133-2	G133.12	299612013	194736003	1	1				1	1
+299613015	Multiple mitral and aortic valve involvement	G13y	G13y.00	299602018	194732001	1	1				1	1
+299614014	Mitral and aortic valve disease NOS	G13z	G13z.00	299602018	194732001	1	1				1	1
+299616011	Tricuspid valve disease	G140	G140.00	1222524014	20721001			1				1
+299618012	Rheumatic tricuspid stenosis and incompetence	G1402-Y	G14021Y	299618012	194741006			1				1
+299619016	Rheumatic tricuspid stenosis and regurgitation	G1402-X	G14021X	299619016	194741006			1				1
+299620010	Rheumatic tricuspid stenosis and insufficiency	G1402	G140200	299620010	194741006			1				1
+299621014	Tricuspid stenosis, cause unspecified	G1403	G140300	83138015	49915006			1				1
+299622019	Tricuspid valve regurgitation	G1404	G140400	178507019	111287006			1				1
+299623012	Tricuspid stenosis and insufficiency, cause unspecified	G1405	G140500	83138015	49915006			1				1
+299624018	Rheumatic tricuspid valve disease NOS	G140z	G140z00	82772011	49699002			1				1
+299626016	Rheumatic pulmonary valve disease NOS	G141z	G141z00	31504012	18687009				1			1
+299980014	Mitral incompetence, non-rheumatic	G5400	G540000	299980014	194978002	1						1
+299981013	Mitral incompetence, cause unspecified	G5401	G540100	81186016	48724000	1						1
+299984017	Mitral valve disorder	G540z	G540z00	20449013	11851006	1						1
+299985016	Aortic incompetence, non-rheumatic	G5410	G541000	299985016	194983005		1					1
+299986015	Aortic regurgitation, non-rheumatic	G5410-2	G541012	299986015	194983005		1					1
+299987012	Aortic insufficiency, non-rheumatic	G5410-1	G541011	299987012	194983005		1					1
+299988019	Aortic stenosis, non-rheumatic	G5411	G541100	299988019	194984004		1					1
+299989010	Aortic valve regurgitation	G5412	G541200	100055018	60234000		1					1
+299990018	Aortic valve stenosis	G5413	G541300	100633013	60573004		1					1
+299991019	Aortic valve stenosis with insufficiency	G5414	G541400	299991019	194987006		1					1
+299992014	Aortic valve disorder	G541z	G541z00	15387019	8722008		1					1
+299993016	Tricuspid valve disorders, non-rheumatic	G542	G542.00	299993016	194989009			1				1
+299994010	Tricuspid incompetence, non-rheumatic	G5420	G542000	299994010	194990000			1				1
+299995011	Tricuspid insufficiency, non-rheumatic	G5420-1	G542011	299995011	194990000			1				1
+299996012	Tricuspid regurgitation, non-rheumatic	G5420-2	G542012	299996012	194990000			1				1
+299997015	Tricuspid stenosis, non-rheumatic	G5421	G542100	299997015	194991001			1				1
+300000019	Tricuspid valve disorders NOS	G542z	G542z00	34866017	20721001			1				1
+300011010	Pulmonary valve stenosis with insufficiency	G5434	G543400	300011010	195000004				1			1
+300012015	Pulmonary valve disorders NOS	G543z	G543z00	126662012	76267008				1			1
+300014019	Disorders of both aortic and tricuspid valves	G5440	G544000	300014019	195003002		1	1			1	1
+300015018	Disorders of both mitral and tricuspid valves	G5441	G544100	300015018	195004008	1		1			1	1
+300016017	Combined disorders of mitral, aortic and tricuspid valves	G5442	G544200	300016017	195005009	1	1	1			1	1
+30011012	Rheumatic aortic stenosis with insufficiency	G122	G122.00	30011012	17759006		1					1
+3001221000006111	Rheumatic mitral incompetence	^ESCTRH300122		52031011	31085000	1						1
+300863016	[X]Other mitral valve diseases	Gyu10	Gyu1000	20449013	11851006	1						1
+300864010	[X]Other rheumatic aortic valve diseases	Gyu11	Gyu1100	20718019	12023003		1					1
+300865011	[X]Other tricuspid valve diseases	Gyu12	Gyu1200	34866017	20721001			1				1
+300866012	[X]Other multiple valve diseases	Gyu13	Gyu1300	300013013	195002007						1	1
+300868013	[X]Multiple valve disease, unspecified	Gyu15	Gyu1500	300013013	195002007						1	1
+300893010	[X]Other aortic valve disorders	Gyu56	Gyu5600	15387019	8722008		1					1
+300895015	Pulmonary valve disorder	Gyu58	Gyu5800	126662012	76267008				1			1
+300896019	[X]Mitral valve disorders in diseases classified elsewhere	Gyu59	Gyu5900	20449013	11851006	1						1
+300897011	[X]Aortic valve disorders in diseases classified elsewhere	Gyu5A	Gyu5A00	15387019	8722008		1					1
+3080661000006111	Resection of aortic valve for subvalvular stenosis	^ESCTRE308066		60129011	36033003		1					1
+313382012	Subaortic stenosis	P6y0	P6y0.00	313382012	204368006		1					1
+3138871000006116	Aortic valvotomy	^ESCTAO313887		66974011	39717005		1					1
+31507017	Rheumatic pulmonary valve disease	G141	G141.00	31507017	18687009				1			1
+3178071000006114	Myxoid transformation of mitral valve	^ESCTMY317807		70213012	42069006	1						1
+3258051000006117	Percutaneous balloon valvuloplasty of pulmonary valve	^ESCTPE325805		78163010	46897002				1			1
+3288481000006112	Mitral valve incompetence	^ESCTMI328848		81191015	48724000	1						1
+3288511000006116	MI - Mitral incompetence	^ESCTMI328851		1230639015	48724000	1						1
+3288521000006112	MR - Mitral regurgitation	^ESCTMR328852		1230640018	48724000	1						1
+3288531000006110	Mitral insufficiency	^ESCTMI328853		1230641019	48724000	1						1
+3304041000006112	CMC - Closed mitral commissurotomy	^ESCTCM330404		495468017	49676001	1						1
+3304051000006114	Percutaneous transvenous mitral commissurotomy	^ESCTPE330405		2959460010	49676001	1						1
+3308121000006114	Tricuspid valve stenosis	^ESCTTR330812		83138015	49915006			1				1
+3308131000006112	Tricuspid stenosis	^ESCTTR330813		1230797013	49915006			1				1
+3313361000006113	Replacement of mitral valve with tissue graft	^ESCTRE331336		83649010	50216001	1						1
+3313371000006118	Tissue mitral valve replacement	^ESCTTI331337		495613010	50216001	1						1
+3313391000006117	Bioprosthetic mitral valve replacement	^ESCTBI331339		495615015	50216001	1						1
+3346951000006111	Repair of aortic valve with tissue graft	^ESCTRE334695		86946014	52247003		1					1
+3346961000006113	Biological aortic valve replacement	^ESCTBI334696		496255017	52247003		1					1
+3346971000006118	Bioprosthetic aortic valve replacement	^ESCTBI334697		496256016	52247003		1					1
+3346981000006115	Tissue aortic valve replacement	^ESCTTI334698		496257013	52247003		1					1
+3360371000006114	MVR - Mitral valve replacement	^ESCTMV336037		1231176014	53059001	1						1
+3397231000006119	Replacement of tricuspid valve with tissue graft	^ESCTRE339723		91859016	55253009			1				1
+3422451000006114	Pulmonary valve stenosis	^ESCTPU342245		94443010	56786000				1			1
+3422461000006111	PVS - Pulmonary valve stenosis	^ESCTPV342246		1231648019	56786000				1			1
+3478261000006114	Aortic valve incompetence	^ESCTAO347826		100061015	60234000		1					1
+3478271000006119	Aortic regurgitation	^ESCTAO347827		100062010	60234000		1					1
+3478281000006116	Aortic incompetence	^ESCTAO347828		1232058018	60234000		1					1
+3478301000006117	AR - Aortic regurgitation	^ESCTAR347830		1232060016	60234000		1					1
+3478311000006119	Aortic insufficiency	^ESCTAO347831		1232061017	60234000		1					1
+3483891000006117	Stenosed aortic valve	^ESCTST348389		1232102012	60573004		1					1
+348739017	Bjork-Shiley prosthetic replacement of mitral valve	79102-2	7910212	348739017	232773001	1						1
+348762015	De Vega tricuspid annuloplasty	79181-1	7918111	348762015	232783002			1				1
+348801017	Tricuspid valvectomy	791D0	791D000	348801017	232811004			1				1
+348898019	Pulmonary valvectomy	791D1	791D100	348898019	232872003				1			1
+355701000000115	Operation on mitral subvalvar apparatus	791B2	791B200	1772201000000118	792691000000103	1						1
+355881000000116	Percutaneous transluminal replacement of pulmonary valve	79196	7919600	2693523014	429248007				1			1
+355941000000115	Aortic valve and adjacent structure operations	791C	791C.00	348812017	232816009		1					1
+3600871000006112	Rheumatic tricuspid valve regurgitation	^ESCTRH360087		112422019	67696008			1				1
+3740551000006115	PVD - Pulmonary valve disease	^ESCTPV374055		1233969011	76267008				1			1
+374120018	Mitral valve leaf prolapse	G5403	G540300	374120018	250989005	1						1
+3754991000006110	Percutaneous balloon valvuloplasty of aortic valve	^ESCTPE375499		128116010	77166000		1					1
+377722014	Preductal aortic stenosis	P711-3	P711.13	377722014	253672004		1					1
+377727015	Postductal aortic stenosis	P712-3	P712.13	377727015	253676001		1					1
+3794881000006112	Mitral valve stenosis	^ESCTMI379488		132091016	79619009	1						1
+3853911000006117	Closed heart valvotomy of pulmonary valve	^ESCTCL385391		137972011	83187002				1			1
+3864991000006118	Rheumatic disease of mitral valve	^ESCTRH386499		139124018	83898004	1						1
+3877451000006118	Aortic valve prosthesis	^ESCTAO387745		140399016	84683006		1					1
+394276014	Plastic repair of mitral valve	7910	7910.00	394276014	265472007	1						1
+394277017	Plastic repair of aortic valve	7911	7911.00	394277017	265473002		1					1
+394278010	Plastic repair of tricuspid valve	7912	7912.00	394278010	265474008			1				1
+394279019	Plastic repair of pulmonary valve	7913	7913.00	394279019	265475009				1			1
+394285014	Annuloplasty of tricuspid valve	79181	7918100	394285014	265480000			1				1
+3985501000006114	Pulmonary valve regurgitation	^ESCTPU398550		189241014	91434003				1			1
+3985621000006117	Rheumatic pulmonary valve stenosis	^ESCTRH398562		151483011	91442002				1			1
+3985631000006119	Rheumatic pulmonary valve obstruction	^ESCTRH398563		151484017	91442002				1			1
+399141000006119	[X]Multiple valve disorders/diseases CE	Gyu5D	Gyu5D00	300013013	195002007						1	1
+400161000006117	[X]Nonrheumatic tricuspid valve disorder, unspecified	Gyu5f	Gyu5f00	2957051016	194989009			1				1
+4009601000006119	Chronic degenerative aortic valve disease	^ESCTCH400960		153430010	92808004		1					1
+412241000006110	[X]Other nonrheumatic mitral valve disorders	Gyu55	Gyu5500	20449013	11851006	1						1
+412251000006112	[X]Other nonrheumatic tricuspid valve disorders	Gyu57	Gyu5700	2957051016	194989009			1				1
+415402011	Syphilitic endocarditis of aortic valve	A9322	A932200	415402011	278480000		1					1
+4181331000006111	Aortic and mitral valves, CS	^ESCTAO418133		175403019	110551008	1	1				1	1
+4193421000006119	Tricuspid valve incompetence	^ESCTTR419342		189232016	111287006			1				1
+4193431000006116	Tricuspid valve insufficiency	^ESCTTR419343		189233014	111287006			1				1
+4193441000006114	Tricuspid regurgitation	^ESCTTR419344		189234015	111287006			1				1
+4193451000006111	TI - Tricuspid incompetence	^ESCTTI419345		1219623013	111287006			1				1
+4193461000006113	Tricuspid insufficiency	^ESCTTR419346		1219624019	111287006			1				1
+4193471000006118	TR - Tricuspid regurgitation	^ESCTTR419347		1219625018	111287006			1				1
+4214571000006118	Closed heart valvotomy of aortic valve	^ESCTCL421457		184001012	112814001		1					1
+4214601000006113	Valvuloplasty of aortic valve	^ESCTVA421460		184007011	112816004		1					1
+4214621000006115	Repair of aortic valve	^ESCTRE421462		376998019	112816004		1					1
+4214631000006117	Aortic valvoplasty	^ESCTAO421463		376999010	112816004		1					1
+42309019	Replacement of tricuspid valve	7912-1	7912.11	1224851015	25236004			1				1
+424311000006118	[X]Pulmonary valve disorders in diseases CE	Gyu5C	Gyu5C00	126662012	76267008				1			1
+429571000006116	Tricuspid valve disorder	Gyu5B	Gyu5B00	34866017	20721001			1				1
+4354171000006113	Acquired atresia of pulmonary valve	^ESCTAC435417		192132012	123643003				1			1
+43909016	Replacement of aortic valve	7911-2	7911.12	43909016	26212005		1					1
+4424221000006110	Closed heart valvotomy of tricuspid valve	^ESCTCL442422		207973018	129243001			1				1
+465381000000114	Aortic valve repair NEC	79114-1	7911411	184007011	112816004		1					1
+465521000000116	Tricuspid valve repair NEC	79125-1	7912511	1478970018	384643000			1				1
+465571000000117	Repair of mitral valve	79104-1	7910411	1478968010	384641003	1						1
+465651000000113	Pulmonary valve repair NEC	79134-1	7913411	1480881010	386749005				1			1
+4664561000006110	Homograft mitral valve replacement	^ESCTHO466456		270924018	174918001	1						1
+4664581000006117	Xenograft mitral valve replacement	^ESCTXE466458		270925017	174919009	1						1
+4664611000006113	Homograft aortic valve replacement	^ESCTHO466461		270943018	174927000		1					1
+4664641000006112	Pericardial aortic valve replacement	^ESCTPE466464		270945013	174928005		1					1
+4664671000006116	Homograft tricuspid valve replacement	^ESCTHO466467		270959018	174935002			1				1
+4664691000006115	Xenograft tricuspid valve replacement	^ESCTXE466469		270960011	174936001			1				1
+4664701000006115	Pericardial tricuspid valve replacement	^ESCTPE466470		270961010	174936001			1				1
+4664711000006117	Mechanical prosthetic tricuspid valve replacement	^ESCTME466471		270962015	174937005			1				1
+4664741000006118	Repair of Ebstein anomaly of tricuspid valve	^ESCTRE466474		2838902012	174939008			1				1
+4664751000006116	Homograft pulmonary valve replacement	^ESCTHO466475		270975015	174944001				1			1
+4664761000006119	Allograft pulmonary valve replacement	^ESCTAL466476		270974016	174944001				1			1
+4664771000006114	Xenograft pulmonary valve replacement	^ESCTXE466477		270976019	174945000				1			1
+4664791000006110	Mechanical prosthetic pulmonary valve replacement	^ESCTME466479		270978018	174946004				1			1
+474766017	Closed tricuspid valvotomy	79172	7917200	474766017	129243001			1				1
+4775551000006111	Non-rheumatic mitral valve stenosis	^ESCTNO477555		299594018	194727002	1						1
+4776741000006111	Non-rheumatic mitral regurgitation	^ESCTNO477674		299979011	194978002	1						1
+4776821000006111	Tricuspid valve disorder, non-rheumatic	^ESCTTR477682		2957051016	194989009			1				1
+4776911000006110	Non-rheumatic tricuspid valve stenosis with insufficiency	^ESCTNO477691		299998013	194992008			1				1
+478011000006110	Allograft replacement of mitral valve	79100	7910000	270924018	174918001	1						1
+478031000006116	Allograft replacement of pulmonary valve	79130	7913000	270975015	174944001				1			1
+478051000006111	Allograft replacement of tricuspid valve	79120	7912000	270959018	174935002			1				1
+488451000006114	Rheumatic aortic regurgitation	G121-2	G121.12	129502018	78031003		1					1
+488521000006118	Aortic valve disease	G541	G541.00	1235209017	8722008		1					1
+488551000006110	Aortic valve opening restricted	EMISHGT105		488551000006110	488551000006106		1					1
+499818013	Closed mitral valvotomy	79170	7917000	499818013	6433003	1						1
+5040451000006111	Mitral valve operation	^ESCTMI504045		348683019	232740008	1						1
+5040661000006110	Operation on mitral leaflet	^ESCTOP504066		348711018	232756003	1						1
+5040881000006118	Balloon mitral valvotomy	^ESCTBA504088		348733016	232769004	1						1
+5041011000006110	Replacement of implanted mitral valve	^ESCTRE504101		348747017	232777000	1						1
+5041031000006116	Tricuspid valve operation	^ESCTTR504103		348748010	232778005			1				1
+5041871000006113	Balloon aortic valvotomy	^ESCTBA504187		348841014	232834008		1					1
+5041881000006111	Balloon dilatation of implanted aortic valve	^ESCTBA504188		348842019	232835009		1					1
+5041911000006111	Autograft aortic valve replacement	^ESCTAU504191		348845017	232838006		1					1
+5041921000006115	Operation on implanted aortic valve	^ESCTOP504192		348846016	232839003		1					1
+5041961000006114	PVL - Repair of aortic paravalvular leak	^ESCTPV504196		348850011	232841002		1					1
+5041981000006116	Replacement of implanted aortic valve	^ESCTRE504198		348853013	232842009		1					1
+5042031000006112	Aortic valve replacement and aortoplasty	^ESCTAO504203		348858016	232847003		1					1
+5042111000006119	Pulmonary valve operation	^ESCTPU504211		348867016	232854009				1			1
+5042341000006117	Pulmonary valvotomy	^ESCTPU504234		348894017	232868002				1			1
+5042401000006111	Balloon dilatation of implanted pulmonary valve	^ESCTBA504240		348895016	232869005				1			1
+5042441000006113	Resection of pulmonary valve	^ESCTRE504244		348899010	232872003				1			1
+5042481000006119	Operation on implanted pulmonary valve	^ESCTOP504248		348903015	232875001				1			1
+505490010	Closed pulmonary valvotomy	79173	7917300	505490010	83187002				1			1
+5056651000006113	Mitral restenosis	^ESCTMI505665		350395019	233856001	1						1
+5056691000006119	Functional mitral regurgitation	^ESCTFU505669		350400018	233861004	1						1
+5056721000006112	Senile aortic stenosis	^ESCTSE505672		350404010	233863001		1					1
+5056731000006110	Aortic stenosis - tricuspid calcific	^ESCTAO505673		350403016	233863001		1	1				1
+5056751000006115	Functional tricuspid regurgitation	^ESCTFU505675		350406012	233865008			1				1
+505828015	Rheumatic mitral valve disease	G11-1	G11..11	505828015	83898004	1						1
+514511000006110	Bjork-Shiley prosthetic replacement of mitral valve	79102-1	7910211	348739017	232773001	1						1
+52032016	Rheumatic mitral insufficiency	G111	G111.00	52032016	31085000	1						1
+5260571000006118	Mitral late systolic murmur	^ESCTMI526057		371187017	248678007	1						1
+5260581000006115	Mitral pansystolic murmur	^ESCTMI526058		371188010	248679004	1						1
+526141000006115	Brock pulmonary valvulotomy	79173-1	7917311	505490010	83187002				1			1
+5293941000006111	Aortic stenosis with doming	^ESCTAO529394		374098019	250973007		1					1
+5293951000006113	Prosthetic aortic valve regurgitation	^ESCTPR529395		374099010	250974001		1					1
+5293971000006115	Aortic cusp regurgitation	^ESCTAO529397		374101015	250976004		1					1
+5293991000006119	Aortic valve appearance	^ESCTAO529399		374103017	250977008		1					1
+5294141000006112	Mitral cusp prolapse	^ESCTMI529414		374121019	250989005	1						1
+5294151000006114	Mitral leaf prolapse	^ESCTMI529415		374119012	250989005	1						1
+5294171000006116	Ischaemic mitral valve dysfunction	^ESCTIS529417		374122014	250990001	1						1
+538921000006110	Carpentier prosthetic replacement of mitral valve	79102-3	7910213	2768408010	431339008	1						1
+5518031000006119	Mitral chordae rupture	^ESCTMI551803		405376018	270906004	1						1
+5568791000006117	Ball valve mitral valve replacement	^ESCTBA556879		410953017	275030001	1						1
+5568801000006116	Disc valve mitral valve replacement	^ESCTDI556880		410954011	275031002	1						1
+5568811000006118	Single leaflet mitral valve replacement	^ESCTSI556881		410955012	275032009	1						1
+5568821000006114	Bileaflet mitral valve replacement	^ESCTBI556882		410956013	275033004	1						1
+5570451000006112	Ball valve aortic valve replacement	^ESCTBA557045		411142017	275199000		1					1
+5570461000006114	Disc valve aortic valve replacement	^ESCTDI557046		411143010	275200002		1					1
+5570501000006114	Disc valve tricuspid valve replacement	^ESCTDI557050		411147011	275204006			1				1
+5570561000006110	Disc valve pulmonary valve replacement	^ESCTDI557056		411153011	275209001				1			1
+55891000006112	Xenograft aortic valve replacement	79111	7911100	270946014	174928005		1					1
+55901000006111	Xenograft replacement of mitral valve	79101	7910100	270925017	174919009	1						1
+5590561000006116	Isolated aortic stenosis	^ESCTIS559056		413077012	276790000		1					1
+5590581000006114	Pulmonary hypertension with occult mitral stenosis	^ESCTPU559058		413080013	276793003	1			1			1
+5590601000006116	Mitral valve anterior leaflet prolapse	^ESCTMI559060		413082017	276795005	1						1
+55911000006114	Xenograft replacement of pulmonary valve	79131	7913100	270976019	174945000				1			1
+55921000006118	Xenograft replacement of tricuspid valve	79121	7912100	270960011	174936001			1				1
+5721191000006117	Chronic rheumatic mitral valve	^ESCTCH572119		426440015	286947004	1						1
+585851000006114	Nonrheumatic mitral valve stenosis	G113	G113.00	299594018	194727002	1						1
+5889131000006114	Pulmonary valve lesion	^ESCTPU588913		442356017	301105002				1			1
+5980471000006115	Porcine aortic valve replacement	^ESCTPO598047		451968010	308663002		1					1
+5980491000006119	Repair of pulmonary valve with tissue graft	^ESCTRE598049		451970018	308665009				1			1
+6060051000006111	Non-rheumatic aortic sclerosis	^ESCTNO606005		460134011	315615007		1					1
+636731000006119	Edwards prosthetic replacement of mitral valve	79102-4	7910214	2768408010	431339008	1						1
+6376621000006115	Acute mitral regurgitation	^ESCTAC637662		1211631018	373116009	1						1
+6426311000006114	MVR - Mitral valve repair	^ESCTMV642631		1490905016	384641003	1						1
+6426331000006115	Mitral valvoplasty	^ESCTMI642633		1490906015	384642005	1						1
+6426361000006112	Repair of tricuspid valve	^ESCTRE642636		1478970018	384643000			1				1
+6426371000006117	TVR - Tricuspid valve repair	^ESCTTV642637		1490909010	384643000			1				1
+6426391000006116	Tricuspid valvoplasty	^ESCTTR642639		2536640016	384643000			1				1
+6460761000006119	Repair of pulmonary valve	^ESCTRE646076		1480881010	386749005				1			1
+6460781000006112	PVP - Pulmonary valvuloplasty	^ESCTPV646078		2536571015	386749005				1			1
+6460791000006110	Pulmonary valvoplasty	^ESCTPU646079		2536572010	386749005				1			1
+6782861000006115	MVP - Mitral valve prolapse	^ESCTMV678286		2477508016	409712001	1						1
+6903311000006110	Mitral valve sclerosis	^ESCTMI690331		2549743010	417191003	1						1
+694361000006112	Multiple valve disease, unspecified	G544X	G544X00	300013013	195002007						1	1
+694371000006117	Multiple valve diseases	G544	G544.00	300013013	195002007						1	1
+700741000006112	Rheumatic mitral regurgitation	G111-2	G111.12	52030012	31085000	1						1
+700891000006114	Mitral valve prolapse	G540-5	G540.15	2471474013	409712001	1						1
+7075031000006117	Critical stenosis of aortic valve	^ESCTCR707503		2675291013	427515002		1					1
+7359511000006119	Abnormality of aortic valve	^ESCTAB735951		2900011011	448743001		1					1
+7392981000006119	Infective endocarditis of aortic valve	^ESCTIN739298		2922369011	459068007		1					1
+7395121000006110	Infective endocarditis of tricuspid valve	^ESCTIN739512		2922589011	459151006			1				1
+7395141000006115	Infective endocarditis of mitral valve	^ESCTIN739514		2922585017	459152004	1						1
+7395161000006116	Infective endocarditis of pulmonary valve	^ESCTIN739516		2922582019	459153009				1			1
+7424051000006117	Mitral valve clip	^ESCTMI742405		2947974014	464887003	1						1
+7571651000006116	Prosthetic mitral valve stenosis	^ESCTPR757165		3007450014	703167007	1						1
+7571961000006114	Endocarditis of prosthetic pulmonary valve	^ESCTEN757196		3007780015	703191003				1			1
+7572651000006112	Non-rheumatic aortic valve stenosis with regurgitation	^ESCTNO757265		3007685018	703236000		1					1
+7573991000006117	Aortic valve regurgitation due to aortic dilation	^ESCTAO757399		3008247012	703323003		1					1
+7574001000006114	Aortic valve regurgitation secondary to aortic dilation	^ESCTAO757400		3008326011	703323003		1					1
+7574031000006118	Aortic valve regurgitation due to aortic dissection	^ESCTAO757403		3008355015	703325005		1					1
+7574041000006111	Mitral valve regurgitation due to acute myocardial infarction	^ESCTMI757404		3008312019	703326006	1						1
+7574081000006117	Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture	^ESCTMI757408		3008299014	703328007	1						1
+7574471000006113	Degenerative mitral valve prolapse	^ESCTDE757447		3008399012	703359009	1						1
+7867911000006112	Transcatheter aortic valve replacement	^ESCTTR786791		3441675014	725351001		1					1
+7867921000006116	TAVR -transcatheter aortic valve replacement	^ESCTTA786792		3441676010	725351001		1					1
+81186016	Mitral valve regurgitation	G540-4	G540.14	81186016	48724000	1						1
+81191015	Mitral valve incompetence	G540	G540.00	81193017	48724000	1						1
+81192010	Mitral valve insufficiency	G540-2	G540.12	81192010	48724000	1						1
+81193017	Mitral regurgitation	G540-6	G540.16	81193017	48724000	1						1
+818841000006115	Heart valve disorders - non rheumatic	G54-1	G54..11	409856013	274097009					1		1
+8464141000006116	Transcatheter aortic valve implantation	^ESCTTR846414		2720601000000117	1086011000000102		1					1
+8464151000006119	TAVI - transcatheter aortic valve implantation	^ESCTTA846415		2720621000000114	1086011000000102		1					1
+87501000006118	Rheumatic tricuspid regurgitation	G1401-1	G140111	1232959011	67696008			1				1
+88255012	Replacement of mitral valve	7910-2	7910.12	88255012	53059001	1						1
+883991000006114	Chronic rheumatic mitral valve	G11-99	G11..99	883991000006114	11851006	1						1
+884001000006117	RH. mitral stenosis + insuffic	G112-99	G112.99	884001000006117	194726006	1						1
+884011000006119	Rheumatic mitral disease NOS	G11z-99	G11z.99	884011000006119	639451000000102	1						1
+884021000006110	Chronic rheumatic aortic valve	G12-99	G12..99	884021000006110	12023003		1					1
+884031000006113	RH. aortic stenosis + insuffic	G122-99	G122.99	884031000006113	17759006		1					1
+884041000006115	Rheumatic aortic disease NOS	G12z-99	G12z.99	884041000006115	639461000000104		1					1
+884051000006118	Mitral + aortic valve disease	G13-99	G13..99	884051000006118	194732001	1	1					1
+884071000006111	RH. tricuspid valve disease	G140-99	G140.99	884071000006111	639491000000105			1				1
+884081000006114	RH. pulmonary valve disease	G141-99	G141.99	884081000006114	18687009				1			1
+884261000006112	Non-rheumatic valvular disease	G54-99	G54..99	884261000006112	682551000000104					1		1
+884271000006117	Non-rheum. mitral incompetence	G5400-99	G540099	884271000006117	194978002	1						1
+884281000006119	Non-rheumatic aortic sclerosis	G5410-98	G541098	884281000006119	194983005		1					1
+884291000006116	Non-rheum. aortic incompetence	G5410-99	G541099	884291000006116	194983005		1					1
+884301000006115	Non-rheum. tricuspid incomp.	G5420-99	G542099	884301000006115	194990000			1				1
+884311000006117	Non-rheum. tricuspid stenosis	G5421-99	G542199	884311000006117	194991001			1				1
+989091000006116	Mitral + aortic valve disease	G13y-99	G13y.99	989091000006116	194737007	1	1					1
+989101000006110	RH. tricuspid valve disease	G140z-99	G140z99	989101000006110	612101000000109			1				1
+991631000006110	Rheumatic aortic disease NOS	G12-98	G12..98	991631000006110	12023003		1					1

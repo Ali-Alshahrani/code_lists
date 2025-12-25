@@ -1,0 +1,69 @@
+medcode	readterm	readcode	fh_stroke	fh_cad	fh_dm	fh_cmp	fh_htn	fh_pvd	fh_dyslipidaemia	fh_famil_hyperchol	fh_cvd	fh_hcm	fh_thrombosis	fh_tia	fh_any_cvd	class
+29064	[V]Family history of cerebrovascular accident (CVA)	ZV17111	1												1	stroke
+9308	[V]Family history of diabetes mellitus	ZV18000			1										1	dm
+37036	[V]Family history of diabetes mellitus	ZV19800			1										1	dm
+22189	[V]Family history of diabetes mellitus (DM)	ZV18011			1										1	dm
+11135	[V]Family history of ischaemic heart disease	ZV17300		1											1	cad
+5970	[V]Family history of ischaemic heart disease (IHD)	ZV17311		1											1	cad
+2973	[V]Family history of myocardial infarction	ZV17312		1											1	mi
+30256	[V]Family history of other cardiovascular disease	ZV17400									1				1	cvd
+13253	[V]Family history of stroke (cerebrovascular)	ZV17100	1												1	stroke
+52870	[X]Family hist/ischaemic hrt disease+oth dis/circultr system	ZVu6600									1				1	cvd
+13275	Family history of deep vein thrombosis	12CQ.00						1							1	pvd
+101430	Family history of diabetes mellitus type 1	1252000			1										1	dm
+101802	Family history of diabetes mellitus type 2	1252100			1										1	dm
+103597	Family history of diabetes mellitus type II	1252111			1										1	dm
+13254	Family history of familial hypercholesterolaemia	1269.00								1					1	familial hypercholesterolaemia
+96917	Family history of myocarditis	12CT.00				1									1	myocarditis
+95184	Family history of subarachnoid haemorrhage	129C.00	1												1	stroke
+103601	Family history of thromboembolic disorder	12CX.00	1										1		1	thrombosis
+18997	Family history of transient ischaemic attack	12C7.00	1											1	1	tia
+19128	FH angina female first degree age known	12CG.00		1											1	cad
+42996	FH angina female first degree age unknown	12CH.00		1											1	cad
+26636	FH angina male first degree age known	12CE.00		1											1	cad
+40865	FH angina male first degree age unknown	12CF.00		1											1	cad
+26637	FH myocardial infarction female first degree age known	12CC.00		1											1	mi
+43954	FH myocardial infarction female first degree age unknown	12CD.00		1											1	mi
+13269	FH myocardial infarction male first degree age known	12CA.00		1											1	mi
+39572	FH myocardial infarction male first degree age unknown	12CB.00		1											1	mi
+13222	FH: Angina	12C..14		1											1	cad
+12709	FH: Angina < 60yrs	12C2.13		1											1	cad
+7207	FH: Angina > 60yrs	12C3.13		1											1	cad
+30789	FH: Angina in 1st degree female relative <65 years	12CL.00		1											1	cad
+26653	FH: Angina in 1st degree male relative <55 years	12CM.00		1											1	cad
+26639	FH: Aortic aneurysm	12CK.00						1							1	pvd
+13249	FH: Cardiac disorder	12C..12									1				1	cvd
+13274	FH: Cardiomyopathy	12CJ.00				1									1	cmp
+13258	FH: Cardiovascular disease	12C..00									1				1	cvd
+96596	FH: Cardiovascular disease 1st degree female reltve < 65 yrs	12CW.00									1				1	cvd
+96212	FH: Cardiovascular disease 1st degree male relative < 55 yrs	12CV.00									1				1	cvd
+7239	FH: Cholesterol high	1262.11							1						1	dyslipidaemia
+13261	FH: Congenital heart disease	12C8.00									1				1	cvd
+26625	FH: Congenital heart disease	12J3.11									1				1	cvd
+10934	FH: Coronary thrombosis	12C5.11		1											1	cad
+7765	FH: CVA	12C4.11	1												1	stroke
+8258	FH: CVA/stroke	12C4.00	1												1	stroke
+13245	FH: Diabetes in pregnancy	12G2.00			1										1	dm
+6795	FH: Diabetes mellitus	1252.00			1										1	dm
+23005	FH: Diabetes mellitus in first degree relative	1253.00			1										1	dm
+6784	FH: Heart disorder	12C..13									1				1	cvd
+12596	FH: Hypercholesterolaemia in first degree relative	126B.00								1					1	familial hypercholesterolaemia
+6378	FH: Hypertension	12C1.00					1								1	htn
+42999	FH: Hypertrophic obstructive cardiomyopathy	12CR.00				1						1			1	hcm
+3198	FH: Ischaemic heart dis. <60	12C2.00		1											1	cad
+8223	FH: Ischaemic heart dis. >60	12C3.00		1											1	cad
+9490	FH: Ischaemic heart disease	12C5.12		1											1	cad
+12806	FH: MI- Myocardial infarct <60	12C2.12		1											1	mi
+12089	FH: MI- myocardial infarct >60	12C3.12		1											1	mi
+19127	FH: Myocardial infarct in 1st degree female relative <65 yrs	12CN.00		1											1	mi
+18661	FH: Myocardial infarct in 1st degree male relative <55 years	12CP.00		1											1	mi
+6324	FH: Myocardial infarction	12C5.00		1											1	mi
+13270	FH: Myocardial infarction < 60	12C2.11		1											1	mi
+19560	FH: Myocardial infarction > 60	12C3.11		1											1	mi
+106585	FH: peripheral vascular disease	12CY.00						1							1	pvd
+28347	FH: premature coronary heart disease	12CI.00		1											1	cad
+13227	FH: Raised blood lipids	1262.00							1						1	dyslipidaemia
+6323	FH: Stroke	12C4.12	1												1	stroke
+9161	FH: Thrombosis	12C9.00											1		1	thrombosis
+19561	FH: TIA	12C7.11	1											1	1	tia
+20866	FH: Triglyceride high	1262.13							1						1	dyslipidaemia

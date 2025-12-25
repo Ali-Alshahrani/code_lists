@@ -1,0 +1,110 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+18270	1911	43	0	0	7G03K00	Excision malignant skin tumour	February 2009
+97201	156	1	0	0	7K13900	Excision of tumour of bone	August 2009
+87871	75	0	0	0	7K13700	Excision of tumour of bone NEC	February 2009
+23725	398	8	0	0	7130.11	Total excision of breast operations	February 2009
+2142	24218	345	3	0	7131200	Excision of lesion of breast	February 2009
+97084	878	0	0	0	7131B00	Excision of lesion of breast NEC	July 2009
+8698	36231	125	0	0	7131400	Wide local excision of breast lesion	February 2009
+37303	134	0	0	0	7B36.11	Open excision prostate	February 2009
+3587	8783	623	4	0	7B36z00	Open excision of prostate NOS	February 2009
+62322	42	0	0	0	7B36y00	Other specified open excision of prostate	February 2009
+12593	2024	8	0	0	7B36500	Radical prostatectomy without pelvic node excision	February 2009
+106603	752	0	0	0	7B39800	Endoscopic excision of prostate using holmium laser	August 2013
+58162	16	0	0	0	7712y00	Other specified extended excision of right hemicolon	February 2009
+3934	2384	43	0	0	7718100	Excision of lesion of colon NEC	February 2009
+42964	24	0	0	0	7711z00	Total excision of colon NOS	February 2009
+52268	44	0	0	0	7715z00	Excision of left hemicolon NOS	February 2009
+45254	71	0	0	0	7716y00	Other specified excision of sigmoid colon	February 2009
+64137	459	1	0	0	771T.00	Subtotal excision of colon	February 2009
+56511	14	0	0	0	7711y00	Other specified total excision of colon	February 2009
+600	3362	113	1	0	7721000	Abdominoperineal excision of rectum and end colostomy	February 2009
+34164	215	3	0	0	7718000	Excision of diverticulum of colon	February 2009
+49062	1749	26	0	0	7717z00	Other excision of colon NOS	February 2009
+16112	106	5	0	0	7713y00	Other specified other excision of right hemicolon	February 2009
+43713	81	4	0	0	7720.00	Partial excision of rectum and sigmoid colon for prolapse	February 2009
+65586	4	1	0	0	7720y00	Partial excision of rectum and sigmoid colon for prolapse OS	February 2009
+15892	1268	131	2	0	7716z00	Excision of sigmoid colon NOS	February 2009
+66014	16	0	0	0	7H25000	Excision of lesion of mesentery of colon	February 2009
+31023	13	0	0	0	7721013	Miles abdominoperineal excision of rectum and end colostomy	February 2009
+47208	35	0	0	0	7721012	Lloyd-Davies abdominoperineal excision rectum+end colostomy	February 2009
+91676	5	0	0	0	7721011	Gabriel abdominoperineal excision of rectum & end colostomy	February 2009
+70601	8	0	0	0	7721014	Rankin abdominoperineal excision of rectum and end colostomy	February 2009
+68666	8	0	0	0	7720z00	Partial excision of rectum & sigmoid colon for prolapse NOS	February 2009
+39835	562	5	0	0	7717.00	Other excision of colon	February 2009
+35730	87	1	0	0	7712z00	Extended excision of right hemicolon NOS	February 2009
+55952	10	0	0	0	7715y00	Other specified excision of left hemicolon	February 2009
+97265	10	0	0	0	771T300	Subtotal excision of colon and creation of colonic pouch NEC	August 2009
+42914	823	11	0	0	7712.00	Extended excision of right hemicolon	February 2009
+28153	19	0	0	0	7714z00	Excision of transverse colon NOS	February 2009
+28021	1530	26	0	0	7716.00	Excision of sigmoid colon	February 2009
+55164	65	1	0	0	7717y00	Other specified other excision of colon	February 2009
+91216	47	0	0	0	771Tz00	Subtotal excision of colon NOS	February 2009
+72524	7	0	0	0	7714y00	Other specified excision of transverse colon	February 2009
+38672	353	7	0	0	7710.00	Total excision of colon and rectum	February 2009
+65320	111	3	0	0	7714.00	Excision of transverse colon	February 2009
+28820	1592	58	0	0	7713.00	Other excision of right hemicolon	February 2009
+100623	4	0	0	0	7710y00	Other specified total excision of colon and rectum	September 2010
+33521	662	1	0	0	7713z00	Other excision of right hemicolon NOS	February 2009
+91576	13	0	0	0	771T100	Subtotal excision colon rectum creation of colonic pouch NEC	February 2009
+93777	9	0	0	0	771Ty00	Other specified subtotal excision of colon	February 2009
+62509	23	2	0	0	7710z00	Total excision of colon and rectum NOS	February 2009
+10994	1009	12	0	0	7711.00	Total excision of colon	February 2009
+45716	678	15	0	0	7715.00	Excision of left hemicolon	February 2009
+45957	91	0	0	0	7713100	Right hemicolectomy+side to side anast ileum to transv colon	February 2009
+71025	8	0	0	0	7710200	Panproctocolectomy and anastomosis of ileum to anus NEC	February 2009
+114202	1	0	0	0	7715500	Left hemicolectomy and end to side anastomosis	September 2019
+604	6219	214	1	0	7717z11	Colectomy NEC	February 2009
+1560	22613	674	2	0	7717z12	Hemicolectomy NEC	February 2009
+44653	62	3	0	0	7711100	Total colectomy, ileostomy & creation of rectal fistula HFQ	February 2009
+38505	98	1	0	0	7712100	Extended right hemicolectomy and anastomosis ileum to colon	February 2009
+54665	66	0	0	0	7716400	Sigmoid colectomy and exteriorisation of bowel NEC	February 2009
+38893	30	0	0	0	7714300	Transverse colectomy and ileostomy HFQ	February 2009
+39914	225	2	0	0	7717200	Colectomy and anastomosis NEC	February 2009
+62119	4	0	0	0	7717411	Mikulicz colectomy and colostomy	February 2009
+56826	64	0	0	0	7717000	Colectomy and end to end anastomosis of colon to colon NEC	February 2009
+111953	4	0	0	0	7716500	Sigmoid colectomy and end to side anastomosis	September 2017
+27949	1231	3	0	0	7711200	Total colectomy and ileostomy NEC	February 2009
+50214	53	0	0	0	7715000	Left hemicolectomy+end to end anastomosis of colon to rectum	February 2009
+54334	124	0	0	0	7712000	Extended right hemicolectomy and end to end anastomosis	February 2009
+109089	52	0	0	0	7717700	Colectomy and end to side anastomosis	January 2015
+106442	2	0	0	0	7717z13	Rankin partial colectomy	June 2013
+29917	850	3	0	0	7710000	Panproctocolectomy and ileostomy	February 2009
+56387	14	0	0	0	7714200	Transverse colectomy and anastomosis NEC	February 2009
+46288	181	0	0	0	7712300	Extended right hemicolectomy and ileostomy HFQ	February 2009
+52501	37	0	0	0	7715100	Left hemicolectomy+end to end anastomosis of colon to colon	February 2009
+95516	2	0	0	0	7717412	Paul colectomy and colostomy	February 2009
+45443	51	0	0	0	7715300	Left hemicolectomy and ileostomy however further qualified	February 2009
+56087	64	0	0	0	7717100	Colectomy and side to side anastomosis of ileum to colon NEC	February 2009
+105264	2005	2	0	0	7713400	Laparoscopically assisted right hemicolectomy	November 2012
+18833	81	0	0	0	7717400	Colectomy and exteriorisation of bowel NEC	February 2009
+46040	5	0	0	0	7714400	Transverse colectomy and exteriorisation of bowel NEC	February 2009
+73643	12	0	0	0	7714100	Transverse colectomy and anastomosis of ileum to colon	February 2009
+38083	64	1	0	0	7712200	Extended right hemicolectomy and anastomosis NEC	February 2009
+28854	3777	8	0	0	7713200	Right hemicolectomy and anastomosis NEC	February 2009
+46167	108	1	0	0	7715200	Left hemicolectomy and anastomosis NEC	February 2009
+108676	17	0	0	0	7713500	Right hemicolectomy and end to side anastomosis	October 2014
+2720	2925	45	0	0	7717500	Partial colectomy NEC	February 2009
+1222	13202	77	0	0	7713.11	Other right hemicolectomy	February 2009
+37353	42	0	0	0	7716000	Sigmoid colectomy+end to end anastomosis of ileum to rectum	February 2009
+109340	2	0	0	0	7712400	Extended right hemicolectomy and end to side anastomosis	March 2015
+599	651	46	0	0	7713300	Right hemicolectomy and ileostomy however further qualified	February 2009
+44905	170	3	0	0	7716100	Sigmoid colectomy and anastomosis of colon to rectum	February 2009
+50208	17	0	0	0	7714000	Transverse colectomy and end to end anastomosis	February 2009
+6951	5561	27	0	0	7712.11	Extended right hemicolectomy	February 2009
+43422	83	0	0	0	7716300	Sigmoid colectomy and ileostomy however further qualified	February 2009
+56171	83	0	0	0	7710111	Parks panproctocolectomy, ileoanal anastom & creation pouch	February 2009
+7961	2267	17	0	0	7717.11	Other colectomy	February 2009
+9543	4805	31	0	0	7715.11	Left hemicolectomy	February 2009
+34002	214	2	0	0	7716200	Sigmoid colectomy and anastomosis NEC	February 2009
+41828	543	2	0	0	7713000	Right hemicolectomy+end to end anastomosis of ileum to colon	February 2009
+64759	20	0	0	0	7715400	Left hemicolectomy and exteriorisation of bowel NEC	February 2009
+7842	2352	12	0	0	7717300	Colectomy and ileostomy NEC	February 2009
+28547	209	1	0	0	7711000	Total colectomy and anastomosis of ileum to rectum	February 2009
+48863	76	1	0	0	7710100	Panproctocolectomy anast ileum to anus & pouch creation HFQ	February 2009
+16911	1853	13	1	0	7710.11	Panproctocolectomy	February 2009
+18567	1100	1	0	0	7710.12	Total proctocolectomy	February 2009
+4384	13608	202	5	0	7716.11	Sigmoid colectomy	February 2009
+3356	677	1	0	0	7714.11	Transverse colectomy	February 2009
+2722	1066	72	0	0	7710300	Proctocolectomy NEC	February 2009
+2904	4649	65	0	0	7711.11	Total colectomy	February 2009
