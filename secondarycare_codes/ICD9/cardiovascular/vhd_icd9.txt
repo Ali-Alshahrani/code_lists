@@ -1,0 +1,16 @@
+icd	term	vhd	mv	av	tv	pv	other	multiple	coding_sys
+250.7	Diabetes with other specified manifestations	1	1						icd9
+394	Diseases of mitral valve	1	1						icd9
+394.0	Mitral stenosis	1	1						icd9
+394.2	Mitral stenosis with insufficiency	1	1						icd9
+394.9	Other and unspecified mitral stenosis	1		1					icd9
+395	Diseases of aortic valve	1		1					icd9
+395.0	Rheumatic aortic stenosis	1		1					icd9
+395.1	Rheumatic aortic insufficiency	1		1					icd9
+395.2	Rheumatic aortic stenosis with insufficiency	1		1					icd9
+395.9 	Other and unspecified rheumatic aortic (valve) disease	1							icd9
+396	Diseases of mitral and aortic valves	1						1	icd9
+397	Diseases of other endocardial structures	1			1				icd9
+397.0	Diseases of tricuspid valve	1				1			icd9
+397.1	Rheumatic diseases of pulmonary valve	1				1			icd9
+397.9	Rheumatic diseases of endocardium, valve unspecified	1					1		icd9

@@ -1,0 +1,11 @@
+icd	term	cmp_type
+425	Cardiomyopathy	other
+425.1	Hypertrophic obstructive cardiomyopathy	hcm
+425.2	Obscure cardiomyopathy of Africa, Becker's disease	other
+425.3	Endocardial fibroelastosis	other
+425.4	Other primary cardiomyopathies	other
+425.5	Alcoholic cardiomyopathy	dcm
+425.6	Cardiomyopathy in Chagas's disease	other
+425.7	Nutritional and metabolic cardiomyopathies	other
+425.8	Cardiomyopathy in other diseases classified elsewhere	other
+425.9	Secondary cardiomyopathy, unspecified	other

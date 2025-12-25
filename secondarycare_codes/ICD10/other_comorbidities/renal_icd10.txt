@@ -1,0 +1,31 @@
+icd	term
+N18	Chronic kidney disease (CKD)
+N18.1	Chronic kidney disease, stage 1
+N18.2	Chronic kidney disease, stage 2 (mild)
+N18.3	Chronic kidney disease, stage 3 (moderate)
+N18.4	Chronic kidney disease, stage 4 (severe)
+N18.5	Chronic kidney disease, stage 5
+N18.9	Chronic kidney disease, unspecified
+N19	Unspecified kidney failure
+N250	Renal osteodystrophy
+T86.1	Kidney transplant failure and rejection
+Y84.1	Kidney dialysis
+Z49	Care involving dialysis
+Z49.0	Preparatory care for dialysis
+Z49.1	Extracorporeal dialysis
+Z49.2	Other dialysis
+Z99.2	Dependence on renal dialysis
+I120	Hypertensive renal disease with renal failure
+I131	Hypertensive heart and renal disease with renal failure
+N032	Chronic nephritic syndrome
+N033	Chronic nephritic syndrome
+N034	Chronic nephritic syndrome
+N035	Chronic nephritic syndrome
+N036	Chronic nephritic syndrome
+N037	Chronic nephritic syndrome
+N052	Unspecified nephritic syndrome
+N053	Unspecified nephritic syndrome
+N054	Unspecified nephritic syndrome
+N055	Unspecified nephritic syndrome
+N056	Unspecified nephritic syndrome
+N057	Unspecified nephritic syndrome

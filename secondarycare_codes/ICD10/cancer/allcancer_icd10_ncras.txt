@@ -1,0 +1,403 @@
+icd	term	class	secondary_ca	history_ca	coding_sys
+C00	Malignant neoplasm of lip	head and neck cancer			icd10
+C000	External upper lip	head and neck cancer			icd10
+C001	External lower lip	head and neck cancer			icd10
+C002	External lip, unspecified	head and neck cancer			icd10
+C003	Upper lip, inner aspect	head and neck cancer			icd10
+C004	Lower lip, inner aspect	head and neck cancer			icd10
+C005	Lip, unspecified, inner aspect	head and neck cancer			icd10
+C006	Commissure of lip	head and neck cancer			icd10
+C008	Overlapping lesion of lip	head and neck cancer			icd10
+C009	Lip, unspecified	head and neck cancer			icd10
+C01	Malignant neoplasm of base of tongue	head and neck cancer			icd10
+C02	Malignant neoplasm of other and unspecified parts of tongue	head and neck cancer			icd10
+C020	Dorsal surface of tongue	head and neck cancer			icd10
+C021	Border of tongue	head and neck cancer			icd10
+C022	Ventral surface of tongue	head and neck cancer			icd10
+C023	Anterior two-thirds of tongue, part unspecified	head and neck cancer			icd10
+C024	Lingual tonsil	head and neck cancer			icd10
+C028	Overlapping lesion of tongue	head and neck cancer			icd10
+C029	Tongue, unspecified	head and neck cancer			icd10
+C03	Malignant neoplasm of gum	head and neck cancer			icd10
+C030	Upper gum	head and neck cancer			icd10
+C031	Lower gum	head and neck cancer			icd10
+C039	Gum, unspecified	head and neck cancer			icd10
+C04	Malignant neoplasm of floor of mouth	head and neck cancer			icd10
+C040	Anterior floor of mouth	head and neck cancer			icd10
+C041	Lateral floor of mouth	head and neck cancer			icd10
+C048	Overlapping lesion of floor of mouth	head and neck cancer			icd10
+C049	Floor of mouth, unspecified	head and neck cancer			icd10
+C05	Malignant neoplasm of palate	head and neck cancer			icd10
+C050	Hard palate	head and neck cancer			icd10
+C051	Soft palate	head and neck cancer			icd10
+C052	Uvula	head and neck cancer			icd10
+C058	Overlapping lesion of palate	head and neck cancer			icd10
+C059	Palate, unspecified	head and neck cancer			icd10
+C06	Malignant neoplasm of other and unspecified parts of mouth	head and neck cancer			icd10
+C060	Cheek mucosa	head and neck cancer			icd10
+C061	Vestibule of mouth	head and neck cancer			icd10
+C062	Retromolar area	head and neck cancer			icd10
+C068	Overlapping lesion of other and unspecified parts of mouth	head and neck cancer			icd10
+C069	Mouth, unspecified	head and neck cancer			icd10
+C07	Malignant neoplasm of parotid gland	head and neck cancer			icd10
+C08	Malignant neoplasm of other and unspecified major salivary glands	head and neck cancer			icd10
+C080	Submandibular gland	head and neck cancer			icd10
+C081	Sublingual gland	head and neck cancer			icd10
+C088	Overlapping lesion of major salivary glands	head and neck cancer			icd10
+C089	Major salivary gland, unspecified	head and neck cancer			icd10
+C09	Malignant neoplasm of tonsil	head and neck cancer			icd10
+C090	Tonsillar fossa	head and neck cancer			icd10
+C091	Tonsillar pillar (anterior)(posterior)	head and neck cancer			icd10
+C098	Overlapping lesion of tonsil	head and neck cancer			icd10
+C099	Tonsil, unspecified	head and neck cancer			icd10
+C10	Malignant neoplasm of oropharynx	head and neck cancer			icd10
+C100	Vallecula	head and neck cancer			icd10
+C101	Anterior surface of epiglottis	head and neck cancer			icd10
+C102	Lateral wall of oropharynx	head and neck cancer			icd10
+C103	Posterior wall of oropharynx	head and neck cancer			icd10
+C104	Branchial cleft	head and neck cancer			icd10
+C108	Overlapping lesion of oropharynx	head and neck cancer			icd10
+C109	Oropharynx, unspecified	head and neck cancer			icd10
+C11	Malignant neoplasm of nasopharynx	head and neck cancer			icd10
+C110	Superior wall of nasopharynx	head and neck cancer			icd10
+C111	Posterior wall of nasopharynx	head and neck cancer			icd10
+C112	Lateral wall of nasopharynx	head and neck cancer			icd10
+C113	Anterior wall of nasopharynx	head and neck cancer			icd10
+C118	Overlapping lesion of nasopharynx	head and neck cancer			icd10
+C119	Nasopharynx, unspecified	head and neck cancer			icd10
+C12	Malignant neoplasm of piriform sinus	head and neck cancer			icd10
+C13	Malignant neoplasm of hypopharynx	head and neck cancer			icd10
+C130	Postcricoid region	head and neck cancer			icd10
+C131	Aryepiglottic fold, hypopharyngeal aspect	head and neck cancer			icd10
+C132	Posterior wall of hypopharynx	head and neck cancer			icd10
+C138	Overlapping lesion of hypopharynx	head and neck cancer			icd10
+C139	Hypopharynx, unspecified	head and neck cancer			icd10
+C14	Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx	head and neck cancer			icd10
+C140	Pharynx, unspecified	head and neck cancer			icd10
+C142	Waldeyer ring	head and neck cancer			icd10
+C148	Overlapping lesion of lip, oral cavity and pharynx	head and neck cancer			icd10
+C15	Malignant neoplasm of oesophagus	GI cancer			icd10
+C150	Cervical part of oesophagus	GI cancer			icd10
+C151	Thoracic part of oesophagus	GI cancer			icd10
+C152	Abdominal part of oesophagus	GI cancer			icd10
+C153	Upper third of oesophagus	GI cancer			icd10
+C154	Middle third of oesophagus	GI cancer			icd10
+C155	Lower third of oesophagus	GI cancer			icd10
+C158	Overlapping lesion of oesophagus	GI cancer			icd10
+C159	Oesophagus, unspecified	GI cancer			icd10
+C16	Malignant neoplasm of stomach	GI cancer			icd10
+C160	Cardia	GI cancer			icd10
+C161	Fundus of stomach	GI cancer			icd10
+C162	Body of stomach	GI cancer			icd10
+C163	Pyloric antrum	GI cancer			icd10
+C164	Pylorus	GI cancer			icd10
+C165	Lesser curvature of stomach, unspecified	GI cancer			icd10
+C166	Greater curvature of stomach, unspecified	GI cancer			icd10
+C168	Overlapping lesion of stomach	GI cancer			icd10
+C169	Stomach, unspecified	GI cancer			icd10
+C17	Malignant neoplasm of small intestine	GI cancer			icd10
+C170	Duodenum	GI cancer			icd10
+C171	Jejunum	GI cancer			icd10
+C172	Ileum	GI cancer			icd10
+C173	Meckel diverticulum	GI cancer			icd10
+C178	Overlapping lesion of small intestine	GI cancer			icd10
+C179	Small intestine, unspecified	GI cancer			icd10
+C21	Malignant neoplasm of anus and anal canal	GI cancer			icd10
+C210	Anus, unspecified	GI cancer			icd10
+C211	Anal canal	GI cancer			icd10
+C212	Cloacogenic zone	GI cancer			icd10
+C218	Overlapping lesion of rectum, anus and anal canal	GI cancer			icd10
+C22	Malignant neoplasm of liver and intrahepatic bile ducts	GI cancer			icd10
+C220	Liver cell carcinoma	GI cancer			icd10
+C221	Intrahepatic bile duct carcinoma	GI cancer			icd10
+C222	Hepatoblastoma	GI cancer			icd10
+C223	Angiosarcoma of liver	GI cancer			icd10
+C224	Other sarcomas of liver	GI cancer			icd10
+C227	Other specified carcinomas of liver	GI cancer			icd10
+C229	Liver, unspecified	GI cancer			icd10
+C23	Malignant neoplasm of gallbladder	GI cancer			icd10
+C24	Malignant neoplasm of other and unspecified parts of biliary tract	GI cancer			icd10
+C240	Extrahepatic bile duct	GI cancer			icd10
+C241	Ampulla of Vater	GI cancer			icd10
+C248	Overlapping lesion of biliary tract	GI cancer			icd10
+C249	Biliary tract, unspecified	GI cancer			icd10
+C25	Malignant neoplasm of pancreas	GI cancer			icd10
+C250	Head of pancreas	GI cancer			icd10
+C251	Body of pancreas	GI cancer			icd10
+C252	Tail of pancreas	GI cancer			icd10
+C253	Pancreatic duct	GI cancer			icd10
+C254	Endocrine pancreas	GI cancer			icd10
+C257	Other parts of pancreas	GI cancer			icd10
+C258	Overlapping lesion of pancreas	GI cancer			icd10
+C259	Pancreas, unspecified	GI cancer			icd10
+C26	Malignant neoplasm of other and ill-defined digestive organs	GI cancer			icd10
+C260	Intestinal tract, part unspecified	GI cancer			icd10
+C261	Spleen	GI cancer			icd10
+C268	Overlapping lesion of digestive system	GI cancer			icd10
+C269	Ill-defined sites within the digestive system	GI cancer			icd10
+C30	Malignant neoplasm of nasal cavity and middle ear	respiratory and intrathoracic cancer			icd10
+C300	Nasal cavity	respiratory and intrathoracic cancer			icd10
+C301	Middle ear	respiratory and intrathoracic cancer			icd10
+C31	Malignant neoplasm of accessory sinuses	respiratory and intrathoracic cancer			icd10
+C310	Maxillary sinus	respiratory and intrathoracic cancer			icd10
+C311	Ethmoidal sinus	respiratory and intrathoracic cancer			icd10
+C312	Frontal sinus	respiratory and intrathoracic cancer			icd10
+C313	Sphenoidal sinus	respiratory and intrathoracic cancer			icd10
+C318	Overlapping lesion of accessory sinuses	respiratory and intrathoracic cancer			icd10
+C319	Accessory sinus, unspecified	respiratory and intrathoracic cancer			icd10
+C32	Malignant neoplasm of larynx	respiratory and intrathoracic cancer			icd10
+C320	Glottis	respiratory and intrathoracic cancer			icd10
+C321	Supraglottis	respiratory and intrathoracic cancer			icd10
+C322	Subglottis	respiratory and intrathoracic cancer			icd10
+C323	Laryngeal cartilage	respiratory and intrathoracic cancer			icd10
+C328	Overlapping lesion of larynx	respiratory and intrathoracic cancer			icd10
+C329	Larynx, unspecified	respiratory and intrathoracic cancer			icd10
+C37	Malignant neoplasm of thymus	respiratory and intrathoracic cancer			icd10
+C38	Malignant neoplasm of heart, mediastinum and pleura	respiratory and intrathoracic cancer			icd10
+C380	Heart	respiratory and intrathoracic cancer			icd10
+C381	Anterior mediastinum	respiratory and intrathoracic cancer			icd10
+C382	Posterior mediastinum	respiratory and intrathoracic cancer			icd10
+C383	Mediastinum, part unspecified	respiratory and intrathoracic cancer			icd10
+C388	Overlapping lesion of heart, mediastinum and pleura	respiratory and intrathoracic cancer			icd10
+C39	Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs	respiratory and intrathoracic cancer			icd10
+C390	Upper respiratory tract, part unspecified	respiratory and intrathoracic cancer			icd10
+C398	Overlapping lesion of respiratory and intrathoracic organs	respiratory and intrathoracic cancer			icd10
+C399	Ill-defined sites within the respiratory system	respiratory and intrathoracic cancer			icd10
+Z852	Personal history of malignant neoplasm of other respiratory and intrathoracic organs	respiratory and intrathoracic cancer		1	icd10
+C40	Malignant neoplasm of bone and articular cartilage of limbs	bone and cartilage cancer			icd10
+C400	Scapula and long bones of upper limb	bone and cartilage cancer			icd10
+C401	Short bones of upper limb	bone and cartilage cancer			icd10
+C402	Long bones of lower limb	bone and cartilage cancer			icd10
+C403	Short bones of lower limb	bone and cartilage cancer			icd10
+C408	Overlapping lesion of bone and articular cartilage of limbs	bone and cartilage cancer			icd10
+C409	Bone and articular cartilage of limb, unspecified	bone and cartilage cancer			icd10
+C41	Malignant neoplasm of bone and articular cartilage of other and unspecified sites	bone and cartilage cancer			icd10
+C410	Bones of skull and face	bone and cartilage cancer			icd10
+C411	Mandible	bone and cartilage cancer			icd10
+C412	Vertebral column	bone and cartilage cancer			icd10
+C413	Ribs, sternum and clavicle	bone and cartilage cancer			icd10
+C414	Pelvic bones, sacrum and coccyx	bone and cartilage cancer			icd10
+C418	Overlapping lesion of bone and articular cartilage	bone and cartilage cancer			icd10
+C419	Bone and articular cartilage, unspecified	bone and cartilage cancer			icd10
+C43	Malignant melanoma of skin	skin cancer			icd10
+C430	Malignant melanoma of lip	skin cancer			icd10
+C431	Malignant melanoma of eyelid, including canthus	skin cancer			icd10
+C432	Malignant melanoma of ear and external auricular canal	skin cancer			icd10
+C433	Malignant melanoma of other and unspecified parts of face	skin cancer			icd10
+C434	Malignant melanoma of scalp and neck	skin cancer			icd10
+C435	Malignant melanoma of trunk	skin cancer			icd10
+C436	Malignant melanoma of upper limb, including shoulder	skin cancer			icd10
+C437	Malignant melanoma of lower limb, including hip	skin cancer			icd10
+C438	Overlapping malignant melanoma of skin	skin cancer			icd10
+C439	Malignant melanoma of skin, unspecified	skin cancer			icd10
+C44	Other malignant neoplasms of skin	skin cancer			icd10
+C440	Skin of lip	skin cancer			icd10
+C441	Skin of eyelid, including canthus	skin cancer			icd10
+C442	Skin of ear and external auricular canal	skin cancer			icd10
+C443	Skin of other and unspecified parts of face	skin cancer			icd10
+C444	Skin of scalp and neck	skin cancer			icd10
+C445	Skin of trunk	skin cancer			icd10
+C446	Skin of upper limb, including shoulder	skin cancer			icd10
+C447	Skin of lower limb, including hip	skin cancer			icd10
+C448	Overlapping lesion of skin	skin cancer			icd10
+C449	Malignant neoplasm of skin, unspecified	skin cancer			icd10
+D035	Melanoma in situ of trunk, including Breast (skin)(soft tissue), Anal margin&skin, Perianal skin 	skin cancer			icd10
+C45	Mesothelioma	mesothelial and tissue cancer			icd10
+C451	Mesothelioma of peritoneum	mesothelial and tissue cancer			icd10
+C452	Mesothelioma of pericardium	mesothelial and tissue cancer			icd10
+C457	Mesothelioma of other sites	mesothelial and tissue cancer			icd10
+C459	Mesothelioma, unspecified	mesothelial and tissue cancer			icd10
+C46	Kaposi's sarcoma	mesothelial and tissue cancer			icd10
+C460	Kaposi sarcoma of skin	mesothelial and tissue cancer			icd10
+C461	Kaposi sarcoma of soft tissue	mesothelial and tissue cancer			icd10
+C462	Kaposi sarcoma of palate	mesothelial and tissue cancer			icd10
+C463	Kaposi sarcoma of lymph nodes	mesothelial and tissue cancer			icd10
+C464	Kaposi sarcoma of gastrointestinal sites	mesothelial and tissue cancer			icd10
+C467	Kaposi sarcoma of other sites	mesothelial and tissue cancer			icd10
+C468	Kaposi sarcoma of multiple organs	mesothelial and tissue cancer			icd10
+C469	Kaposi's sarcoma, unspecified	mesothelial and tissue cancer			icd10
+C47	Malignant neoplasm of peripheral nerves and autonomic nervous system	mesothelial and tissue cancer			icd10
+C470	Peripheral nerves of head, face, and neck	mesothelial and tissue cancer			icd10
+C471	Peripheral nerves of upper limb, including shoulder	mesothelial and tissue cancer			icd10
+C472	Peripheral nerves of lower limb, including hip	mesothelial and tissue cancer			icd10
+C473	Peripheral nerves of thorax	mesothelial and tissue cancer			icd10
+C474	Peripheral nerves of abdomen	mesothelial and tissue cancer			icd10
+C475	Peripheral nerves of pelvis	mesothelial and tissue cancer			icd10
+C476	Peripheral nerves of trunk, unspecified	mesothelial and tissue cancer			icd10
+C478	Overlapping lesion of peripheral nerves and autonomic nervous system	mesothelial and tissue cancer			icd10
+C479	Peripheral nerves and autonomic nervous system, unspecified	mesothelial and tissue cancer			icd10
+C48	Malignant neoplasm of retroperitoneum and peritoneum	mesothelial and tissue cancer			icd10
+C480	Retroperitoneum	mesothelial and tissue cancer			icd10
+C481	Specified parts of peritoneum	mesothelial and tissue cancer			icd10
+C482	Peritoneum, unspecified	mesothelial and tissue cancer			icd10
+C488	Overlapping lesion of retroperitoneum and peritoneum	mesothelial and tissue cancer			icd10
+C49	Malignant neoplasm of other connective and soft tissue	mesothelial and tissue cancer			icd10
+C490	Connective and soft tissue of head, face and neck	mesothelial and tissue cancer			icd10
+C491	Connective and soft tissue of upper limb, including shoulder	mesothelial and tissue cancer			icd10
+C492	Connective and soft tissue of lower limb, including hip	mesothelial and tissue cancer			icd10
+C493	Connective and soft tissue of thorax	mesothelial and tissue cancer			icd10
+C494	Connective and soft tissue of abdomen	mesothelial and tissue cancer			icd10
+C495	Connective and soft tissue of pelvis	mesothelial and tissue cancer			icd10
+C496	Connective and soft tissue of trunk, unspecified	mesothelial and tissue cancer			icd10
+C498	Overlapping lesion of connective and soft tissue	mesothelial and tissue cancer			icd10
+C499	Connective and soft tissue, unspecified	mesothelial and tissue cancer			icd10
+C51	Malignant neoplasm of vulva	female genital organs			icd10
+C510	Labium majus	female genital organs			icd10
+C511	Labium minus	female genital organs			icd10
+C512	Clitoris	female genital organs			icd10
+C518	Overlapping lesion of vulva	female genital organs			icd10
+C519	Vulva, unspecified	female genital organs			icd10
+C52	Malignant neoplasm of vagina	female genital organs			icd10
+C53	Malignant neoplasm of cervix uteri	female genital organs			icd10
+C530	Endocervix	female genital organs			icd10
+C531	Exocervix	female genital organs			icd10
+C538	Overlapping lesion of cervix uteri	female genital organs			icd10
+C539	Cervix uteri, unspecified	female genital organs			icd10
+C54	Malignant neoplasm of corpus uteri	female genital organs			icd10
+C540	Isthmus uteri	female genital organs			icd10
+C541	Endometrium	female genital organs			icd10
+C542	Myometrium	female genital organs			icd10
+C543	Fundus uteri	female genital organs			icd10
+C548	Overlapping lesion of corpus uteri	female genital organs			icd10
+C549	Corpus uteri, unspecified	female genital organs			icd10
+C55	Malignant neoplasm of uterus, part unspecified	female genital organs			icd10
+C56	Malignant neoplasm of ovary	female genital organs			icd10
+C57	Malignant neoplasm of other and unspecified female genital organs	female genital organs			icd10
+C570	Fallopian tube	female genital organs			icd10
+C571	Broad ligament	female genital organs			icd10
+C572	Round ligament	female genital organs			icd10
+C573	Parametrium	female genital organs			icd10
+C574	Uterine adnexa, unspecified	female genital organs			icd10
+C577	Other specified female genital organs	female genital organs			icd10
+C578	Overlapping lesion of female genital organs	female genital organs			icd10
+C579	Female genital organ, unspecified	female genital organs			icd10
+C58	Malignant neoplasm of placenta	female genital organs			icd10
+C60	Malignant neoplasm of penis	male genital organs			icd10
+C600	Prepuce	male genital organs			icd10
+C601	Glans penis	male genital organs			icd10
+C602	Body of penis	male genital organs			icd10
+C608	Overlapping lesion of penis	male genital organs			icd10
+C609	Penis, unspecified	male genital organs			icd10
+C62	Malignant neoplasm of testis	male genital organs			icd10
+C620	Undescended testis	male genital organs			icd10
+C621	Descended testis	male genital organs			icd10
+C629	Testis, unspecified	male genital organs			icd10
+C63	Malignant neoplasm of other and unspecified male genital organs	male genital organs			icd10
+C630	Epididymis	male genital organs			icd10
+C631	Spermatic cord	male genital organs			icd10
+C632	Scrotum	male genital organs			icd10
+C637	Other specified male genital organs	male genital organs			icd10
+C638	Overlapping lesion of male genital organs	male genital organs			icd10
+C639	Male genital organ, unspecified	male genital organs			icd10
+C64	Malignant neoplasm of kidney, except renal pelvis	urinary tract cancer			icd10
+C65	Malignant neoplasm of renal pelvis	urinary tract cancer			icd10
+C66	Malignant neoplasm of ureter	urinary tract cancer			icd10
+C67	Malignant neoplasm of bladder	urinary tract cancer			icd10
+C670	Trigone of bladder	urinary tract cancer			icd10
+C671	Dome of bladder	urinary tract cancer			icd10
+C672	Lateral wall of bladder	urinary tract cancer			icd10
+C673	Anterior wall of bladder	urinary tract cancer			icd10
+C674	Posterior wall of bladder	urinary tract cancer			icd10
+C675	Bladder neck	urinary tract cancer			icd10
+C676	Ureteric orifice	urinary tract cancer			icd10
+C677	Urachus	urinary tract cancer			icd10
+C678	Overlapping lesion of bladder	urinary tract cancer			icd10
+C679	Bladder, unspecified	urinary tract cancer			icd10
+C68	Malignant neoplasm of other and unspecified urinary organs	urinary tract cancer			icd10
+C680	Urethra	urinary tract cancer			icd10
+C681	Paraurethral glands	urinary tract cancer			icd10
+C688	Overlapping lesion of urinary organs	urinary tract cancer			icd10
+C689	Urinary organ, unspecified	urinary tract cancer			icd10
+Z855	Personal history of malignant neoplasm of urinary tract	urinary tract cancer		1	icd10
+C69	Malignant neoplasm of eye and adnexa	eye cancer			icd10
+C690	Conjunctiva	eye cancer			icd10
+C691	Cornea	eye cancer			icd10
+C692	Retina	eye cancer			icd10
+C693	Choroid	eye cancer			icd10
+C694	Ciliary body	eye cancer			icd10
+C695	Lacrimal gland and duct	eye cancer			icd10
+C696	Orbit	eye cancer			icd10
+C698	Overlapping lesion of eye and adnexa	eye cancer			icd10
+C699	Eye, unspecified	eye cancer			icd10
+C70	Malignant neoplasm of meninges	CNS cancer			icd10
+C700	Cerebral meninges	CNS cancer			icd10
+C701	Spinal meninges	CNS cancer			icd10
+C709	Meninges, unspecified	CNS cancer			icd10
+C71	Malignant neoplasm of brain	CNS cancer			icd10
+C710	Cerebrum, except lobes and ventricles	CNS cancer			icd10
+C711	Frontal lobe	CNS cancer			icd10
+C712	Temporal lobe	CNS cancer			icd10
+C713	Parietal lobe	CNS cancer			icd10
+C714	Occipital lobe	CNS cancer			icd10
+C715	Ventricle	CNS cancer			icd10
+C716	Cerebellum	CNS cancer			icd10
+C717	Brain stem	CNS cancer			icd10
+C718	Overlapping lesion of brain	CNS cancer			icd10
+C719	Brain, unspecified	CNS cancer			icd10
+C72	Malignant neoplasm of spinal cord, cranial nerves, and other parts of central nervous system	CNS cancer			icd10
+C720	Spinal cord	CNS cancer			icd10
+C721	Cauda equina	CNS cancer			icd10
+C722	Olfactory nerve	CNS cancer			icd10
+C723	Optic nerve	CNS cancer			icd10
+C724	Acoustic nerve	CNS cancer			icd10
+C725	Other cranial nerves	CNS cancer			icd10
+C728	Overlapping lesion of brain and other parts of central nervous system	CNS cancer			icd10
+C729	Central nervous system, unspecified	CNS cancer			icd10
+C73	Malignant neoplasm of thyroid gland	thyroid or endocrine cancer			icd10
+C74	Malignant neoplasm of adrenal gland	thyroid or endocrine cancer			icd10
+C740	Cortex of adrenal gland	thyroid or endocrine cancer			icd10
+C741	Medulla of adrenal gland	thyroid or endocrine cancer			icd10
+C749	Adrenal gland, unspecified	thyroid or endocrine cancer			icd10
+C75	Malignant neoplasm of other endocrine glands and related structures	thyroid or endocrine cancer			icd10
+C750	Parathyroid gland	thyroid or endocrine cancer			icd10
+C751	Pituitary gland	thyroid or endocrine cancer			icd10
+C752	Craniopharyngeal duct	thyroid or endocrine cancer			icd10
+C753	Pineal gland	thyroid or endocrine cancer			icd10
+C754	Carotid body	thyroid or endocrine cancer			icd10
+C755	Aortic body and other paraganglia	thyroid or endocrine cancer			icd10
+C758	Overlapping lesion of endocrine glands and related structures	thyroid or endocrine cancer			icd10
+C759	Endocrine gland, unspecified	thyroid or endocrine cancer			icd10
+C76	Malignant neoplasm of other and ill-defined sites	secondary and unspecified sites	1		icd10
+C760	Head, face, and neck	secondary and unspecified sites	1		icd10
+C761	Thorax	secondary and unspecified sites	1		icd10
+C762	Abdomen	secondary and unspecified sites	1		icd10
+C763	Pelvis	secondary and unspecified sites	1		icd10
+C764	Upper limb	secondary and unspecified sites	1		icd10
+C765	Lower limb	secondary and unspecified sites	1		icd10
+C767	Other ill-defined sites	secondary and unspecified sites	1		icd10
+C768	Overlapping lesion of ill-defined sites	secondary and unspecified sites	1		icd10
+C77	Secondary and unspecified malignant neoplasm of lymph nodes	secondary and unspecified sites	1		icd10
+C770	Lymph nodes of head, face, and neck	secondary and unspecified sites	1		icd10
+C771	Intrathoracic lymph nodes	secondary and unspecified sites	1		icd10
+C772	Intra-abdominal lymph nodes	secondary and unspecified sites	1		icd10
+C773	Axilla and upper limb lymph nodes	secondary and unspecified sites	1		icd10
+C774	Inguinal and lower limb lymph nodes	secondary and unspecified sites	1		icd10
+C775	Intrapelvic lymph nodes	secondary and unspecified sites	1		icd10
+C778	Lymph nodes of multiple regions	secondary and unspecified sites	1		icd10
+C779	Lymph node, unspecified	secondary and unspecified sites	1		icd10
+C78	Secondary malignant neoplasm of respiratory and digestive organs	secondary and unspecified sites	1		icd10
+C781	Secondary malignant neoplasm of mediastinum	secondary and unspecified sites	1		icd10
+C782	Secondary malignant neoplasm of pleura	secondary and unspecified sites	1		icd10
+C783	Secondary malignant neoplasm of other and unspecified respiratory organs	secondary and unspecified sites	1		icd10
+C784	Secondary malignant neoplasm of small intestine	secondary and unspecified sites	1		icd10
+C786	Secondary malignant neoplasm of retroperitoneum and peritoneum	secondary and unspecified sites	1		icd10
+C787	Secondary malignant neoplasm of liver and intrahepatic bile duct	secondary and unspecified sites	1		icd10
+C788	Secondary malignant neoplasm of other and unspecified digestive organs	secondary and unspecified sites	1		icd10
+C79	Secondary malignant neoplasm of other and unspecified sites	secondary and unspecified sites	1		icd10
+C790	Secondary malignant neoplasm of kidney and renal pelvis	secondary and unspecified sites	1		icd10
+C791	Secondary malignant neoplasm of bladder and other and unspecified urinary organs	secondary and unspecified sites	1		icd10
+C792	Secondary malignant neoplasm of skin	secondary and unspecified sites	1		icd10
+C793	Secondary malignant neoplasm of brain and cerebral meninges	secondary and unspecified sites	1		icd10
+C794	Secondary malignant neoplasm of other and unspecified parts of nervous system	secondary and unspecified sites	1		icd10
+C795	Secondary malignant neoplasm of bone and bone marrow	secondary and unspecified sites	1		icd10
+C796	Secondary malignant neoplasm of ovary	secondary and unspecified sites	1		icd10
+C797	Secondary malignant neoplasm of adrenal gland	secondary and unspecified sites	1		icd10
+C798	Secondary malignant neoplasm of other specified sites	secondary and unspecified sites	1		icd10
+C799	Secondary malignant neoplasm, unspecified site	secondary and unspecified sites	1		icd10
+C80	Malignant neoplasm without specification of site	secondary and unspecified sites	1		icd10
+C800	Malignant neoplasm, primary site unknown, so stated	secondary and unspecified sites	1		icd10
+C801	Malignant (primary) neoplasm, unspecified	secondary and unspecified sites	1		icd10
+C809	Malignant neoplasm, primary site unspecified	secondary and unspecified sites	1		icd10
+Z858	Personal history of malignant neoplasms of other organs and systems	history		1	icd10
+Z859	Personal history of malignant neoplasm, unspecified	history		1	icd10
+C97	Malignant neoplasms of independent (primary) multiple sites	multiple sites			icd10

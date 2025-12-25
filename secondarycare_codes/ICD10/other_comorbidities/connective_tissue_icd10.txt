@@ -1,0 +1,66 @@
+icd	term
+M05	Seropositive rheumatoid arthritis
+M05.0	Felty syndrome
+M05.1	Rheumatoid lung disease
+M05.2	Rheumatoid vasculitis
+M05.3	Rheumatoid arthritis with involvement of other organs and systems
+M05.8	Other seropositive rheumatoid arthritis
+M05.9	Seropositive rheumatoid arthritis, unspecified
+M06	Other rheumatoid arthritis
+M06.0	Seronegative rheumatoid arthritis
+M06.1	Adult-onset Still disease
+M06.2	Rheumatoid bursitis
+M06.3	Rheumatoid nodule
+M06.4	Inflammatory polyarthropathy
+M06.8	Other specified rheumatoid arthritis
+M06.9	Rheumatoid arthritis, unspecified
+M30	Polyarteritis nodosa and related conditions
+M30.0	Polyarteritis nodosa
+M30.1	Polyarteritis with lung involvement [Churg-Strauss]
+M30.2	Juvenile polyarteritis
+M30.3	Mucocutaneous lymph node syndrome [Kawasaki]
+M30.8	Other conditions related to polyarteritis nodosa
+M31	Other necrotizing vasculopathies
+M31.0	Hypersensitivity angiitis
+M31.1	Thrombotic microangiopathy
+M31.3	Wegener granulomatosis
+M31.4	Aortic arch syndrome [Takayasu]
+M31.5	Giant cell arteritis with polymyalgia rheumatica
+M31.6	Other giant cell arteritis
+M31.7	Microscopic polyangiitis
+M31.8	Other specified necrotizing vasculopathies
+M31.9	Necrotizing vasculopathy, unspecified
+M32	Systemic lupus erythematosus
+M32.0	Drug-induced systemic lupus erythematosus
+M32.1	Systemic lupus erythematosus with organ or system involvement
+M32.8	Other forms of systemic lupus erythematosus
+M32.9	Systemic lupus erythematosus, unspecified
+M33	Dermatopolymyositis
+M33.0	Juvenile dermatomyositis
+M33.1	Other dermatomyositis
+M33.2	Polymyositis
+M33.9	Dermatopolymyositis, unspecified
+M34	Systemic sclerosis
+M34.0	Progressive systemic sclerosis
+M34.1	CR(E)ST syndrome
+M34.2	Systemic sclerosis induced by drugs and chemicals
+M34.8	Other forms of systemic sclerosis
+M34.9	Systemic sclerosis, unspecified
+M35	Other systemic involvement of connective tissue
+M35.0	Sicca syndrome [Sjögren]
+M35.1	Other overlap syndromes
+M35.2	Behçet disease
+M35.3	Polymyalgia rheumatica
+M35.4	Diffuse (eosinophilic) fasciitis
+M35.5	Multifocal fibrosclerosis
+M35.6	Relapsing panniculitis [Weber-Christian]
+M35.7	Hypermobility syndrome
+M35.8	Other specified systemic involvement of connective tissue
+M35.9	Systemic involvement of connective tissue, unspecified
+M36	Systemic disorders of connective tissue in diseases classified elsewhere
+M36.0	Dermato(poly)myositis in neoplastic disease
+M36.1	Arthropathy in neoplastic disease
+M36.2	Haemophilic arthropathy
+M36.3	Arthropathy in other blood disorders
+M36.4	Arthropathy in hypersensitivity reactions classified elsewhere
+M36.8	Systemic disorders of connective tissue in other diseases classified elsewhere

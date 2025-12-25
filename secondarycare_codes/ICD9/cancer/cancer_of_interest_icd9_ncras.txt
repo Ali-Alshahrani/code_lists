@@ -1,0 +1,115 @@
+icd	desc	class_str	subclass_str	ca_of_interest	secondary_ca	history_ca
+174	Malignant neoplasm of female breast	breast		1		
+1740	Malignant neoplasm of nipple and areola of female breast	breast		1		
+1741	Malignant neoplasm of central portion of female breast	breast		1		
+1742	Malignant neoplasm of upper-inner quadrant of female breast	breast		1		
+1743	Malignant neoplasm of lower-inner quadrant of female breast	breast		1		
+1744	Malignant neoplasm of upper-outer quadrant of female breast	breast		1		
+1745	Malignant neoplasm of lower-outer quadrant of female breast	breast		1		
+1746	Malignant neoplasm of axillary tail of female breast	breast		1		
+1748	Malignant neoplasm of other specified sites of female breast	breast		1		
+1749	Malignant neoplasm of breast (female), unspecified	breast		1		
+175	MALIGNANT NEOPLASM OF MALE BREAST	breast		1		
+2330	Carcinoma in situ of breast and genitourinary system, Breast	breast		1		
+2383	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Breast	breast		1		
+2393	Neoplasm of unspecified nature, Breast	breast		1		
+185	MALIGNANT NEOPLASM OF PROSTATE	prostate		1		
+2334	Carcinoma in situ of breast and genitourinary system, Prostate	prostate		1		
+2365	Neoplasm of uncertain behaviour of genitourinary organs, Prostate	prostate		1		
+162	Malignant neoplasm of trachea bronchus and lung	lung		1		
+1620	Malignant neoplasm of trachea	lung		1		
+1622	Malignant neoplasm of main bronchus	lung		1		
+1623	Malignant neoplasm of upper lobe, bronchus or lung	lung		1		
+1624	Malignant neoplasm of middle lobe, bronchus or lung 	lung		1		
+1625	Malignant neoplasm of lower lobe, bronchus or lung	lung		1		
+1628	Malignant neoplasm of other parts of bronchus or lung	lung		1		
+1629	Malignant neoplasm of bronchus and lung, unspecified	lung		1		
+1970	Secondary malignant neoplasm of lung	lung		1	1	
+2357	Neoplasm of uncertain behaviour of digestive and respiratory system, Trachea, bronchus and lung	lung		1		
+C450	Mesothelioma of pleura	lung		1		
+C782	Secondary malignant neoplasm of pleura	lung		1	1	
+153	Malignant neoplasm of colon	colorectal		1		
+1530	Malignant neoplasm of hepatic flexure	colorectal		1		
+1531	Malignant neoplasm of transverse colon	colorectal		1		
+1532	Malignant neoplasm of descending colon	colorectal		1		
+1533	Malignant neoplasm of sigmoid colon	colorectal		1		
+1534	Malignant neoplasm of cecum	colorectal		1		
+1535	Malignant neoplasm of appendix vermiformis	colorectal		1		
+1536	Malignant neoplasm of ascending colon	colorectal		1		
+1537	Malignant neoplasm of splenic flexure	colorectal		1		
+1538	Malignant neoplasm of other specified sites of large intestine	colorectal		1		
+1539	Malignant neoplasm of colon, unspecified site	colorectal		1		
+154	Malignant neoplasm of rectum rectosigmoid junction and anus	colorectal		1		
+1540	Malignant neoplasm of rectosigmoid junction	colorectal		1		
+1541	Malignant neoplasm of rectum	colorectal		1		
+1542	Malignant neoplasm of anal canal	colorectal		1		
+1543	Malignant neoplasm of anus, unspecified site	colorectal		1		
+1548	Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus	colorectal		1		
+1975	Secondary malignant neoplasm of the large intestine and rectum	colorectal		1	1	
+2306	Carcinoma in situ of digestive organs, Colon	colorectal		1		
+2352	Neoplasm of uncertain behaviour, Stomach, intestines and rectum	colorectal		1		
+200	Lymphosarcoma and reticulosarcoma	haematological	lymphoma	1		
+2000	Reticulosarcoma	haematological	lymphoma	1		
+2001	Lymphosarcoma	haematological	lymphoma	1		
+2002	Burkitt's tumour	haematological	lymphoma	1		
+2008	Other named variants	haematological	lymphoma	1		
+201	Hodgkin's disease	haematological	lymphoma	1		
+2010	Hodgkin's disease, Hodgkin's paragranuloma	haematological	lymphoma	1		
+2011	Hodgkin's disease, Hodgkin's granuloma	haematological	lymphoma	1		
+2012	Hodgkin's disease, Hodgkin's sarcoma	haematological	lymphoma	1		
+2014	Hodgkin's disease, Lymphocytic-histiocytic predominance	haematological	lymphoma	1		
+2015	Hodgkin's disease, Nodular sclerosis	haematological	lymphoma	1		
+2016	Hodgkin's disease, Mixed cellularity	haematological	lymphoma	1		
+2017	Hodgkin's disease, Lymphocytic depletion	haematological	lymphoma	1		
+2019	Hodgkin's disease, Unspecified	haematological	lymphoma	1		
+202	Other malignant neoplasm of lymphoid and histiocytic tissue (Non Hodgkin's)	haematological	lymphoma	1		
+2020	Other malignant neoplasm of lymphoid and histiocytic tissue, Nodular lymphoma	haematological	lymphoma	1		
+2021	Other malignant neoplasm of lymphoid and histiocytic tissue, Mycosis fungoides	haematological	lymphoma	1		
+2022	Other malignant neoplasm of lymphoid and histiocytic tissue, Sezary's disease	haematological	lymphoma	1		
+2023	Other malignant neoplasm of lymphoid and histiocytic tissue, Malignant histiocytosis	haematological	lymphoma	1		
+2024	Other malignant neoplasm of lymphoid and histiocytic tissue, Leukaemic reticuloendotheliosis	haematological	lymphoma	1		
+2025	Other lymphatic and hematopoietic tissues, Letterer-Siwe disease	haematological	lymphoma	1		
+2026	Other malignant neoplasm of lymphoid and histiocytic tissue, Malignant mast-cell tumours	haematological	lymphoma	1		
+2028	Other malignant neoplasm of lymphoid and histiocytic tissue, Other lymphomas	haematological	lymphoma	1		
+2029	Other malignant neoplasm of lymphoid and histiocytic tissue, Other and unspecified	haematological	lymphoma	1		
+203	Multiple myeloma	haematological	multiple myeloma	1		
+2030	Multiple myeloma	haematological	multiple myeloma	1		
+20302	Multiple myeloma	haematological	multiple myeloma	1		
+2038	Other immunoproliferative neoplasms	haematological	multiple myeloma	1		
+2031	Plasma cell leukemia	haematological	leukaemia	1		
+204	Lymphoid leukemia	haematological	leukaemia	1		
+2040	Lymphoid leukemia acute	haematological	leukaemia	1		
+2041	Lymphoid leukemia chronic	haematological	leukaemia	1		
+2042	Lymphoid leukemia subacute	haematological	leukaemia	1		
+2048	Other lymphoid leukemia	haematological	leukaemia	1		
+2049	Unspecified lymphoid leukemia	haematological	leukaemia	1		
+205	Myeloid leukemia	haematological	leukaemia	1		
+2050	Myeloid leukemia acute	haematological	leukaemia	1		
+2051	Myeloid leukemia chronic	haematological	leukaemia	1		
+2052	Myeloid leukemia subacute	haematological	leukaemia	1		
+2053	Myeloid sarcoma	haematological	leukaemia	1		
+2058	Other myeloid leukemia	haematological	leukaemia	1		
+2059	Unspecified myeloid leukemia	haematological	leukaemia	1		
+206	Monocytic leukemia	haematological	leukaemia	1		
+2060	Monocytic leukemia acute	haematological	leukaemia	1		
+2061	Monocytic leukemia chronic	haematological	leukaemia	1		
+2062	Monocytic leukemia subacute	haematological	leukaemia	1		
+2068	Other monocytic leukemia	haematological	leukaemia	1		
+2069	Unspecified monocytic leukemia	haematological	leukaemia	1		
+207	Other specified leukemia	haematological	leukaemia	1		
+2070	Acute erythremia and erythroleukemia	haematological	leukaemia	1		
+2071	Chronic erythremia	haematological	leukaemia	1		
+2072	Megakaryocytic leukemia	haematological	leukaemia	1		
+2078	Other specified leukemia	haematological	leukaemia	1		
+208	Leukemia of unspecified cell type	haematological	leukaemia	1		
+2080	Leukemia of unspecified cell type acute	haematological	leukaemia	1		
+2081	Leukemia of unspecified cell type chronic	haematological	leukaemia	1		
+2082	Leukemia of unspecified cell type subacute	haematological	leukaemia	1		
+2088	Other leukemia of unspecified cell type	haematological	leukaemia	1		
+2089	Unspecified leukemia	haematological	leukaemia	1		
+238	Neoplasm of uncertain behaviour of other and unspecified sites and tissues	haematological		1		
+2384	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Polycythaemia vera	haematological		1		
+2385	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Histiocytic and mast cells	haematological		1		
+2386	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Plasma cells	haematological		1		
+2387	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Other lymphatic and haematopoietic tissues	haematological		1		
+2731	Monoclonal paraproteinemia	haematological		1		

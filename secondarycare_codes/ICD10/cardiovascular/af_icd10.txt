@@ -1,0 +1,8 @@
+icd10	term
+I48	Atrial fibrillation and flutter
+I48.0	Paroxysmal atrial fibrillation
+I48.1	Persistent atrial fibrillation
+I48.2	Chronic atrial fibrillation
+I48.3	Typical atrial flutter
+I48.4	Atypical atrial flutter
+I48.9	Atrial fibrillation and atrial flutter, unspecified

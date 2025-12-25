@@ -1,0 +1,8 @@
+icd10	term
+E66	Obesity
+E66.0	Obesity due to excess calories
+E66.1	Drug-induced obesity
+E66.2	Extreme obesity with alveolar hypoventilation
+E66.3	Overweight
+E66.8	Other obesity
+E66.9	Obesity, unspecified

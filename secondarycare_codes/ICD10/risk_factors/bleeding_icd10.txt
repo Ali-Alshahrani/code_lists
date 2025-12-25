@@ -1,0 +1,85 @@
+icd	term	bleed_site
+I60	Subarachnoid haemorrhage	Intracranial
+I60.0	Subarachnoid haemorrhage from carotid siphon and bifurcation	Intracranial
+I60.1	Subarachnoid haemorrhage from middle cerebral artery	Intracranial
+I60.2	Subarachnoid haemorrhage from anterior communicating artery	Intracranial
+I60.3	Subarachnoid haemorrhage from posterior communicating artery	Intracranial
+I60.4	Subarachnoid haemorrhage from basilar artery	Intracranial
+I60.5	Subarachnoid haemorrhage from vertebral artery	Intracranial
+I60.6	Subarachnoid haemorrhage from other intracranial arteries	Intracranial
+I60.7	Subarachnoid haemorrhage from intracranial artery, unspecified	Intracranial
+I60.8	Other subarachnoid haemorrhage	Intracranial
+I60.9	Subarachnoid haemorrhage, unspecified	Intracranial
+I61	Intracerebral haemorrhage	Intracranial
+I61.0	Intracerebral haemorrhage in hemisphere, subcortical	Intracranial
+I61.1	Intracerebral haemorrhage in hemisphere, cortical	Intracranial
+I61.2	Intracerebral haemorrhage in hemisphere, unspecified	Intracranial
+I61.3	Intracerebral haemorrhage in brain stem	Intracranial
+I61.4	Intracerebral haemorrhage in cerebellum	Intracranial
+I61.5	Intracerebral haemorrhage, intraventricular	Intracranial
+I61.6	Intracerebral haemorrhage, multiple localized	Intracranial
+I61.8	Other intracerebral haemorrhage	Intracranial
+I61.9	Intracerebral haemorrhage, unspecified	Intracranial
+I62	Other nontraumatic intracranial haemorrhage	Intracranial
+I62.0	Subdural haemorrhage (acute)(nontraumatic)	Intracranial
+I62.1	Nontraumatic extradural haemorrhage	Intracranial
+I62.9	Intracranial haemorrhage (nontraumatic), unspecified	Intracranial
+I69.0	Sequelae of subarachnoid haemorrhage	Intracranial
+I69.1	Sequelae of intracerebral haemorrhage	Intracranial
+I69.2	Sequelae of other nontraumatic intracranial haemorrhage	Intracranial
+S06.5	Traumatic subdural haemorrhage	Intracranial
+S06.6	Traumatic subarachnoid haemorrhage	Intracranial
+S06.4	Epidural haemorrhage	Intraspinal
+G95.1	Vascular myelopathies	Intraspinal
+H21.0	Hyphaema	Intraocular
+H31.3	Choroidal haemorrhage and rupture	Intraocular
+H44.8	Other disorders of globe, Haemothalmos	Intraocular
+H47.0	Haemorrhage in optic nerve sheath	Intraocular
+H31.3	Choroidal haemorrhage and rupture	Intraocular
+H35.6	Retinal haemorrhage	Intraocular
+H43.1	Vitreous haemorrhage	Intraocular
+H45.0	Vitreous haemorrhage in diseases classified elsewhere	Intraocular
+R31	Congestion and haemorrhage of prostate	Urogenital
+N02	Recurrent and persistent haematuria	Urogenital
+N02.6	Recurrent and persistent haematuria, dense deposit disease	Urogenital
+N02.8	Recurrent and persistent haematuria, other	Urogenital
+N02.9	Recurrent and persistent haematuria, unspecfied	Urogenital
+R31	Unspecified haematuria	Urogenital
+R31.0	Gross Haematuria	Urogenital
+R31.9	Haematuria unspecified	Urogenital
+M25.0	Haemarthrosis	intra-articular
+R04	Haemorrhage from respiratory passages	Respiratory
+R04.1	Haemorrhage from throat	Respiratory
+J94.2	Haemothorax	Respiratory
+R04.0	Epistaxis	Respiratory
+R04.2	Haemoptysis	Respiratory
+R04.8	Haemorrhage from other sites in respiratory passages	Respiratory
+R04.9	Haemorrhage from respiratory passages, unspecified	Respiratory
+I23.0	Haemopericardium as current complication following acute myocardial infarction	Pericardial
+I31.2	Haemopericardium, not elsewhere classified	Pericardial
+S26.0	Injury of heart with haemopericardium	Pericardial
+N83.6	Haematosalpinx	Gynecological
+K25.6	Chronic or unspecified with both haemorrhage and perforation	Gastrointestinal
+K26.0	Duodenal ulcer, Acute with haemorrhage	Gastrointestinal
+K26.2	Duodenal ulcer, Acute with both haemorrhage and perforation	Gastrointestinal
+K26.4	Duodenal ulcer, Chronic or unspecified with haemorrhage	Gastrointestinal
+K26.6	Duodenal ulcer, Chronic or unspecified with both haemorrhage and perforation	Gastrointestinal
+K27.0	Peptic ulcer, Acute with haemorrhage	Gastrointestinal
+K27.2	Peptic ulcer, Acute with both haemorrhage and perforation	Gastrointestinal
+K27.4	Peptic ulcer, Chronic or unspecified with haemorrhage	Gastrointestinal
+K27.6	Peptic ulcer, Chronic or unspecified with both haemorrhage and perforation	Gastrointestinal
+K28.0	Gastrojejunal ulcer, Acute with haemorrhage	Gastrointestinal
+K28.2	Gastrojejunal ulcer, Acute with both haemorrhage and perforation	Gastrointestinal
+K28.4	Gastrojejunal ulcer, Chronic or unspecified with haemorrhage	Gastrointestinal
+K28.6	Gastrojejunal ulcer, Chronic or unspecified with both haemorrhage and perforation	Gastrointestinal
+K29.0	Acute haemorrhagic gastritis	Gastrointestinal
+K62.5	Haemorrhage of anus and rectum	Gastrointestinal
+K92.0	Haematemesis	Gastrointestinal
+K92.1	Melaena	Gastrointestinal
+K92.2	Gastrointestinal haemorrhage, unspecified	Gastrointestinal
+I85.0	Oesophageal varices with bleeding	Gastrointestinal
+I98.3	Oesophageal varices with bleeding in diseases classified elsewhere	Gastrointestinal
+K22.6	Gastro-oesophageal laceration-haemorrhage syndrome	Gastrointestinal
+K31.8	Other specified diseases of stomach and duodenum	Gastrointestinal
+K55.8	Other vascular disorders of intestine	Gastrointestinal
+T81.0	Haemorrhage at any site resulting from a procedure	Other

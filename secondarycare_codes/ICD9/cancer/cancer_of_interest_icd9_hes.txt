@@ -1,0 +1,115 @@
+icd	desc	class_str	subclass_str	ca_of_interest	secondary_ca	history_ca
+174	Malignant neoplasm of female breast	breast		1		
+174.0	Malignant neoplasm of nipple and areola of female breast	breast		1		
+174.1	Malignant neoplasm of central portion of female breast	breast		1		
+174.2	Malignant neoplasm of upper-inner quadrant of female breast	breast		1		
+174.3	Malignant neoplasm of lower-inner quadrant of female breast	breast		1		
+174.4	Malignant neoplasm of upper-outer quadrant of female breast	breast		1		
+174.5	Malignant neoplasm of lower-outer quadrant of female breast	breast		1		
+174.6	Malignant neoplasm of axillary tail of female breast	breast		1		
+174.8	Malignant neoplasm of other specified sites of female breast	breast		1		
+174.9	Malignant neoplasm of breast (female), unspecified	breast		1		
+175	MALIGNANT NEOPLASM OF MALE BREAST	breast		1		
+233.0	Carcinoma in situ of breast and genitourinary system, Breast	breast		1		
+238.3	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Breast	breast		1		
+239.3	Neoplasm of unspecified nature, Breast	breast		1		
+185	MALIGNANT NEOPLASM OF PROSTATE	prostate		1		
+233.4	Carcinoma in situ of breast and genitourinary system, Prostate	prostate		1		
+236.5	Neoplasm of uncertain behaviour of genitourinary organs, Prostate	prostate		1		
+162	Malignant neoplasm of trachea bronchus and lung	lung		1		
+162.0	Malignant neoplasm of trachea	lung		1		
+162.2	Malignant neoplasm of main bronchus	lung		1		
+162.3	Malignant neoplasm of upper lobe, bronchus or lung	lung		1		
+162.4	Malignant neoplasm of middle lobe, bronchus or lung 	lung		1		
+162.5	Malignant neoplasm of lower lobe, bronchus or lung	lung		1		
+162.8	Malignant neoplasm of other parts of bronchus or lung	lung		1		
+162.9	Malignant neoplasm of bronchus and lung, unspecified	lung		1		
+197.0	Secondary malignant neoplasm of lung	lung		1	1	
+235.7	Neoplasm of uncertain behaviour of digestive and respiratory system, Trachea, bronchus and lung	lung		1		
+C45.0	Mesothelioma of pleura	lung		1		
+C78.2	Secondary malignant neoplasm of pleura	lung		1	1	
+153	Malignant neoplasm of colon	colorectal		1		
+153.0	Malignant neoplasm of hepatic flexure	colorectal		1		
+153.1	Malignant neoplasm of transverse colon	colorectal		1		
+153.2	Malignant neoplasm of descending colon	colorectal		1		
+153.3	Malignant neoplasm of sigmoid colon	colorectal		1		
+153.4	Malignant neoplasm of cecum	colorectal		1		
+153.5	Malignant neoplasm of appendix vermiformis	colorectal		1		
+153.6	Malignant neoplasm of ascending colon	colorectal		1		
+153.7	Malignant neoplasm of splenic flexure	colorectal		1		
+153.8	Malignant neoplasm of other specified sites of large intestine	colorectal		1		
+153.9	Malignant neoplasm of colon, unspecified site	colorectal		1		
+154	Malignant neoplasm of rectum rectosigmoid junction and anus	colorectal		1		
+154.0	Malignant neoplasm of rectosigmoid junction	colorectal		1		
+154.1	Malignant neoplasm of rectum	colorectal		1		
+154.2	Malignant neoplasm of anal canal	colorectal		1		
+154.3	Malignant neoplasm of anus, unspecified site	colorectal		1		
+154.8	Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus	colorectal		1		
+197.5	Secondary malignant neoplasm of the large intestine and rectum	colorectal		1	1	
+230.6	Carcinoma in situ of digestive organs, Colon	colorectal		1		
+235.2	Neoplasm of uncertain behaviour, Stomach, intestines and rectum	colorectal		1		
+200	Lymphosarcoma and reticulosarcoma	haematological	lymphoma	1		
+200.0	Reticulosarcoma	haematological	lymphoma	1		
+200.1	Lymphosarcoma	haematological	lymphoma	1		
+200.2	Burkitt's tumour	haematological	lymphoma	1		
+200.8	Other named variants	haematological	lymphoma	1		
+201	Hodgkin's disease	haematological	lymphoma	1		
+201.0	Hodgkin's disease, Hodgkin's paragranuloma	haematological	lymphoma	1		
+201.1	Hodgkin's disease, Hodgkin's granuloma	haematological	lymphoma	1		
+201.2	Hodgkin's disease, Hodgkin's sarcoma	haematological	lymphoma	1		
+201.4	Hodgkin's disease, Lymphocytic-histiocytic predominance	haematological	lymphoma	1		
+201.5	Hodgkin's disease, Nodular sclerosis	haematological	lymphoma	1		
+201.6	Hodgkin's disease, Mixed cellularity	haematological	lymphoma	1		
+201.7	Hodgkin's disease, Lymphocytic depletion	haematological	lymphoma	1		
+201.9	Hodgkin's disease, Unspecified	haematological	lymphoma	1		
+202	Other malignant neoplasm of lymphoid and histiocytic tissue (Non Hodgkin's)	haematological	lymphoma	1		
+202.0	Other malignant neoplasm of lymphoid and histiocytic tissue, Nodular lymphoma	haematological	lymphoma	1		
+202.1	Other malignant neoplasm of lymphoid and histiocytic tissue, Mycosis fungoides	haematological	lymphoma	1		
+202.2	Other malignant neoplasm of lymphoid and histiocytic tissue, Sezary's disease	haematological	lymphoma	1		
+202.3	Other malignant neoplasm of lymphoid and histiocytic tissue, Malignant histiocytosis	haematological	lymphoma	1		
+202.4	Other malignant neoplasm of lymphoid and histiocytic tissue, Leukaemic reticuloendotheliosis	haematological	lymphoma	1		
+202.5	Other lymphatic and hematopoietic tissues, Letterer-Siwe disease	haematological	lymphoma	1		
+202.6	Other malignant neoplasm of lymphoid and histiocytic tissue, Malignant mast-cell tumours	haematological	lymphoma	1		
+202.8	Other malignant neoplasm of lymphoid and histiocytic tissue, Other lymphomas	haematological	lymphoma	1		
+202.9	Other malignant neoplasm of lymphoid and histiocytic tissue, Other and unspecified	haematological	lymphoma	1		
+203	Multiple myeloma	haematological	multiple myeloma	1		
+203.0	Multiple myeloma	haematological	multiple myeloma	1		
+203.02	Multiple myeloma	haematological	multiple myeloma	1		
+203.8	Other immunoproliferative neoplasms	haematological	multiple myeloma	1		
+203.1	Plasma cell leukemia	haematological	leukaemia	1		
+204	Lymphoid leukemia	haematological	leukaemia	1		
+204.0	Lymphoid leukemia acute	haematological	leukaemia	1		
+204.1	Lymphoid leukemia chronic	haematological	leukaemia	1		
+204.2	Lymphoid leukemia subacute	haematological	leukaemia	1		
+204.8	Other lymphoid leukemia	haematological	leukaemia	1		
+204.9	Unspecified lymphoid leukemia	haematological	leukaemia	1		
+205	Myeloid leukemia	haematological	leukaemia	1		
+205.0	Myeloid leukemia acute	haematological	leukaemia	1		
+205.1	Myeloid leukemia chronic	haematological	leukaemia	1		
+205.2	Myeloid leukemia subacute	haematological	leukaemia	1		
+205.3	Myeloid sarcoma	haematological	leukaemia	1		
+205.8	Other myeloid leukemia	haematological	leukaemia	1		
+205.9	Unspecified myeloid leukemia	haematological	leukaemia	1		
+206	Monocytic leukemia	haematological	leukaemia	1		
+206.0	Monocytic leukemia acute	haematological	leukaemia	1		
+206.1	Monocytic leukemia chronic	haematological	leukaemia	1		
+206.2	Monocytic leukemia subacute	haematological	leukaemia	1		
+206.8	Other monocytic leukemia	haematological	leukaemia	1		
+206.9	Unspecified monocytic leukemia	haematological	leukaemia	1		
+207	Other specified leukemia	haematological	leukaemia	1		
+207.0	Acute erythremia and erythroleukemia	haematological	leukaemia	1		
+207.1	Chronic erythremia	haematological	leukaemia	1		
+207.2	Megakaryocytic leukemia	haematological	leukaemia	1		
+207.8	Other specified leukemia	haematological	leukaemia	1		
+208	Leukemia of unspecified cell type	haematological	leukaemia	1		
+208.0	Leukemia of unspecified cell type acute	haematological	leukaemia	1		
+208.1	Leukemia of unspecified cell type chronic	haematological	leukaemia	1		
+208.2	Leukemia of unspecified cell type subacute	haematological	leukaemia	1		
+208.8	Other leukemia of unspecified cell type	haematological	leukaemia	1		
+208.9	Unspecified leukemia	haematological	leukaemia	1		
+238	Neoplasm of uncertain behaviour of other and unspecified sites and tissues	haematological		1		
+238.4	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Polycythaemia vera	haematological		1		
+238.5	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Histiocytic and mast cells	haematological		1		
+238.6	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Plasma cells	haematological		1		
+238.7	Neoplasm of uncertain behaviour of other and unspecified sites and tissues, Other lymphatic and haematopoietic tissues	haematological		1		
+273.1	Monoclonal paraproteinemia	haematological		1		

@@ -1,0 +1,69 @@
+icd	term	art_pvd	ven_pvd	cap_pvd	pe	dvt	subtype
+I70	Atherosclerosis	1					pad
+I70.0	Atherosclerosis of aorta	1					pad
+I70.1	Atherosclerosis of renal artery	1					pad
+I70.2	Atherosclerosis of arteries of extremities	1					pad
+I70.8	Atherosclerosis of other arteries	1					pad
+I70.9	Generalized and unspecified atherosclerosis	1					pad
+I71	Aortic aneurysm and dissection	1					pad
+I71.0	Dissection of aorta [any part]	1					pad
+I71.1	Thoracic aortic aneurysm, ruptured	1					pad
+I71.2	Thoracic aortic aneurysm, without mention of rupture	1					pad
+I71.3	Abdominal aortic aneurysm, ruptured	1					pad
+I71.4	Abdominal aortic aneurysm, without mention of rupture	1					pad
+I71.5	Thoracoabdominal aortic aneurysm, ruptured	1					pad
+I71.6	Thoracoabdominal aortic aneurysm, without mention of rupture	1					pad
+I71.8	Aortic aneurysm of unspecified site, ruptured	1					pad
+I71.9	Aortic aneurysm of unspecified site, without mention of rupture	1					pad
+I72	Other aneurysm and dissection	1					pad
+I72.1	Aneurysm and dissection of artery of upper extremity	1					pad
+I72.2	Aneurysm and dissection of renal artery	1					pad
+I72.3	Aneurysm and dissection of iliac artery	1					pad
+I72.4	Aneurysm and dissection of artery of lower extremity	1					pad
+I72.6	Aneurysm and dissection of vertebral artery	1					pad
+I72.8	Aneurysm and dissection of other specified arteries	1					pad
+I72.9	Aneurysm and dissection of unspecified site	1					pad
+I73	Other peripheral vascular diseases	1					pad
+I73.1	Thromboangiitis obliterans [Buerger]	1					pad
+I73.8	Other specified peripheral vascular diseases	1					pad
+I73.9	Peripheral vascular disease, unspecified	1					pad
+I74	Arterial embolism and thrombosis	1					pad
+I74.0	Embolism and thrombosis of abdominal aorta	1					pad
+I74.1	Embolism and thrombosis of other and unspecified parts of aorta	1					pad
+I74.2	Embolism and thrombosis of arteries of upper extremities	1					pad
+I74.3	Embolism and thrombosis of arteries of lower extremities	1					pad
+I74.4	Embolism and thrombosis of arteries of extremities, unspecified	1					pad
+I74.5	Embolism and thrombosis of iliac artery	1					pad
+I74.8	Embolism and thrombosis of other arteries	1					pad
+I74.9	Embolism and thrombosis of unspecified artery	1					pad
+I77.1	Stricture of artery	1					pad
+I79.0	Aneurysm of aorta in diseases classified elsewhere	1					pad
+I79.2	Peripheral angiopathy in diseases classified elsewhere	1					pad
+K55.1	Chronic vascular disorders of intestine	1					pad
+K55.8	Other vascular disorders of intestine	1					pad
+K55.9	Vascular disorder of intestine, unspecified	1					pad
+Z95.8	Presence of other cardiac and vascular implants and grafts	1					pad
+Z95.9	Presence of cardiac and vascular implant and graft, unspecified	1					pad
+I80	Phlebitis and thrombophlebitis		1				vte
+I80.0	Phlebitis and thrombophlebitis of superficial vessels of lower extremities		1				vte
+I80.1	Phlebitis and thrombophlebitis of femoral vein		1			1	vte
+I80.2	Phlebitis and thrombophlebitis of other deep vessels of lower extremities		1			1	vte
+I80.3	Phlebitis and thrombophlebitis of lower extremities, unspecified		1			1	vte
+I80.8	Phlebitis and thrombophlebitis of other sites		1			1	vte
+I80.9	Phlebitis and thrombophlebitis of unspecified site		1			1	vte
+I81	Portal vein thrombosis		1				vte
+I82	Other venous embolism and thrombosis		1				vte
+I82.0	Budd-Chiari syndrome		1				vte
+I82.1	Thrombophlebitis migrans		1				vte
+I82.2	Embolism and thrombosis of vena cava		1				vte
+I82.3	Embolism and thrombosis of renal vein		1				vte
+I82.8	Embolism and thrombosis of other specified veins		1				vte
+I83	Varicose veins of lower extremities		1				vte
+I83.0	Varicose veins of lower extremities with ulcer		1				vte
+I83.1	Varicose veins of lower extremities with inflammation		1				vte
+I83.2	Varicose veins of lower extremities with both ulcer and inflammation		1				vte
+I87.0	Postthrombotic syndrome		1				vte
+I87.2	Venous insufficiency (chronic)(peripheral)		1				vte
+I26	Pulmonary embolism		1		1		vte
+I26.0	Pulmonary embolism with mention of acute cor pulmonale		1		1		vte
+I26.9	Pulmonary embolism without mention of acute cor pulmonale		1		1		vte

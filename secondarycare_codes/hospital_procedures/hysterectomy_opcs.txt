@@ -1,0 +1,17 @@
+opcs	desc	hyster	coding_sys
+R251	 Caesarean Hysterectomy	1	OPCS-4.10
+Q07	Abdominal excision of uterus	1	OPCS-4.10
+Q071	 Abdominal hysterocolpectomy and excision of periuterine tissue	1	OPCS-4.10
+Q072	Abdominal hysterectomy and excision of periuterine tissue NEC	1	OPCS-4.10
+Q073	Abdominal hysterocolpectomy NEC	1	OPCS-4.10
+Q074	 Total abdominal hysterectomy NEC	1	OPCS-4.10
+Q075	Subtotal abdominal hysterectomy	1	OPCS-4.10
+Q076	 Excision of accessory uterus	1	OPCS-4.10
+Q078	 Other specified	1	OPCS-4.10
+Q079	Unspecified	1	OPCS-4.10
+Q08	Vaginal excision of uterus	1	OPCS-4.10
+Q081	Vaginal hysterocolpectomy and excision of periuterine tissue	1	OPCS-4.10
+Q082	Vaginal hysterectomy and excision of periuterine tissue NEC	1	OPCS-4.10
+Q083	Vaginal hysterocolpectomy NEC	1	OPCS-4.10
+Q088	Other specified	1	OPCS-4.10
+Q089	Unspecified	1	OPCS-4.10

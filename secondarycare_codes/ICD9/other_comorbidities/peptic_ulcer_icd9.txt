@@ -1,0 +1,41 @@
+icd	term	pud
+531	Gastric ulcer	1
+531.0	Gastric ulcer, acute with haemorrhage 	1
+531.1	Gastric ulcer, acute with perforation 	1
+531.2	Gastric ulcer, acute with both haemorrhage and perforation	1
+531.3	Gastric ulcer, acute without haemorrhage or perforation 	1
+531.4	Gastric ulcer, chronic or unspecified with haemorrhage 	1
+531.5	Gastric ulcer, chronic or unspecified with perforation 	1
+531.6	Gastric ulcer, chronic or unspecified with both haemorrhage and perforation	1
+531.7	Gastric ulcer, chronic without haemorrhage or perforation	1
+531.9	Gastric ulcer, unspecified as acute or chronic, without haemorrhage or perforation	1
+532	Duodenal ulcer	1
+532.0	Duodenal ulcer, acute with haemorrhage 	1
+532.1	Duodenal ulcer, acute with perforation 	1
+532.2	Duodenal ulcer, acute with both haemorrhage and perforation	1
+532.3	Duodenal ulcer, acute without haemorrhage or perforation 	1
+532.4	Duodenal ulcer, chronic or unspecified with haemorrhage 	1
+532.5	Duodenal ulcer, chronic or unspecified with perforation 	1
+532.6	Duodenal ulcer, chronic or unspecified with both haemorrhage and perforation	1
+532.7	Duodenal ulcer, chronic without haemorrhage or perforation	1
+532.9	Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation	1
+533	Peptic ulcer, site unspecified	1
+533.0	Peptic ulcer, site unspecified, acute with haemorrhage 	1
+533.1	Peptic ulcer, site unspecified, acute with perforation 	1
+533.2	Peptic ulcer, site unspecified, acute with both haemorrhage and perforation	1
+533.3	Peptic ulcer, site unspecified, acute without haemorrhage or perforation 	1
+533.4	Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage 	1
+533.5	Peptic ulcer, site unspecified, chronic or unspecified with perforation 	1
+533.6	Peptic ulcer, site unspecified, chronic or unspecified with both haemorrhage and perforation	1
+533.7	Peptic ulcer, site unspecified, chronic without haemorrhage or perforation	1
+533.9	Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage or perforation	1
+534	Gastric ulcer	1
+534.0	Gastric ulcer, acute with haemorrhage 	1
+534.1	Gastric ulcer, acute with perforation 	1
+534.2	Gastric ulcer, acute with both haemorrhage and perforation	1
+534.3	Gastric ulcer, acute without haemorrhage or perforation 	1
+534.4	Gastric ulcer, chronic or unspecified with haemorrhage 	1
+534.5	Gastric ulcer, chronic or unspecified with perforation 	1
+534.6	Gastric ulcer, chronic or unspecified with both haemorrhage and perforation	1
+534.7	Gastric ulcer, chronic without haemorrhage or perforation	1
+534.9	Gastric ulcer, unspecified as acute or chronic, without haemorrhage or perforation	1

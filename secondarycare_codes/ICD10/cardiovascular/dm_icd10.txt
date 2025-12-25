@@ -1,0 +1,56 @@
+icd	term	eod_cat
+E10	Type 1 diabetes mellitus	0
+E10.0	Type 1 diabetes mellitus  with coma	0
+E10.1	Type 1 diabetes mellitus  with ketoacidosis	0
+E10.2	Type 1 diabetes mellitus  with renal complications	1
+E10.3	Type 1 diabetes mellitus  with ophthalmic complications	1
+E10.4	Type 1 diabetes mellitus  with neurological complications	1
+E10.5	Type 1 diabetes mellitus  with peripheral circulatory complications	1
+E10.6	Type 1 diabetes mellitus  with other specified complications	0
+E10.7	Type 1 diabetes mellitus  with multiple complications	1
+E10.8	Type 1 diabetes mellitus  with unspecified complications	0
+E10.9	Type 1 diabetes mellitus  without complications	0
+E11	Type 2 diabetes mellitus	0
+E11.0	Type 2 diabetes mellitus  with coma	0
+E11.1	Type 2 diabetes mellitus  with ketoacidosis	1
+E11.2	Type 2 diabetes mellitus  with renal complications	1
+E11.3	Type 2 diabetes mellitus  with ophthalmic complications	1
+E11.4	Type 2 diabetes mellitus  with neurological complications	1
+E11.5	Type 2 diabetes mellitus  with peripheral circulatory complications	1
+E11.6	Type 2 diabetes mellitus  with other specified complications	0
+E11.7	Type 2 diabetes mellitus  with multiple complications	1
+E11.8	Type 2 diabetes mellitus  with unspecified complications	0
+E11.9	Type 2 diabetes mellitus  without complications	0
+E12	Malnutrition-related diabetes mellitus	0
+E12.0	Malnutrition-related diabetes mellitus with coma	0
+E12.1	Malnutrition-related diabetes mellitus with ketoacidosis	0
+E12.2	Malnutrition-related diabetes mellitus with renal complications	1
+E12.3	Malnutrition-related diabetes mellitus with ophthalmic complications	1
+E12.4	Malnutrition-related diabetes mellitus with neurological complications	1
+E12.5	Malnutrition-related diabetes mellitus with peripheral circulatory complications	1
+E12.6	Malnutrition-related diabetes mellitus with other specified complications	0
+E12.7	Malnutrition-related diabetes mellitus with multiple complications	1
+E12.8	Malnutrition-related diabetes mellitus with unspecified complications	0
+E12.9	Malnutrition-related diabetes mellitus without complications	0
+E13	Other specified diabetes mellitus	0
+E13.0	Other specified diabetes mellitus with coma	0
+E13.1	Other specified diabetes mellitus with ketoacidosis	0
+E13.2	Other specified diabetes mellitus with renal complications	1
+E13.3	Other specified diabetes mellitus with ophthalmic complications	1
+E13.4	Other specified diabetes mellitus with neurological complications	1
+E13.5	Other specified diabetes mellitus with peripheral circulatory complications	1
+E13.6	Other specified diabetes mellitus with other specified complications	0
+E13.7	Other specified diabetes mellitus with multiple complications	1
+E13.8	Other specified diabetes mellitus with unspecified complications	0
+E13.9	Other specified diabetes mellitus without complications	0
+E14	Unspecified diabetes mellitus	1
+E14.0	Unspecified diabetes mellitus with coma	0
+E14.1	Unspecified diabetes mellitus with ketoacidosis	0
+E14.2	Unspecified diabetes mellitus with renal complications	1
+E14.3	Unspecified diabetes mellitus with ophthalmic complications	1
+E14.4	Unspecified diabetes mellitus with neurological complications	1
+E14.5	Unspecified diabetes mellitus with peripheral circulatory complications	1
+E14.6	Unspecified diabetes mellitus with other specified complications	0
+E14.7	Unspecified diabetes mellitus with multiple complications	1
+E14.8	Unspecified diabetes mellitus with unspecified complications	0
+E14.9	Unspecified diabetes mellitus without complications	0

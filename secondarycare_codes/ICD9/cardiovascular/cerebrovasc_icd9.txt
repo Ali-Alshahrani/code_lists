@@ -1,0 +1,31 @@
+icd	term	cvd_type	stroke_class	stroke	tia	stroke_tia	cerebro
+430	Subarachnoid hemorrhage	stroke	hemorrhagic	1		1	1
+431	Intracerebral hemorrhage	stroke	hemorrhagic	1		1	1
+432	Other and unspecified intracranial hemorrhage	stroke	hemorrhagic	1		1	1
+432.0	Nontraumatic extradural haemorrhage	stroke	hemorrhagic	1		1	1
+432.1	Subdural haemorrhage	stroke	hemorrhagic	1		1	1
+432.9	Unspecified intracranial haemorrhage	stroke	hemorrhagic	1		1	1
+433	Occlusion and stenosis of precerebral arteries	stroke	ischemic	1		1	1
+433.0	Basilar artery	stroke	ischemic	1		1	1
+433.1	Carotid artery	stroke	ischemic	1		1	1
+433.2	Vertebral artery	stroke	ischemic	1		1	1
+433.3	Multiple and bilateral	stroke	ischemic	1		1	1
+433.8	Other	stroke	ischemic	1		1	1
+433.9	Unspecified, Precerebral artery NOS	stroke	ischemic	1		1	1
+434	Occlusion of cerebral arteries	stroke	ischemic	1		1	1
+434.0	Cerebral thrombosis	stroke	ischemic	1		1	1
+434.1	Cerebral embolism	stroke	ischemic	1		1	1
+434.9	Unspecified cerebral infarction NOS	stroke	ischemic	1		1	1
+435	Transient cerebral ischemia	tia	ischemic		1	1	1
+436	Acute but ill-defined cerebrovascular disease	stroke	ischemic	1		1	1
+437	Other and ill-defined cerebrovascular disease	cerebrovascular disease					1
+437.0	Cerebral atherosclerosis	cerebrovascular disease					1
+437.1	Other generalized ischaemic cerebrovascular disease	cerebrovascular disease					1
+437.2	Hypertensive encephalopathy	cerebrovascular disease					1
+437.3	Cerebral aneurysm, nonruptured	cerebrovascular disease					1
+437.4	Cerebral arteritis	cerebrovascular disease					1
+437.5	Moyamoya disease	cerebrovascular disease					1
+437.6	Nonpyogenic thrombosis of intracranial venous sinus	cerebrovascular disease					1
+437.8	Other cerebrovascular disease	cerebrovascular disease					1
+437.9	Unspecified cerebrovascular disease	cerebrovascular disease					1
+438	Late effects of cerebrovascular disease	cerebrovascular disease					1

@@ -1,0 +1,24 @@
+icd	term	hemiplegia
+334.1	Hereditary spastic paraplegia	1
+342	Hemiplegia	1
+342.0	Flaccid hemiplegia	1
+342.1	Spastic hemiplegia	1
+342.9	Unspecified	1
+343	Infantile cerebral palsy	1
+343.0	Diplegic	1
+343.1	Hemiplegic	1
+343.2	Quadriplegic	1
+343.3	Monoplegic	1
+343.4	Infantile hemiplegia	1
+343.8	Other	1
+343.9	Unspecified	1
+344	Other paralytic syndromes	1
+344.0	Quadriplegia	1
+344.1	Paraplegia	1
+344.2	Diplegia of upper limbs	1
+344.3	Monoplegia of lower limb	1
+344.4	Monoplegia of upper limb	1
+344.5	Unspecified monoplegia	1
+344.6	Cauda equina syndrome	1
+344.8	Other	1
+344.9	Unspecified	1

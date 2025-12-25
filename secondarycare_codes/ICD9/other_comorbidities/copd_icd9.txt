@@ -1,0 +1,37 @@
+icd	desc
+416	Chronic pulmonary heart disease
+416.8	Other chronic pulmonary heart diseases
+416.9	Chronic pulmonary heart disease, unspecified
+490	Bronchitis, not specified as acute or chronic
+491	Chronic bronchitis
+491.0	Simple chronic bronchitis
+491.1	Mucopurulent chronic bronchitis
+491.2	Obstructive chronic bronchitis
+491.8	Other chronic bronchitis
+491.9	Unspecified
+492	Emphysema
+493	Asthma
+493.0	Extrinsic asthma
+493.1	Intrinsic asthma
+493.9	Asthma, unspecified
+494	Bronchiectasis
+495	Extrinsic allergic alveolitis
+495.0	Farmers' lung
+495.1	Bagassosis
+495.2	Bird fanciers' lung
+495.3	Suberosis
+495.4	Maltworkers'lung
+495.5	Mushroom-workers' lung
+495.6	Maple-bark-strippers' lung
+495.7	 Ventilation pneumonitis
+495.8	Other allergic pneumonitis
+495.9	Unspecified allergic alveolitis
+496	Chronic airways obstruction, not elsewhere classified
+500	Coalworkers' pneumoconiosis
+501	Asbestosis
+502	Pneumoconiosis due to other silica or silicates
+503	Pneumoconiosis due to other inorganic dust
+504	Pneumopathy due to inhalation of other dust
+505	Pneumoconiosis, unspecified
+506.4	Chronic respiratory conditions due to fumes and vapours
+508.1	Chronic and other pulmonary manifestations due to radiation

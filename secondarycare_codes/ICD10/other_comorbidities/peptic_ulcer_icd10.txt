@@ -1,0 +1,41 @@
+icd	term
+K25	Gastric ulcer
+K25.0	Gastric ulcer, acute with haemorrhage 
+K25.1	Gastric ulcer, acute with perforation 
+K25.2	Gastric ulcer, acute with both haemorrhage and perforation
+K25.3	Gastric ulcer, acute without haemorrhage or perforation 
+K25.4	Gastric ulcer, chronic or unspecified with haemorrhage 
+K25.5	Gastric ulcer, chronic or unspecified with perforation 
+K25.6	Gastric ulcer, chronic or unspecified with both haemorrhage and perforation
+K25.7	Gastric ulcer, chronic without haemorrhage or perforation
+K25.9	Gastric ulcer, unspecified as acute or chronic, without haemorrhage or perforation
+K26	Duodenal ulcer
+K26.0	Duodenal ulcer, acute with haemorrhage 
+K26.1	Duodenal ulcer, acute with perforation 
+K26.2	Duodenal ulcer, acute with both haemorrhage and perforation
+K26.3	Duodenal ulcer, acute without haemorrhage or perforation 
+K26.4	Duodenal ulcer, chronic or unspecified with haemorrhage 
+K26.5	Duodenal ulcer, chronic or unspecified with perforation 
+K26.6	Duodenal ulcer, chronic or unspecified with both haemorrhage and perforation
+K26.7	Duodenal ulcer, chronic without haemorrhage or perforation
+K26.9	Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation
+K27	Peptic ulcer, site unspecified
+K27.0	Peptic ulcer, site unspecified, acute with haemorrhage 
+K27.1	Peptic ulcer, site unspecified, acute with perforation 
+K27.2	Peptic ulcer, site unspecified, acute with both haemorrhage and perforation
+K27.3	Peptic ulcer, site unspecified, acute without haemorrhage or perforation 
+K27.4	Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage 
+K27.5	Peptic ulcer, site unspecified, chronic or unspecified with perforation 
+K27.6	Peptic ulcer, site unspecified, chronic or unspecified with both haemorrhage and perforation
+K27.7	Peptic ulcer, site unspecified, chronic without haemorrhage or perforation
+K27.9	Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage or perforation
+K28	Gastrojejunal ulcer
+K28.0	Gastrojejunal ulcer, acute with haemorrhage 
+K28.1	Gastrojejunal ulcer, acute with perforation 
+K28.2	Gastrojejunal ulcer, acute with both haemorrhage and perforation
+K28.3	Gastrojejunal ulcer, acute without haemorrhage or perforation 
+K28.4	Gastrojejunal ulcer, chronic or unspecified with haemorrhage 
+K28.5	Gastrojejunal ulcer, chronic or unspecified with perforation 
+K28.6	Gastrojejunal ulcer, chronic or unspecified with both haemorrhage and perforation
+K28.7	Gastrojejunal ulcer, chronic without haemorrhage or perforation
+K28.9	Gastrojejunal ulcer, unspecified as acute or chronic, without haemorrhage or perforation

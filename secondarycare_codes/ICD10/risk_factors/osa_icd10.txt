@@ -1,0 +1,2 @@
+icd10	term
+G47.3	Sleep apnoea

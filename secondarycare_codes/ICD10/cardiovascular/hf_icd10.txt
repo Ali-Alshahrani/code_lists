@@ -1,0 +1,13 @@
+icd	term
+I11	Hypertensive heart disease
+I11.0	Hypertensive heart disease with (congestive) heart failure
+I11.9	Hypertensive heart disease without (congestive) heart failure
+I13	Hypertensive heart and renal disease
+I13.0	Hypertensive heart and renal disease with (congestive) heart failure
+I13.1	Hypertensive heart and renal disease with renal failure
+I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+I13.9	Hypertensive heart and renal disease, unspecified
+I50	Heart failure
+I50.0	Congestive heart failure
+I50.1	Left ventricular failure
+I50.9	Heart failure, unspecified

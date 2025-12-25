@@ -1,0 +1,2 @@
+icd	term	hiv
+042	Human immunodeficiency virus [HIV] disease	1

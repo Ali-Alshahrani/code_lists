@@ -1,0 +1,335 @@
+icd	term	class	secondary_ca	history_ca	coding_sys
+140	Malignant neoplasm of lip	head and neck cancer			icd9
+1400	Upper lip, vermilion border	head and neck cancer			icd9
+1401	Lower lip, vermilion border	head and neck cancer			icd9
+1403	Upper lip, inner aspect	head and neck cancer			icd9
+1404	Lower lip, inner aspect	head and neck cancer			icd9
+1405	Lip, unspecified, inner aspect	head and neck cancer			icd9
+1406	Commissure of lip	head and neck cancer			icd9
+1408	Other	head and neck cancer			icd9
+1409	Lip, unspecified, vermilion border	head and neck cancer			icd9
+141	Malignant neoplasm of tongue	head and neck cancer			icd9
+1410	Base of tongue	head and neck cancer			icd9
+1411	Dorsal surface of tongue	head and neck cancer			icd9
+1412	Tip and lateral border of tongue	head and neck cancer			icd9
+1413	Ventral surface of tongue	head and neck cancer			icd9
+1414	Anterior two-thirds of tongue, part unspecified	head and neck cancer			icd9
+1415	Junctional zone	head and neck cancer			icd9
+1416	Lingual tonsil	head and neck cancer			icd9
+1418	Other	head and neck cancer			icd9
+1419	Tongue, unspecified	head and neck cancer			icd9
+142	Malignant neoplasm of major salivary glands	head and neck cancer			icd9
+1420	Parotid gland	head and neck cancer			icd9
+1421	Submandibular gland	head and neck cancer			icd9
+1422	Sublingual gland	head and neck cancer			icd9
+1428	Other	head and neck cancer			icd9
+1429	Site unspecified	head and neck cancer			icd9
+143	Malignant neoplasm of gum	head and neck cancer			icd9
+1430	Upper gum	head and neck cancer			icd9
+1431	Lower gum	head and neck cancer			icd9
+1438	Other	head and neck cancer			icd9
+1439	Gum, unspecified	head and neck cancer			icd9
+144	Malignant neoplasm of floor of mouth	head and neck cancer			icd9
+1440	Anterior portion	head and neck cancer			icd9
+1441	Lateral portion	head and neck cancer			icd9
+1448	Other	head and neck cancer			icd9
+1449	Part unspecified	head and neck cancer			icd9
+145	Malignant neoplasm of other and unspecified parts of mouth	head and neck cancer			icd9
+1450	Cheek mucosa	head and neck cancer			icd9
+1451	Vestibule of mouth	head and neck cancer			icd9
+1452	Hard palate	head and neck cancer			icd9
+1453	Soft palate	head and neck cancer			icd9
+1454	Uvula	head and neck cancer			icd9
+1455	Palate, unspecified	head and neck cancer			icd9
+1456	Retromolar area	head and neck cancer			icd9
+1458	Other	head and neck cancer			icd9
+1459	Mouth, unspecified	head and neck cancer			icd9
+146	Malignant neoplasm of oropharynx	head and neck cancer			icd9
+1460	Tonsil	head and neck cancer			icd9
+1461	Tonsillar fossa	head and neck cancer			icd9
+1462	Tonsillar pillars (anterior) (posterior)	head and neck cancer			icd9
+1463	Vallecula	head and neck cancer			icd9
+1464	Anterior aspect of epiglottis	head and neck cancer			icd9
+1465	Junctional region	head and neck cancer			icd9
+1466	Lateral wall of oropharynx	head and neck cancer			icd9
+1467	Posterior wall of oropharynx	head and neck cancer			icd9
+1468	Other	head and neck cancer			icd9
+1469	Oropharynx, unspecified	head and neck cancer			icd9
+147	Malignant neoplasm of nasopharynx	head and neck cancer			icd9
+1470	Superior wall	head and neck cancer			icd9
+1471	Posterior wall	head and neck cancer			icd9
+1472	Lateral wall	head and neck cancer			icd9
+1473	Anterior wall	head and neck cancer			icd9
+1478	Other	head and neck cancer			icd9
+1479	Nasopharynx, unspecified	head and neck cancer			icd9
+148	Malignant neoplasm of hypopharynx	head and neck cancer			icd9
+1480	Postcricoid region	head and neck cancer			icd9
+1481	Pyriform sinus	head and neck cancer			icd9
+1482	Aryepiglottic fold, hypopharyngeal aspect	head and neck cancer			icd9
+1483	Posterior hypopharyngeal wall	head and neck cancer			icd9
+1488	Other	head and neck cancer			icd9
+1489	Hypopharynx, unspecified	head and neck cancer			icd9
+149	Malignant neoplasm of other and ill-defined sites within the lip, oral cavity and pharynx	head and neck cancer			icd9
+1490	Pharynx, unspecified	head and neck cancer			icd9
+1491	Waldeyer's ring	head and neck cancer			icd9
+1498	Other	head and neck cancer			icd9
+1499	Ill-defined	head and neck cancer			icd9
+150	Malignant neoplasm of oesophagus	GI cancer			icd9
+1500	Cervical part	GI cancer			icd9
+1501	Thoracic part	GI cancer			icd9
+1502	Abdominal part	GI cancer			icd9
+1503	Upper third	GI cancer			icd9
+1504	Middle third	GI cancer			icd9
+1505	Lower third	GI cancer			icd9
+1508	Other	GI cancer			icd9
+1509	Oesophagus, unspecified	GI cancer			icd9
+151	Malignant neoplasm of stomach	GI cancer			icd9
+1510	Cardia	GI cancer			icd9
+1511	Pylorus	GI cancer			icd9
+1512	Pyloric antrum	GI cancer			icd9
+1513	Fundus of stomach	GI cancer			icd9
+1514	Body of stomach	GI cancer			icd9
+1515	Lesser curvature, unspecified	GI cancer			icd9
+1516	Greater curvature, unspecified	GI cancer			icd9
+1518	Other	GI cancer			icd9
+1519	Stomach, unspecified	GI cancer			icd9
+152	Malignant neoplasm of small intestine, including duodenum	GI cancer			icd9
+1520	Duodenum	GI cancer			icd9
+1521	Jejunum	GI cancer			icd9
+1522	Ileum	GI cancer			icd9
+1523	Meckel's diverticulum	GI cancer			icd9
+1528	Other	GI cancer			icd9
+1529	Small intestine, unspecified	GI cancer			icd9
+155	Malignant neoplasm of liver and intrahepatic bile ducts	GI cancer			icd9
+1550	Liver, primary	GI cancer			icd9
+1551	Intrahepatic bile ducts	GI cancer			icd9
+1552	Liver, not specified as primary or secondary	GI cancer			icd9
+156	Malignant neoplasm of gallbladder and extrahepatic bile ducts	GI cancer			icd9
+1560	Gallbladder	GI cancer			icd9
+1561	Extrahepatic bile ducts	GI cancer			icd9
+1562	Ampulla of vater	GI cancer			icd9
+1568	Other	GI cancer			icd9
+1569	Biliary tract,part unspecified	GI cancer			icd9
+157	Malignant neoplasm of pancreas	GI cancer			icd9
+1570	Head of pancreas	GI cancer			icd9
+1571	Body of pancreas	GI cancer			icd9
+1572	Tail of pancreas	GI cancer			icd9
+1573	Pancreatic duct	GI cancer			icd9
+1574	Islets of langerhans	GI cancer			icd9
+1578	Other	GI cancer			icd9
+1579	Part unspecified	GI cancer			icd9
+158	Malignant neoplasm of retroperitoneum and peritoneum	GI cancer			icd9
+1580	Retroperitoneum	GI cancer			icd9
+1588	Specified parts of peritoneum	GI cancer			icd9
+1589	Peritoneum, unspecified	GI cancer			icd9
+159	Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	GI cancer			icd9
+1590	Intestinal tract, part unspecified	GI cancer			icd9
+1591	Spleen, not elsewhere classified	GI cancer			icd9
+1598	Other	GI cancer			icd9
+1599	Ill-defined 	GI cancer			icd9
+160	Malignant neoplasm of nasal cavities, middle ear and accessory sinuses	respiratory and intrathoracic cancer			icd9
+1600	Nasal cavities	respiratory and intrathoracic cancer			icd9
+1601	Auditory tube, middle ear and mastoid air cells	respiratory and intrathoracic cancer			icd9
+1602	Maxillary sinus	respiratory and intrathoracic cancer			icd9
+1603	Ethmoidal sinus	respiratory and intrathoracic cancer			icd9
+1604	Frontal sinus	respiratory and intrathoracic cancer			icd9
+1605	Sphenoidal sinus	respiratory and intrathoracic cancer			icd9
+1608	Other	respiratory and intrathoracic cancer			icd9
+1609	Accessory sinus, unspecified	respiratory and intrathoracic cancer			icd9
+161	Malignant neoplasm of larynx	respiratory and intrathoracic cancer			icd9
+1610	Glottis	respiratory and intrathoracic cancer			icd9
+1611	Supraglottis	respiratory and intrathoracic cancer			icd9
+1612	Subglottis	respiratory and intrathoracic cancer			icd9
+1613	Laryngeal cartilages	respiratory and intrathoracic cancer			icd9
+1618	Other	respiratory and intrathoracic cancer			icd9
+1619	Larynx, unspecified	respiratory and intrathoracic cancer			icd9
+1631	Visceral	respiratory and intrathoracic cancer			icd9
+1638	Other	respiratory and intrathoracic cancer			icd9
+1639	Pleura, unspecified	respiratory and intrathoracic cancer			icd9
+164	Malignant neoplasm of thymus, heart and mediastinum	respiratory and intrathoracic cancer			icd9
+1640	Thymus	respiratory and intrathoracic cancer			icd9
+1641	Heart	respiratory and intrathoracic cancer			icd9
+1642	Anterior mediastinum	respiratory and intrathoracic cancer			icd9
+1643	Posterior mediastinum	respiratory and intrathoracic cancer			icd9
+1648	Other	respiratory and intrathoracic cancer			icd9
+1649	Mediastinum, part unspecified	respiratory and intrathoracic cancer			icd9
+165	Malignant neoplasm of other and ill-defined sites within the respiratory system and intrathoracic organs	respiratory and intrathoracic cancer			icd9
+1650	Upper respiratory tract, part unspecified	respiratory and intrathoracic cancer			icd9
+1658	Other	respiratory and intrathoracic cancer			icd9
+1659	Ill-defined sites within the respiratory system	respiratory and intrathoracic cancer			icd9
+170	Malignant neoplasm of bone and articular cartilage	bone and cartilage cancer			icd9
+1700	Bones of skull and face	bone and cartilage cancer			icd9
+1701	Lower jaw bone	bone and cartilage cancer			icd9
+1702	Vertebral column, excluding sacrum and coccyx	bone and cartilage cancer			icd9
+1703	Ribs, sternum and clavicle	bone and cartilage cancer			icd9
+1704	Long bones of upper limb and scapula	bone and cartilage cancer			icd9
+1705	Upper limb, short bones	bone and cartilage cancer			icd9
+1706	Pelvic bones, sacrum and coccyx	bone and cartilage cancer			icd9
+1707	Lower limb, long bones	bone and cartilage cancer			icd9
+1708	Lower limb, short bones	bone and cartilage cancer			icd9
+1709	Site unspecified	bone and cartilage cancer			icd9
+171	Malignant neoplasm of connective and other soft tissue	bone and cartilage cancer			icd9
+1710	Head, face and neck	bone and cartilage cancer			icd9
+1712	Upper limb, including shoulder	bone and cartilage cancer			icd9
+1713	Lower limb, including hip	bone and cartilage cancer			icd9
+1714	Thorax	bone and cartilage cancer			icd9
+1715	Abdomen	bone and cartilage cancer			icd9
+1716	Pelvis	bone and cartilage cancer			icd9
+1717	Trunk, unspecified	bone and cartilage cancer			icd9
+1718	Other	bone and cartilage cancer			icd9
+1719	Site unspecified	bone and cartilage cancer			icd9
+172	Malignant melanoma of skin	skin cancer			icd9
+1720	Lip	skin cancer			icd9
+1721	Eyelid, including canthus	skin cancer			icd9
+1722	Ear and external auricular canal	skin cancer			icd9
+1723	Other and unspecified parts of face	skin cancer			icd9
+1724	Scalp and neck	skin cancer			icd9
+1725	Trunk, except scrotum	skin cancer			icd9
+1726	Upper limb including shoulder	skin cancer			icd9
+1727	Lower limb including hip	skin cancer			icd9
+1728	Other	skin cancer			icd9
+1729	Site unspecified	skin cancer			icd9
+173	Other malignant neoplasm of skin	skin cancer			icd9
+1730	Skin of lip	skin cancer			icd9
+1731	Eyelid, including canthus	skin cancer			icd9
+1732	Ear and external auricular canal	skin cancer			icd9
+1733	Skin of other and unspecified parts of face	skin cancer			icd9
+1734	Scalp and skin of neck	skin cancer			icd9
+1735	Skin of trunk, except scrotum	skin cancer			icd9
+1736	Skin of upper limb, including shoulder	skin cancer			icd9
+1737	Skin of lower limb, including hip	skin cancer			icd9
+1738	Other	skin cancer			icd9
+1739	Site unspecified	skin cancer			icd9
+179	Malignant neoplasm of uterus, part unspecified	mesothelial and tissue cancer			icd9
+180	Malignant neoplasm of cervix uteri	mesothelial and tissue cancer			icd9
+1800	Endocervix	mesothelial and tissue cancer			icd9
+1801	Exocervix	mesothelial and tissue cancer			icd9
+1808	Other	mesothelial and tissue cancer			icd9
+1809	Cervix uteri, unspecified	mesothelial and tissue cancer			icd9
+181	Malignant neoplasm of placenta	mesothelial and tissue cancer			icd9
+182	Malignant neoplasm of body of uterus	mesothelial and tissue cancer			icd9
+1820	Corpus uteri, except isthmus	mesothelial and tissue cancer			icd9
+1821	Isthmus	mesothelial and tissue cancer			icd9
+1828	Other	mesothelial and tissue cancer			icd9
+183	Malignant neoplasm of ovary and other uterine adnexa	female genital organs			icd9
+1830	Ovary	female genital organs			icd9
+1832	Fallopian tube	female genital organs			icd9
+1833	Broad ligament	female genital organs			icd9
+1834	Parametrium	female genital organs			icd9
+1835	Round ligament	female genital organs			icd9
+1838	Other	female genital organs			icd9
+1839	Uterine adnexa, unspecified	female genital organs			icd9
+184	Malignant neoplasm of other and unspecified female genital organs	female genital organs			icd9
+1840	Vagina	female genital organs			icd9
+1841	Labia majora	female genital organs			icd9
+1842	Labia minora	female genital organs			icd9
+1843	Clitoris	female genital organs			icd9
+1844	Vulva, unspecified	female genital organs			icd9
+1848	Other	female genital organs			icd9
+1849	Site unspecified	female genital organs			icd9
+1869	Other and unspecified	female genital organs			icd9
+187	Malignant neoplasm of penis and other male genital organs	male genital organs			icd9
+1871	Prepuce	male genital organs			icd9
+1872	Glans penis	male genital organs			icd9
+1873	Body of penis	male genital organs			icd9
+1874	Penis, part unspecified	male genital organs			icd9
+1875	Epididymis	male genital organs			icd9
+1876	Spermatic cord	male genital organs			icd9
+1877	Scrotum	male genital organs			icd9
+1878	Other	male genital organs			icd9
+1879	Site unspecified	male genital organs			icd9
+188	Malignant neoplasm of bladder	urinary tract cancer			icd9
+1880	Trigone	urinary tract cancer			icd9
+1881	Dome	urinary tract cancer			icd9
+1882	Lateral wall	urinary tract cancer			icd9
+1883	Anterior wall	urinary tract cancer			icd9
+1884	Posterior wall	urinary tract cancer			icd9
+1885	Bladder neck	urinary tract cancer			icd9
+1886	Ureteric orifice	urinary tract cancer			icd9
+1887	Urachus	urinary tract cancer			icd9
+1888	Other	urinary tract cancer			icd9
+1889	Part unspecified	urinary tract cancer			icd9
+189	Malignant neoplasm of kidney and other and unspecified urinary organs	urinary tract cancer			icd9
+1890	Kidney, except pelvis	urinary tract cancer			icd9
+1891	Renal pelvis	urinary tract cancer			icd9
+1892	Ureter	urinary tract cancer			icd9
+1893	Urethra	urinary tract cancer			icd9
+1894	Paraurethral glands	urinary tract cancer			icd9
+1898	Other	urinary tract cancer			icd9
+1899	Site unspecified	urinary tract cancer			icd9
+190	Malignant neoplasm of eye	eye cancer			icd9
+1900	Eyeball, except conjunctiva, cornea, retina and choroid	eye cancer			icd9
+1901	Orbit	eye cancer			icd9
+1902	Lacrimal gland	eye cancer			icd9
+1903	Conjunctiva	eye cancer			icd9
+1904	Cornea	eye cancer			icd9
+1905	Retina	eye cancer			icd9
+1906	Choroid	eye cancer			icd9
+1907	Lacrimal duct	eye cancer			icd9
+1908	Other	eye cancer			icd9
+1909	Part unspecified	eye cancer			icd9
+191	Malignant neoplasm of brain	CNS cancer			icd9
+1910	Cerebrum, except lobes and ventricles	CNS cancer			icd9
+1911	Frontal lobe	CNS cancer			icd9
+1912	Temporal lobe	CNS cancer			icd9
+1913	Parietal lobe	CNS cancer			icd9
+1914	Occipital lobe	CNS cancer			icd9
+1915	Ventricle	CNS cancer			icd9
+1916	Cerebellum	CNS cancer			icd9
+1917	Brain stem	CNS cancer			icd9
+1918	Other	CNS cancer			icd9
+1919	Brain, unspecified	CNS cancer			icd9
+192	Malignant neoplasm of other and unspecified parts of nervous system	CNS cancer			icd9
+1920	Cranial nerves	CNS cancer			icd9
+1921	Cerebral meninges	CNS cancer			icd9
+1922	Spinal cord	CNS cancer			icd9
+1923	Spinal meninges	CNS cancer			icd9
+1928	Other	CNS cancer			icd9
+1929	Part unspecified	CNS cancer			icd9
+193	Malignant neoplasm of thyroid gland	thyroid or endocrine cancer			icd9
+194	Malignant neoplasm of other endocrine glands and related structures	thyroid or endocrine cancer			icd9
+1940	Suprarenal gland	thyroid or endocrine cancer			icd9
+1941	Parathyroid gland	thyroid or endocrine cancer			icd9
+1943	Pituitary gland and craniopharyngeal duct	thyroid or endocrine cancer			icd9
+1944	Pineal gland	thyroid or endocrine cancer			icd9
+1945	Carotid body	thyroid or endocrine cancer			icd9
+1946	Aortic body and other paraganglia	thyroid or endocrine cancer			icd9
+1948	Other	thyroid or endocrine cancer			icd9
+1949	Site unspecified	thyroid or endocrine cancer			icd9
+195	Malignant neoplasm of other and ill-defined sites	secondary and unspecified sites	1		icd9
+1950	Head, face and neck	secondary and unspecified sites	1		icd9
+1951	Thorax	secondary and unspecified sites	1		icd9
+1952	Abdomen	secondary and unspecified sites	1		icd9
+1953	Pelvis	secondary and unspecified sites	1		icd9
+1954	Upper limb	secondary and unspecified sites	1		icd9
+1955	Lower limb	secondary and unspecified sites	1		icd9
+1958	Other specified sites	secondary and unspecified sites	1		icd9
+196	Secondary and unspecified malignant neoplasm of lymph nodes	secondary and unspecified sites	1		icd9
+1960	Head, face and neck	secondary and unspecified sites	1		icd9
+1961	Intrathoracic	secondary and unspecified sites	1		icd9
+1962	Intra-abdominal	secondary and unspecified sites	1		icd9
+1963	Axilla and upper limb	secondary and unspecified sites	1		icd9
+1965	Inguinal and lower limb	secondary and unspecified sites	1		icd9
+1966	Intrapelvic	secondary and unspecified sites	1		icd9
+1968	Multiple sites	secondary and unspecified sites	1		icd9
+1969	Site unspecified	secondary and unspecified sites	1		icd9
+1971	Mediastinum	secondary and unspecified sites	1		icd9
+1972	Pleura	secondary and unspecified sites	1		icd9
+1973	Other respiratory organs	secondary and unspecified sites	1		icd9
+1974	Small intestine, including duodenum	secondary and unspecified sites	1		icd9
+1976	Retroperitoneum and peritoneum	secondary and unspecified sites	1		icd9
+1977	Liver	secondary and unspecified sites	1		icd9
+1978	Other digestive organs	secondary and unspecified sites	1		icd9
+198	Secondary malignant neoplasm of other specified sites	secondary and unspecified sites	1		icd9
+1980	Kidney	secondary and unspecified sites	1		icd9
+1981	Other urinary organs	secondary and unspecified sites	1		icd9
+1982	Skin	secondary and unspecified sites	1		icd9
+1983	Brain and spinal cord	secondary and unspecified sites	1		icd9
+1984	Other parts of nervous system	secondary and unspecified sites	1		icd9
+1985	Bone and bone marrow	secondary and unspecified sites	1		icd9
+1986	Ovary	secondary and unspecified sites	1		icd9
+1987	Suprarenal gland	secondary and unspecified sites	1		icd9
+1988	Other specified sites	secondary and unspecified sites	1		icd9
+199	Malignant neoplasm without specification of site	secondary and unspecified sites	1		icd9
+1990	Disseminated	secondary and unspecified sites	1		icd9
+1991	Other	secondary and unspecified sites	1		icd9

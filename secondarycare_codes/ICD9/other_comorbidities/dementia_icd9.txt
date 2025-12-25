@@ -1,0 +1,9 @@
+icd	term
+290	Senile and presenile organic psychotic conditions
+290.0	Senile dementia, simple type
+290.1	Presenile dementia
+290.2	Senile dementia, depressed or paranoid type
+290.3	Senile dementia with acute confusional state
+290.4	Arteriosclerotic dementia
+290.8	Other dementia
+290.9	Unspecified dementia

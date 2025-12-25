@@ -1,0 +1,30 @@
+icd	term	liver_mild	liver_severe
+070.22	Chronic viral hepatitis B with hepatic coma without hepatitis delta	1	
+070.23	Chronic viral hepatitis B with hepatic coma with hepatitis delta	1	
+070.32	Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta	1	
+070.33	Chronic viral hepatitis B without mention of hepatic coma with hepatitis delta	1	
+070.44	Chronic hepatitis C with hepatic coma	1	
+070.54	Chronic hepatitis C without mention of hepatic coma	1	
+070.6	Unspecified viral hepatitis with hepatic coma	1	
+070.9	Unspecified viral hepatitis without mention of hepatic coma	1	
+571	Chronic liver disease and cirrhosis	1	
+571.0	Alcoholic fatty liver	1	
+571.1	Acute alcoholic hepatitis	1	
+571.2	Alcoholic cirrhosis of liver	1	
+571.3	Alcoholic liver damage, unspecified	1	
+571.4	Hepatic infarction	1	
+571.5	Other specified disorders of liver	1	
+571.6	Unspecified disorder of liver 	1	
+573.3	Hepatitis, unspecified	1	
+573.4	Hepatic infarction	1	
+573.8	Other specified disorders of liver	1	
+573.9	Unspecified disorder of liver 	1	
+V42.7	Liver replaced by transplant	1	
+456.0	Esophageal varices with bleeding		1
+456.1	Esophageal varices without mention of bleeding		1
+456.2	Esophageal varices in diseases classified elsewhere		1
+570	Acute and subacute necrosis of liver		1
+572.2	Hepatic encephalopathy		1
+572.3	Portal hypertension		1
+572.4	Hepatorenal syndrome		1
+572.8	Other sequelae of chronic liver disease		1

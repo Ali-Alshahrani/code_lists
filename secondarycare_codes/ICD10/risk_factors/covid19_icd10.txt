@@ -1,0 +1,12 @@
+icd10	term
+U07.1	COVID-19, virus identified
+U07.2	COVID-19, virus not identified (COVID-19 NOS)
+U08	Personal history of COVID-19
+U08.9	Personal history of COVID-19, unspecified
+U09	Post COVID-19 condition
+U09.9	Post COVID-19 condition, unspecified
+U10	Multisystem inflammatory syndrome associated with COVID-19
+U10.9	Multisystem inflammatory syndrome associated with COVID-19, unspecified
+U12	COVID-19 vaccines causing adverse effects in therapeutic use
+U12.9	COVID-19 vaccines causing adverse effects in therapeutic use, unspecified
+B97.2	Coronavirus as the cause of diseases classified to other chapters

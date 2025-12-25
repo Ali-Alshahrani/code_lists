@@ -1,0 +1,22 @@
+icd	term
+710	Diffuse diseases of connective tissue
+710.0	Systemic lupus erythematosus
+710.1	Systemic sclerosis
+710.2	Sjögren’s syndrome
+710.3	Dermatomyositis
+710.4	Polymyositis
+710.5	Other diffuse connective tissue disease
+710.8	Other specified connective tissue disease
+710.9	Unspecified connective tissue disease
+714	Rheumatoid arthritis and other inflammatory polyarthropathies
+714.0	Rheumatoid arthritis
+714.1	Felty's syndrome
+714.2	RA with systemic involvement
+714.3	Juvenile RA
+714.4	Chronic postrheumatic arthritis
+714.8	Rheumatoid lung
+714.81	Rheumatoid lung
+714.89	Other inflammatory polyarthropathies
+714.9	Inflammatory polyarthropathy, unspecified
+715	Osteoarthrosis and allied disorders
+725	Polymyalgia rheumatica

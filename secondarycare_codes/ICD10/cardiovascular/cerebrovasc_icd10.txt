@@ -1,0 +1,92 @@
+icd	term	cvd_type	stroke_class	stroke	tia	stroke_tia	cerebro
+G45	transient cerebral ischaemic attacks and related syndromes	tia	ischemic		1	1	1
+G45.0	vertebro-basilar artery syndrome	stroke	ischemic	1		1	1
+G45.1	carotid artery syndrome (hemispheric)	cerebrovascular disease					1
+G45.2	multiple and bilateral precerebral artery syndromes	stroke	ischemic	1		1	1
+G45.3	amaurosis fugax	tia	ischemic		1	1	1
+G45.8	other transient cerebral ischaemic attacks and related syndromes	tia	ischemic		1	1	1
+G45.9	transient cerebral ischaemic attack, unspecified	tia	ischemic		1	1	1
+G46	vascular syndromes of brain in cerebrovascular diseases	cerebrovascular disease					1
+G46.0	middle cerebral artery syndrome	stroke	ischemic	1		1	1
+G46.1	anterior cerebral artery syndrome	stroke	ischemic	1		1	1
+G46.2	posterior cerebral artery syndrome	stroke	ischemic	1		1	1
+G46.3	brain stem stroke syndrome	stroke	ischemic	1		1	1
+G46.4	cerebellar stroke syndrome	stroke	ischemic	1		1	1
+G46.5	pure motor lacunar syndrome	stroke	ischemic	1		1	1
+G46.6	pure sensory lacunar syndrome	stroke	ischemic	1		1	1
+G46.7	other lacunar syndromes	stroke	ischemic	1		1	1
+G46.8	other vascular syndromes of brain in cerebrovascular diseases	cerebrovascular disease					1
+H340	Transient retinal artery occlusion	tia	ischemic		1	1	1
+I60	subarachnoid haemorrhage	stroke	hemorrhagic	1		1	1
+I60.0	subarachnoid haemorrhage from carotid siphon and bifurcation	stroke	hemorrhagic	1		1	1
+I60.1	subarachnoid haemorrhage from middle cerebral artery	stroke	hemorrhagic	1		1	1
+I60.2	subarachnoid haemorrhage from anterior communicating artery	stroke	hemorrhagic	1		1	1
+I60.3	subarachnoid haemorrhage from posterior communicating artery	stroke	hemorrhagic	1		1	1
+I60.4	subarachnoid haemorrhage from basilar artery	stroke	hemorrhagic	1		1	1
+I60.5	subarachnoid haemorrhage from vertebral artery	stroke	hemorrhagic	1		1	1
+I60.6	subarachnoid haemorrhage from other intracranial arteries	stroke	hemorrhagic	1		1	1
+I60.7	subarachnoid haemorrhage from intracranial artery, unspecified	stroke	hemorrhagic	1		1	1
+I60.8	other subarachnoid haemorrhage	stroke	hemorrhagic	1		1	1
+I60.9	subarachnoid haemorrhage, unspecified	stroke	hemorrhagic	1		1	1
+I61	intracerebral haemorrhage	stroke	hemorrhagic	1		1	1
+I61.0	intracerebral haemorrhage in hemisphere, subcortical	stroke	hemorrhagic	1		1	1
+I61.1	intracerebral haemorrhage in hemisphere, cortical	stroke	hemorrhagic	1		1	1
+I61.2	intracerebral haemorrhage in hemisphere, unspecified	stroke	hemorrhagic	1		1	1
+I61.3	intracerebral haemorrhage in brain stem	stroke	hemorrhagic	1		1	1
+I61.4	intracerebral haemorrhage in cerebellum	stroke	hemorrhagic	1		1	1
+I61.5	intracerebral haemorrhage, intraventricular	stroke	hemorrhagic	1		1	1
+I61.6	intracerebral haemorrhage, multiple localized	stroke	hemorrhagic	1		1	1
+I61.8	other intracerebral haemorrhage	stroke	hemorrhagic	1		1	1
+I61.9	intracerebral haemorrhage, unspecified	stroke	hemorrhagic	1		1	1
+I62	other nontraumatic intracranial haemorrhage	stroke	hemorrhagic	1		1	1
+I62.0	subdural haemorrhage (acute)(nontraumatic)	stroke	hemorrhagic	1		1	1
+I62.1	nontraumatic extradural haemorrhage	stroke	hemorrhagic	1		1	1
+I62.9	intracranial haemorrhage (nontraumatic), unspecified	stroke	hemorrhagic	1		1	1
+I63	cerebral infarction	stroke	ischemic	1		1	1
+I63.0	cerebral infarction due to thrombosis of precerebral arteries	stroke	ischemic	1		1	1
+I63.1	cerebral infarction due to embolism of precerebral arteries	stroke	ischemic	1		1	1
+I63.2	cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries	stroke	ischemic	1		1	1
+I63.3	cerebral infarction due to thrombosis of cerebral arteries	stroke	ischemic	1		1	1
+I63.4	cerebral infarction due to embolism of cerebral arteries	stroke	ischemic	1		1	1
+I63.5	cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries	stroke	ischemic	1		1	1
+I63.6	cerebral infarction due to cerebral venous thrombosis, nonpyogenic	stroke	ischemic	1		1	1
+I63.8	other cerebral infarction	stroke	ischemic	1		1	1
+I63.9	cerebral infarction, unspecified	stroke	ischemic	1		1	1
+I64	stroke, not specified as haemorrhage or infarction	stroke	other	1		1	1
+I65	occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction	cerebrovascular disease					1
+I65.0	occlusion and stenosis of vertebral artery	cerebrovascular disease					1
+I65.1	occlusion and stenosis of basilar artery	cerebrovascular disease					1
+I65.2	occlusion and stenosis of carotid artery	cerebrovascular disease					1
+I65.3	occlusion and stenosis of multiple and bilateral precerebral arteries	cerebrovascular disease					1
+I65.8	occlusion and stenosis of other precerebral artery	cerebrovascular disease					1
+I65.9	occlusion and stenosis of unspecified precerebral artery	cerebrovascular disease					1
+I66	occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction	cerebrovascular disease					1
+I66.0	occlusion and stenosis of middle cerebral artery	cerebrovascular disease					1
+I66.1	occlusion and stenosis of anterior cerebral artery	cerebrovascular disease					1
+I66.2	occlusion and stenosis of posterior cerebral artery	cerebrovascular disease					1
+I66.3	occlusion and stenosis of cerebellar arteries	cerebrovascular disease					1
+I66.4	occlusion and stenosis of multiple and bilateral cerebral arteries	cerebrovascular disease					1
+I66.8	occlusion and stenosis of other cerebral artery	cerebrovascular disease					1
+I66.9	occlusion and stenosis of unspecified cerebral artery	cerebrovascular disease					1
+I67	other cerebrovascular diseases	cerebrovascular disease					1
+I67.0	dissection of cerebral arteries, nonruptured	cerebrovascular disease					1
+I67.1	cerebral aneurysm, nonruptured	cerebrovascular disease					1
+I67.2	cerebral atherosclerosis	cerebrovascular disease					1
+I67.3	progressive vascular leukoencephalopathy	cerebrovascular disease					1
+I67.4	hypertensive encephalopathy	cerebrovascular disease					1
+I67.5	moyamoya disease	cerebrovascular disease					1
+I67.6	nonpyogenic thrombosis of intracranial venous system	cerebrovascular disease					1
+I67.8	Other specified cerebrovascular diseases	stroke	ischemic	1		1	1
+I68.0	Cerebral amyloid angiopathy	cerebrovascular disease					1
+I69	sequelae of cerebrovascular disease	cerebrovascular disease					1
+I69.0	sequelae of subarachnoid haemorrhage	stroke	hemorrhagic	1		1	1
+I69.1	sequelae of intracerebral haemorrhage	stroke	hemorrhagic	1		1	1
+I69.2	sequelae of other nontraumatic intracranial haemorrhage	stroke	hemorrhagic	1		1	1
+I69.3	sequelae of cerebral infarction	stroke	ischemic	1		1	1
+I69.4	sequelae of stroke, not specified as haemorrhage or infarction	stroke	other	1		1	1
+I69.8	sequelae of other and unspecified cerebrovascular diseases	cerebrovascular disease					1
+I67.9	Cerebrovascular disease, unspecified	cerebrovascular disease					1
+I68	Cerebrovascular disorders in diseases classified elsewhere	cerebrovascular disease					1
+I68.8	Other cerebrovascular disorders in diseases classified elsewhere	cerebrovascular disease					1
+I72.0	Aneurysm and dissection of carotid artery	cerebrovascular disease					1
+I72.5	Aneurysm and dissection of other precerebral arteries	cerebrovascular disease					1

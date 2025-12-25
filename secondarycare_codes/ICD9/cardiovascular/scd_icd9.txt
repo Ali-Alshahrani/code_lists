@@ -1,0 +1,10 @@
+icd	term	scd	sd
+427.5	Cardiac arrest	1	
+798	Sudden death, cause unknown		1
+798.1	Instantaneous death		1
+798.2	Death within 24 hours from onset of symptoms		1
+798.9	Unattended death		1
+427.4	Ventricular fibrillation and flutter	1	
+798.1	Instantaneous death		1
+798.2	Death within 24 hours from onset of symptoms		1
+798.9	Unattended death		1

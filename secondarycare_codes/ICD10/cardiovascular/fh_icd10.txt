@@ -1,0 +1,4 @@
+icd10	term	class
+Z82.3	Family history of stroke	stroke
+Z82.4	Family history of ischaemic heart disease and other diseases of the circulatory system	cad
+Z83.3	Family history of diabetes mellitus	dm

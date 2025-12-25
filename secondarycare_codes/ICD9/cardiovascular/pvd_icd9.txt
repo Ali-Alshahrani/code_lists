@@ -1,0 +1,99 @@
+icd	term	art_pvd	ven_pvd	cap_pvd	pe	dvt	subtype
+440	Atherosclerosis	1					pad
+440.0	Atherosclerosis of aorta	1					pad
+440.1	Atherosclerosis of renal artery	1					pad
+440.2	Atherosclerosis of arteries of the extremities	1					pad
+440.8	Atherosclerosis of other specified arteries	1					pad
+440.9	Atherosclerosis of Generalized and unspecified	1					pad
+441	Aortic aneurysm and dissection	1					pad
+441.0	Dissecting aneurysm [any part]	1					pad
+441.1	Thoracic aneurysm, ruptured	1					pad
+441.2	Thoracic aneurysm without mention of rupture	1					pad
+441.3	Abdominal aneurysm, ruptured	1					pad
+441.4	Abdominal aneurysm without mention of rupture	1					pad
+441.5	Aortic aneurysm of unspecified site, ruptured	1					pad
+441.6	Aortic aneurysm of unspecified site without mention of rupture	1					pad
+441.7	Syphilitic aneurysm of aorta (093.0t)	1					pad
+442	Other aneurysm of artery of upper extremity	1					pad
+442.1	Other aneurysm of renal artery	1					pad
+442.2	Other aneurysm of renal artery iliac artery	1					pad
+442.3	Other aneurysm of artery of lower extremity	1					pad
+442.8	Other aneurysm of other specified artery	1					pad
+442.9	Other aneurysm of other specified artery; unspecified site	1					pad
+443	Other peripheral vascular disease	1					pad
+443.0	Raynaud's syndrome	1					pad
+443.1	Thromboangiitis obliterans [Buerger's disease]	1					pad
+443.8	Other	1					pad
+443.9	Unspecified	1					pad
+444	Arterial embolism and thrombosis	1					pad
+444.0	Arterial embolism and thrombosis of abdominal aorta (Aortic bifurcation syndrome)	1					pad
+444.1	Arterial embolism and thrombosis of other aorta	1					pad
+444.2	Arterial embolism and thrombosis of arteries of the extremities (Peripheral arterial embolism)	1					pad
+444.8	Arterial embolism and thrombosis of other specified artery	1					pad
+444.9	Arterial embolism and thrombosis of unspecified artery	1					pad
+446	Polyarteritis nodosa and allied conditions	1					pad
+446.1	Acutefebrile mucocutaneous lymphnode syndrome [MCLS]	1					pad
+446.2	Hypersensitivity angiitis	1					pad
+446.3	Lethal midline granuloma	1					pad
+446.4	Wegener's granulomatosis	1					pad
+446.5	Giant cell arteritis	1					pad
+446.6	Thrombotic microangiopathy	1					pad
+446.7	Takayasu disease	1					pad
+447	Other disorders of arteries and arterioles	1					pad
+447.0	Arteriovenous fistula, acquired	1					pad
+447.1	Stricture of artery	1					pad
+447.2	Rupture of artery	1					pad
+447.3	Hyperplasia of renal artery	1					pad
+447.4	Coeliac artery compression syndrome	1					pad
+447.5	Necrosis of artery	1					pad
+447.6	Arteritis, unspecified	1					pad
+447.7	Syphilitic aortitis (093.1 t)	1					pad
+447.8	Other disorders of arteries and arterioles	1					pad
+447.9	Unspecified other disorders of arteries and arterioles	1					pad
+448	Disease of capillaries			1			other
+448.0	Hereditary haemorrhagic telangiectasia			1			other
+448.1	Naevus, non-neoplastic			1			other
+448.9	Other and unspecified disease of capillaries			1			other
+557.1	Chronic vascular insufficiency of intestine	1					pad
+557.9	Unspecified vascular insufficiency of intestine	1					pad
+V43.4	Blood vessels replaced by other means	1					pad
+451	Phlebitis and thrombophlebitis		1				vte
+451.0	Phlebitis and thrombophlebitis of superficial vessels of lower extremities		1				vte
+451.1	Phlebitis and thrombophlebitis of deep vessels of lower extremities		1			1	vte
+451.2	Phlebitis and thrombophlebitis of deep vessels of lower extremities, unspecified		1			1	vte
+451.8	Phlebitis and thrombophlebitis of deep vessels of lower extremities, unspecified other sites		1			1	vte
+451.9	Phlebitis and thrombophlebitis of deep vessels of lower extremities, unspecified site		1			1	vte
+452	Portal vein thrombosis		1				vte
+453	Other venous embolism and thrombosis		1				vte
+453.0	Other venous embolism and thrombosis: Budd-Chiari syndrome		1				vte
+453.1	Thrombophlebitis migrans		1				vte
+453.2	Of vena cava		1				vte
+453.3	Of renal vein		1				vte
+453.8	Of other specified veins		1				vte
+453.9	Of unspecified site		1				vte
+454	Varicose veins of lower extremities		1				vte
+454.0	With ulcer		1				vte
+454.1	With inflammation		1				vte
+454.2	With ulcer and inflammation		1				vte
+454.9	Without mention of ulcer or inflammation		1				vte
+455	Hemorrhoids		1				vte
+455.0	Internal haemorrhoids, without mention of complication		1				vte
+455.1	Internal thrombosed haemorrhoids		1				vte
+455.2	Internal haemorrhoids with other complication		1				vte
+455.3	External haemorrhoids without mention of complication		1				vte
+455.4	External thrombosed haemorrhoids		1				vte
+455.5	External haemorrhoids with other complication		1				vte
+455.6	Unspecified haemorrhoids, without mention of complication		1				vte
+455.7	Unspecified thrombosed haemorrhoids		1				vte
+455.8	Unspecified haemorrhoids with other complication		1				vte
+455.9	Residual haemorrhoidal skin tags		1				vte
+456	Varicose veins of other sites		1				vte
+456.0	Oesophageal varices with bleeding		1				vte
+456.1	Oesophageal varices without mention of bleeding		1				vte
+456.2	Oesophageal varices in cirrhosis of liver (571.-t)		1				vte
+456.3	Sublingual varices		1				vte
+456.4	Scrotal varices		1				vte
+456.5	Pelvic varices		1				vte
+456.6	Vulval varices		1				vte
+456.8	Other		1				vte
+415.1	Pulmonary embolism		1		1		vte

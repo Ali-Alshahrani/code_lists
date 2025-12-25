@@ -1,0 +1,19 @@
+icd	term	cvd_historycode	hist_ami	hist_hf	hist_vhd	hist_cvd_any	other_historycode	class
+Z86.7	Personal history of diseases of the circulatory system	1				1		cvd
+Z94.1	Heart transplant status	1		1		1		hf
+Z94.3	Heart and lungs transplant status	1		1		1		hf
+Z95.0	Presence of electronic cardiac devices	1				1		arrhythmia
+Z95.1	Presence of aortocoronary bypass graft	1	1			1		cad
+Z95.2	Presence of prosthetic heart valve	1			1	1		vhd
+Z95.4	Presence of other heart-valve replacement	1			1	1		vhd
+Z95.3	Presence of xenogenic heart valve	1			1	1		vhd
+Z95.5	Presence of coronary angioplasty implant and graft	1	1			1		cad
+Z95.8	Presence of other cardiac and vascular implants and grafts	1				1		cvd
+Z95.9	Presence of cardiac and vascular implant and graft, unspecified	1				1		cvd
+Z92.1	Personal history of long-term (current) use of anticoagulants	1				1		cvd
+Z92.2	Personal history of long-term (current) use of other medicaments (Aspirin)	1				1		cvd
+Z92.3	Personal history of irradiation						1	h/o: radio
+Z92.4	Personal history of major surgery, not elsewhere classified						1	h/o: surgery
+Z92	Personal history of chemotherapy for neoplastic disease						1	h/o: chemo
+Z92.0	Personal history of contraception						1	h/o: birth_control_meds
+Z91	Personal history of risk-factors, not elsewhere classified						1	h/o: cvrf

@@ -1,0 +1,200 @@
+icd	desc	class_str	subclass_str	ca_of_interest	secondary_ca	history_ca
+C500	Malignant neoplasm of nipple and areola of female breast	breast		1		
+C501	Malignant neoplasm of central part of female breast	breast		1		
+C502	Malignant neoplasm of upper-inner quadrant of female breast	breast		1		
+C503	Malignant neoplasm of lower-inner quadrant of female breast	breast		1		
+C504	Malignant neoplasm of upper-outer quadrant of female breast	breast		1		
+C505	Malignant neoplasm of lower-outer quadrant of female breast	breast		1		
+C506	Malignant neoplasm of axillary tail of female breast	breast		1		
+C508	Malignant neoplasm, overlapping lesion of breast	breast		1		
+C509	Malignant neoplasm of other site of female breast	breast		1		
+D486	Neoplasm of uncertain or unknown behaviour: Breast, Connective tissue of breast, Cystosarcoma phyllodes 	breast		1		
+D045	Carcinoma in situ of skin of breast	breast		1		
+D05	Carcinoma in situ of breast	breast		1		
+D050	Lobular carcinoma in situ of breast	breast		1		
+D051	Intraductal carcinoma in situ of breast	breast		1		
+C50	[X]Malignant neoplasm of breast	breast		1		
+D057	[X]Other carcinoma in situ of breast	breast		1		
+D059	Carcinoma in situ of breast, unspecified	breast		1		
+Z853	[V]Personal history of malignant neoplasm of breast	breast		1		1
+C61	Malignant neoplasm of prostate	prostate		1		
+D075	Carcinoma in situ of prostate	prostate		1		
+D400	Neoplasm of uncertain or unknown behaviour of male genital organs, Prostate	prostate		1		
+Z854	Personal history of malignant neoplasm of ALL genital organs, including C51-C63  	prostate		1		1
+C33	Malignant neoplasm of trachea	lung		1		
+C34	Malignant neoplasm of trachea, bronchus and lung	lung		1		
+C340	Malignant neoplasm of Main bronchus	lung		1		
+C341	Malignant neoplasm of upper lobe, bronchus or lung	lung		1		
+C342	Malignant neoplasm of middle lobe, bronchus or lung	lung		1		
+C343	Malignant neoplasm of lower lobe, bronchus or lung	lung		1		
+C348	Malignant neoplasm of overlapping lesion of bronchus & lung	lung		1		
+C780	Secondary malignant neoplasm of lung	lung		1	1	
+D022	Carcinoma in situ of bronchus and lung	lung		1		
+D021	Carcinoma in situ of trachea	lung		1		
+D023	Other parts of respiratory system	lung		1		
+D024	Respiratory system, unspecified	lung		1		
+C349	[X]Malignant neoplasm of bronchus or lung, unspecified	lung		1		
+C45 9	[X]Mesothelioma of lung	lung		1		
+C384	Pleura	lung		1		
+D381	Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs, Trachea, bronchus and lung	lung		1		
+D382	Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs, Pleura	lung		1		
+Z851	[V]Personal history of malig neop of trachea/bronchus/lung	lung		1		1
+C18	Malignant neoplasm of colon	colorectal		1		
+C180	Caecum, Ileocaecal valve 	colorectal		1		
+C183	Malignant neoplasm of hepatic flexure of colon	colorectal		1		
+C184	Malignant neoplasm of transverse colon	colorectal		1		
+C186	Malignant neoplasm of descending colon	colorectal		1		
+C187	Malignant neoplasm of sigmoid colon	colorectal		1		
+C182	Malignant neoplasm of ascending colon	colorectal		1		
+C185	Malignant neoplasm of splenic flexure of colon	colorectal		1		
+C188	Malignant neoplasm, overlapping lesion of colon	colorectal		1		
+C189	Colon, unspecified, large intestine NOS 	colorectal		1		
+C19	Malignant neoplasm of rectosigmoid junction, Colon with rectum	colorectal		1		
+D010	Carcinoma in situ of colon	colorectal		1		
+D011	Carcinoma in situ of sigmoid colon	colorectal		1		
+D013	Carcinoma in situ of anus and anal canal	colorectal		1		
+C20	Malignant neoplasm of rectum	colorectal		1		
+D012	Carcinoma of rectum	colorectal		1		
+C785	Secondary malignant neoplasm of large intestine and rectum	colorectal		1	1	
+D374	Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs, Colon	colorectal		1		
+D375	Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs, Rectum	colorectal		1		
+Z850	Personal history of malignant neoplasm of digestive organs, including all digest. Organs (C15-C26)	colorectal		1		1
+C837	Burkitt's lymphoma	haematological	lymphoma	1		
+C81	Hodgkin lymphoma	haematological	lymphoma	1		
+C810	Nodular lymphocyte predominant Hodgkin lymphoma	haematological	lymphoma	1		
+C811	Nodular sclerosis classical Hodgkin lymphoma	haematological	lymphoma	1		
+C812	Mixed cellularity classical Hodgkin lymphoma	haematological	lymphoma	1		
+C813	Lymphocyte depleted (classical) Hodgkin lymphoma	haematological	lymphoma	1		
+C814	Lymphocyte-rich classical Hodgkin lymphoma	haematological	lymphoma	1		
+C817	Other classical Hodgkin lymphoma	haematological	lymphoma	1		
+C819	Hodgkin lymphoma NOS	haematological	lymphoma	1		
+C829	Follicular lymphoma NOS	haematological	lymphoma	1		
+C833	Diffuse large B-cell lymphoma	haematological	lymphoma	1		
+C857	Other specified types of non-Hodgkin lymphoma	haematological	lymphoma	1		
+C82	Follicular lymphoma	haematological	lymphoma	1		
+C820	Follicular lymphoma grade 1	haematological	lymphoma	1		
+C821	Follicular lymphoma grade 2	haematological	lymphoma	1		
+C822	Follicular lymphoma grade 3	haematological	lymphoma	1		
+C823	Follicular lymphoma grade 3a	haematological	lymphoma	1		
+C824	Follicular lymphoma grade 3b	haematological	lymphoma	1		
+C825	Diffuse follicle centre lymphoma	haematological	lymphoma	1		
+C826	Cutaneous follicle centre lymphoma	haematological	lymphoma	1		
+C827	Other types of follicular lymphoma	haematological	lymphoma	1		
+C84	T/NK-cell lymphoma	haematological	lymphoma	1		
+C840	Mycosis fungoides	haematological	lymphoma	1		
+C841	Sézary disease	haematological	lymphoma	1		
+C842	T-ZONE LYMPHOMA	haematological	lymphoma	1		
+C843	LYMPHOEPITHELIOID LYMPHOMA	haematological	lymphoma	1		
+C846	Anaplastic large cell lymphoma, ALK-positive	haematological	lymphoma	1		
+C847	Anaplastic large cell lymphoma, ALK-negative	haematological	lymphoma	1		
+C849	Mature T/NK-cell lymphoma, unspecified	haematological	lymphoma	1		
+C845	Other mature T/NK-cell lymphoma	haematological	lymphoma	1		
+C83	Non-follicular lymphoma	haematological	lymphoma	1		
+C830	Small cell B-cell lymphoma	haematological	lymphoma	1		
+C831	Mantle cell lymphoma	haematological	lymphoma	1		
+C832	MIXED SMALL AND LARGE CELL (DIFFUSE)	haematological	lymphoma	1		
+C834	IMMUNOBLASTIC (DIFFUSE)	haematological	lymphoma	1		
+C835	Lymphoblastic (diffuse) lymphoma	haematological	lymphoma	1		
+C838	Other non-follicular lymphoma	haematological	lymphoma	1		
+C839	Non-follicular (diffuse) lymphoma, unspecified	haematological	lymphoma	1		
+C844	[M] Peripheral T-cell lymphoma NOS	haematological	lymphoma	1		
+C848	[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas	haematological	lymphoma	1		
+C85	[X]Non-Hodgkin's lymphoma NOS	haematological	lymphoma	1		
+C850	LYMPHOSARCOMA	haematological	lymphoma	1		
+C851	B-cell lymphoma, unspecified (non-Hodgkin's lymphoma)	haematological	lymphoma	1		
+C852	Mediastinal (thymic) large B-cell lymphoma	haematological	lymphoma	1		
+C857 	Other specified types of non-Hodgkin lymphoma	haematological	lymphoma	1		
+C859	Non-Hodgkin lymphoma, unspecified	haematological	lymphoma	1		
+C86	Other specified types of T/NK-cell lymphoma	haematological	lymphoma	1		
+C860	Extranodal NK/T-cell lymphoma, nasal type	haematological	lymphoma	1		
+C861	Hepatosplenic T-cell lymphoma	haematological	lymphoma	1		
+C862	Enteropathy-type (intestinal) T-cell lymphoma	haematological	lymphoma	1		
+C863	Subcutaneous panniculitis-like T-cell lymphoma	haematological	lymphoma	1		
+C864	Blastic NK-cell lymphoma	haematological	lymphoma	1		
+C865	Angioimmunoblastic T-cell lymphoma	haematological	lymphoma	1		
+C866	Primary cutaneous CD30-positive T-cell proliferations	haematological	lymphoma	1		
+C88	Malignant immunoproliferative diseases	haematological	lymphoma	1		
+C880	Waldenström macroglobulinemia	haematological	lymphoma	1		
+C882	Other heavy chain disease	haematological	lymphoma	1		
+C883	Immunoproliferative small intestinal disease	haematological	lymphoma	1		
+C884	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (MALT-lymphoma)	haematological	lymphoma	1		
+C887	Other malignant immunoproliferative diseases	haematological	lymphoma	1		
+C889	Malignant immunoproliferative disease, unspecified	haematological	lymphoma	1		
+C96	Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue	haematological	lymphoma	1		
+C960	Multifocal and disseminated Langerhans-cell histiocytosis (LCH)	haematological	lymphoma	1		
+C961	Letterer-Siwe disease (aggressive LCH)	haematological	lymphoma	1		
+C962	Malignant mast cell tumour	haematological	lymphoma	1		
+C963	TRUE HISTIOCYTIC LYMPHOMA	haematological	lymphoma	1		
+C964	Sarcoma of dendritic cells (accessory cells)	haematological	lymphoma	1		
+C965	Multifocal and unisystemic Langerhans-cell histiocytosis	haematological	lymphoma	1		
+C966	Unifocal Langerhans-cell histiocytosis	haematological	lymphoma	1		
+C967	Other specified malignant neoplasms of lymphoid, hematopoietic, and related tissue	haematological	lymphoma	1		
+C968	Histiocytic sarcoma	haematological	lymphoma	1		
+C969	Malignant neoplasm of lymphoid, hematopoietic, and related tissue, unspecified	haematological	lymphoma	1		
+Z857	Personal history of other malignant neoplasms of lymphoid, haematopoietic and related tissues	haematological	lymphoma	1		1
+C900	Multiple myeloma: incl. Kahler disease, Medullary plasmacytoma, Myelomatosis, Plasma cell myeloma 	haematological	multiple myeloma	1		
+C902	Extramedullary plasmacytoma	haematological	multiple myeloma	1		
+C903	Solitary myeloma	haematological	multiple myeloma	1		
+C914	Hairy cell leukaemia, including Leukaemic reticuloendotheliosis 	haematological	leukaemia	1		
+C901	Plasma cell leukaemia	haematological	leukaemia	1		
+C91	Lymphoid leukaemia	haematological	leukaemia	1		
+C910	Acute lymphoid leukaemia	haematological	leukaemia	1		
+C911	Chronic lymphocytic leukaemia of B-cell type	haematological	leukaemia	1		
+C913	B-cell prolymphocytic leukaemia	haematological	leukaemia	1		
+C916	T-cell prolymphocytic leukaemia	haematological	leukaemia	1		
+C915	Adult T-cell lymphoma/leukaemia (HTLV-1-associated)	haematological	leukaemia	1		
+C919	Lymphoid leukaemia NOS	haematological	leukaemia	1		
+C92	Myeloid leukaemia	haematological	leukaemia	1		
+C920	Acute myeloid leukaemia	haematological	leukaemia	1		
+D475	Chronic eosinophilic leukaemia	haematological	leukaemia	1		
+C921	Chronic myeloid leukaemia, BCR/ABL positive	haematological	leukaemia	1		
+C922	Atypical chronic myeloid leukaemia, BCR/ABL negative	haematological	leukaemia	1		
+C923	Myeloid sarcoma	haematological	leukaemia	1		
+C925	Acute myeloblastic leukaemia	haematological	leukaemia	1		
+C924	Acute promyelocytic leukaemia	haematological	leukaemia	1		
+C926	Acute myeloid leukaemia with 11q23-abnormality, variation of MLL-gene	haematological	leukaemia	1		
+C928	Acute myeloid leukaemia with multilineage dysplasia	haematological	leukaemia	1		
+C929	Myeloid leukaemia NOS	haematological	leukaemia	1		
+C93	Monocytic leukaemia	haematological	leukaemia	1		
+C930	Acute monoblastic/monocytic leukaemia	haematological	leukaemia	1		
+C931	Chronic monocytic leukaemia	haematological	leukaemia	1		
+C939	Monocytic leukaemia NOS	haematological	leukaemia	1		
+C94	Other specified leukaemia	haematological	leukaemia	1		
+C943	Mast cell leukaemia	haematological	leukaemia	1		
+C944	Acute panmyelosis with myelofibrosis	haematological	leukaemia	1		
+C945	Acute myelofibrosis	haematological	leukaemia	1		
+C946	Myelodysplastic and myeloproliferative disease, not elsewhere classified	haematological	leukaemia	1		
+C940	Acute erythroid leukaemia	haematological	leukaemia	1		
+C95	Leukaemia of unspecified cell type	haematological	leukaemia	1		
+C950	Acute leukaemia NOS	haematological	leukaemia	1		
+C951	Chronic leukaemia NOS	haematological	leukaemia	1		
+C933	Juvenile myelomonocytic leukaemia	haematological	leukaemia	1		
+C918	[M]Burkitt's cell leukaemia	haematological	leukaemia	1		
+C942	[M]Acute megakaryoblastic leukaemia	haematological	leukaemia	1		
+C917	[X]Other lymphoid leukaemia	haematological	leukaemia	1		
+C927	[X]Other myeloid leukaemia	haematological	leukaemia	1		
+C937	[X]Other monocytic leukaemia	haematological	leukaemia	1		
+C947	[X]Other specified leukaemias	haematological	leukaemia	1		
+C957	[X]Other leukaemia of unspecified cell type	haematological	leukaemia	1		
+C959	LEUKAEMIA, UNSPECIFIED	haematological	leukaemia	1		
+Z856	[V]Personal history of leukaemia	haematological	leukaemia	1		1
+D46	Myelodysplastic syndromes	haematological		1		
+D460	Refractory anemia without ring sideroblasts	haematological		1		
+D461	Refractory anemia with ring sideroblasts	haematological		1		
+D462	Refractory anemia with excess blasts	haematological		1		
+D463	REFRACTORY ANAEMIA WITH EXCESS OF BLASTS WITH TRANSFORMATION	haematological		1		
+D464	Refractory anaemia, unspecified	haematological		1		
+D465	Refractory anaemia with multi-lineage dysplasia	haematological		1		
+D466	Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality	haematological		1		
+D467	Other myelodysplastic syndromes	haematological		1		
+D469	Myelodysplastic syndrome, unspecified	haematological		1		
+D45	Polycythemia vera (excess red blood cells)	haematological		1		
+D47	Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue	haematological		1		
+D470	Histiocytic and mast cell tumours of uncertain and unknown behaviour	haematological		1		
+D471	Chronic myeloproliferative disease	haematological		1		
+D472	Monoclonal gammopathy of undetermined significance (MGUS)	haematological		1		
+D473	Essential thrombocythemia (excess platelets)	haematological		1		
+D474	Osteomyelofibrosis (abnormal mast cell growth, related to leukemia)	haematological		1		
+D477	Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue	haematological		1		
+D479	Neoplasm of uncertain behavior of lymphoid, hematopoietic, and related tissue	haematological		1		
+D761	Hemophagocytic lymphohistiocytosis (HLH)	haematological		1		

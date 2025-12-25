@@ -1,0 +1,39 @@
+icd10	term
+f20	schizophrenia 
+f20.0	paranoid schizophrenia
+f20.1	hebephrenic schizophrenia
+f20.2	catatonic schizophrenia
+f20.3	undifferentiated schizophrenia
+f20.4	post-schizophrenic depression
+f20.5	residual schizophrenia
+f20.6	simple schizophrenia
+f20.8	other schizophrenia
+f20.9	schizophrenia, unspecified
+f21	schizotypal disorder 
+f22	persistent delusional disorders 
+f22.0	delusional disorder
+f22.8	other persistent delusional disorders
+f22.9	persistent delusional disorder, unspecified
+f25	schizoaffective disorders
+f25.0	schizoaffective disorder, manic type
+f25.1	schizoaffective disorder, depressive type
+f25.2	schizoaffective disorder, mixed type
+f25.8	other schizoaffective disorders
+f25.9	schizoaffective disorder, unspecified
+f30	manic episode
+f30.0	hypomania
+f30.1	mania without psychotic symptoms
+f30.2	mania with psychotic symptoms
+f30.8	other manic episodes
+f30.9	manic episode, unspecified
+f31	bipolar affective disorder
+f31.0	bipolar affective disorder, current episode hypomanic
+f31.1	bipolar affective disorder, current episode manic without psychotic symptoms
+f31.2	bipolar affective disorder, current episode manic with psychotic symptoms
+f31.3	bipolar affective disorder, current episode mild or moderate depression
+f31.4	bipolar affective disorder, current episode severe depression without psychotic symptoms
+f31.5	bipolar affective disorder, current episode severe depression with psychotic symptoms
+f31.6	bipolar affective disorder, current episode mixed
+f31.7	bipolar affective disorder, currently in remission
+f31.8	other bipolar affective disorders
+f31.9	bipolar affective disorder, unspecified

@@ -1,0 +1,8 @@
+icd	term
+402	Hypertensive heart disease
+403	Hypertensive renal disease
+404	Hypertensive heart and renal disease
+428	Heart failure
+428.0	Congestive heart failure
+428.1	Left heart failure
+428.9 	Unspecified heart fialure

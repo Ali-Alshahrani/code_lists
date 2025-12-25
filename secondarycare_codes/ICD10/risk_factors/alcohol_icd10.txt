@@ -1,0 +1,43 @@
+icd	term	alch_status	depen_level
+E24.4	Alcohol-induced pseudo-Cushing's syndrome	Current drinker	high
+F10	Mental and behavioural disorders due to use of alcohol	Current drinker	high
+F10.0	Mental & behav dis due to use of alcohol: acute intoxication	Current drinker	high
+F10.1	Mental and behav dis due to use of alcohol: harmful use	Current drinker	high
+F10.2	Mental and behav dis due to use of alcohol: dependence synd	Current drinker	high
+F10.3	Mental and behav dis due to use of alcohol: withdrawal state	Current drinker	high
+F10.4	Men & behav dis due alcohol: withdrawl state with delirium	Current drinker	high
+F10.5	Mental & behav dis due to use of alcohol: psychotic disorder	Current drinker	high
+F10.6	Mental and behav dis due to use of alcohol: amnesic syndrome	Current drinker	high
+F10.7	Men & behav dis due use alc: resid & late-onset psychot dis	Current drinker	high
+F10.8	Men & behav dis due to use of alcohol: oth men & behav dis	Current drinker	high
+F10.9	Ment & behav dis due use alcohol: unsp ment & behav dis	Current drinker	high
+G31.2	Degeneration of nervous system due to alcohol	Current drinker	high
+G62.1	Alcoholic polyneuropathy	Current drinker	high
+G72.1	Alcoholic myopathy	Current drinker	high
+I42.6	Alcoholic cardiomyopathy	Current drinker	high
+K29.2	Alcoholic gastritis	Current drinker	high
+K70	Alcoholic liver disease	Current drinker	high
+K70.0	Alcoholic fatty liver	Current drinker	high
+K70.1	Alcoholic hepatitis	Current drinker	high
+K70.2	Alcoholic fibrosis and sclerosis of liver	Current drinker	high
+K70.3	Alcoholic cirrhosis of liver	Current drinker	high
+K70.4	Alcoholic hepatic failure	Current drinker	high
+K70.9	Alcoholic liver disease, unspecified	Current drinker	high
+K86.0	Alcohol-induced chronic pancreatitis	Current drinker	high
+T51.0	Toxic effect of ethanol	Current drinker	high
+Y90.1	Blood alcohol level of 20-39 mg/100 ml	Current drinker	low
+Y90.2	Blood alcohol level of 40-59 mg/100 ml	Current drinker	moderate
+Y90.3	Blood alcohol level of 60-79 mg/100 ml	Current drinker	moderate
+Y90.4	Blood alcohol level of 80-99 mg/100 ml	Current drinker	moderate
+Y90.5	Blood alcohol level of 100-119 mg/100 ml	Current drinker	high
+Y90.6	Blood alcohol level of 120-199 mg/100 ml	Current drinker	high
+Y90.7	Blood alcohol level of 200-239 mg/100 ml	Current drinker	high
+Y90.8	Blood alcohol level of 240 mg/100 ml or more	Current drinker	high
+Y91.0	Mild alcohol intoxication	Current drinker	low
+Y91.1	Moderate alcohol intoxication	Current drinker	moderate
+Y91.2	Severe alcohol intoxication	Current drinker	high
+Y91.3	Very severe alcohol intoxication	Current drinker	high
+Z50.2	Alcohol rehabilitation	Current drinker	high
+Z71.4	Alcohol abuse counselling and surveillance	Current drinker	high
+Z72.1	Alcohol use	Current drinker	high
+R78.0	Finding of alcohol in blood	Current drinker	unknown

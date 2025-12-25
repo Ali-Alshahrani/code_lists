@@ -1,0 +1,28 @@
+icd	term
+403	Hypertensive renal disease
+404	Hypertensive heart and renal disease
+581	Nephrotic syndrome
+581.0	With lesion of proliferative glomerulonephritis
+581.1	With lesion of membranous glomerulonephritis
+581.2	With lesion of membra no proliferative glomerulonephritis
+581.3	With lesion of minimal change glomerulonephritis
+581.8	With other specified pathological lesion in kidney
+581.9	Unspecified
+582	Chronic glomerulonephritis
+582.0	With lesion of proliferative glomerulonephritis
+582.1	With lesion of membranous glomerulonephritis
+582.2	With lesion of membranoproliferative glomerulonephritis
+582.4	With lesion of rapidly progressive glomerulonephritis
+582.8	With other specified pathological lesion in kidney
+582.9	Unspecified
+585	Chronic renal failure
+586	Renal failure, unspecified
+588	Disorders resulting from impaired renal function
+588.0	Renal osteodystrophy
+588.1	Nephrogenic diabetes insipidus
+588.8	Other
+588.9	Unspecified
+V45.1	Renal dialysis status
+V56.0	Encounter for dialysis – Extracorporeal dialysis
+V56.8	Other dialysis and dialysis care
+996.4	Complications of transplanted kidney

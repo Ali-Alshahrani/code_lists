@@ -1,0 +1,18 @@
+icd	term	cmp_type
+I25.5	Ischaemic cardiomyopathy	ischemic
+I42	Cardiomyopathy	other
+I42.0	Dilated cardiomyopathy	dcm
+I42.1	Obstructive hypertrophic cardiomyopathy	hcm
+I42.2	Other hypertrophic cardiomyopathy	hcm
+I42.3	Endomyocardial (eosinophilic) disease	other
+I42.4	Endocardial fibroelastosis	other
+I42.5	Other restrictive cardiomyopathy	rcm
+I42.6	Alcoholic cardiomyopathy	dcm
+I42.7	Cardiomyopathy due to drugs and other external agents	other
+I42.8	Other cardiomyopathies	other
+I42.9	Cardiomyopathy, unspecified	other
+I43	Cardiomyopathy in diseases classified elsewhere	other
+I43.0	Cardiomyopathy in infectious and parasitic diseases classified elsewhere	other
+I43.1	Cardiomyopathy in metabolic diseases	other
+I43.2	Cardiomyopathy in nutritional diseases	other
+I43.8	Cardiomyopathy in other diseases classified elsewhere	other

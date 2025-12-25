@@ -1,0 +1,26 @@
+icd	term
+B20	Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases
+B20.0	HIV disease resulting in mycobacterial infection
+B20.1	HIV disease resulting in other bacterial infections
+B20.2	HIV disease resulting in cytomegaloviral disease
+B20.3	HIV disease resulting in other viral infections
+B20.4	HIV disease resulting in candidiasis
+B20.5	HIV disease resulting in other mycoses
+B20.6	HIV disease resulting in Pneumocystis jirovecii pneumonia
+B20.7	HIV disease resulting in multiple infections
+B20.8	HIV disease resulting in other infectious and parasitic diseases
+B20.9	HIV disease resulting in unspecified infectious or parasitic disease
+B21	Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms
+B21.0	HIV disease resulting in Kaposi sarcoma
+B21.1	HIV disease resulting in Burkitt lymphoma
+B21.2	HIV disease resulting in other types of non-Hodgkin lymphoma
+B21.3	HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue
+B21.7	HIV disease resulting in multiple malignant neoplasms
+B21.8	HIV disease resulting in other malignant neoplasms
+B21.9	HIV disease resulting in unspecified malignant neoplasm
+B22	Human immunodeficiency virus [HIV] disease resulting in other specified diseases
+B22.0	HIV disease resulting in encephalopathy
+B22.1	HIV disease resulting in lymphoid interstitial pneumonitis
+B22.2	HIV disease resulting in wasting syndrome
+B22.7	HIV disease resulting in multiple diseases classified elsewhere
+B24	Unspecified human immunodeficiency virus [HIV] disease

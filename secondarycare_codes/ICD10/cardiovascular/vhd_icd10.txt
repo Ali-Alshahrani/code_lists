@@ -1,0 +1,57 @@
+icd	term	vhd	mv	av	tv	pv	other	multiple	coding_sys
+I05	Rheumatic mitral valve diseases	1	1						icd10
+I05.0	Mitral stenosis	1	1						icd10
+I05.1	Rheumatic mitral insufficiency	1	1						icd10
+I05.2	Mitral stenosis with insufficiency	1	1						icd10
+I05.8	Other mitral valve diseases	1	1						icd10
+I05.9	Mitral valve disease, unspecified	1	1						icd10
+I06	Rheumatic aortic valve diseases	1		1					icd10
+I06.0	Rheumatic aortic stenosis	1		1					icd10
+I06.1	Rheumatic aortic insufficiency	1		1					icd10
+I06.2	Rheumatic aortic stenosis with insufficiency	1		1					icd10
+I06.8	Other rheumatic aortic valve diseases	1		1					icd10
+I06.9	Rheumatic aortic valve disease, unspecified	1		1					icd10
+I07	Rheumatic tricuspid valve diseases	1			1				icd10
+I07.0	Tricuspid stenosis	1			1				icd10
+I07.1	Tricuspid insufficiency	1			1				icd10
+I07.2	Tricuspid stenosis with insufficiency	1			1				icd10
+I07.8	Other tricuspid valve diseases	1			1				icd10
+I07.9	Tricuspid valve disease, unspecified	1			1				icd10
+I08	Multiple valve diseases	1						1	icd10
+I08.0	Disorders of both mitral and aortic valves	1						1	icd10
+I08.1	Disorders of both mitral and tricuspid valves	1						1	icd10
+I08.2	Disorders of both aortic and tricuspid valves	1						1	icd10
+I08.3	Combined disorders of mitral, aortic and tricuspid valves	1						1	icd10
+I08.8	Other multiple valve diseases	1						1	icd10
+I08.9	Multiple valve disease, unspecified	1						1	icd10
+I09	Other rheumatic heart diseases	1							icd10
+I09.8	Other specified rheumatic heart diseases	1							icd10
+I09.9	Rheumatic heart disease, unspecified	1							icd10
+I34	Nonrheumatic mitral valve disorders	1	1						icd10
+I34.0	Mitral (valve) insufficiency	1	1						icd10
+I34.1	Mitral (valve) prolapse	1	1						icd10
+I34.2	Nonrheumatic mitral (valve) stenosis	1	1						icd10
+I34.8	Other nonrheumatic mitral valve disorders	1	1						icd10
+I34.9	Nonrheumatic mitral valve disorder, unspecified	1	1						icd10
+I35	Nonrheumatic aortic valve disorders	1		1					icd10
+I35.0	Aortic (valve) stenosis	1		1					icd10
+I35.1	Aortic (valve) insufficiency	1		1					icd10
+I35.2	Aortic (valve) stenosis with insufficiency	1		1					icd10
+I35.8	Other aortic valve disorders	1		1					icd10
+I35.9	Aortic valve disorder, unspecified	1		1					icd10
+I36	Nonrheumatic tricuspid valve disorders	1			1				icd10
+I36.0	Nonrheumatic tricuspid (valve) stenosis	1			1				icd10
+I36.1	Nonrheumatic tricuspid (valve) insufficiency	1			1				icd10
+I36.2	Nonrheumatic tricuspid (valve) stenosis with insufficiency	1			1				icd10
+I36.8	Other nonrheumatic tricuspid valve disorders	1			1				icd10
+I36.9	Nonrheumatic tricuspid valve disorder, unspecified	1			1				icd10
+I37	Pulmonary valve disorders	1				1			icd10
+I37.0	Pulmonary valve stenosis	1				1			icd10
+I37.1	Pulmonary valve insufficiency	1				1			icd10
+I37.2	Pulmonary valve stenosis with insufficiency	1				1			icd10
+I37.8	Other pulmonary valve disorders	1				1			icd10
+I37.9	Pulmonary valve disorder, unspecified	1				1			icd10
+I39.0	Mitral valve disorders in diseases classified elsewhere	1	1						icd10
+I39.1	Aortic valve disorders in diseases classified elsewhere	1		1					icd10
+I39.2	Tricuspid valve disorders in diseases classified elsewhere	1			1				icd10
+I39.3	Pulmonary valve disorders in diseases classified elsewhere	1				1			icd10

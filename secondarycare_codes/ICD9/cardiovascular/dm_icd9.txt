@@ -1,0 +1,9 @@
+icd	term	eod_cat
+250	Diabetes mellitus	0
+250.0	Diabetes mellitus without mention of complication	0
+250.1	Diabetes with ketoacidosis	1
+250.2	Diabetes with coma	0
+250.3	Diabetes with renal manifestations	1
+250.4	Diabetes with ophthalmic manifestations	1
+250.5	Diabetes with neurological manifestations	1
+250.6	Diabetes with peripheral circulatory disorders	1
