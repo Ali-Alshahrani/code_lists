@@ -69,9 +69,9 @@ Many of the code lists in this repository build on and extend existing lists dev
 
 Some code lists were updated from previous projects led by researchers within our group or adapted from published external sources:
 
-- **Atrial fibrillation** and **stroke** code lists were updated from earlier projects by colleagues (Alyaa Ajabnoor and others) in the same research unit
-- **Dementia** and **severe mental illness** code lists were initially developed by Catherine Morgan, and updated for this study
-- **Alcohol misuse** and **smoking** code lists were adapted from:
+- **Atrial fibrillation** and **stroke** code lists were updated from earlier projects by UoM colleagues (Alyaa Ajabnoor and others) in the same research unit
+- **Dementia** and **severe mental illness** code lists were initially developed by Catherine Morgan and other UoM colleagues, and we  updated the code lists for this study
+- **Alcohol misuse** and **smoking** code lists were adapted from external repository:
 > Buzasi, E.; Carreira, H.; Funston, G.; Mansfield, K.E.; Forbes, H.; Strongman, H.; Bhaskaran, K. (2023).  
 > *Codelists for: "Risk of fractures in half a million survivors of 20 cancers: a population-based matched cohort study using linked UK electronic health records"*.  
 > London School of Hygiene & Tropical Medicine. https://doi.org/10.17037/DATA.00003415
