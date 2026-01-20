@@ -106,7 +106,7 @@ If you use these code lists in your research, please cite:
 
 **Ali Alshahrani**  
 PhD Researcher,
-Faculty of Biology, Medicine and Health, School of Health Sciences, The University of Manchester, Manchester, United Kingdom.
+Division of Informatics, Imaging & Data Sciences, Faculty of Biology, Medicine and Health, School of Health Sciences, The University of Manchester, Manchester, United Kingdom.
 [ali.alshahrani@manchester.ac.uk](mailto:ali.alshahrani@manchester.ac.uk)
 
 Teaching Faculty and Cardiovascular physiologist/ technologist, 
@@ -119,5 +119,6 @@ King Abdulaziz Cardiac Center, King Abdulaziz Cardiac Center, King Abdulaziz Med
 ## Related Resources
 
 - CPRD documentation: https://www.cprd.com/primary-care 
-- HES APC documentation : https://www.cprd.com/sites/default/files/2024-11/HES_APC_Documentation_v2.9.pdf 
+- HES APC documentation : https://www.cprd.com/sites/default/files/2024-11/HES_APC_Documentation_v2.9.pdf
+- NCRAS documentation : 
 
