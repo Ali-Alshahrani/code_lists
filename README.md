@@ -120,5 +120,4 @@ King Abdulaziz Cardiac Center, King Abdulaziz Cardiac Center, King Abdulaziz Med
 
 - CPRD documentation: https://www.cprd.com/primary-care 
 - HES APC documentation : https://www.cprd.com/sites/default/files/2024-11/HES_APC_Documentation_v2.9.pdf
-- NCRAS documentation : 
 
