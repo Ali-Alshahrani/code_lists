@@ -13,7 +13,7 @@ The repository is organised into three main sections:
 - Includes:
   - `af_codes.txt`: Atrial fibrillation
   - `hf_codes.txt`: Heart failure
-  - `diabetes_codes.txt`: Diabetes mellitus
+  - `dm_codes.txt`: Diabetes mellitus
   - ...etc.
 
 ### [`secondarycare_codes/`](./secondarycare_codes)
@@ -40,11 +40,11 @@ Each `.txt` file is **tab-delimited** and may contain the following columns depe
 
 | Column               | Description                                      |
 |----------------------|--------------------------------------------------|
-| `medcodeid`          | CPRD MedCode ID                                 |
+| `medcodeid`          | CPRD MedCode ID                                  |
 | `originalreadcode`   | Original Read code                               |
 | `cleansedreadcode`   | Harmonised Read code                             |
-| `snomedctconceptid`  | SNOMED CT concept ID (if mapped)                |
-| `description`        | Clinical term description                        |
+| `snomedctconceptid`  | SNOMED CT concept ID (if mapped)                 |
+| `desc` or "term"     | Clinical term description                        |
 
 ### For hospital (ICD / OPCS):
 
@@ -52,15 +52,16 @@ Each `.txt` file is **tab-delimited** and may contain the following columns depe
 |----------------|--------------------------------|
 | `icd10code`    | ICD-10 diagnosis code          |
 | `opcs4code`    | OPCS-4 procedure code          |
-| `description`  | Clinical term description      |
+| `desc\term`    | Clinical term description      |
 
 ---
 
 ## Curation and Methods
 
 Most code lists in this repository were developed from scratch as part of the current CPRD-based research study. Code list development involved:
+Many of the code lists in this repository build on and extend existing lists developed by current or previous members of the Cardiovascular Data Science Unit at the University of Manchester. All code lists were reviewed by the clinical team, including Prof Mamas Mamas and myself. Some additional code lists were developed from scratch specifically for this CPRD‑based research study. Code list development involved:
 
-- Structured keyword searches in CPRD's medical dictionary browser and code list tools
+- Structured keyword searches in CPRD's medical dictionary browser (2024 relase) and code list tools (SNOMEDCT browser by NHS)
 - Iterative clinical review and refinement
 - Mapping to SNOMED CT (for Aurum) and ICD-10 codes where applicable
 
@@ -104,8 +105,14 @@ If you use these code lists in your research, please cite:
 ## Contact
 
 **Ali Alshahrani**  
-PhD Researcher, The University of Manchester  
+PhD Researcher,
+Faculty of Biology, Medicine and Health, School of Health Sciences, The University of Manchester, Manchester, United Kingdom.
 [ali.alshahrani@manchester.ac.uk](mailto:ali.alshahrani@manchester.ac.uk)
+
+Teaching Faculty and Cardiovascular physiologist/ technologist, 
+Department of Invasive Cardiovascular Technology, College of Applied Medical Sciences, King Saud bin Abdulaziz University for Health Sciences, Riyadh, Kingdom of Saudi Arabia.
+King Abdulaziz Cardiac Center, King Abdulaziz Cardiac Center, King Abdulaziz Medical City, Ministry of National Guard–Health Affairs, Riyadh, Kingdom of Saudi Arabia.
+[alshahrani5680@gmail.com](mailto:alshahrani5680@gmail.com)
 
 ---
 
